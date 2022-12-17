@@ -21,6 +21,8 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 Mos of my writing is an [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/).
 
+---
+
 P.S. Why is this website so sparse?
 
 I spent several years procrastinating on creating a personal website. Trying to create a good personal website using good tools with good content.
