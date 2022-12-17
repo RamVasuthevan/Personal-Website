@@ -1,10 +1,10 @@
 - name: Linkedin Logo
-  image: \Image\Logos\Linkedin.png
+  image: /Image/Logos/Linkedin.png
   link: https://linkedin.com/in/ramvasuthevan/
   license_text: 
   license_link: 
 - name: Twitter Logo
-  image: \Image\Logos\Twitter.png
+  image: Image/Logos/Twitter.png
   link: https://about.twitter.com/en/who-we-are/brand-toolkit
   license_text: 
   license_link: 
@@ -14,7 +14,7 @@
   license_text: MIT License
   license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
 - name: 	Microsoft Fluentui E-Mail Emoji
-  image: \Image\Logos\microsoft_fluentui_emoji_e-mail_flat.svg
+  image: Image\Logos\microsoft_fluentui_emoji_e-mail_flat.svg
   link: https://github.com/microsoft/fluentui-emoji
   license_text: MIT License
   license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
