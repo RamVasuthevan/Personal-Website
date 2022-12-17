@@ -1,15 +1,15 @@
 - name: Linkedin Logo
-  image: /image/Linkedin.png
+  image: /image/logos/Linkedin.png
   link: https://linkedin.com/in/ramvasuthevan/
   license_text: 
   license_link: 
 - name: Twitter Logo
-  image: /image/logosTwitter.png
+  image: /image/logos/Twitter.png
   link: https://about.twitter.com/en/who-we-are/brand-toolkit
   license_text: 
   license_link: 
 - name: Microsoft Fluentui Ledger Emoji
-  image: /image/logosmicrosoft_fluentui_emoji_ledger_flat.svg
+  image: /image/logos/microsoft_fluentui_emoji_ledger_flat.svg
   link: https://github.com/microsoft/fluentui-emoji
   license_text: MIT License
   license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
