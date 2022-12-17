@@ -1,0 +1,12 @@
+- name: Linkedin 
+  link: https://linkedin.com/in/ramvasuthevan/
+  image: /assets/logos/Linkedin.png
+- name: Twitter
+  link: https://twitter.com/RamVasuthevan
+  image: /assets/logos/Twitter.png
+- name: Blog
+  link: http://bitsbipsbricks.com/" class="center
+  image: /assets/logos/microsoft_fluentui_emoji_ledger_flat.svg
+- name: Email
+  link: MyFirstName@MyLastName.ca
+  image: /assets/logos/microsoft_fluentui_emoji_e-mail_flat.svg
