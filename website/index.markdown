@@ -19,7 +19,7 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 <br>
 
-Mos of my writing is an [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/).
+Most of my writing is an [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/).
 
 ---
 
