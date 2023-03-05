@@ -9,7 +9,3 @@ No automating. Manually editing files. Deploying the website using Cloudflare Pa
 
 ### TODO:
  - [ ] Generate Footnotes
- - [ ] Create Index.html
- - [ ] Exclude README from webhosting
- 
-
