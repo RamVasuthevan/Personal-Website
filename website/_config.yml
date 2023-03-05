@@ -21,7 +21,7 @@
 title: Ram's Personal Website
 email: FirstName@LastName.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal website of Ram Vasuthevan. I am a software engineer. I'm interested in technology, finance and real estate.
+  The personal website of Ram Vasuthevan. I am a software engineer interested in technology, finance and real estate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RamVasuthevan

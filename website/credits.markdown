@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Credit
-permalink: /credit/
+title: Credits
+permalink: /credits/
 ---
 
 <table>
