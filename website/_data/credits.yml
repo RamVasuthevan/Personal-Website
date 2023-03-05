@@ -13,8 +13,16 @@
   link: https://github.com/microsoft/fluentui-emoji
   license_text: MIT License
   license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-- name: 	Microsoft Fluentui E-Mail Emoji
+- name: Microsoft Fluentui E-Mail Emoji
   image: /assets/logos/microsoft_fluentui_emoji_e-mail_flat.svg
   link: https://github.com/microsoft/fluentui-emoji
   license_text: MIT License
   license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+- name: Jekyll
+  link: https://jekyllrb.com/
+  license_text: MIT License
+  license_link: https://github.com/jekyll/jekyll/blob/master/LICENSE
+- name: Minima
+  link: https://github.com/jekyll/minima
+  license_text: MIT License
+  license_link: https://github.com/jekyll/minima/blob/master/LICENSE.txt

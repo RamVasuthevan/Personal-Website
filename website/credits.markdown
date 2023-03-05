@@ -12,7 +12,11 @@ permalink: /credits/
   </tr>
 {% for credit in site.data.credits %}
   <tr>
+    {% if credit.image %}
     <td><img src="{{credit.image}}" alt="{{credit.name}}" width="60" height="60"> </td>
+    {% else %}
+    <td>{{credit.name}}</td>
+    {% endif %}
     <td><a href="{{credit.link}}" target="_blank">{{credit.name}}</a></td>
     <td><a href="{{credit.license_link}}" target="_blank">{{credit.license_text}}</a></td>
   </tr>
