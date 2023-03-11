@@ -1,0 +1,23 @@
+---
+layout: post
+title: Reading List
+---
+{% for article in site.data.reading-list %}
+<p>
+    <a href="{{article.url}}">{{article.title}}</a>
+    <br>
+    {{article.author}}
+    <br>
+    {% if article.publication %}
+    {{article.publication}}
+    <br>
+    {% endif %}
+    {% if article.note %}
+    {{article.note}}
+    <br>
+    {% endif %}
+    {% for tag in article.tags %}
+    #{{tag}}
+    {% endfor %}
+</p>
+{% endfor %}

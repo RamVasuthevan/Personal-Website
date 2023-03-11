@@ -1,0 +1,21 @@
+- title : Optionality Is for Innumerate Cowards
+  url : https://byrnehobart.medium.com/optionality-is-for-innumerate-cowards-f2c5a759b607
+  author: Byrne Hobart
+  publication: The Diff
+  date_published: 2018-12-12
+  tags:
+    - Optionality
+- title : The Magic of Small Databases
+  url : https://tomcritchlow.com/2023/01/27/small-databases/
+  author: Tom Critchlow
+  note: Helped crystallize a lot of thoughts I’ve been having about sharing datasets and small collections
+  date_published: 2023-01-27
+  tags:
+    - Open Source
+    - Database 
+    - Show Data
+- title : How Levels.fyi scaled to millions of users with Google Sheets as a backend
+  url : https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html
+  author: Dushyant Sabharwal
+  publication: levels.fyi
+  date_published: 2023-02-02
