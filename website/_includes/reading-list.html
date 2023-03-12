@@ -1,0 +1,20 @@
+{% for article in include.articles %}
+<p>
+    <a href="{{article.url}}">{{article.title}}</a> —
+    {{article.author}}
+    <br>
+    {% if article.publication %}
+    {{article.publication}}
+    <br>
+    {% endif %}
+    {% if article.note %}
+    <span class="reading-list-note">{{article.note}}</span>
+    <br>
+    {% endif %}
+    {% for tag in article.tags %}
+    #{{tag}}
+    {% endfor %}
+    <br>
+    {{article.type}}
+</p>
+{% endfor %}

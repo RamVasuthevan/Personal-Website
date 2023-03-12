@@ -1,23 +1,8 @@
 ---
-layout: post
+layout: page
 title: Reading List
 ---
-{% for article in site.data.reading-list %}
-<p>
-    <a href="{{article.url}}">{{article.title}}</a>
-    <br>
-    {{article.author}}
-    <br>
-    {% if article.publication %}
-    {{article.publication}}
-    <br>
-    {% endif %}
-    {% if article.note %}
-    {{article.note}}
-    <br>
-    {% endif %}
-    {% for tag in article.tags %}
-    #{{tag}}
-    {% endfor %}
-</p>
-{% endfor %}
+
+{% assign articles = site.data.reading-list | where_exp:"item","item.type != '101'" %}
+
+{% include reading-list.html articles=articles %}
