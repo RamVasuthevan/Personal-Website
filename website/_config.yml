@@ -36,6 +36,7 @@ plugins:
 header_pages:
   - reading-list.html
   - credits.markdown
+  - https://example.com/test
 
 # Exclude from processing.
 # The following items will not be processed, by default.
