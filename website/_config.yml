@@ -31,8 +31,6 @@ linkedin_username: RamVasuthevan
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 header_pages:
   - reading-list.html
