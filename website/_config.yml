@@ -22,6 +22,7 @@ title: Ram's Personal Website
 email: FirstName@LastName.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Ram Vasuthevan. I am a software engineer interested in technology, finance and real estate.
+locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RamVasuthevan
@@ -32,6 +33,10 @@ linkedin_username: RamVasuthevan
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - reading-list.html
+  - credits.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

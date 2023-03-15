@@ -1,0 +1,8 @@
+---
+layout: page
+title: Reading List
+---
+
+{% assign articles = site.data.reading-list | where_exp:"item","item.type != '101'" %}
+
+{% include reading-list.html articles=articles %}
