@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Ram Vasuthevan. I am a software engineer interested in technology, finance and real estate.
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
