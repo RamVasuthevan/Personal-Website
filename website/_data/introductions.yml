@@ -1,0 +1,24 @@
+- name: PNG
+  items:
+    - title: "Hello, PNG!"
+      url: https://www.da.vidbuchanan.co.uk/blog/hello-png.html
+      author: David Buchanan
+      date_published: 2023-01-16
+- name: Unlicense
+  items:
+    - title: "Say No to Copyright Unlicense Yourself: Set Your Code Free"
+      url: https://unlicense.org/
+      note: Interesting license, where you dedicate your code to public domain
+    - title: Placing documents into the public domain
+      url: https://cr.yp.to/publicdomain.html
+      author: D. J. Bernstein
+      note: Apparently, contrary to common belief public domain can exist in Germany
+    - title: "Dissecting the Unlicense: Software Freedom in Four Clauses and a Link"
+      url: https://ar.to/2010/01/dissecting-the-unlicense
+      author: Arto Bendiken
+      date_published: 2010-01-10
+    - title: "[License-review] OSI, legal conditions outside the \"four corners\" of the license, and PD/CC 0"
+      url: https://web.archive.org/web/20170301020915/https://lists.opensource.org/pipermail/license-review/2012-January/001386.html
+      author: Rick Moen
+      date_published: 2012-01-03
+      note: Maybe, the Unlicense isn't such a good idea
