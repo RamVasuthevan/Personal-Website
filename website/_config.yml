@@ -34,6 +34,7 @@ theme: minima
 
 header_pages:
   - reading-list.html
+  - introductions.html
   - credits.markdown
 
 # Exclude from processing.

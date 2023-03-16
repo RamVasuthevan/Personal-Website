@@ -1,0 +1,10 @@
+{% for topic in include.introductions %}
+<span style="font-weight:bold">{{topic.name}}</span><br>
+    {% for item in topic.items %}
+    <span><a href="{{item.url}}">{{item.title}}</a>{% if item.author %} — {{item.author}} {% endif %}</span><br>
+        {% if item.note %}
+        <span class="collections-note">{{item.note}}</span><br>
+        {% endif %}
+    {% endfor %}
+    <br>
+{% endfor %}
