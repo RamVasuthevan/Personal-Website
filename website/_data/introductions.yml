@@ -34,3 +34,9 @@
       url: http://switchfromshapefile.org/
       author: Jachym Cepicky
       date_published: 2017-10-08
+- name: YAML
+  items:
+    - title: "No: Body: Wants: To: Write: - YAML"
+      url: https://noyaml.com/
+      note: A hater's guide to YAML
+      author: Geoffrey Huntley
