@@ -8,3 +8,8 @@
     color: grey;
     @include relative-font-size(0.875);
 }
+
+.collections-note a {
+    color: grey;
+    text-decoration: underline;
+}
