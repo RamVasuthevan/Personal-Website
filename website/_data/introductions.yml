@@ -51,3 +51,13 @@
     - title: "YAML Anchors And Aliases And How To Disable Them"
       url: https://ttl255.com/yaml-anchors-and-aliases-and-how-to-disable-them/
       author: Przemek Rogala 
+- name: Open-Source Licenses
+  items:
+    - title: Choose a License
+      url: https://choosealicense.com/licenses/
+      note: A great comparison of licenses
+      author: Github
+    - title: "The Legal Side of Open Source"
+      url: https://opensource.guide/legal/
+      author: Github
+
