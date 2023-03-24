@@ -41,3 +41,13 @@
       url: https://noyaml.com/
       note: A hater's guide to YAML
       author: Geoffrey Huntley
+- name: PyYAML
+  note: <a href="https://github.com/yaml/pyyaml/">PyYAML</a>'s <a href="https://pyyaml.org/wiki/PyYAMLDocumentation">documentation</a> is incomplete and <a href="https://github.com/yaml/pyyaml/issues/657">outdated</a>
+  items:
+    - title: "YAML: The Missing Battery in Python"
+      url: https://realpython.com/python-yaml/
+      note: "A user's guide to PyYAML"
+      author: Bartosz Zaczyński
+    - title: "YAML Anchors And Aliases And How To Disable Them"
+      url: https://ttl255.com/yaml-anchors-and-aliases-and-how-to-disable-them/
+      author: Przemek Rogala 
