@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Wait for Cloudflare Pages to Deploy
       id: cf-pages
-      uses: RamVasuthevan/cf-pages-await@v1.3.0
+      uses: RamVasuthevan/cf-pages-await@remove-calls-to-updateDeployment
       with:
         apiToken: ${{ secrets.CLOUDFLARE_PAGES_API_TOKEN  }}
         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
