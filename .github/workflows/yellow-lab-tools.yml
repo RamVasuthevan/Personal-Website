@@ -10,5 +10,5 @@ jobs:
           repository: marcuslindblom/yellow-lab-tools
       - uses: marcuslindblom/yellow-lab-tools@v1.2.1
         with:
-          url: "${{github.ref_name}}\.${{secrets.CLOUDFLARE_PAGES_ROOT_URL}}"
+          url: "${{github.ref_name}}\\.${{secrets.CLOUDFLARE_PAGES_ROOT_URL}}"
           score: 100
