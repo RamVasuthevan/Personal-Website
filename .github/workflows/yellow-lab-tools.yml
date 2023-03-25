@@ -22,8 +22,12 @@ jobs:
       with:
         url: ${{ github.ref_name }}.${{ secrets.CLOUDFLARE_PAGES_ROOT_URL }}
         score: 100
+      - uses: 8BitJonny/gh-get-current-pr@2.2.0
+        id: PR
+      - run: echo "Your PR number is ${{ steps.PR.outputs.number }} and its JSON is ${{ steps.PR.outputs.pr }}"
     - name: Comment PR
       uses: thollander/actions-comment-pull-request@v2
       with:
         message: |
           Hello world !
+        pr_numer: ${{ steps.PR.outputs.number }}
