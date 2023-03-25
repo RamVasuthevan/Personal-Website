@@ -23,7 +23,7 @@ jobs:
         url: ${{ github.ref_name }}.${{ secrets.CLOUDFLARE_PAGES_ROOT_URL }}
         score: 100
     - name: Get PR Number
-      run: "PR_NUMBER=$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')"
+      run: "echo $GITHUB_REF"
     - name: Create Comment
       uses: peter-evans/create-or-update-comment@v2
       with:
