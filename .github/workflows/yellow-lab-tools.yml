@@ -6,7 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     environment: The Only Environment
     steps:
-    - uses: actions/checkout@v2
     - name: Wait for Cloudflare Pages to Deploy
       id: cf-pages
       uses: RamVasuthevan/cf-pages-await@remove-calls-to-updateDeployment
