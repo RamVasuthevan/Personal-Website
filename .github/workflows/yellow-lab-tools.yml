@@ -24,9 +24,9 @@ jobs:
         score: 100
     - uses: 8BitJonny/gh-get-current-pr@2.2.0
       id: PR
-  - name: Comment PR
+    - name: Comment PR
       uses: thollander/actions-comment-pull-request@v2
       with:
         message: |
           Hello world !
-        pr_number: ${{ steps.PR.outputs.number }}
+        pr_numer: ${{ steps.PR.outputs.number }}
