@@ -6,7 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Test Echo
-        run: echo ${{github.ref_name}}
+        run: |
+          echo ${{github.ref_name}}
+          echo ${{secrets.CLOUDFLARE_PAGES_ROOT_URL}}
       - uses: actions/checkout@v2
         with:
           repository: marcuslindblom/yellow-lab-tools
