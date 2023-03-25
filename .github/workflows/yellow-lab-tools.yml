@@ -11,3 +11,4 @@ jobs:
       - uses: marcuslindblom/yellow-lab-tools@v1.2.1
         with:
           url: ramvasuthevan.ca
+          score: 100
