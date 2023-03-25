@@ -1,5 +1,5 @@
 on:
-  deployment_status
+  [push]
 jobs:
   yellow-lab-tools-check:
     name: Detect performance and front-end issues
