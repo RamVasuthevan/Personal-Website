@@ -1,0 +1,14 @@
+on:
+  deployment_status
+jobs:
+  yellow-lab-tools-check:
+    name: Detect performance and front-end issues
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: marcuslindblom/yellow-lab-tools
+      - uses: marcuslindblom/yellow-lab-tools@v1.2.1
+        with:
+          url: ${{ secrets.SECURITY_HEADERS_URL }}
+          score: 100
