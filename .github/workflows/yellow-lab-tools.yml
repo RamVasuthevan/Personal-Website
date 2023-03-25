@@ -2,7 +2,7 @@ on:
   [push]
 jobs:
   yellow-lab-tools-check:
-    name: Detect performance and front-end issues
+    name: Run Yello Lab Tools
     runs-on: ubuntu-latest
     environment: The Only Environment
     steps:
