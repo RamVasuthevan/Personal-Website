@@ -5,6 +5,8 @@ jobs:
     name: Detect performance and front-end issues
     runs-on: ubuntu-latest
     steps:
+      - name: Test Echo
+        run: echo ${{github.ref_name}}
       - uses: actions/checkout@v2
         with:
           repository: marcuslindblom/yellow-lab-tools
