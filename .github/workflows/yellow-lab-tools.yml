@@ -14,8 +14,6 @@ jobs:
         apiToken: ${{ secrets.CLOUDFLARE_PAGES_API_TOKEN  }}
         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         project: 'personal-website'
-        # Add this if you want GitHub Deployments (see below)
-        githubToken: ${{ secrets.GITHUB_TOKEN }}
         commitHash: ${{ steps.push-changes.outputs.commit-hash }}
     - uses: actions/checkout@v2
       with:
