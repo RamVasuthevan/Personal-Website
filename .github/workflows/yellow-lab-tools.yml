@@ -2,7 +2,7 @@ on:
   [push]
 jobs:
   yellow-lab-tools-check:
-    name: Run Yello Lab Tools
+    name: Run Yellow Lab Tools
     runs-on: ubuntu-latest
     environment: The Only Environment
     steps:
