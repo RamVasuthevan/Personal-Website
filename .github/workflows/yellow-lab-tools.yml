@@ -10,6 +10,7 @@ jobs:
         run: |
           echo ${{github.ref_name}}
           echo ${{secrets.CLOUDFLARE_PAGES_ROOT_URL}}
+          echo ${{github.ref_name}}.${{secrets.CLOUDFLARE_PAGES_ROOT_URL}}
       - uses: actions/checkout@v2
         with:
           repository: marcuslindblom/yellow-lab-tools
