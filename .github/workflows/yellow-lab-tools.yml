@@ -23,4 +23,4 @@ jobs:
         url: ${{ github.ref_name }}.${{ secrets.CLOUDFLARE_PAGES_ROOT_URL }}
         score: 100
     - name: Get PR Number
-      run: "echo ${{ toJson(github) }}"
+      run: ${{ github.event.number }}
