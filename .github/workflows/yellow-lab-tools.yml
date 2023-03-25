@@ -4,6 +4,7 @@ jobs:
   yellow-lab-tools-check:
     name: Detect performance and front-end issues
     runs-on: ubuntu-latest
+    environment: The Only Environment
     steps:
       - name: Test Echo
         run: |
