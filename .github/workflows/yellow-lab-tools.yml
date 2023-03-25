@@ -4,7 +4,7 @@ jobs:
   yellow-lab-tools-check:
     name: Run Yellow Lab Tools
     runs-on: ubuntu-latest
-    environment: Yellow Lab Tools Environment
+    environment: The Only Environment
     steps:
     - uses: actions/checkout@v2
     - name: Wait for Cloudflare Pages to Deploy
@@ -26,4 +26,4 @@ jobs:
       uses: peter-evans/create-or-update-comment@v2
       with:
         issue-number:  ${{ github.event.pull_request.number }}
-        body: http://example.com/
+        body: http://example.com/y
