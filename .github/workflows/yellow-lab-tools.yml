@@ -1,5 +1,5 @@
 on:
-  [push]
+  [push,pull_request]
 jobs:
   yellow-lab-tools-check:
     name: Run Yellow Lab Tools
