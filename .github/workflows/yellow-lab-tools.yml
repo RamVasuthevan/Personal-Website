@@ -1,5 +1,5 @@
 on:
-  [push,pull_request]
+  [push]
 jobs:
   yellow-lab-tools-check:
     name: Run Yellow Lab Tools
@@ -22,10 +22,8 @@ jobs:
       with:
         url: ${{ github.ref_name }}.${{ secrets.CLOUDFLARE_PAGES_ROOT_URL }}
         score: 100
-    - name: Get PR Number
-      run: ${{ github.event.number }}
-    - name: Get Pull Request Number
-      id: pr
-      run: echo "::set-output name=pull_request_number::$(gh pr view --json number -q .number || echo "")"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Comment PR
+      uses: thollander/actions-comment-pull-request@v2
+      with:
+        message: |
+          Hello world !
