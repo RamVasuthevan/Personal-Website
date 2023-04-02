@@ -35,8 +35,8 @@ theme: minima
 header_pages:
   - reading-list.html
   - introductions.html
-  - credits.markdown
   - tools.html
+  - credits.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
