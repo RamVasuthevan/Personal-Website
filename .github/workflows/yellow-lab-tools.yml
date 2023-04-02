@@ -22,6 +22,7 @@ jobs:
         url: ${{ github.ref_name }}.${{ secrets.CLOUDFLARE_PAGES_ROOT_URL }}
         score: 100
     - uses: 8BitJonny/gh-get-current-pr@2.2.0
+      name: Get PR Number
       id: PR
     - name: Comment PR
       uses: thollander/actions-comment-pull-request@v2
