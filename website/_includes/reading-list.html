@@ -1,7 +1,6 @@
 {% for article in include.articles %}
 <p>
-    <a href="{{article.url}}">{{article.title}}</a> —
-    {{article.author}}
+    <a href="{{article.url}}">{{article.title}}</a> {% if article.author %}— {{article.author}} {% endif %}
     <br>
     {% if article.publication %}
     {{article.publication}}
