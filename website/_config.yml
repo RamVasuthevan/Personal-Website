@@ -35,8 +35,10 @@ theme: minima
 header_pages:
   - reading-list.html
   - introductions.html
+  - quake-articles.markdown
   - tools.html
-  - acknowledgements.markdown
+  - acknowledgements.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
