@@ -3,7 +3,7 @@ layout: page
 title: What I am Thinking About?
 ---
 
-# Perpetual Website
+# Building perpetual websites
 - The web is an evolving standard. A website that works today can break tomorrow because a browser vendor decides not to honour a standard.
 - How do you build websites that last forever? Not years, but decades.
 - It’s sad to see projects in which people put blood, sweat and tears (okay, probably not blood) no longer work. It’s sad to see linkrot slowly,deteriorate away the web.
@@ -14,7 +14,7 @@ title: What I am Thinking About?
 - Initial Ideas 
     - Static site generator, HTML/CSS only websites, store in a public repo and host on Github Pages, save to Internet Archive
 
-Make data more useful
+# Make data more useful
 - There is a lot of data, explicitly and implicitly, available.
 - How can this data become more useful?
 
