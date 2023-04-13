@@ -25,4 +25,5 @@ Most articles are fleeting, even good articles are a pale imitation of good book
 - [The Phrase "No Evidence" Is A Red Flag For Bad Science Communication](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)—Scott Alexander
 - [Book Review: How Asia Works](https://astralcodexten.substack.com/p/book-review-how-asia-works)—Scott Alexander
 - [I Can Tolerate Anything Except The Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)—Scott Alexander
-- [Whither Tartaria?](https://astralcodexten.substack.com/p/whither-tartaria)
+- [Whither Tartaria?](https://astralcodexten.substack.com/p/whither-tartaria)—Scott Alexander
+- [Bus Factor 1](https://applieddivinitystudies.com/2020/10/15/bus-factor/)—Applied Divinity Studies
