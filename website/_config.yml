@@ -36,7 +36,7 @@ header_pages:
   - reading-list.html
   - introductions.html
   - tools.html
-  - acknowledgements.markdown
+  - acknowledgements.html
   - thinking-about.markdown
 
 # Exclude from processing.
