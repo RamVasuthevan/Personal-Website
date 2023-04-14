@@ -17,8 +17,8 @@ permalink: /acknowledgements/
     {% else %}
     <td>{{acknowledgement.name}}</td>
     {% endif %}
-    <td><a href="{{credit.link}}" target="_blank">{{acknowledgement.name}}</a></td>
-    <td><a href="{{credit.license_link}}" target="_blank">{{acknowledgement.license_text}}</a></td>
+    <td><a href="{{acknowledgement.link}}" target="_blank">{{acknowledgement.name}}</a></td>
+    <td><a href="{{acknowledgement.license_link}}" target="_blank">{{acknowledgement.license_text}}</a></td>
   </tr>
 {% endfor %}
 </table>
