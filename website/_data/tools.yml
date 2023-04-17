@@ -22,10 +22,10 @@
   url: https://https://yellowlab.tools/.com/
   author: Gaël Métais
   note: Online test to help speeding up heavy web pages
-- title: Yellow Lab Tools 
+- title: SQLite Viewer
   url: https://inloop.github.io/sqlite-viewer/
   author: INLOOPX
-  note: SQLite Viewer
+  note: Front end for SQLite
 - title: Crontab Guru
   url: https://crontab.guru/
   author: Cronitor
