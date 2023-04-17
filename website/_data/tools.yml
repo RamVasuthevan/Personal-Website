@@ -30,3 +30,7 @@
   url: https://crontab.guru/
   author: Cronitor
   note: Editor for cron schedule expressions
+- title: Explain Shell
+  url: https://explainshell.com/
+  author: Idan Kamara
+  note: Enter shell command and see the help text that matches each argument
