@@ -33,8 +33,8 @@ linkedin_username: RamVasuthevan
 theme: minima
 
 header_pages:
-  - reading-list.html
   - introductions.html
+  - quake-articles.markdown
   - tools.html
   - thinking-about.markdown
   - acknowledgements.html
