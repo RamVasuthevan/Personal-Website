@@ -49,3 +49,9 @@
 - title: "Book Review: How Asia Works"
   url: https://astralcodexten.substack.com/p/book-review
   author: Scott Alexander
+- title: The Magic of Small Databases — Tom Critchlow
+  url: https://tomcritchlow.com/2023/01/27/small-databases/
+  author: Tom Critchlow
+- title: How Levels.fyi scaled to millions of users with Google Sheets as a backend
+  url: https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html
+  author: Dushyant Sabharwal
