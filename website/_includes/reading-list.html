@@ -1,0 +1,13 @@
+{% for article in include.articles %}
+<p>
+    <a href="{{article.url}}">{{article.title}}</a> {% if article.author %}— {{article.author}} {% endif %}
+    <br>
+    {% if article.publication %}
+    {{article.publication}}
+    <br>
+    {% endif %}
+    {% if article.note %}
+    <span class="collections-note">{{article.note}}</span>
+    {% endif %}
+</p>
+{% endfor %}
