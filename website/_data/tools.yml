@@ -1,10 +1,11 @@
 - title: NSDateFormatter 
   url: https://nsdateformatter.com/
-  author:  Ben Scheirman
+  author: Ben Scheirman
   note: Date string formatter
-- title: Internet Archive Save Page Now
+- title: Save Page Now
   url: https://web.archive.org/save/
   note: Save a page to the Internet Archive
+  author: Internet Archive
 - title: TinySheet 
   url: https://tinysheet.com/
   author:  Postlight
@@ -21,7 +22,15 @@
   url: https://https://yellowlab.tools/.com/
   author: Gaël Métais
   note: Online test to help speeding up heavy web pages
-- title: Yellow Lab Tools 
+- title: SQLite Viewer
   url: https://inloop.github.io/sqlite-viewer/
   author: INLOOPX
-  note: SQLite Viewer
+  note: Front end for SQLite
+- title: Crontab Guru
+  url: https://crontab.guru/
+  author: Cronitor
+  note: Editor for cron schedule expressions
+- title: Explain Shell
+  url: https://explainshell.com/
+  author: Idan Kamara
+  note: Enter shell command and see the help text that matches each argument

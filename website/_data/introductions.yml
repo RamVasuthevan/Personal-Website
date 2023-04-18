@@ -60,4 +60,14 @@
     - title: "The Legal Side of Open Source"
       url: https://opensource.guide/legal/
       author: Github
-
+- name: Impact Markets
+  items:
+    - title: "Impact Markets: The Annoying Details"
+      url: https://astralcodexten.substack.com/p/impact-markets-the-annoying-details
+      author: Scott Alexander
+- name: .gitattributes
+  items:
+    - title: ".gitattributes Best Practices"
+      url: https://rehansaeed.com/gitattributes-best-practices/
+      author: Muhammad Rehan Saeed
+      note: Example for setting up .gitattributes for Git LFS 

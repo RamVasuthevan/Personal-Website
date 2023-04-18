@@ -36,8 +36,8 @@ header_pages:
   - introductions.html
   - quake-articles.markdown
   - tools.html
+  - thinking-about.markdown
   - acknowledgements.html
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

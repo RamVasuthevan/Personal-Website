@@ -8,4 +8,3 @@ Inspired using by [Tweet](https://twitter.com/everestpipkin/status/1588636275942
 No automating. Manually editing files. Deploying the website using Cloudflare Pages.
 
 ### TODO:
- - [ ] Generate Footnotes
