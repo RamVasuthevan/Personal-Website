@@ -2,7 +2,7 @@
 
 # Check if an argument is provided
 if [ $# -eq 0 ]; then
-    echo "Error: Please provide a branch name as an argument."
+    echo "Error: Please provide commit message as an argument."
     exit 1
 fi
 
