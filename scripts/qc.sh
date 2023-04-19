@@ -7,7 +7,7 @@ if [ $# -eq 0 ]; then
 fi
 
 # Set variables
-arg1="$1"
+arg1="$*"
 remote_branch="main"
 
 # Convert argument to lowercase and replace spaces with underscores
