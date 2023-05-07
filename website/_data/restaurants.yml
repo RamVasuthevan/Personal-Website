@@ -1,0 +1,32 @@
+- category: Canadian
+  name: Canoe
+  website: https://www.canoerestaurant.com/
+  address: 66 Wellington St W 54th floor, Toronto, ON M5K 1H6
+- category: Italian
+  name: Terroni Adelaide
+  website: https://www.terroni.com/locations/terroni-adelaide
+  address: 57 Adelaide St E, Toronto, ON M5C 1K6
+- category: Indian
+  name: Aanch
+  website: https://www.aanch.ca/
+  address: 259 Wellington St., Toronto, M5V, Canada
+- category: Waterfront Pub
+  name: Joe Bird
+  website: https://www.joebird.ca/
+  address: "207 Queens Quay W #150, Toronto, ON M5J 1A7"
+- category: Waterfront Chinese
+  name: Pearl Harbourfront Chinese Cuisine
+  website: https://www.pearlharbourfront.ca/
+  address: "207 Queens Quay W #200, Toronto, ON M5J 1A7"
+- category: Burger
+  name: Jackson's Burger
+  website: https://jacksonsburger.com/
+  address: 38 Elm St, Toronto, ON M5G 2K5
+- category: BBQ
+  name: Cherry Street Bar-B-Que
+  website: https://www.cherrystbbq.com/
+  address: 275 Cherry St, Toronto, ON M5A 3L3
+- category: Thai
+  name: PAI Northern Thai Kitchen
+  website: https://paitoronto.com/
+  address: 18 Duncan St, Toronto, ON M5H 3G8
