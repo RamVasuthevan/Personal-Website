@@ -7,9 +7,11 @@ title: Restaurants Recommendations
 
 {% for restaurant in site.data.restaurants %}
 <div>
-  <h2>{{ restaurant.name }}</h2>
+  <h2><a href="{{restaurant.website}}" style="color: black; text-decoration: underline;">{{restaurant.name}}</a></h2>
   <p><strong>Category:</strong> {{ restaurant.category }}</p>
   <p><strong>Address:</strong> {{ restaurant.address }}</p>
-  <p><strong>Website:</strong> <a href="{{ restaurant.website }}">{{ restaurant.website }}</a></p>
+  {% if restaurant.note %}
+  <p><strong>Note:</strong> {{ restaurant.note }}</p>
+  {% endif %}
 </div>
 {% endfor %}

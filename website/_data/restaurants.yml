@@ -2,6 +2,7 @@
   name: Canoe
   website: https://www.canoerestaurant.com/
   address: 66 Wellington St W 54th floor, Toronto, ON M5K 1H6
+  note: Best restaurant in Toronto, tasting menu is amazing!
 - category: Italian
   name: Terroni Adelaide
   website: https://www.terroni.com/locations/terroni-adelaide
@@ -26,6 +27,7 @@
   name: Cherry Street Bar-B-Que
   website: https://www.cherrystbbq.com/
   address: 275 Cherry St, Toronto, ON M5A 3L3
+  note: I'd reccomend a getting a sampler
 - category: Thai
   name: PAI Northern Thai Kitchen
   website: https://paitoronto.com/
