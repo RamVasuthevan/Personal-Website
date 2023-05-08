@@ -71,3 +71,8 @@
       url: https://rehansaeed.com/gitattributes-best-practices/
       author: Muhammad Rehan Saeed
       note: Example for setting up .gitattributes for Git LFS 
+- name: Python Virtual Environments
+  items:
+    - title: "Python Virtual Environments: A Primer"
+      url: https://realpython.com/python-virtual-environments-a-primer/
+      author: Martin Breuss
