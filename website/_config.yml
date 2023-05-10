@@ -35,6 +35,7 @@ theme: minima
 header_pages:
   - introductions.html
   - quake-articles.markdown
+  - quake-articles2.markdown
   - tools.html
   - thinking-about.markdown
   - acknowledgements.html
