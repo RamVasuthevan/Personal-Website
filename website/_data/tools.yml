@@ -34,3 +34,7 @@
   url: https://explainshell.com/
   author: Idan Kamara
   note: Enter shell command and see the help text that matches each argument
+- title: JSON Crack
+  url: https://jsoncrack.com/
+  author: Aykut Saraç
+  note: Seamlessly visualize your JSON data instantly into graphs. <a href="https://editor.herowand.com/">Herowand Editor</a> visualizes JSON, YAML, XML, TOML and CSV 
