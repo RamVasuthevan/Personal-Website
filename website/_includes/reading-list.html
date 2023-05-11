@@ -7,7 +7,7 @@
     <br>
     {% endif %}
     {% if article.note %}
-    <span class="collections-note">{{article.note}}</span>
+    <span class="collections-note">{{article.note | markdownify | remove: '<p>' | remove: '</p>'  }}</span>
     {% endif %}
 </p>
 {% endfor %}
