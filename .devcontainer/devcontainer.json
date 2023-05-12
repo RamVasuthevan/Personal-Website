@@ -5,7 +5,6 @@
     "vscode.remote-containers"
   ],
   "forwardPorts": [4000],
-  "postCreateCommand": "cd website && bundle install",
   "overrideCommand": false,
   "settings": {
     "terminal.integrated.defaultProfile.linux": "bash"
