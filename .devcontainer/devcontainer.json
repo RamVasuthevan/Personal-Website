@@ -1,11 +1,11 @@
 {
   "name": "Jekyll Development",
-  "image": "mcr.microsoft.com/vscode/devcontainers/ruby:2.7.5",
+  "image": "mcr.microsoft.com/vscode/devcontainers/ruby:2.7",
   "extensions": [
     "vscode.remote-containers"
   ],
   "forwardPorts": [4000],
-  "postCreateCommand": "bundle install",
+  "postCreateCommand": "cd website && bundle install",
   "overrideCommand": false,
   "settings": {
     "terminal.integrated.defaultProfile.linux": "bash"
