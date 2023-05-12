@@ -1,4 +1,14 @@
 {
   "name": "Jekyll Development",
-  "image": "mcr.microsoft.com/vscode/devcontainers/jekyll:dev"
+  "image": "mcr.microsoft.com/vscode/devcontainers/ruby:2.7.5",
+  "extensions": [
+    "vscode.remote-containers"
+  ],
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle install",
+  "overrideCommand": false,
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
 }
