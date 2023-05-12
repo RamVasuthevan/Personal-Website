@@ -1,0 +1,5 @@
+{
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:2",
+    "postCreateCommand": "cd website && bundle install && bundle exec jekyll serve"
+  }
+  
