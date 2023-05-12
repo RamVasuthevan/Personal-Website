@@ -1,0 +1,42 @@
+// From https://github.com/jekyll/jekyll/blob/58a1f62b2349bb477fc9999c40331cecdca577d8/.devcontainer/devcontainer.json
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.101.1/containers/ruby-2
+{
+	"name": "Ruby 2.7.5",
+	"dockerFile": "Dockerfile",
+
+	// Set *default* container specific settings.json values on container create.
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rebornix.Ruby",
+				"ms-azuretools.vscode-docker",
+				"sissel.shopify-liquid",
+				"redhat.vscode-yaml"
+			]
+		}
+	},
+	
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	"waitFor": "onCreateCommand",
+	// Use 'postCreateCommand' to run commands after the container is created.
+	"updateContentCommand": "cd website && gem update --system && bundle install",
+	"postAttachCommand": {
+		"server": "cd website && jekyll serve"
+	  },
+	  "portsAttributes": {
+		"4000": {
+		  "label": "Application",
+		  "onAutoForward": "openBrowser"
+		}	  
+	  }  
+	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
+	// "remoteUser": "vscode"
+
+}
