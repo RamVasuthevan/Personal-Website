@@ -10,10 +10,16 @@
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
 
-	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-		"rebornix.Ruby"
-	],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"rebornix.Ruby",
+				"ms-azuretools.vscode-docker",
+				"sissel.shopify-liquid",
+				"redhat.vscode-yaml"
+			]
+		}
+	},
 	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
