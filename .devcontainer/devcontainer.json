@@ -24,9 +24,18 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
+	"waitFor": "onCreateCommand",
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "cd website && bundle install"
-
+	"updateContentCommand": "cd website && gem update --system && bundle install",
+	"postAttachCommand": {
+		"server": "cd website && jekyll serve"
+	  },
+	  "portsAttributes": {
+		"4000": {
+		  "label": "Application",
+		  "onAutoForward": "openBrowser"
+		}	  
+	  }  
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
 	// "remoteUser": "vscode"
 
