@@ -27,6 +27,7 @@
 	"waitFor": "onCreateCommand",
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"updateContentCommand": "cd website && gem update --system && bundle install",
+	"postCreateCommand": "echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
 	"postAttachCommand": {
 		"server": "cd website && jekyll serve"
 	  },
