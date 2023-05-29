@@ -82,3 +82,6 @@
 - title: "The Revenue-Evil Curve: a different way to think about prioritizing public goods funding"
   url: https://vitalik.ca/general/2022/10/28/revenue_evil.html
   author: Vitalik Buterin
+- title: The Baked Data architectural pattern
+  url: https://simonwillison.net/2021/Jul/28/baked-data/
+  author:  Simon Willison
