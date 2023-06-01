@@ -1,6 +1,3 @@
-// From https://github.com/jekyll/jekyll/blob/58a1f62b2349bb477fc9999c40331cecdca577d8/.devcontainer/devcontainer.json
-// For format details, see https://aka.ms/vscode-remote/devcontainer.json or this file's README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.101.1/containers/ruby-2
 {
 	"customizations": {
 		"vscode": {
@@ -12,24 +9,28 @@
 			]
 		}
 	},
-	
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
 	"waitFor": "onCreateCommand",
-	// Use 'postCreateCommand' to run commands after the container is created.
-	"updateContentCommand": "cd website && gem update --system && bundle install",
-	"postCreateCommand": "echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
+	"postCreateCommand": [
+		"git clone https://github.com/rbenv/rbenv.git ~/.rbenv",
+		"echo 'export PATH=\"$HOME/.rbenv/bin:$PATH\"' >> ~/.bashrc",
+		"echo 'eval \"$(rbenv init -)\"' >> ~/.bashrc",
+		"source ~/.bashrc",
+		"mkdir -p \"$(rbenv root)\"/plugins",
+		"git clone https://github.com/rbenv/ruby-build.git \"$(rbenv root)\"/plugins/ruby-build",
+		"rbenv install 2.7.1",
+		"rbenv global 2.7.1",
+		"gem update --system",
+		"gem install bundler",
+		"cd website && bundle install",
+		"echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc"
+	],
 	"postAttachCommand": {
 		"server": "cd website && jekyll serve"
-	  },
-	  "portsAttributes": {
+	},
+	"portsAttributes": {
 		"4000": {
-		  "label": "Application",
-		  "onAutoForward": "openBrowser"
+			"label": "Application",
+			"onAutoForward": "openBrowser"
 		}	  
-	  }  
-	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
-	// "remoteUser": "vscode"
-
+	} 
 }
