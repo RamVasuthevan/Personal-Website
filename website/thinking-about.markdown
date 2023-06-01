@@ -25,3 +25,19 @@ title: What I am Thinking About?
 # Make data more useful
 - There is a lot of data, explicitly and implicitly, available.
 - How can this data become more useful?
+
+# Interesting Land Tenure, Zoning and Municipal Governance
+Across Canada and the United States, there is so much uniformity in land tenure, zoning and municipal governance. Municipalities whose's leaders are democraticly elected by resident's (and/or landowners). Freehold land ownership, with property taxes owed to the municipality. And in high cost / demand / opportunity areas, zoning limits the new construction and protects single family home neighborhoods.
+- There are some interesting anomalies:
+    - UBC University Endowment Lands
+    - Reedy Creek Improvement District
+    - City of Industry
+    - The Villages
+    - Loudoun County
+    - Mobile City (Texas)
+    - Hoston
+    - Sen̓áḵw
+    - (The canceled) Sidewalk Toronto
+    - Leasehold condominiums in Vancouver
+    - Public Facility Corporations in Texas
+    - Towns controled by religious groups (Ave Maria, Florida / Antelope, Oregon / Kiryas Joel, New York)
