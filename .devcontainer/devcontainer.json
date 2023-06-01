@@ -11,21 +11,19 @@
     },
     "waitFor": "onCreateCommand",
     "postCreateCommand": [
-        "git clone https://github.com/rbenv/rbenv.git ~/.rbenv",
-        "echo 'export PATH=\"$HOME/.rbenv/bin:$PATH\"' >> ~/.bashrc",
-        "echo 'eval \"$(rbenv init -)\"' >> ~/.bashrc",
-        "source ~/.bashrc",
-        "mkdir -p \"$(rbenv root)\"/plugins",
-        "git clone https://github.com/rbenv/ruby-build.git \"$(rbenv root)\"/plugins/ruby-build",
-        "RUBY_VERSION=$(cat website/.ruby-version) && rbenv install $RUBY_VERSION",
-        "rbenv global $RUBY_VERSION",
-        "gem update --system",
+        "sudo apt-get update",
+        "sudo apt-get install -y curl gpg",
+        "gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB",
+        "\curl -sSL https://get.rvm.io | bash -s stable",
+        "source /etc/profile.d/rvm.sh",
+        "RUBY_VERSION=$(cat website/.ruby-version) && rvm install $RUBY_VERSION",
+        "rvm use $RUBY_VERSION --default",
         "gem install bundler",
         "cd website && bundle install",
         "echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc"
     ],
     "postAttachCommand": {
-        "server": "cd website && jekyll serve"
+        "server": "cd website && bundle exec jekyll serve"
     },
     "portsAttributes": {
         "4000": {
