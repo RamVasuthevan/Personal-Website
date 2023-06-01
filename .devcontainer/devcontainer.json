@@ -1,36 +1,36 @@
 {
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"rebornix.Ruby",
-				"ms-azuretools.vscode-docker",
-				"sissel.shopify-liquid",
-				"redhat.vscode-yaml"
-			]
-		}
-	},
-	"waitFor": "onCreateCommand",
-	"postCreateCommand": [
-		"git clone https://github.com/rbenv/rbenv.git ~/.rbenv",
-		"echo 'export PATH=\"$HOME/.rbenv/bin:$PATH\"' >> ~/.bashrc",
-		"echo 'eval \"$(rbenv init -)\"' >> ~/.bashrc",
-		"source ~/.bashrc",
-		"mkdir -p \"$(rbenv root)\"/plugins",
-		"git clone https://github.com/rbenv/ruby-build.git \"$(rbenv root)\"/plugins/ruby-build",
-		"rbenv install 2.7.1",
-		"rbenv global 2.7.1",
-		"gem update --system",
-		"gem install bundler",
-		"cd website && bundle install",
-		"echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc"
-	],
-	"postAttachCommand": {
-		"server": "cd website && jekyll serve"
-	},
-	"portsAttributes": {
-		"4000": {
-			"label": "Application",
-			"onAutoForward": "openBrowser"
-		}	  
-	} 
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rebornix.Ruby",
+                "ms-azuretools.vscode-docker",
+                "sissel.shopify-liquid",
+                "redhat.vscode-yaml"
+            ]
+        }
+    },
+    "waitFor": "onCreateCommand",
+    "postCreateCommand": [
+        "git clone https://github.com/rbenv/rbenv.git ~/.rbenv",
+        "echo 'export PATH=\"$HOME/.rbenv/bin:$PATH\"' >> ~/.bashrc",
+        "echo 'eval \"$(rbenv init -)\"' >> ~/.bashrc",
+        "source ~/.bashrc",
+        "mkdir -p \"$(rbenv root)\"/plugins",
+        "git clone https://github.com/rbenv/ruby-build.git \"$(rbenv root)\"/plugins/ruby-build",
+        "RUBY_VERSION=$(cat website/.ruby-version) && rbenv install $RUBY_VERSION",
+        "rbenv global $RUBY_VERSION",
+        "gem update --system",
+        "gem install bundler",
+        "cd website && bundle install",
+        "echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc"
+    ],
+    "postAttachCommand": {
+        "server": "cd website && jekyll serve"
+    },
+    "portsAttributes": {
+        "4000": {
+            "label": "Application",
+            "onAutoForward": "openBrowser"
+        }	  
+    } 
 }
