@@ -25,3 +25,18 @@ title: What I am Thinking About?
 # Make data more useful
 - There is a lot of data, explicitly and implicitly, available.
 - How can this data become more useful?
+
+# Interesting Land Tenure, Zoning and Municipal Governance
+- Across Canada and the United States there's a lot of uniformality in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
+    - UBC University Endowment Lands
+    - Reedy Creek Improvement District
+    - City of Industry
+    - The Villages
+    - Loudoun County
+    - Mobile City (Texas)
+    - Houston
+    - Sen̓áḵw
+    - (The canceled) Sidewalk Toronto
+    - Leasehold condominiums in Vancouver
+    - Public Facility Corporations in Texas
+    - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
