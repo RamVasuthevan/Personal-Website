@@ -46,3 +46,7 @@
   url: https://www.worldtimebuddy.com/
   author: Slava Romanovsky
   note: The best tool to schedule meetings across time zones
+- title: Python Tutor
+  url: https://pythontutor.com/
+  note: Visualizing Python, JavaScript, C, C++, and Java programming code execution
+  author: Philip Guo
