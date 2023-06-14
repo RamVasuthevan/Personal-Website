@@ -13,3 +13,8 @@
     color: grey;
     text-decoration: underline;
 }
+
+.table-first-col-nowrap th:first-child,
+.table-first-col-nowrap td:first-child {
+  white-space: nowrap;
+}

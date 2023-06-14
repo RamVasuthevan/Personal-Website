@@ -8,25 +8,28 @@ layout: home
 Hello 👋
 
 I am a software engineer. I’m interested in technology, finance and real estate.  
-
 <br>
-
-<p align="center">
-{% for highlight in site.data.highlights %}
-<a href="{{highlight.link}}"><img src="{{highlight.image}}" width="60" height="60"></a>
-{% endfor %}
-</p>
-
-<br>
-
-Most of my writing is at [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/).
+<table class="table-first-col-nowrap">
+  <tr>
+    <th>Projects</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href = "https://www.thegoldenhack.ca/">The GoldenHack</a></td>
+    <td>Cofounded a hackathon focusing on the intersection between business and technology</td>
+  </tr>
+  <tr>
+    <td><a href = "https://www.bitsbipsbricks.com/">Bits, Bips and Bricks</a></td>
+    <td>Collection of essays about tech, finance and real estate and the intersection of the three</td>
+  </tr>
+  <tr>
+    <td><a href = "https://github.com/RamVasuthevan/whois-server-list">TLD WHOIS Server</a></td>
+    <td>List of whois servers for all TLDs available in csv, markdown and xlsx</td>
+  </tr>
+</table>
 
 ---
 
-P.S. Why is this website so sparse?
+<br />
 
-I spent several years procrastinating on creating a personal website and trying to create a good one using good tools with good content.
-
-I was inspired by this [tweet](https://twitter.com/RamVasuthevan/status/1589036193966329856?s=20&t=ugmG3OLXRUIKGov6VA4zEQ) to actually just do it. We’ll see what improvements I make in the future.
-
-Here is the [repo](https://github.com/RamVasuthevan/Personal-Website) for this website.
+I spent several years procrastinating on creating a personal website I was inspired by this [tweet](https://twitter.com/RamVasuthevan/status/1589036193966329856?s=20&t=ugmG3OLXRUIKGov6VA4zEQ) to actually just do it. Just put something up and go from there. Here is the [repo](https://github.com/RamVasuthevan/Personal-Website) for this website.
