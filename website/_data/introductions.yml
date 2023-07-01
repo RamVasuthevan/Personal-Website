@@ -76,3 +76,16 @@
     - title: "Python Virtual Environments: A Primer"
       url: https://realpython.com/python-virtual-environments-a-primer/
       author: Martin Breuss
+- name: Certificate Authorities
+  items:
+    - title: The Difference Between Root Certificate Authorities, Intermediates, and Resellers
+      url: https://www.agwa.name/blog/post/roots_intermediates_and_resellers
+      author: Andrew Ayer
+    - title: "The Story Behind Last Week's Let's Encrypt Downtime"
+      url: https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime
+      author: Andrew Ayer
+    - title: The SSL Certificate Issuer Field is a Lie
+      url: https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie
+      author: Andrew Ayer
+
+      
