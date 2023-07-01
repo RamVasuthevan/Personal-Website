@@ -15,8 +15,7 @@ No automating. Manually editing files. Deploying the website using Cloudflare Pa
 
 ### TODO:
 
-1. Fix links to Applied Divinity Studies
-2. Think about how to archive articles 
-3. Make devcontainer loadtime faster
-4. Make Pretty
-5. Start vendoring dependencies 
+1. Think about how to archive articles 
+2. Make devcontainer loadtime faster
+3. Make Pretty
+4. Start vendoring dependencies 
