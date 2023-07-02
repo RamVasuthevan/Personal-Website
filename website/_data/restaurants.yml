@@ -1,39 +1,39 @@
-- category: Canadian
-  name: Canoe
-  website: https://www.canoerestaurant.com/
+- name: Canoe
   address: 66 Wellington St W 54th floor, Toronto, ON M5K 1H6
+  website: https://www.canoerestaurant.com/
   note: Best restaurant in Toronto. The view and the tasting menu are amazing!
-- category: Italian
-  name: Terroni Adelaide
-  website: https://www.terroni.com/locations/terroni-adelaide
+  category: Canadian
+- name: Terroni Adelaide
   address: 57 Adelaide St E, Toronto, ON M5C 1K6
-- category: Indian
-  name: Aanch
-  website: https://www.aanch.ca/
+  website: https://www.terroni.com/locations/terroni-adelaide
+  category: Italian
+- name: Aanch
   address: 259 Wellington St., Toronto, M5V, Canada
-- category: Waterfront Pub
-  name: Joe Bird
+  website: https://www.aanch.ca/
+  category: Indian
+- name: Joe Bird
+  address: 207 Queens Quay W #150, Toronto, ON M5J 1A7
   website: https://www.joebird.ca/
-  address: "207 Queens Quay W #150, Toronto, ON M5J 1A7"
-- category: Waterfront Chinese
-  name: Pearl Harbourfront Chinese Cuisine
+  category: Waterfront Pub
+- name: Pearl Harbourfront Chinese Cuisine
+  address: 207 Queens Quay W #200, Toronto, ON M5J 1A7
   website: https://www.pearlharbourfront.ca/
-  address: "207 Queens Quay W #200, Toronto, ON M5J 1A7"
-- category: Burger
-  name: Jackson's Burger
-  website: https://jacksonsburger.com/
+  category: Waterfront Chinese
+- name: Jackson's Burger
   address: 38 Elm St, Toronto, ON M5G 2K5
-- category: BBQ
-  name: Cherry Street Bar-B-Que
-  website: https://www.cherrystbbq.com/
+  website: https://jacksonsburger.com/
+  category: Burger
+- name: Cherry Street Bar-B-Que
   address: 275 Cherry St, Toronto, ON M5A 3L3
-  note: I'd reccomend a getting a sampler
-- category: Thai
-  name: PAI Northern Thai Kitchen
-  website: https://paitoronto.com/
+  website: https://www.cherrystbbq.com/
+  note: I'd recommend a getting a sampler
+  category: BBQ
+- name: PAI Northern Thai Kitchen
   address: 18 Duncan St, Toronto, ON M5H 3G8
-- category: New Asian Cuisine
-  name: DaiLo
-  website: https://dailoto.com/
+  website: https://paitoronto.com/
+  category: Thai
+- name: DaiLo
   address: 503 College Street Toronto
+  website: https://dailoto.com/
   note: The tasting menu is amazing!
+  category: New Asian Cuisine
