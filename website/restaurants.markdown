@@ -11,7 +11,7 @@ title: Restaurants Recommendations
   <p><strong>Category:</strong> {{ restaurant.category }}</p>
   <p><strong>Address:</strong> {{ restaurant.address }}</p>
   {% if restaurant.note %}
-  <p><strong>Note:</strong> {{ restaurant.note | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  <p><strong>Note:</strong> {{ restaurant.note || markdownify | remove: '<p>' | remove: '</p>' }}</p>
   {% endif %}
 </div>
 {% endfor %}
