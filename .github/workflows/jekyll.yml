@@ -1,11 +1,11 @@
 name: Jekyll Build Errors and Warnings
+
 on:
   pull_request:
     branches: [ main ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -18,7 +18,9 @@ jobs:
       run: |
         gem install bundler
         bundle install
+      working-directory: website
     - name: Build site and check for warnings or errors
       run: |
         bundle exec jekyll build 2>&1 | tee build.log
         ! grep -E 'warning|error' build.log
+      working-directory: website
