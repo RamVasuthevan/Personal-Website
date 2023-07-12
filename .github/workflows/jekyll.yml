@@ -2,25 +2,27 @@ name: Jekyll Build Errors and Warnings
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.7.5
-    - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install
-      working-directory: website
-    - name: Build site and check for warnings or errors
-      run: |
-        bundle exec jekyll build 2>&1 | tee build.log
-        ! grep -E 'warning|error' build.log
-      working-directory: website
+      - uses: actions/checkout@v2
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.5
+      - name: Restore dependencies from cache
+        run: bundle install --jobs 4 --retry 3 --path vendor/bundle
+      - name: Build site and check for warnings or errors
+        run: |
+          bundle exec jekyll build 2>&1 | tee build.log
+          ! grep -E 'warning|error' build.log
+        working-directory: website
