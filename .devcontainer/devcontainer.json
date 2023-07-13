@@ -4,40 +4,40 @@
 {
 	"name": "Ruby 2.7.5",
 	"dockerFile": "Dockerfile",
-
 	// Set *default* container specific settings.json values on container create.
-	"settings": { 
+	"settings": {
 		"terminal.integrated.shell.linux": "/bin/bash"
 	},
-
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"rebornix.Ruby",
+				"rebornix.ruby",
 				"ms-azuretools.vscode-docker",
 				"sissel.shopify-liquid",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"GitHub.codespaces",
+				"GitHub.github-vscode-theme",
+				"github.vscode-github-actions",
+				"GitHub.vscode-pull-request-github",
+				"wingrunr21.vscode-ruby"
 			]
 		}
 	},
-	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
-
 	"waitFor": "onCreateCommand",
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"updateContentCommand": "cd website && gem update --system && bundle install",
 	"postCreateCommand": "echo \"alias nb='/workspaces/Personal-Website/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
 	"postAttachCommand": {
 		"server": "cd website && jekyll serve"
-	  },
-	  "portsAttributes": {
+	},
+	"portsAttributes": {
 		"4000": {
-		  "label": "Application",
-		  "onAutoForward": "openBrowser"
-		}	  
-	  }  
+			"label": "Application",
+			"onAutoForward": "openBrowser"
+		}
+	}
 	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
 	// "remoteUser": "vscode"
-
 }
