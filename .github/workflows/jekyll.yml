@@ -21,11 +21,11 @@ jobs:
           ruby-version: 2.7.5
       - name: Restore dependencies from cache
         run: |
-          bundle config set --local path 'website/vendor/bundle'
-          bundle install --jobs 4 --retry 3 --path website/vendor/bundle
+          cd website
+          bundle config set --local path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
       - name: Build site and check for warnings or errors
         run: |
           cd website
           bundle exec jekyll build 2>&1 | tee build.log
           ! grep -E 'warning|error' build.log
-        working-directory: website
