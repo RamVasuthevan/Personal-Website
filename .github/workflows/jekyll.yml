@@ -2,7 +2,6 @@ name: Jekyll Build Errors and Warnings
 
 on:
   pull_request:
-    branches: [main]
 
 jobs:
   build:
@@ -11,6 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Cache dependencies
+        id: cache
         uses: actions/cache@v2
         with:
           path: website/vendor/bundle
@@ -19,11 +19,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7.5
-      - name: Restore dependencies from cache
+      - name: Get dependencies if cache miss
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |
           cd website
-          bundle config set --local path 'vendor/bundle'
-          bundle install --jobs 4 --retry 3
+          bundle install --jobs 4 --retry 3 --path vendor/bundle
       - name: Build site and check for warnings or errors
         run: |
           cd website
