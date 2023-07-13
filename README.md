@@ -11,7 +11,7 @@ Inspired using by [Tweet](https://twitter.com/everestpipkin/status/1588636275942
 
 Everything required to build site should be in this repo
 
-No automating. Manually editing files. Deploying the website using Cloudflare Pages.
+No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 ### TODO:
 
