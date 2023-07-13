@@ -21,7 +21,7 @@ jobs:
           ruby-version: 2.7.5
       - name: Restore dependencies from cache
         run: |
-          bundle config set --local path 'vendor/bundle'
+          bundle config set --local path 'website/vendor/bundle'
           bundle install --jobs 4 --retry 3
       - name: Build site and check for warnings or errors
         run: |
