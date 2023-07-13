@@ -30,6 +30,10 @@ I am a software engineer. I’m interested in technology, finance and real estat
     <td><a href = "https://github.com/RamVasuthevan/whois-server-list">TLD WHOIS Server</a></td>
     <td>List of whois servers for all TLDs available in csv, markdown and xlsx</td>
   </tr>
+  <tr>
+    <td><a href = "https://lobbyingintoronto.ca/">Lobbying in Toronto</a></td>
+    <td>A work-in-progress project to make it easier to analyze data from the Toronto Lobbyist Registrar</td>
+  </tr>
 </table>
 
 ---
