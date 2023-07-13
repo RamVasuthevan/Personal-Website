@@ -22,7 +22,7 @@ jobs:
       - name: Restore dependencies from cache
         run: |
           bundle config set --local path 'website/vendor/bundle'
-          bundle install --jobs 4 --retry 3 --local path website/vendor/bundle
+          bundle install --jobs 4 --retry 3 --path website/vendor/bundle
       - name: Build site and check for warnings or errors
         run: |
           cd website
