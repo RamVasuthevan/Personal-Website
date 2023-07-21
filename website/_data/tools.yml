@@ -54,3 +54,7 @@
   url: https://builtwith.com/
   note: Find out what websites are Built With
   author: Andrew Rogers & Gary Brewer
+- title: SQLite3 Editor
+  url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
+  note: Edit SQLite3 files like you would in spreadsheet applications.
+  author: yy0931
