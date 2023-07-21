@@ -58,3 +58,7 @@
   url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
   note: Edit SQLite3 files like you would in spreadsheet applications.
   author: yy0931
+- title: TinEye
+  url: https://tineye.com/
+  note: Reverse image search engine 
+  author: Leila Boujnane & Paul Bloore
