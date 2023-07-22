@@ -50,3 +50,19 @@
   url: https://pythontutor.com/
   note: Visualizing Python, JavaScript, C, C++, and Java programming code execution
   author: Philip Guo
+- title: BuiltWith
+  url: https://builtwith.com/
+  note: Find out what websites are Built With
+  author: Andrew Rogers & Gary Brewer
+- title: SQLite3 Editor
+  url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
+  note: Edit SQLite3 files like you would in spreadsheet applications.
+  author: yy0931
+- title: TinEye
+  url: https://tineye.com/
+  note: Reverse image search engine 
+  author: Leila Boujnane & Paul Bloore
+- title: Twitter Card Preview Tool
+  url: https://www.bannerbear.com/tools/twitter-card-preview-tool/
+  note: Preview Twitter and [Facebook](https://www.bannerbear.com/tools/facebook-open-graph-preview-tool/) cards
+  author: Jon Yongfook 
