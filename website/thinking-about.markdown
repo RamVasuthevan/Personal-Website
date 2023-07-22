@@ -41,3 +41,4 @@ title: What I am Thinking About?
     - Leasehold condominiums in Vancouver
     - Public Facility Corporations in Texas
     - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
+    - Ward’s Island and Algonquin Island in Toronto
