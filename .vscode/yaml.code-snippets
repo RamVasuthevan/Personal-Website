@@ -1,0 +1,65 @@
+{
+    "Acknowledgements Element": {
+        "prefix": "s_acknowledgements",
+        "body": [
+            "- name: $1",
+            "  image: $2",
+            "  link: $3",
+            "  license_text: $4",
+            "  license_link: $5",
+            "  notes: $6"
+        ],
+        "description": "Add element to acknowledgements.yml"
+    },
+    "Highlights Element": {
+        "prefix": "s_highlights",
+        "body": [
+            "- name: $1",
+            "  link: $2",
+            "  image: $3"
+        ],
+        "description": "Add element to highlights.yml"
+    },
+    "Introductions Element": {
+        "prefix": "s_introductions",
+        "body": [
+            "- name: $1",
+            "  items:",
+            "    - title: $2",
+            "      url: $3",
+            "      author: $4",
+            "      date_published: $5"
+        ],
+        "description": "Add element to introductions.yml"
+    },
+    "Quake Articles Element": {
+        "prefix": "s_quake_articles",
+        "body": [
+            "- title: $1",
+            "  url: $2",
+            "  author: $3"
+        ],
+        "description": "Add element to quake-articles.yml"
+    },
+    "Restaurants Element": {
+        "prefix": "s_restaurants",
+        "body": [
+            "- name: $1",
+            "  address: $2",
+            "  website: $3",
+            "  note: $4",
+            "  category: $5"
+        ],
+        "description": "Add element to restaurants.yml"
+    },
+    "Tools Element": {
+        "prefix": "s_tools",
+        "body": [
+            "- title: $1",
+            "  url: $2",
+            "  author: $3",
+            "  note: $4"
+        ],
+        "description": "Add element to tools.yml"
+    }
+}
