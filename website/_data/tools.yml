@@ -4,27 +4,27 @@
   note: Date string formatter
 - title: Save Page Now
   url: https://web.archive.org/save/
-  note: Save a page to the Internet Archive
+  note: Add pages to the Internet Archive
   author: Internet Archive
 - title: TinySheet 
   url: https://tinysheet.com/
   author:  Postlight
-  note: Spreadsheet scrapbook 
+  note: Tiny spreadsheet 
 - title: TableConvert 
   url: https://tableconvert.com/
   author:  FechinLi
-  note: Transfrom and convert tables 
+  note: Transfrom and convert between table formats 
 - title: CarefulWords 
   url: https://carefulwords.com/
   author: Simon Sarris
   note:  A little bit more than a thesaurus 
 - title: Yellow Lab Tools 
-  url: https://https://yellowlab.tools/.com/
+  url: https://yellowlab.tools
   author: Gaël Métais
-  note: Online test to help speeding up heavy web pages
+  note: Online test to help speeding up web pages
 - title: SQLite Viewer
   url: https://inloop.github.io/sqlite-viewer/
-  author: INLOOPX
+  author: Juraj Novák
   note: Front end for SQLite
 - title: Crontab Guru
   url: https://crontab.guru/
@@ -37,7 +37,7 @@
 - title: JSON Crack
   url: https://jsoncrack.com/
   author: Aykut Saraç
-  note: Seamlessly visualizes your JSON data instantly into graphs. [Herowand Editor](https://editor.herowand.com/) visualizes JSON, YAML, XML, TOML and CSV 
+  note: Visualizes JSON data. [Herowand Editor](https://editor.herowand.com/) visualizes JSON, YAML, XML, TOML and CSV 
 - title: CanLII
   url: https://www.canlii.org/
   author: Federation of Law Societies of Canada
@@ -56,7 +56,7 @@
   author: Andrew Rogers & Gary Brewer
 - title: SQLite3 Editor
   url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
-  note: Edit SQLite3 files like you would in spreadsheet applications.
+  note: VSCode plugin to edit SQLite3 files like you would in spreadsheet applications.
   author: yy0931
 - title: TinEye
   url: https://tineye.com/
@@ -65,4 +65,4 @@
 - title: Twitter Card Preview Tool
   url: https://www.bannerbear.com/tools/twitter-card-preview-tool/
   note: Preview Twitter and [Facebook](https://www.bannerbear.com/tools/facebook-open-graph-preview-tool/) cards
-  author: Jon Yongfook 
+  author: Jon Yongfook
