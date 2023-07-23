@@ -52,11 +52,11 @@
   author: Philip Guo
 - title: BuiltWith
   url: https://builtwith.com/
-  note: Find out what websites are Built With
+  note: Find out what websites are built with
   author: Andrew Rogers & Gary Brewer
 - title: SQLite3 Editor
   url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
-  note: VSCode plugin to edit SQLite3 files like you would in spreadsheet applications.
+  note: VSCode plugin to edit SQLite3 files like you would spreadsheet applications.
   author: yy0931
 - title: TinEye
   url: https://tineye.com/
