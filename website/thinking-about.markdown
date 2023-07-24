@@ -30,9 +30,9 @@ title: What I am Thinking About?
 - We have created easy to use tools for sharing documents (Wordpress, Jekyll,Cloudflare Pages, etc ), but what about for indexing, searching and visualizing data?
 
 See:
-    - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-    - [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
-    - [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
+- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+- [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
+- [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
 - Across Canada and the United States there's a lot of uniformality in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
@@ -50,3 +50,5 @@ See:
     - Public Facility Corporations in Texas
     - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
     - Ward’s Island and Algonquin Island in Toronto
+
+# Open Real 
