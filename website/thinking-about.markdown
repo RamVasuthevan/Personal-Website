@@ -19,7 +19,7 @@ title: What I am Thinking About?
 - How should a project be structured differently if the project manager, designer, marketer and engineer are the same person?
 
 # Startup of you
-- There's advice for start a management portfolio management and career management
+- There's advice for portfolio management and career management
 - There isn’t much personal finance advice that acknowledges that most people’s largest asset is human capital.
 
 # Make data more useful
