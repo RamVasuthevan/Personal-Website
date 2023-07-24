@@ -22,9 +22,17 @@ title: What I am Thinking About?
 - There's advice for portfolio management and career management
 - There isn’t much personal finance advice that acknowledges that most people’s largest asset is human capital.
 
-# Make data more useful
-- There is a lot of data, explicitly and implicitly, available.
-- How can this data become more useful?
+# Get more from data
+- There are massive amounts of data whch are beng explicitly and [implicitly](https://simonwillison.net/2020/Oct/9/git-scraping/) created
+- It is being constantly pumped out into the void, being forgeted, lost and overwritten
+- It's sitting there waiting to be parsed, structured, cleaned, searched and visualized. To be made useful.
+- We have created great tools from sharing open source code (Git, Github, PyPI, etc) but how do we share open data?
+- We have created easy to use tools for sharing documents (Wordpress, Jekyll,Cloudflare Pages, etc ), but what about for indexing, searching and visualizing data?
+
+See:
+    - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+    - [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
+    - [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
 - Across Canada and the United States there's a lot of uniformality in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
