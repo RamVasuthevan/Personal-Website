@@ -23,11 +23,12 @@ title: What I am Thinking About?
 - There isn’t much personal finance advice that acknowledges that most people’s largest asset is human capital.
 
 # Get more from data
-- There are massive amounts of data whch are beng explicitly and [implicitly](https://simonwillison.net/2020/Oct/9/git-scraping/) created
-- It is being constantly pumped out into the void, being forgeted, lost and overwritten
-- It's sitting there waiting to be parsed, structured, cleaned, searched and visualized. To be made useful.
-- We have created great tools from sharing open source code (Git, Github, PyPI, etc) but how do we share open data?
-- We have created easy to use tools for sharing documents (Wordpress, Jekyll,Cloudflare Pages, etc ), but what about for indexing, searching and visualizing data?
+- There are massive amounts of data which is being explicitly and implicitly created.
+- It is being constantly pumped out into the void, being forgotten, lost and overwritten.
+- It’s sitting there waiting to be parsed, structured, cleaned, searched and visualized. To be made useful.
+- We have created great tools for sharing open-source code (Git, Github, PyPI, etc.), but how do we share open data?
+- We have created easy-to-use tools for sharing documents (WordPress, Jekyll, Cloudflare Pages, etc.), but what about indexing, searching and visualizing data?
+
 
 See:
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
