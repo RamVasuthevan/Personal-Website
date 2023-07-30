@@ -51,3 +51,7 @@ See:
     - Public Facility Corporations in Texas
     - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
     - Ward’s Island and Algonquin Island in Toronto
+
+# Toronto Real Estate Data
+- One of the core jobs of the state is to track who owns what real estate
+- At both a high level and deep technical level, how is information about real estate in Toronto stored, controlled and shared? 
