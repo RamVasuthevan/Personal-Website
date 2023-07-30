@@ -16,6 +16,5 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 ### TODO:
 
 1. Think about how to archive articles 
-2. Make devcontainer loadtime faster
-3. Make Pretty
-4. Start vendoring dependencies 
+2. Make Pretty
+3. Start vendoring dependencies 
