@@ -33,10 +33,10 @@ linkedin_username: RamVasuthevan
 theme: minima
 
 header_pages:
-  - introductions.html
+  - thinking-about.markdown
   - quake-articles.markdown
   - tools.html
-  - thinking-about.markdown
+  - introductions.html
   - acknowledgements.html
 
 sass:
