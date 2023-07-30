@@ -52,6 +52,6 @@ See:
     - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
     - Ward’s Island and Algonquin Island in Toronto
 
-# Toronto Real Esate Data
-- One of the most core jobs of the the state is track who owns what real esate
-- At both a high level and deep techinical level, how is information about real esate in Toronto stored, controled and shared? 
+# Toronto Real Estate Data
+- One of the core jobs of the state is to track who owns what real estate
+- At both a high level and deep technical level, how is information about real estate in Toronto stored, controlled and shared? 
