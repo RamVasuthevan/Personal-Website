@@ -33,6 +33,7 @@ title: What I am Thinking About?
 See:
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 - [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
+- [Bloomberg Terminal for everything](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html#:~:text=Bloomberg%20Terminal%20for,variety%20of%20domains.)
 - [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
