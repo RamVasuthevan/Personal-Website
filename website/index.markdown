@@ -38,6 +38,10 @@ I am a software engineer. I’m interested in technology, finance and real estat
     <td><a href = "https://github.com/RamVasuthevan/FIPS-Census-County-and-County-Equivalent-Entities">FIPS Census County and County Equivalent Entities</a></td>
     <td>A consolidated list of 2010 and 2020 FIPS Census codes for US counties and county equivalents</td>
   </tr>
+  <tr>
+    <td><a href = "https://github.com/RamVasuthevan/TaxStrategyStatement"></a>Tax Strategy Statement</td>
+    <td>A small list of tax strategy statements which are required to published by large businesses in the UK</td>
+  </tr>
 </table>
 
 ---
