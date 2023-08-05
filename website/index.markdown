@@ -40,7 +40,7 @@ I am a software engineer. I’m interested in technology, finance and real estat
   </tr>
   <tr>
     <td><a href = "https://github.com/RamVasuthevan/TaxStrategyStatement"></a>Tax Strategy Statement</td>
-    <td>A small list of tax strategy statements which are required to published by large businesses in the UK</td>
+    <td>A collection of tax strategy statements which are required to published by large businesses in the UK</td>
   </tr>
 </table>
 
