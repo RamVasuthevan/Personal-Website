@@ -3,4 +3,4 @@ layout: page
 title: Gallery
 ---
 
-{% include gallery.html folder="assets/gallery_images" %}
+{% flickr_photoset 72177720305487735 %}

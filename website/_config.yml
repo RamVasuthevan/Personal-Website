@@ -39,12 +39,17 @@ header_pages:
   - introductions.html
   - acknowledgements.html
   - gallery.markdown
+  - gallery2.markdown
 
 sass:
   quiet_deps: true
 
-imagesurl: "/website/img/"
-thumbsurl: "/website/thumbs/"
+flickr:
+  cache_dir:       ./.jekyll-cache/flickr
+  api_key:          560084e59b5e27649a517fc337364c28
+  shared_secret:    91eca2425d9a8c89
+  access_token:     72157720890287435-829466205524b763
+  access_secret:    2fe3e5df0e56d187
 
 # Exclude from processing.
 # The following items will not be processed, by default.
