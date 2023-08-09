@@ -1,0 +1,40 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at 00:00 UTC
+  pull_request:
+
+jobs:
+  days-since-post-on-bitsbipsbricks:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Capture commit hash
+      run: |
+        current_commit_hash=$(git rev-parse HEAD)
+        echo "CURRENT_COMMIT_HASH=${current_commit_hash}" >> $GITHUB_ENV
+
+    - name: Download RSS feed
+      run: |
+        curl -L -o website/_data/kpi/bitsbipsbricks.rss https://www.bitsbipsbricks.com/rss/
+
+    - name: Configure Git
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+
+    - name: Commit and push if changes
+      run: |
+        timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+        git add website/_data/kpi/bitsbipsbricks.rss
+        git commit -m "Downloaded: ${timestamp}: commit: ${CURRENT_COMMIT_HASH}" || exit 0
+
+        if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+          git push origin ${GITHUB_HEAD_REF}
+        else
+          git push origin main
+        fi
