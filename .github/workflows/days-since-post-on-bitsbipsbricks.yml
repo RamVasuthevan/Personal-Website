@@ -6,12 +6,14 @@ on:
   pull_request:
 
 jobs:
-  days-since-post-on-bitsbipsbricks:
+  update-rss:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
 
     - name: Capture commit hash
       run: |
@@ -32,9 +34,5 @@ jobs:
         timestamp=$(date '+%Y-%m-%d %H:%M:%S')
         git add website/_data/kpi/bitsbipsbricks.rss
         git commit -m "Downloaded: ${timestamp}: commit: ${CURRENT_COMMIT_HASH}" || exit 0
-
-        if [[ "${{ github.event_name }}" == "pull_request" ]]; then
-          git push origin ${GITHUB_HEAD_REF}
-        else
-          git push origin main
-        fi
+        branch=${{ github.head_ref || 'main' }}
+        git push origin $branch
