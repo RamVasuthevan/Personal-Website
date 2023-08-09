@@ -17,8 +17,6 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 Days since I've written for [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/): {{ difference_in_days }}
 
-<br>
-
 ### **What I am working on:**
 
 <table class="table-first-col-nowrap">
