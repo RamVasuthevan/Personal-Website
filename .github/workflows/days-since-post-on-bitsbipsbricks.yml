@@ -1,4 +1,4 @@
-name: Update RSS Feed
+name: Days Since Post on Bits, Bips and Bricks
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   pull_request:
 
 jobs:
-  update-rss:
+  days-since-post-on-bitsbipsbricks:
     runs-on: ubuntu-latest
 
     steps:
