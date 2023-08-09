@@ -9,7 +9,15 @@ Hello 👋
 
 I am a software engineer. I’m interested in technology, finance and real estate.
 
-<br>
+### **KPIs:**
+{% assign current_date = 'now' | date: '%s' %}
+{% assign last_published_date = site.data.bitsbipsbricks_rss_last_published_date | date: '%s' %}
+{% assign difference_in_seconds = current_date | minus: last_published_date %}
+{% assign difference_in_days = difference_in_seconds | divided_by: 86400 %}
+
+Days since I've written for [Bits, Bips and Bricks](https://www.bitsbipsbricks.com/): {{ difference_in_days }}
+
+### **What I am working on:**
 
 <table class="table-first-col-nowrap">
   <tr>
