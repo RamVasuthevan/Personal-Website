@@ -15,6 +15,6 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 ### TODO:
 
-1. Think about how to archive articles 
-2. Make Pretty
+1. Think about how to archive articles. WIP - [PrivateLibrary](https://github.com/RamVasuthevan/PrivateLibrary)
+2. Make pretty
 3. Start vendoring dependencies 
