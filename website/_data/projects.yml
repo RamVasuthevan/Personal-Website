@@ -17,7 +17,7 @@
   url: "https://github.com/RamVasuthevan/FIPS-Census-County-and-County-Equivalent-Entities"
   description: "A consolidated list of 2010 and 2020 FIPS Census codes for US counties and county equivalents"
 - name: "Tax Strategy Statement"
-  url: "https://github.com/RamVasuthevan/TaxStrategyStatement"
+  url: "https://taxstrategystatement.com/"
   description: "A collection of tax strategy statements which are required to published by large businesses in the UK"
 - name: SavePageNow API
   url: "https://github.com/RamVasuthevan/savepagenow_client"
