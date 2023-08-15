@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project Ideas
+title: Project Ideas for someone else (or future me)
+header_title: Project Ideas 
 ---
-
 
 # Win a Stock Picking Contest
 
