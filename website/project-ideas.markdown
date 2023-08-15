@@ -11,7 +11,7 @@ header_title: Project Ideas
     - You can see your competitor's portfolio (but they can't see yours)?
     - There is trading during the duration of the contest?
     - Trading has transaction costs?
-    - Your competitors can see your trades? Is there a dominant strategy? If so, what is it?
+    - Your competitors can see your portfolio and trades? Is there a dominant strategy? If so, what is it?
     
 Read More:
 - Paraphrased Deleted Tweet  
