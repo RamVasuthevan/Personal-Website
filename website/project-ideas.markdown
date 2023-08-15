@@ -19,3 +19,13 @@ Read More:
 
 [](https://twitter.com/RamVasuthevan/status/1690046256750415879)
 
+
+# Generate a String Which Matches a Regex
+
+- Given a regex, can you:
+    - Return a string which matches?
+    - Return a string which matches, uniformly selecting from all possible strings? Some regexes match infinite strings, what constraints need to be added to be practical?
+
+Read More:
+- [Allow me to put in a regex it will always match? Generate in bulk? Via API?](https://twitter.com/zbruhnke/status/1691279910931943424?t=PdCr7ykYnN3Omx-kLZgu-A)
+- [ChatGPT](https://chat.openai.com/share/9f2559d3-7807-4d2c-a607-8e25c9293fe0)
