@@ -7,7 +7,7 @@
 - name: Unlicense
   items:
     - title: "Say No to Copyright Unlicense Yourself: Set Your Code Free"
-      url: https://unlicense.org/
+      url: https://web.archive.org/web/20230703162904/https://unlicense.org/
       note: Interesting license, where you dedicate your code to public domain
     - title: Placing documents into the public domain
       url: https://cr.yp.to/publicdomain.html
