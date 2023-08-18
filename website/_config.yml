@@ -33,6 +33,7 @@ linkedin_username: RamVasuthevan
 theme: minima
 
 header_pages:
+  - bitsbipsbricks.markdown
   - thinking-about.markdown
   - quake-articles.markdown
   - tools.html
