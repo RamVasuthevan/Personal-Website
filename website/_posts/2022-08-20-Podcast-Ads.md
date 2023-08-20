@@ -6,7 +6,13 @@ permalink: bitsbipsbricks/Postcast-Ads
 
 # **Hey Myke, Please Use Your Code, JustForMyke**
 
-{% include unsplash_image.html src="/assets/bitsbipsbricks/Postcast-Ads/juja-han-uT55XxQLQGU-unsplash.jpg" alt="Descriptive Alt Text" photographer="Juja Han" username="juja_han" image_link="https://unsplash.com/photos/uT55XxQLQGU" %}
+{% include unsplash_image.html 
+   name="juja-han-uT55XxQLQGU-unsplash.jpg" 
+   alt="Descriptive Alt Text" 
+   photographer="Juja Han" 
+   username="juja_han" 
+   image_link="https://unsplash.com/photos/uT55XxQLQGU" 
+%}
 
 
 There are two types of podcast ads — static and dynamic.
