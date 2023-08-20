@@ -92,4 +92,13 @@
     - title: "How to run a GitHub Action from a branch other than master?"
       url: https://stackoverflow.com/questions/63480433/how-to-run-a-github-action-from-a-branch-other-than-master
       note: How to run Github Action from the non-main branch for the first time?
-
+- name: Regex
+  items:
+    - title: "Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)"
+      url: https://swtch.com/~rsc/regexp/regexp1.html
+      author: Russ Cox
+      date_published: 01-2007
+    - title: "Regular Expression Matching in the Wild"
+      url: https://swtch.com/~rsc/regexp/regexp3.html
+      author: Russ Cox
+      date_published: 04-2010
