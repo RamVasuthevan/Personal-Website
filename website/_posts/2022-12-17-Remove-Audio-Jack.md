@@ -18,13 +18,12 @@ Everything in life is about tradeoffs. Saying that something should be different
 I understand that the phone can be thinner and have a longer battery life without the audio jack. I understand the Bluetooth is good enough to stream quality audio now. I understand that the goal is to eventually remove the charging port. But I still want my audio jack!
 
 
-<div class="image-container">
-    <img src="/assets/bitsbipsbricks/Remove-Audio-Jack/74lirquirtl01.png" alt="">
-    <div class="caption">
-        From Kanye West's Twitter via Reddit user <a href="https://www.reddit.com/r/Kanye/comments/84ijrz/easily_my_favorite_kanye_tweet/">_the_orange_box_</a>
-    </div>
-</div>
-<br>
+{% include image.html 
+   src="/assets/bitsbipsbricks/Remove-Audio-Jack/74lirquirtl01.png" 
+   alt="" 
+   caption="From Kanye West's Twitter via Reddit user [\_the\_orange\_box\_](https://www.reddit.com/r/Kanye/comments/84ijrz/easily_my_favorite_kanye_tweet/)" 
+%}
+
 
 # Why?
 

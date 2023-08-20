@@ -11,13 +11,12 @@ Today is September 6th, 2022. The three main image generation engines are DALL-E
 DALL-E 2 was released on July 20th, 2022. OpenAI, one of the world's leading research laboratories, created it. OpenAI has XX[^1] employees. It was closed-sourced and available initially only to beta testers on the waitlist. OpenAI distorted any faces in images making it hard to be used for deep fakes. Stability AI released Stable Diffusion on August 22nd, 2022, 33 days later. Stable Diffusion is open source, can be run on a consumer GPU, and doesn't blur faces like DALL-E 2. Stability AI, as of August 12th, 2022, has 75 employees.
 
 
-<div class="image-container">
-    <img src="/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png" alt="">
-    <div class="caption">
-    Created by Stable Diffusion using <a href="https://replicate.com/p/xipb7ajpnretfmu42z3yxnhwuu">Replicate</a>
-    </div>
-</div>
-<br>
+{% include image.html 
+   src="/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png" 
+   alt="" 
+   caption="Created by Stable Diffusion using [Replicate](https://replicate.com/p/xipb7ajpnretfmu42z3yxnhwuu)" 
+%}
+
 
 
 The images aren’t prefect. They still gave off a weird vibe. And giving the right words to get the image you want (prompt engineering[^2]) is still a bit finicky. But an hour after I started playing with Stable Diffusion, I was able to create this image of an Canadian Flag and an Astronaut on the moon. (So can you with [Stable Diffusion](https://replicate.com/p/xipb7ajpnretfmu42z3yxnhwuu) on commit `a9758cbfbd5f` with width `512` height `512` prompt `Neil Armstrong on the Moon Canadian Flag` num_outputs `4` guidance_scale `7` prompt_strength `0.8` num_inference_steps `129` and seed `47692`).
