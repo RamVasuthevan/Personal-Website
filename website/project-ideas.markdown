@@ -28,4 +28,12 @@ Read More:
 
 Read More:
 - [Allow me to put in a regex it will always match? Generate in bulk? Via API?](https://twitter.com/zbruhnke/status/1691279910931943424?t=PdCr7ykYnN3Omx-kLZgu-A)
-- [ChatGPT](https://chat.openai.com/share/9f2559d3-7807-4d2c-a607-8e25c9293fe0)
+- [ChatGPT Transcript](https://chat.openai.com/share/9f2559d3-7807-4d2c-a607-8e25c9293fe0)
+
+#  Toronto anthem of 1886?
+
+- Doug Saunders — International-Affairs Columnist at The Globe and Mail [mentioned](https://twitter.com/DougSaunders/status/1690021191912710144?s=20) an "Toronto anthem of 1886" 
+- The screenshot looks like it was taken from [Toronto "called Back," from 1888 to 1847, and the Queen's Jubilee](https://books.google.ca/books?id=-R4WAAAAYAAJ&pg=PA239&lpg=PA239&dq=fair+toronto+queen+city+of+the+west+of+thy+sister+cities+thou+art+the+best&source=bl&ots=LKcMmbd4KB&sig=ACfU3U3tcUYg0Zuu84m_hxTw7Cu1OxteTQ&hl=en&sa=X#v=onepage&q&f=false) on page 238
+- It is a sonnet by John Imrie called Toronto from [Songs and Miscellaneous Poems](https://archive.org/details/songsmiscellaneo00imri/page/338/mode/2up?view=theater) on pg 338
+    - I'm not sure if this is the original source
+- A live preformance or the poem set to music would be cool
