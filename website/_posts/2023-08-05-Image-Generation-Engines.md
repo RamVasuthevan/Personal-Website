@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The World Has Changed"
-image: "/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png"
+twitter:
+   image: "/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png"
 permalink: bitsbipsbricks/Image-Generation-Engines
 ---
 
