@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Removing the Audio Jack was a Mistake"
+image: "/assets/bitsbipsbricks/Remove-Audio-Jack/74lirquirtl01.png"
 permalink: bitsbipsbricks/Remove-Audio-Jack
 ---
 

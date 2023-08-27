@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Text to Speech and Podcast Ads"
+image: "/assets/bitsbipsbricks/Postcast-Ads/juja-han-uT55XxQLQGU-unsplash.jpg"
 permalink: bitsbipsbricks/Postcast-Ads
 ---
 
