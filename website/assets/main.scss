@@ -18,3 +18,9 @@
 .table-first-col-nowrap td:first-child {
   white-space: nowrap;
 }
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

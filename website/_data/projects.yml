@@ -5,7 +5,7 @@
   url: "https://www.thegoldenhack.ca/"
   description: "Cofounded a hackathon focusing on the intersection between business and technology"
 - name: "Bits, Bips and Bricks"
-  url: "https://www.bitsbipsbricks.com/"
+  url: "/bitsbipsbricks"
   description: "Collection of essays about tech, finance and real estate and the intersection of the three"
 - name: "TLD WHOIS Server"
   url: "https://github.com/RamVasuthevan/whois-server-list"

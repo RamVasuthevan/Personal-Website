@@ -1,24 +1,3 @@
-- name: Linkedin Logo
-  image: /assets/logos/Linkedin.png
-  link: https://brand.linkedin.com/en-us
-  license_text: 
-  license_link: 
-  notes: Cropped using https://www.iloveimg.com/
-- name: Twitter Logo
-  image: /assets/logos/Twitter.png
-  link: https://about.twitter.com/en/who-we-are/brand-toolkit
-  license_text: 
-  license_link: 
-- name: Microsoft Fluentui Ledger Emoji
-  image: /assets/logos/microsoft_fluentui_emoji_ledger_flat.svg
-  link: https://github.com/microsoft/fluentui-emoji
-  license_text: MIT License
-  license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-- name: Microsoft Fluentui E-Mail Emoji
-  image: /assets/logos/microsoft_fluentui_emoji_e-mail_flat.svg
-  link: https://github.com/microsoft/fluentui-emoji
-  license_text: MIT License
-  license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
 - name: Jekyll
   link: https://jekyllrb.com/
   license_text: MIT License
