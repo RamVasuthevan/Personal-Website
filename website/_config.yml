@@ -52,7 +52,7 @@ header_pages:
   - quake-articles.markdown
   - tools.html
   - project-ideas.markdown
-  - introductions.html
+  - all-pages.html
 
 sass:
   quiet_deps: true
