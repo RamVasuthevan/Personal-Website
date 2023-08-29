@@ -11,18 +11,7 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 <br>
 
-<table class="table-first-col-nowrap">
-  <tr>
-    <th>Projects</th>
-    <th>Description</th>
-  </tr>
-  {% for project in site.data.projects %}
-  <tr>
-    <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-    <td>{{ project.description }}</td>
-  </tr>
-  {% endfor %}
-</table>
+{% include projects.html %}
 
 ---
 
