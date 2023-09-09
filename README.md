@@ -18,3 +18,9 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 1. Think about how to archive articles 
 2. Make Pretty
 3. Start vendoring dependencies 
+
+
+https://dmnfarrell.github.io/software/jekyll-galleries
+https://jekyllcodex.org/without-plugin/image-gallery/#
+https://www.reddit.com/r/flickr/comments/7khuj7/could_someone_explain_the_difference_between/
+https://www.flickr.com/help/forum/en-us/72157628846743439/
