@@ -28,8 +28,6 @@ title: What I am Thinking About?
 - It’s sitting there waiting to be parsed, structured, cleaned, searched and visualized. To be made useful
 - We have created great tools for sharing open-source code (Git, Github, PyPI, etc.), but how do we share open data?
 - We have created easy-to-use tools for sharing documents (WordPress, Jekyll, Cloudflare Pages, etc.), but what about indexing, searching and visualizing data?
-
-
 See:
 - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 - [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
@@ -37,7 +35,7 @@ See:
 - [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
-- Across Canada and the United States there's a lot of uniformality in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
+- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
     - UBC University Endowment Lands
     - Reedy Creek Improvement District
     - Universal City
@@ -53,6 +51,29 @@ See:
     - Towns associated with religious groups (Ave Maria, Florida, Antelope, Oregon, Kiryas Joel, New York)
     - Ward’s Island and Algonquin Island in Toronto
 
-# Toronto Real Estate Data
-- One of the core jobs of the state is to track who owns what real estate
-- At both a high level and deep technical level, how is information about real estate in Toronto stored, controlled and shared? 
+# A Select Statement View of Toronto 
+- How is the city viewed from the perspective of a database ([Seeing like a state](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/))
+- Government
+	- POLARIS (Province of Ontario Land Registration Information System) is the Electronic Land Registration System (ELRS) for Ontario, managed by Terranet, a portfolio company of OMERS (Ontario Municipal Employees Retirement System), the pension fund for municipal workers 😂
+    - MPAC (Municipal Property Assessment Corporation) determines the assessed value of all the properties in Ontario so that property taxes can be calculated
+    - What is the relationship between the various branches of the government and Terranet?
+    - How was Terranet created? How was POLRIAS created? How was MPAC created?
+    - How were things done before POLRIAS? And digitization?
+    - How is the POLARIS structured from a technical perspective?
+    - Who are customers? How do they use it? Can I use this data?
+
+- Realtors
+    - TRREB is the professional association for real estate brokers and salespeople in the GTA, which manages the Toronto MLS (Multiple Listing Service) system
+    - What actually is MLS? What is the relationship between Toronto MLS and other MLS systems? 
+    - TRREB vs. Competition Bureau and TRREB vs Mongohouse (scraping)
+    - How do realtors, their customers and the public gain access to this data? Both from a legal and technical perspective?
+    - How can I get access to the data?
+
+- Other?
+	- Are there other DBs that have an interesting view on the city?
+	- Are there opportunities for creating interesting DBs?
+	- With the data which exists? What new view on real estate development can be built?
+	- Here are some existing views on real estate development in Toronto
+		- [City of Toronto Open Data](https://open.toronto.ca/catalogue/?search=development&sort=score%20desc)
+		- [Urban Toronto Projects DB](https://urbantoronto.ca/database/projects/)
+		- [Future Model Toronto](https://www.stephenvelasco.com/)
