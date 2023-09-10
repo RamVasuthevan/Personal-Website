@@ -4,7 +4,7 @@ title: What I am Thinking About?
 ---
 
 # A Select Statement View of Toronto 
-- How is the city viewed from the perspective of a database ([Seeing like a state](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/))
+How is the city viewed from the perspective of a database ([Seeing like a state](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)):
 - Government
 	- POLARIS (Province of Ontario Land Registration Information System) is the Electronic Land Registration System (ELRS) for Ontario, managed by Terranet, a portfolio company of OMERS (Ontario Municipal Employees Retirement System), the pension fund for municipal workers 😂
     - MPAC (Municipal Property Assessment Corporation) determines the assessed value of all the properties in Ontario so that property taxes can be calculated
