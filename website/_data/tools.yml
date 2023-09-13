@@ -93,6 +93,9 @@
 - title: EmDa.sh
   url: EmDa.sh
   note: Just an em dash ( — ), so that you can easily copy it when you need an em dash
+- title: Twitter Video Downloader
+  URL: https://twittervideodownloader.com/
+  note: Get the actual CDN link to a video or gif on Twitter
 - title: RapidTables Notepad
   url: https://www.rapidtables.com/tools/notepad.html
   author:
