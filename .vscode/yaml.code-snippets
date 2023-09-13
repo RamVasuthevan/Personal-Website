@@ -61,5 +61,14 @@
             "  note: $4"
         ],
         "description": "Add element to tools.yml"
+    },
+    "Projects Element": {
+        "prefix": "s_projects",
+        "body": [
+            "- name: $1",
+            "  url: $2",
+            "  description: $3"
+        ],
+        "description": "Add element to projects.yml"
     }
 }

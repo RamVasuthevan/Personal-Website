@@ -90,6 +90,13 @@
   url: http://ismycomputeron.com/
   author: 
   note: Tool to tell if your computer is on
-- title: How To Legally Own Another Person
-  url: https://medium.com/incerto/how-to-legally-own-another-person-4145a1802bf6
-  author: Nassim Taleb
+- title: EmDa.sh
+  url: EmDa.sh
+  note: Just an em dash ( — ), so that you can easily copy it when you need an em dash
+- title: Twitter Video Downloader
+  URL: https://twittervideodownloader.com/
+  note: Get the actual CDN link to a video or gif on Twitter
+- title: RapidTables Notepad
+  url: https://www.rapidtables.com/tools/notepad.html
+  author:
+  note: Online plain text notepad. Great for drafting

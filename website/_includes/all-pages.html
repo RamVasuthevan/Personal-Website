@@ -15,4 +15,11 @@
     </li>
   {% endunless %}
 {% endfor %}
+<!-- Adding sub domain URLs passed in -->
+{% for domain_url in page.sub_domains %}
+  {% assign domain_name = domain_url | replace: 'https://', '' | remove: '/' %}
+  <li>
+    <a href="{{ domain_url }}">{{ domain_name }}</a>
+  </li>
+{% endfor %}
 </ul>

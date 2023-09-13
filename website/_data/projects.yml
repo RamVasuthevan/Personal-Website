@@ -22,3 +22,6 @@
 - name: SavePageNow API
   url: "https://github.com/RamVasuthevan/savepagenow_client"
   description: "A Python wrapper for archive.org’s SavePageNow API"
+- name: Version Check Pre-commit Hooks
+  url: https://github.com/RamVasuthevan/version-check-pre-commit-hooks
+  description: Pre-commit hooks to check that Python versions in configurations are consistent
