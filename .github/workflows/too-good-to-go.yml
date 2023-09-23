@@ -1,0 +1,24 @@
+name: Add Too good to go invoice
+
+on:
+  repository_dispatch:
+    types: [new-invoice]
+
+jobs:
+  process_invoice:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Parse invoice and update repo
+      run: |
+        # Extract invoice content from payload
+        INVOICE_CONTENT="${{ github.event.client_payload.email_content }}"
+        
+        # This is where you would add the logic to parse the invoice content
+        # and make updates to your repo. For this example, I'm just echoing the payload content.
+        echo "Received invoice content: $INVOICE_CONTENT"
+        
+        # You can then update files or do any other actions as required based on the invoice content.

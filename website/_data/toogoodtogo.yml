@@ -1,7 +1,15 @@
 - restaurant: Victory's Cafe
   order_type: Prepared Foods
   cost: 9.03
-  date: 2023-20-11
+  date: 2023-09-20
   desciption: 1 6 slice pizza
-  notes: Tasted great
+  notes: Reheated well, this was a good flavour 
   image: PXL_20230921_022550829.jpg
+- restaurant: Longo's - Maple Leaf Square
+  order_type: Baked Goods
+  cost: 7.90
+  date: 2023-09-22
+  desciption: 
+  notes:
+  image:
+
