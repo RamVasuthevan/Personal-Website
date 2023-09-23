@@ -15,11 +15,14 @@ jobs:
     - name: Parse invoice and update repo
       run: |
         # Extract invoice content from payload
-        INVOICE_CONTENT="${{ github.event.client_payload.email_content }}"
+        EMAIL_CONTENT="${{ github.event.client_payload.email_content }}"
+        EMAIL_ATTACHMENT="${{github.event.client_payload.email_attachment}}"
+        
         
         # Extract Order ID from the invoice content
-        ORDER_ID=$(echo "$INVOICE_CONTENT" | grep -oP 'order ID \K\w+')
+        ORDER_ID=$(echo "$EMAIL_CONTENT" | grep -oP 'order ID \K\w+')
         echo "Extracted Order ID: $ORDER_ID"
+        echo "$EMAIL_ATTACHMENT"
         
         # This is where you would add the logic to use the extracted order ID
         # and make updates to your repo or any other actions required.
