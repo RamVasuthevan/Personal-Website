@@ -2,14 +2,14 @@
   order_type: Prepared Foods
   cost: 9.03
   date: 2023-09-20
-  desciption: 1 6 slice pizza
-  notes: Reheated well, this was a good flavour 
+  desciption: 1 6-slice pizza
+  notes: Reheated well. This was a good flavour 
   image: PXL_20230921_022550829.jpg
 - restaurant: Longo's - Maple Leaf Square
   order_type: Baked Goods
   cost: 7.90
   date: 2023-09-22
-  desciption: 
+  desciption: 2x Assorted Bun 4pk and Plan Baguette Roll 6pk. Originally, $3.99 and $4.49 respectively and then marked down 40%. Best before September 22nd, for 1 buns packet and roll and September 23rd, for the other bun roll
   notes:
   image:
 
