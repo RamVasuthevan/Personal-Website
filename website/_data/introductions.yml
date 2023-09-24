@@ -93,7 +93,7 @@
       url: https://stackoverflow.com/questions/63480433/how-to-run-a-github-action-from-a-branch-other-than-master
       note: "How to run Github Action from the non-main branch for the first time?"
       date: 2020-08-19
-    - tite: "How to trigger repository_dispatch event for non-default branch?"
+    - title: "How to trigger repository_dispatch event for non-default branch?"
       url: https://github.com/orgs/community/discussions/24657
       note:  repository_dispatch can only be triggered on the default branch
       date: 2019-10-09
