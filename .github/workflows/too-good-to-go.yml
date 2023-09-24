@@ -10,15 +10,19 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Parse invoice and update repo
       run: |
         # Extract invoice content from payload
-        INVOICE_CONTENT="${{ github.event.client_payload.email_content }}"
+        EMAIL_CONTENT="${{ github.event.client_payload.email_content }}"
+        EMAIL_ATTACHMENT="${{github.event.client_payload.email_attachment}}"
         
-        # This is where you would add the logic to parse the invoice content
-        # and make updates to your repo. For this example, I'm just echoing the payload content.
-        echo "Received invoice content: $INVOICE_CONTENT"
         
-        # You can then update files or do any other actions as required based on the invoice content.
+        # Extract Order ID from the invoice content
+        ORDER_ID=$(echo "$EMAIL_CONTENT" | grep -oP 'order ID \K\w+')
+        echo "Extracted Order ID: $ORDER_ID"
+        echo "$EMAIL_ATTACHMENT"
+        
+        # This is where you would add the logic to use the extracted order ID
+        # and make updates to your repo or any other actions required.
