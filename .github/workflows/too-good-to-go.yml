@@ -14,10 +14,11 @@ jobs:
 
     - name: Parse invoice and update repo
       run: |
-        # Extract invoice content from payload
-        EMAIL_CONTENT="${{ github.event.client_payload.email_content }}"
-        EMAIL_ATTACHMENT="${{github.event.client_payload.email_attachment}}"
-        
+        # Assign invoice content from payload to EMAIL_CONTENT using here string
+        read -r -d '' EMAIL_CONTENT << 'EOF'
+        ${{ github.event.client_payload.email_content }}
+        EOF
+        EMAIL_ATTACHMENT="${{ github.event.client_payload.email_attachment }}"
         
         # Extract Order ID from the invoice content
         ORDER_ID=$(echo "$EMAIL_CONTENT" | grep -oP 'order ID \K\w+')
