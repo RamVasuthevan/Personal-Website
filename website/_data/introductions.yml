@@ -92,16 +92,18 @@
     - title: "How to run a GitHub Action from a branch other than master?"
       url: https://stackoverflow.com/questions/63480433/how-to-run-a-github-action-from-a-branch-other-than-master
       note: How to run Github Action from the non-main branch for the first time?
+      date: 2020-08-19
     - tite: "How to trigger repository_dispatch event for non-default branch?"
       url: https://github.com/orgs/community/discussions/24657
       note:  repository_dispatch can only be triggered on the default branch
+      date: 2019-10-09
 - name: Regex
   items:
     - title: "Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)"
       url: https://swtch.com/~rsc/regexp/regexp1.html
       author: Russ Cox
-      date_published: 01-2007
+      date_published: 2007-01
     - title: "Regular Expression Matching in the Wild"
       url: https://swtch.com/~rsc/regexp/regexp3.html
       author: Russ Cox
-      date_published: 04-2010
+      date_published: 2010-04
