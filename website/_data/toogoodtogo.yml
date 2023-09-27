@@ -9,7 +9,14 @@
   order_type: Baked Goods
   cost: 7.90
   date: 2023-09-22
-  desciption: 2x Assorted Bun 4pk and Plan Baguette Roll 6pk. Originally, $3.99 and $4.49 respectively and then marked down 40%. Best before September 22nd, for 1 buns packet and roll and September 23rd, for the other bun roll
-  notes:
-  image:
+  desciption: 2x Assorted Bun 4pk and Plain Baguette Roll 6pk. Originally, $3.99 and $4.49 respectively and then marked down 40%. Best before September 22nd, for 1 buns packet and roll and September 23rd, for the other bun roll
+  notes: Used assorted bun to make peanuet butter sandwhich and plain baguette to make cheese and ham sandwhich
+  image: PXL_20230922_231454526.jpg
+- restaurant: bbtease
+  order_type: Surprise Bag
+  cost: 5.64
+  date: 2023-09-26
+  desciption: Dessert square, croissant, cinmonion roll and ginger cookie
+  notes: Had heated croissant with ham and heated cinmonion roll
+  image: PXL_20230922_231454526.jpg
 
