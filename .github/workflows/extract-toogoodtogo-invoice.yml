@@ -1,0 +1,30 @@
+name: Run Extract
+
+on:
+  push:
+    paths:
+      - 'data/toogoodtogo/invoices/**'
+
+jobs:
+  run_extract_script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11.5
+    
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyMuPDF pyyaml
+    
+    - name: Run Extract Script on Changed Files
+      run: |
+        for changed_file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'data/toogoodtogo/invoices/.*\.pdf'); do
+          python scripts/extract.py "$changed_file"
+        done
