@@ -4,7 +4,7 @@ title: Too Good to Go Log
 ---
 
 {% for purchase in site.data.toogoodtogo %}
-<h2>{{ purchase.date }}—{{ purchase.restaurant }} ({{ purchase.order_type }})</h2>
+<h2>{{ purchase.date }} {{ purchase.restaurant }} ({{ purchase.order_type }})</h2>
 <img src="/assets/toogoodtogo/{{ purchase.date }}/{{purchase.image}}" alt="{{ purchase.restaurant }} on {{ purchase.date }}" width="500" /><br>
 <span><strong>Date:</strong> {{ purchase.date }}</span><br>
 <span><strong>Cost:</strong> ${{ purchase.cost }}</span><br>
