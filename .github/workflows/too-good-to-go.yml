@@ -1,0 +1,38 @@
+name: Add Too good to go invoice
+
+on:
+  repository_dispatch:
+    types: [new-invoice]
+
+jobs:
+  process_invoice:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Parse invoice and update repo
+      run: |
+        EMAIL_ATTACHMENT="${{ github.event.client_payload.email_attachment }}"
+        echo "Downloading file from $EMAIL_ATTACHMENT"
+        
+        # Create the directory if it doesn't exist
+        mkdir -p data/toogoodtogo/invoices
+        
+        # Use wget to download the file
+        wget -O data/toogoodtogo/invoices/invoice.pdf "$EMAIL_ATTACHMENT"
+        
+        # Configure git user
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        
+        # Add all new and modified files to the staging area
+        git add .
+        
+        # Commit with a specific message including timestamp and commit hash
+        timestamp=$(date -u)
+        git commit -m "Downloaded: ${timestamp}: commit: ${{ github.sha }}" || exit 0
+        
+        # Push the changes to the main branch
+        git push origin main
