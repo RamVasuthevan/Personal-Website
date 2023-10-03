@@ -7,7 +7,7 @@ title: Too Good to Go Log
 <h2>{{ purchase.date }} {{ purchase.restaurant }} ({{ purchase.order_type }})</h2>
 <img src="/assets/toogoodtogo/{{ purchase.date }}/{{purchase.image}}" alt="{{ purchase.restaurant }} on {{ purchase.date }}" width="500" /><br>
 <span><strong>Date:</strong> {{ purchase.date }}</span><br>
-<span><strong>Cost:</strong> ${{ purchase.cost }}</span><br>
+<span><strong>Cost:</strong> ${{ purchase.cost | printf: "%.2f" }}</span><br>
 {% if purchase.desciption %}<span><strong>Description:</strong> {{ purchase.desciption }}</span><br>{% endif %}
 {% if purchase.notes %}<span><strong>Notes:</strong> {{ purchase.notes }}</span><br>{% endif %}
 <hr>
