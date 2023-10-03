@@ -3,13 +3,40 @@
   cost: 9.03
   date: 2023-09-20
   desciption: 1 6 slice pizza
-  notes: Reheated well, this was a good flavour 
+  notes: Reheats well, this was a good flavour 
   image: PXL_20230921_022550829.jpg
 - restaurant: Longo's - Maple Leaf Square
   order_type: Baked Goods
   cost: 7.90
   date: 2023-09-22
-  desciption: 
-  notes:
-  image:
-
+  desciption: 8 3 Italian buns  buns and 6 assorted baguettes
+  notes: Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, when  when bad before I could eat most of them. I need to proactively freeze them next time.
+  image: PXL_20230922_231454526.jpg
+- restaurant: bbtease
+  order_type: Surprise Bag
+  cost: 5.64
+  date: 2023-09-26
+  desciption: 1 cinnamon roll, one croissant,1 cake square and 1 ginger cookie
+  notes: Tasted great. Heated up the croissant and cinnamon roll and had the croissant with some ham. Cut cookie and cake square into pieces and had them as little snacks
+  image: PXL_20230927_012519413.jpg
+- restaurant: bbtease
+  order_type: Surprise Bag
+  cost: 5.64
+  date: 2023-09-27
+  desciption: 3 cake squares and 1 lemon loaf
+  notes: Tasted good. I took home to my parent's house
+  image: PXL_20230928_212321860.jpg
+- restaurant: Pusateri's (Avenue Road)
+  order_type: Baked Goods
+  cost: 7.90
+  date: 2023-09-28
+  desciption: 4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll and 1 cheese scone
+  notes: This was a hard ticket to get. I have the load of bread to a friend. Frooze the 3 of the bagels and ate the rest within a couple of days
+  image: PXL_20230929_181558281.jpg
+- restaurant: Longo's - Maple Leaf Square
+  order_type: Baked Goods
+  cost: 7.90
+  date: 2023-01-02
+  desciption: 12 assorted buns, 8 mini cheese danish and 6 apple cinnamon scones 
+  notes: I chose two buns to eat soon, and froze the rest of the buns
+  image: PXL_20231003_020256880.jpg
