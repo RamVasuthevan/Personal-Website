@@ -1,22 +1,31 @@
 - name: Jekyll
+  note: Static site generator used to build site
   link: https://jekyllrb.com/
   license_text: MIT License
   license_link: https://github.com/jekyll/jekyll/blob/master/LICENSE
 - name: Minima
+  note: Theme for this site, the default theme for Jekyll
   link: https://github.com/jekyll/minima
   license_text: MIT License
   license_link: https://github.com/jekyll/minima/blob/master/LICENSE.txt
 - name: "jekyll-feed"
+  note: Builds [RSS feed](https://ramvasuthevan.ca/feed.xml) for [Bits, Bips and Bricks](https://ramvasuthevan.ca/bitsbipsbricks)
   link: https://github.com/jekyll/jekyll-feed
   license_text: MIT License
   license_link: https://github.com/jekyll/jekyll-feed/blob/master/LICENSE.txt
 - name: "jekyll-sitemap"
+  note: Builds [sitemap.xml](https://ramvasuthevan.ca/sitemap.xml) for this site
   link: https://github.com/jekyll/jekyll-sitemap
   license_text: MIT License
   license_link: https://github.com/jekyll/jekyll-sitemap/blob/master/LICENSE.md
 - name: "jekyll-seo-tag"
+  note: Adds metadata tags for search engines and social networks. Using a fork which fixes an issue with Twitter Cards
   link: https://github.com/RamVasuthevan/jekyll-seo-tag
   license_text: MIT License
   license_link: https://github.com/RamVasuthevan/jekyll-seo-tag/blob/master/LICENSE.txt
 - name: Weightless
+  note: A simple email list service for static sites
   link: https://weightless.so/
+  license_text: SAAS with a free tier 
+  license_link: https://weightless.so/
+
