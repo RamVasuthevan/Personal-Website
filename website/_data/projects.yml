@@ -6,7 +6,7 @@
   description: "Collection of essays about tech, finance and real estate and the intersection of the three"
 - name: "Ram's Real Estate Site"
   url: "realestate.ramvasuthevan.ca"
-  description: "A site that catalogs my interests in real estate, which doesn't fit on my personal site or Bits, Bips and Bricks. Built using Pandoc and deployed using CloudPages"
+  description: "A place to catalogue my real estate interests. Built using Pandoc and deployed using CloudPages"
 - name: "The GoldenHack"
   url: "https://www.thegoldenhack.ca/"
   description: "Cofounded a hackathon focusing on the intersection between business and technology"
