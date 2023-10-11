@@ -11,7 +11,7 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 <br>
 
-{% include projects.html %}
+{% include projects.html selected_only=true %}
 
 ---
 

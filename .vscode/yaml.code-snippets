@@ -65,7 +65,8 @@
         "body": [
             "- name: $1",
             "  url: $2",
-            "  description: $3"
+            "  description: $3",
+            "  selected: $4"
         ],
         "description": "Add element to projects.yml"
     }
