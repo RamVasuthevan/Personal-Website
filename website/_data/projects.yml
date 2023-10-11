@@ -30,6 +30,10 @@
   url: "https://taxstrategystatement.com/"
   description: "A collection of tax strategy statements which are required to published by large businesses in the UK"
   selected: false
+- name: "Modern Slavery Statements"
+  url: https://modernslaverystatements.com/
+  description: "Some sample modern slavery statements and a short example of their use in the UK and Australia"
+  selected: false
 - name: SavePageNow API
   url: "https://github.com/RamVasuthevan/savepagenow_client"
   description: "A Python wrapper for archive.org’s SavePageNow API"
