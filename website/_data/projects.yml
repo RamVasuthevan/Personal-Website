@@ -5,7 +5,7 @@
   url: "/bitsbipsbricks"
   description: "Collection of essays about tech, finance and real estate and the intersection of the three"
 - name: "Ram's Real Estate Site"
-  url: "realestate.ramvasuthevan.ca"
+  url: https://www.realestate.ramvasuthevan.ca
   description: "A place to catalogue my real estate interests. Built using Pandoc and deployed using CloudPages"
 - name: "The GoldenHack"
   url: "https://www.thegoldenhack.ca/"
