@@ -1,3 +1,16 @@
+- name: This Tweet
+  note: Inspired me to start this website. Started with a Markdown file edited on [StackEdit](https://stackedit.io/), which I manually uploaded to Cloudflare pages
+  link: https://twitter.com/everestpipkin/status/1588636275942502400
+- name: Cloudflare Pages
+  note: Platform to build and deploy JAMstack websites
+  link: https://pages.cloudflare.com/
+  license_text: SAAS with a free tier 
+  license_link: https://www.cloudflare.com/plans/developer-platform/
+- name: Github Repository
+  note: Managed Git with with an scripting [environment](https://github.com/features/actions)
+  link: http://github.com/
+  license_text: SAAS with a free tier 
+  license_link: https://github.com/pricing
 - name: Jekyll
   note: Static site generator used to build site
   link: https://jekyllrb.com/
