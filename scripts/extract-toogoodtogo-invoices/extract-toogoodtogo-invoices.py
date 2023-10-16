@@ -139,8 +139,8 @@ def get_hst_number(file_path, lines):
 
 
 def get_store_name(file_path, lines):
-    store_name = lines.index("Seller")
-    store_name = lines[store_name + 2]
+    store_name_idx = lines.index("Seller")
+    store_name = lines[store_name_idx + 2]
 
     return store_name
 
