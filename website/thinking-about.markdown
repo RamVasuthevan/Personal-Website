@@ -44,7 +44,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - (The canceled) Sidewalk Toronto
     - Leasehold condominiums in Vancouver
     - Public Facility Corporations in Texas
-    - Towns associated with religious groups (Ave Maria (Florida, USA), Antelope (Oregon, USA), Kiryas Joel (New York, USA), Lakewood (New Jersey, USA))
+    - Towns associated with religious groups (Ave Maria (FL), Antelope (OR), Kiryas Joel (NY), Lakewood (NJ))
     - Paradise, Nevada
     - Ward’s Island and Algonquin Island in Toronto
     
