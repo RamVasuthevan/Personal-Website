@@ -47,6 +47,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - Towns associated with religious groups (Ave Maria (FL), Antelope (OR), Kiryas Joel (NY), Lakewood (NJ))
     - Paradise, Nevada
     - Ward’s Island and Algonquin Island in Toronto
+    - Rosemont Illinois <!---  https://twitter.com/north0fnorth/status/1713960831602323613 --->
     
 # Get more from data
 - There are massive amounts of data which is being explicitly and implicitly created
