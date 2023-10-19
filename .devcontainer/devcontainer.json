@@ -14,13 +14,15 @@
                 "GitHub.github-vscode-theme",
                 "github.vscode-github-actions",
                 "GitHub.vscode-pull-request-github",
-                "wingrunr21.vscode-ruby"
+                "wingrunr21.vscode-ruby",
+                "ms-python.python",  // Python
+                "ms-python.vscode-pylance"  // Python
             ]
         }
     },
     "waitFor": "onCreateCommand",
     "updateContentCommand": "cd website && gem update --system && bundle install",
-    "postCreateCommand": "echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
+    "postCreateCommand": "curl https://pyenv.run | bash && echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc && echo 'export PYENV_ROOT=\"$HOME/.pyenv\"' >> ~/.bashrc && echo 'command -v pyenv >/dev/null || export PATH=\"$PYENV_ROOT/bin:$PATH\"' >> ~/.bashrc && echo 'eval \"$(pyenv init --path)\"' >> ~/.bashrc",
     "postAttachCommand": {
         "server": "cd website && jekyll serve"
     },
