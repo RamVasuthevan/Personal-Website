@@ -685,7 +685,7 @@
       amount: '7.99'
       currency: CAD
   description: '1 6 slice pizza'
-  notes: 'Reheats well, this was a good flavour'
+  notes: 'Reheats well. This was a good flavour. Tasted great!'
   image: 2023-09-20/PXL_20230921_022550829.jpg
   hidden: false
 - invoice_name: TGTG_638176-1608
@@ -713,8 +713,8 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '8 3 Italian buns  buns and 6 assorted baguettes'
-  notes: 'Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, when  when bad before I could eat most of them. I need to proactively freeze them next time.'
+  description: '8 3 Italian spicy buns and 6 assorted baguettes'
+  notes: 'Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, they went bad before I could eat most of them. I need to proactively freeze them next time.'
   image: 2023-09-22/PXL_20230922_231454526.jpg
   hidden: false
 - invoice_name: TGTG_1001416-1324
@@ -742,7 +742,7 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: '1 cinnamon roll, one croissant, 1 cake square and 1 ginger cookie'
+  description: '1 cinnamon roll, 1 croissant, 1 cake square and 1 ginger cookie'
   notes: 'Tasted great. Heated up the croissant and cinnamon roll and had the croissant with some ham. Cut cookie and cake square into pieces and had them as little snacks'
   image: 2023-09-26/PXL_20230927_012519413.jpg
   hidden: false
@@ -800,7 +800,7 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll and 1 cheese scone'
+  description: '4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll, 1 cheese scone and 1 apple pastry'
   notes: 'This was a hard ticket to get. I gave the loaf of bread to a friend. Froze 3 of the bagels and ate the rest within a couple of days'
   image: 2023-09-28/PXL_20230929_181558281.jpg
   hidden: false
@@ -858,7 +858,7 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '5 cookies'
+  description: '5 assorted cookies'
   notes: 'Tasted great! Ate them with my family. (My mother starting to eat the cookeies before I took the photo)'
   image: 2023-10-04/PXL_20231004_220057379.jpg
   hidden: false
