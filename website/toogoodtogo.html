@@ -4,11 +4,29 @@ title: Too Good to Go Log
 ---
 
 {% for purchase in site.data.toogoodtogo %}
-<h2>{{ purchase.date }} {{ purchase.restaurant }} ({{ purchase.order_type }})</h2>
-<img src="/assets/toogoodtogo/{{ purchase.date }}/{{purchase.image}}" alt="{{ purchase.restaurant }} on {{ purchase.date }}" width="500" /><br>
-<span><strong>Date:</strong> {{ purchase.date }}</span><br>
-<span><strong>Cost:</strong> ${{ purchase.cost | printf: "%.2f" }}</span><br>
-{% if purchase.desciption %}<span><strong>Description:</strong> {{ purchase.desciption }}</span><br>{% endif %}
-{% if purchase.notes %}<span><strong>Notes:</strong> {{ purchase.notes }}</span><br>{% endif %}
-<hr>
+  {% if purchase.hidden == false %}
+    <h2>{{ purchase.date }} {{ purchase.store_name }} ({{ purchase.invoice_number }})</h2>
+    <img src="/assets/toogoodtogo/{{ purchase.image }}" alt="{{ purchase.store_name }} on {{ purchase.date }}"/><br>
+    <span><strong>Date:</strong> {{ purchase.date }}</span><br>
+    <span><strong>Cost:</strong> {{ purchase.total.amount }} {{ purchase.total.currency }}</span><br>
+    <span><strong>Payment Method:</strong> {{ purchase.payment_method }}</span><br>
+    <span><strong>Seller:</strong> {{ purchase.seller_name }}</span><br>
+    <span><strong>Store Address:</strong> 
+      <ul>
+        {% for address in purchase.store_address %}
+        <li>{{ address }}</li>
+        {% endfor %}
+      </ul>
+    </span><br>
+    <span><strong>Items:</strong>
+      <ul>
+        {% for item in purchase.items %}
+        <li>{{ item.description }} - Quantity: {{ item.quantity }} - Price: {{ item.price }}</li>
+        {% endfor %}
+      </ul>
+    </span><br>
+    {% if purchase.description %}<span><strong>Description:</strong> {{ purchase.description }}</span><br>{% endif %}
+    {% if purchase.notes %}<span><strong>Notes:</strong> {{ purchase.notes }}</span><br>{% endif %}
+    <hr>
+  {% endif %}
 {% endfor %}
