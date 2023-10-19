@@ -772,7 +772,7 @@
       amount: '4.99'
       currency: CAD
   description: '3 cake squares and 1 lemon loaf'
-  notes: "Tasted good. I took home to my parent's house"
+  notes: "Tasted good. I took home them to my parent's house"
   image: 2023-09-27/PXL_20230928_212321860.jpg
   hidden: false
 - invoice_name: TGTG_536211-4224
