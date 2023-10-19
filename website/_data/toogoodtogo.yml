@@ -861,7 +861,7 @@
   description: '5 cookies'
   notes: 'Tasted great! Ate them with my family. (My mother starting to eat the cookeies before I took the photo)'
   image: 2023-10-04/PXL_20231004_220057379.jpg
-  hidden: true
+  hidden: false
 - invoice_name: TGTG_1001416-1407
   date: '2023-10-12'
   invoice_number: TGTG_1001416-1407
@@ -890,4 +890,4 @@
   description: '1 brownie, 1 cake square, 1 ginger cookie and 1 apple crumble'
   notes: 'The apple crumble taste great. I split the brownie, square and cookie into pieces for little snacks'
   image: 2023-10-12/PXL_20231013_015448873.jpg
-  hidden: true
+  hidden: false
