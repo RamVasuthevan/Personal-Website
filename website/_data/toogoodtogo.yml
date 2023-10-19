@@ -660,7 +660,7 @@
   image: 2023-09-15/
   hidden: true
 - invoice_name: TGTG_699121-251
-  date: '2023-09-20'
+  date: '2023-09-20/PXL_20230921_022550829.jpg'
   invoice_number: TGTG_699121-251
   order_id: lgdsubv0n4h
   payment_method: Google Pay
@@ -685,7 +685,7 @@
       amount: '7.99'
       currency: CAD
   description: '1 6 slice pizza'
-  notes: 'Reheats well, this was a good flavour '
+  notes: 'Reheats well, this was a good flavour'
   image: 2023-09-20/PXL_20230921_022550829.jpg
   hidden: false
 - invoice_name: TGTG_638176-1608
@@ -714,7 +714,7 @@
       amount: '6.99'
       currency: CAD
   description: '8 3 Italian buns  buns and 6 assorted baguettes'
-  notes: ' Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, when  when bad before I could eat most of them. I need to proactively freeze them next time.'
+  notes: 'Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, when  when bad before I could eat most of them. I need to proactively freeze them next time.'
   image: 2023-09-22/PXL_20230922_231454526.jpg
   hidden: false
 - invoice_name: TGTG_1001416-1324
@@ -742,7 +742,7 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: '1 cinnamon roll, one croissant,1 cake square and 1 ginger cookie'
+  description: '1 cinnamon roll, one croissant, 1 cake square and 1 ginger cookie'
   notes: 'Tasted great. Heated up the croissant and cinnamon roll and had the croissant with some ham. Cut cookie and cake square into pieces and had them as little snacks'
   image: 2023-09-26/PXL_20230927_012519413.jpg
   hidden: false
@@ -774,7 +774,7 @@
   description: '3 cake squares and 1 lemon loaf'
   notes: "Tasted good. I took home to my parent's house"
   image: 2023-09-27/PXL_20230928_212321860.jpg
-  hidden: true
+  hidden: false
 - invoice_name: TGTG_536211-4224
   date: '2023-09-28'
   invoice_number: TGTG_536211-4224
@@ -831,8 +831,8 @@
       currency: CAD
   description: '12 assorted buns, 8 mini cheese danish and 6 apple cinnamon scones '
   notes: 'I chose two buns to eat soon, and froze the rest of the buns and refrigeratored the danishs and scones'
-  image: 2023-10-02/
-  hidden: true
+  image: 2023-10-02/PXL_20231003_020256880.jpg
+  hidden: false
 - invoice_name: TGTG_699772-1584
   date: '2023-10-04'
   invoice_number: TGTG_699772-1584
@@ -858,9 +858,9 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: ''
-  notes: ''
-  image: 2023-10-04/
+  description: '5 cookies'
+  notes: 'Tasted great! Ate them with my family. (My mother starting to eat the cookeies before I took the photo)'
+  image: 2023-10-04/PXL_20231004_220057379.jpg
   hidden: true
 - invoice_name: TGTG_1001416-1407
   date: '2023-10-12'
@@ -887,7 +887,7 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: ''
-  notes: ''
-  image: 2023-10-12/
+  description: '1 brownie, 1 cake square, 1 ginger cookie and 1 apple crumble'
+  notes: 'The apple crumble taste great. I split the brownie, square and cookie into pieces for little snacks'
+  image: 2023-10-12/PXL_20231013_015448873.jpg
   hidden: true
