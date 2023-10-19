@@ -10,7 +10,6 @@ title: Too Good to Go Log
       <img src="/assets/toogoodtogo/{{ purchase.image }}" alt="{{ purchase.store_name }} on {{ purchase.date }}" width="500" />
     </div>
     <span><strong>Cost:</strong> {{ purchase.total.amount }} {{ purchase.total.currency }}</span><br>
-    </span><br>
     {% if purchase.description %}<span><strong>Description:</strong> {{ purchase.description }}</span><br>{% endif %}
     {% if purchase.notes %}<span><strong>Notes:</strong> {{ purchase.notes }}</span><br>{% endif %}
     <hr>
