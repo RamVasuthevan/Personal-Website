@@ -101,6 +101,10 @@
   author:
   note: Online plain text notepad. Great for drafting
 - title: Open Parliament
-  URL: https://openparliament.ca
+  url: https://openparliament.ca
   note: A great way to search Canadian parliamentary debates 
   author: Michael Mulley  
+- title: Canada Income Tax Calculator
+  url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
+  note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
+  author: Wealthsimple
