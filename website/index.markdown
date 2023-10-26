@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 Hello 👋
@@ -11,18 +11,8 @@ I am a software engineer. I’m interested in technology, finance and real estat
 
 <br>
 
-<table class="table-first-col-nowrap">
-  <tr>
-    <th>Projects</th>
-    <th>Description</th>
-  </tr>
-  {% for project in site.data.projects %}
-  <tr>
-    <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-    <td>{{ project.description }}</td>
-  </tr>
-  {% endfor %}
-</table>
+Here are some selected projects:
+{% include projects.html selected_only=true %}
 
 ---
 

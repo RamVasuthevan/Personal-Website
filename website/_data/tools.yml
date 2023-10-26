@@ -82,7 +82,29 @@
   url: https://www.namecheap.com/domains/registration/results/
   author: Namecheap
   note: Bulk domain name search which lets you search 1000+ TLDs with up to 5000 keywords
+- title: FontSee
+  url: https://fontsee.com/
+  author: 
+  note: Font viewer to see what OTF, TTF, WOFF, WOFF2 fonts look like
 - title: Is My Computer On?
   url: http://ismycomputeron.com/
   author: 
   note: Tool to tell if your computer is on
+- title: EmDa.sh
+  url: EmDa.sh
+  note: Just an em dash ( — ), so that you can easily copy it when you need an em dash
+- title: Twitter Video Downloader
+  URL: https://twittervideodownloader.com/
+  note: Get the actual CDN link to a video or gif on Twitter
+- title: RapidTables Notepad
+  url: https://www.rapidtables.com/tools/notepad.html
+  author:
+  note: Online plain text notepad. Great for drafting
+- title: Open Parliament
+  url: https://openparliament.ca
+  note: A great way to search Canadian parliamentary debates 
+  author: Michael Mulley  
+- title: Canada Income Tax Calculator
+  url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
+  note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
+  author: Wealthsimple

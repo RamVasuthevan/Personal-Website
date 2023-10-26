@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Cache dependencies
         id: cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: website/vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('website/Gemfile.lock') }}

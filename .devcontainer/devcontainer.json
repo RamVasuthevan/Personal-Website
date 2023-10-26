@@ -1,6 +1,5 @@
 {
     "name": "Ruby 2.7.5",
-    "dockerFile": "Dockerfile",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
@@ -15,7 +14,9 @@
                 "GitHub.github-vscode-theme",
                 "github.vscode-github-actions",
                 "GitHub.vscode-pull-request-github",
-                "wingrunr21.vscode-ruby"
+                "wingrunr21.vscode-ruby",
+                "ms-python.python",  // Python
+                "ms-python.vscode-pylance"  // Python
             ]
         }
     },
@@ -23,7 +24,7 @@
     "updateContentCommand": "cd website && gem update --system && bundle install",
     "postCreateCommand": "echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
     "postAttachCommand": {
-        "server": "if [ -d website ]; then cd website; fi && jekyll serve"
+        "server": "cd website && jekyll serve"
     },
     "portsAttributes": {
         "4000": {
