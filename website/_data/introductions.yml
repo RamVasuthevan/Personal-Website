@@ -107,3 +107,13 @@
       url: https://swtch.com/~rsc/regexp/regexp3.html
       author: Russ Cox
       date_published: 2010-04
+- name: Music Royalties
+  items:
+    - title: THE DEFINITIVE GUIDE TO SPOTIFY ROYALTIES
+      url: https://medium.com/@JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00
+      author: Jeff Price
+      date_published: 2020-02-17
+    - title: Round Hill Music Royalty Fund — Music and finance in harmony
+      url: https://www.edisongroup.com/research/music-and-finance-in-harmony/29828/
+      author: Fiona Orford-Williams
+      date_published: 2021-08-21
