@@ -13,12 +13,12 @@ permalink: bitsbipsbricks/Focus
    image_link="https://unsplash.com/photos/qlKaN7eqay8" 
 %}
 
-The last 12 weeks have been great. Helped me figure out what to do with my life.
+The last 12 weeks have been great. Helped me figure out what to do with my life:
 
 I am a software engineer on sabbatical. I am working on applying technology to real estate in Toronto.
 
-https://twitter.com/RamVasuthevan/status/1707499315424379077
-https://twitter.com/joodalooped/status/1698842312741429248
+<!--- https://twitter.com/RamVasuthevan/status/1707499315424379077 -->
+<!--- https://twitter.com/joodalooped/status/1698842312741429248 -->
 
 But my sabbatical is constrained by money and and thus constrained by time. It's now time for focus.
 
