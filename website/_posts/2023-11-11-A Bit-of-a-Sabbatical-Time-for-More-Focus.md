@@ -39,19 +39,4 @@ Projects which will be focusing on:
 
 
 
-I will also work on side projects, especially if they align with my goal of applying technology to real estate.
-
-On the personal side:
-- Relearn content for G1 driver's license test to regain driving confidence with the goal of getting my G license
-    - A G2 license expires after five years. I got my G2 over five years ago. I recently had to retake the G2 test to prevent its expiration. I have not driven much since I got my G2, and I feel the road knowledge loss makes driving uncomfortable. It means that I practice less.
-- Relearn foundational math and independent study of financial math
-    - Naval said that at a certain point, you stop intuitively understanding math and start memorizing formulas. For me, I think that was grade 11. I used to love math, and I'm interested in understanding financial math, statistics and game theory. When I have thought about doing this in the past, the failure mode is spending too much time daydreaming about what I was going to do before taking the first step.
-
-    - The first step for me are: 
-    1. Restablish my habit of using [Math Trainer](https://mathtrainer.ai/) daily
-    2. Getting my copy of [Financial Mathematics: A Comprehensive Treatment](https://www.amazon.com/Financial-Mathematics-Comprehensive-Treatment-Textbooks/dp/1439892423) from my parents house and starting from chapter 1. This is the textbook which is use at Wilfrid Laurier University for many financial mathematics courses. The first chapter shouldn't require calculus. 
-    3. Reading the Ontario Math curriculum and enrolling in either Grade 11 or Grade 12 math through [TVO ILC](https://www.ilc.org/collections/all-courses?uff_3hmf9t_metafield%3Acourse.subject=Mathematics&uff_6qd9x4_metafield%3Acourse.language=English&uff_l29dvv_metafield%3Acourse.course_type=University%20Preparation&uff_pqejq1_metafield%3Acourse.grade=11_usf_12)
-
-- An explicit goal of socializing. With my existing friends and making new friends. I must make a proactive effort to avoid the seasonal depression that comes with living through Canadian winters.
-
-It is now time to impose a totalitarian discipline on myself.
+I will also work on side projects, especially if they align with my goal of applying technology to real estate. It is now time to impose a totalitarian discipline on myself.
