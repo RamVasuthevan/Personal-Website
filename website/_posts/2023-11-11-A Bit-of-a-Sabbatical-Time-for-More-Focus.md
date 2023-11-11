@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "A Bit of a Sabbatical: Time for More Focus"
-image: "/assets/bitsbipsbricks/Sabbatical/mwangi-gatheca-qlKaN7eqay8-unsplash.jpg"
+image: "/assets/bitsbipsbricks/Focus/mwangi-gatheca-qlKaN7eqay8-unsplash.jpg"
 permalink: bitsbipsbricks/Focus
 ---
 
 {% include unsplash_image.html 
-   name="mwangi-gatheca-qlKaN7eqay8-unsplash.jpg" 
-   alt="Descriptive Alt Text" 
-   photographer="Mwangi Gatheca" 
-   username="thirdworldhippy" 
-   image_link="https://unsplash.com/photos/qlKaN7eqay8" 
+   name="patrick-tomasso-61MtRBl1qeE-unsplash.jpg" 
+   alt="Toronto Buildings In Fog" 
+   photographer="Patrick Tomasso" 
+   username="impatrickt" 
+   image_link="https://unsplash.com/photos/high-rise-buildings-covered-with-fog-61MtRBl1qeE" 
 %}
 
 The last 12 weeks have been great. Helped me figure out what to do with my life:
@@ -35,7 +35,7 @@ Projects which will be focusing on:
 4. Bits, Bips and Bricks
     - Write more regularly and about more topics 
     - The vibe that I am going for:
-    https://twitter.com/RamVasuthevan/status/1684079350050881536?s=20
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I really like this. It&#39;s helpful in getting over the little voice in my head that says &quot;It&#39;s not as good as the writers you admire&quot; <a href="https://t.co/h0HzKUrQSm">https://t.co/h0HzKUrQSm</a></p>&mdash; Ram Vasuthevan (in SF Oct 31 - Nov 7) (@RamVasuthevan) <a href="https://twitter.com/RamVasuthevan/status/1684079350050881536?ref_src=twsrc%5Etfw">July 26, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
