@@ -13,12 +13,9 @@ permalink: bitsbipsbricks/Focus
    image_link="https://unsplash.com/photos/high-rise-buildings-covered-with-fog-61MtRBl1qeE" 
 %}
 
-The last 12 weeks have been great. Helped me figure out what to do with my life:
+The last 12 weeks have been great. It helped me figure out what to do with my life:
 
-I am a software engineer on sabbatical. I am working on applying technology to real estate in Toronto.
-
-<!--- https://twitter.com/RamVasuthevan/status/1707499315424379077 -->
-<!--- https://twitter.com/joodalooped/status/1698842312741429248 -->
+_I am a software engineer on sabbatical. I am working on applying technology to real estate in Toronto._
 
 But my sabbatical is constrained by money and and thus constrained by time. It's now time for focus.
 
@@ -39,4 +36,4 @@ Projects which will be focusing on:
 
 
 
-I will also work on side projects, especially if they align with my goal of applying technology to real estate. It is now time to impose a totalitarian discipline on myself.
+I will also work on side projects, especially if they align with my goal of applying technology to real estate but it is now time to impose a totalitarian discipline on myself.
