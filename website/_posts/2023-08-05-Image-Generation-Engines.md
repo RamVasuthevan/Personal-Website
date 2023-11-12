@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The World Has Changed"
+title:  "The World Has Changed:Image Generation Engines"
 image: "/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png"
 
 permalink: bitsbipsbricks/Image-Generation-Engines
@@ -36,4 +36,6 @@ More:
 - **We won't be ready for the next one**
 
 [^1]: I didn't find the number at the time and couldn't find the exact number now
-[^2]: I've changed my mind about what prompt engineering is. Prompt Engineering vs. Blind Prompting — Mitchell Hashimoto
+[^2]: I've changed my mind about what prompt engineering is. See: [Prompt Engineering vs. Blind Prompting — Mitchell Hashimoto](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting)
+
+Edit: 2023-11-11 A link was added to footnote 2 and the title was changed to from `The World Has Changed` to `The World Has Changed:Image Generation Engines`
