@@ -82,7 +82,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.2)
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.17)
   jekyll-seo-tag!
   jekyll-sitemap (~> 1.4)
   minima (~> 2.5)
