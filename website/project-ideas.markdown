@@ -4,6 +4,12 @@ title: Project Ideas for someone else (or future me)
 header_title: Project Ideas 
 ---
 
+# Email to GH Action
+
+- When an email is recived by a specified address, it should trigger a [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) event and its contents should be passed to the Github Action
+- Would be useful to me in automating my [Too Good to Go Log](/toogoodtogo) 
+
+
 # Win a Stock Picking Contest
 
 - Construct a portfolio from an available pool of securities to maximize the chances of winning a stock-picking contest.
