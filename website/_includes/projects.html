@@ -1,12 +1,23 @@
+{% assign show_selected_only = include.selected_only | default: false %}
+
 <table class="table-first-col-nowrap">
     <tr>
       <th>Projects</th>
       <th>Description</th>
     </tr>
     {% for project in site.data.projects %}
-    <tr>
-      <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-      <td>{{ project.description }}</td>
-    </tr>
+      {% if show_selected_only %}
+        {% if project.selected == true %}
+          <tr>
+            <td><a href="{{ project.url }}">{{ project.name }}</a></td>
+            <td>{{ project.description }}</td>
+          </tr>
+        {% endif %}
+      {% else %}
+        <tr>
+          <td><a href="{{ project.url }}">{{ project.name }}</a></td>
+          <td>{{ project.description }}</td>
+        </tr>
+      {% endif %}
     {% endfor %}
-  </table>
+</table>
