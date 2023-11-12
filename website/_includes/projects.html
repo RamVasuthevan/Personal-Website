@@ -10,13 +10,13 @@
         {% if project.selected == true %}
           <tr>
             <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-            <td>{{ project.description }}</td>
+            <td>{{ project.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
           </tr>
         {% endif %}
       {% else %}
         <tr>
           <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-          <td>{{ project.description }}</td>
+          <td>{{ project.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
         </tr>
       {% endif %}
     {% endfor %}
