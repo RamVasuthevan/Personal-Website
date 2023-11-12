@@ -36,4 +36,4 @@ Projects which will be focusing on:
 
 
 
-I will also work on side projects, especially if they align with my goal of applying technology to real estate but it is now time to impose a totalitarian discipline on myself.
+I will also work on side projects, especially if they align with my goal of applying technology to real estate but it is now time to impose a discipline on myself.
