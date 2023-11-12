@@ -3,9 +3,10 @@
         "prefix": "s_acknowledgements",
         "body": [
             "- name: $1",
-            "  link: $2",
-            "  license_text: $3",
-            "  license_link: $4",
+            "  note: $2"
+            "  link: $3",
+            "  license_text: $4",
+            "  license_link: $5",
         ],
         "description": "Add element to acknowledgements.yml"
     },

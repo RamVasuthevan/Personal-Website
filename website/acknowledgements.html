@@ -6,11 +6,13 @@ title: Acknowledgements
 <table>
   <tr>
     <th>Link</th>
+    <th>Note</th>
     <th>License</th>
   </tr>
 {% for acknowledgement in site.data.acknowledgements %}
   <tr>
     <td><a href="{{acknowledgement.link}}" target="_blank">{{acknowledgement.name}}</a></td>
+    <td>{{acknowledgement.note | markdownify | remove: '<p>' | remove: '</p>'}}</td>
     <td><a href="{{acknowledgement.license_link}}" target="_blank">{{acknowledgement.license_text}}</a></td>
   </tr>
 {% endfor %}

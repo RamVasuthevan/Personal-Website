@@ -21,7 +21,7 @@
 title: Ram's Personal Website
 email: FirstName@LastName.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Built by Ram Vasuthevan on the [shoulders of giants](/acknowledgements.html)
+    Built by Ram Vasuthevan with ❤️ on the [shoulders of giants](/acknowledgements.html)
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
