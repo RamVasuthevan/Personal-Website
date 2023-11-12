@@ -44,5 +44,5 @@
   selected: true
 - name: Tweet Archive Converter
   url: https://github.com/RamVasuthevan/tweet-archive-converter
-  description: "Convert the `tweet.js` from [Twitter data archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-x-archive) into a CSV file"
+  description: "Convert `tweet.js` file from [Twitter data archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-x-archive) into a CSV file"
   selected: true
