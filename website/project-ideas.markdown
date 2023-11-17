@@ -37,3 +37,8 @@ Read More:
 - The screenshot looks like it was taken from [Toronto "called Back," from 1888 to 1847, and the Queen's Jubilee](https://books.google.ca/books?id=-R4WAAAAYAAJ&pg=PA239&lpg=PA239&dq=fair+toronto+queen+city+of+the+west+of+thy+sister+cities+thou+art+the+best&source=bl&ots=LKcMmbd4KB&sig=ACfU3U3tcUYg0Zuu84m_hxTw7Cu1OxteTQ&hl=en&sa=X#v=onepage&q&f=false) on page 238
 - It is a sonnet by John Imrie called Toronto from [Songs and Miscellaneous Poems](https://archive.org/details/songsmiscellaneo00imri/page/338/mode/2up?view=theater) on pg 338. (I'm not sure if this is the original source)
 - A live performance or the poem set to music would be cool
+
+# Think Wrapper Podcast Client 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been thinking about how to share a canonical link to a podcast episode. A thin wrapper of the RSS feed, and it&#39;s easy to play the episode on any client.</p>&mdash; Ram Vasuthevan (in SF Oct 31 - Nov 7) (@RamVasuthevan) <a href="https://twitter.com/RamVasuthevan/status/1706028883433095494?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
