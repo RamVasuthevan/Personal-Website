@@ -11,3 +11,12 @@ header_title: Art/Artists I like
 
 ### Asher Brown Durand's The Course of Empire
 - https://en.wikipedia.org/wiki/The_Course_of_Empire_(paintings)
+
+### Natalie Draz 
+- https://www.nataliedraz.com/
+
+### Pascal Normand
+- https://www.nataliedraz.com/collections/original-artwork
+
+### Marsha Strycharz
+- https://marshastrycharz.com/
