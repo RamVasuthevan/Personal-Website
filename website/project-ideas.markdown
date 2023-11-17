@@ -37,3 +37,8 @@ Read More:
 - The screenshot looks like it was taken from [Toronto "called Back," from 1888 to 1847, and the Queen's Jubilee](https://books.google.ca/books?id=-R4WAAAAYAAJ&pg=PA239&lpg=PA239&dq=fair+toronto+queen+city+of+the+west+of+thy+sister+cities+thou+art+the+best&source=bl&ots=LKcMmbd4KB&sig=ACfU3U3tcUYg0Zuu84m_hxTw7Cu1OxteTQ&hl=en&sa=X#v=onepage&q&f=false) on page 238
 - It is a sonnet by John Imrie called Toronto from [Songs and Miscellaneous Poems](https://archive.org/details/songsmiscellaneo00imri/page/338/mode/2up?view=theater) on pg 338. (I'm not sure if this is the original source)
 - A live performance or the poem set to music would be cool
+
+# Spotify Ads Art Project
+
+- Ads on Spotify can interrupt the music from playing. You can buy Spotify ads and speak directly to people.
+- What do you want to say to a thousand strangers? 
