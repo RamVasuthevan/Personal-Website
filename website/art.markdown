@@ -20,3 +20,6 @@ header_title: Art/Artists I like
 
 ### Marsha Strycharz
 - https://marshastrycharz.com/
+
+#### Maureen Bennett
+- https://www.timesgonebystudio.com/
