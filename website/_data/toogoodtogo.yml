@@ -684,8 +684,8 @@
     total:
       amount: '7.99'
       currency: CAD
-  description: '1 6 slice pizza'
-  notes: 'Reheats well. This was a good flavour. Tasted great!'
+  description: 1 6 slice pizza
+  notes: Reheats well. This was a good flavour. Tasted great!
   image: 2023-09-20/PXL_20230921_022550829.jpg
   hidden: false
 - invoice_name: TGTG_638176-1608
@@ -714,7 +714,9 @@
       amount: '6.99'
       currency: CAD
   description: 8 3 Italian spicy buns and 6 assorted baguettes
-  notes: 'Tasted greated, the baguettes tasted great with toated with butter, cheese and ham. Unfortunately, they went bad before I could eat most of them. I need to proactively freeze them next time.'
+  notes: Tasted greated, the baguettes tasted great with toated with butter, cheese
+    and ham. Unfortunately, they went bad before I could eat most of them. I need
+    to proactively freeze them next time.
   image: 2023-09-22/PXL_20230922_231454526.jpg
   hidden: false
 - invoice_name: TGTG_1001416-1324
@@ -742,8 +744,9 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: '1 cinnamon roll, 1 croissant, 1 cake square and 1 ginger cookie'
-  notes: 'Tasted great. Heated up the croissant and cinnamon roll and had the croissant with some ham. Cut cookie and cake square into pieces and had them as little snacks'
+  description: 1 cinnamon roll, 1 croissant, 1 cake square and 1 ginger cookie
+  notes: Tasted great. Heated up the croissant and cinnamon roll and had the croissant
+    with some ham. Cut cookie and cake square into pieces and had them as little snacks
   image: 2023-09-26/PXL_20230927_012519413.jpg
   hidden: false
 - invoice_name: TGTG_1001416-1333
@@ -771,8 +774,8 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: '3 cake squares and 1 lemon loaf'
-  notes: "Tasted good. I took home them to my parent's house"
+  description: 3 cake squares and 1 lemon loaf
+  notes: Tasted good. I took home them to my parent's house
   image: 2023-09-27/PXL_20230928_212321860.jpg
   hidden: false
 - invoice_name: TGTG_536211-4224
@@ -800,8 +803,10 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll, 1 cheese scone and 1 apple pastry'
-  notes: 'This was a hard ticket to get. I gave the loaf of bread to a friend. Froze 3 of the bagels and ate the rest within a couple of days'
+  description: 4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll, 1 cheese
+    scone and 1 apple pastry
+  notes: This was a hard ticket to get. I gave the loaf of bread to a friend. Froze
+    3 of the bagels and ate the rest within a couple of days
   image: 2023-09-28/PXL_20230929_181558281.jpg
   hidden: false
 - invoice_name: TGTG_638176-1644
@@ -830,7 +835,8 @@
       amount: '6.99'
       currency: CAD
   description: '12 assorted buns, 8 mini cheese danish and 6 apple cinnamon scones '
-  notes: 'I chose two buns to eat soon, and froze the rest of the buns and refrigeratored the danishs and scones'
+  notes: I chose two buns to eat soon, and froze the rest of the buns and refrigeratored
+    the danishs and scones
   image: 2023-10-02/PXL_20231003_020256880.jpg
   hidden: false
 - invoice_name: TGTG_699772-1584
@@ -858,8 +864,9 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '5 assorted cookies'
-  notes: 'Tasted great! Ate them with my family. (My mother starting to eat the cookeies before I took the photo)'
+  description: 5 assorted cookies
+  notes: Tasted great! Ate them with my family. (My mother starting to eat the cookeies
+    before I took the photo)
   image: 2023-10-04/PXL_20231004_220057379.jpg
   hidden: false
 - invoice_name: TGTG_1001416-1407
@@ -887,9 +894,68 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: '1 brownie, 1 cake square, 1 ginger cookie and 1 apple crumble'
-  notes: 'The apple crumble taste great. I split the brownie, square and cookie into pieces for little snacks'
+  description: 1 brownie, 1 cake square, 1 ginger cookie and 1 apple crumble
+  notes: The apple crumble taste great. I split the brownie, square and cookie into
+    pieces for little snacks
   image: 2023-10-12/PXL_20231013_015448873.jpg
+  hidden: false
+- invoice_name: TGTG_638176-1691
+  date: '2023-10-18'
+  invoice_number: TGTG_638176-1691
+  order_id: ylmwgy49nmk
+  payment_method: Google Pay
+  seller_name: Longo Brothers Fruit Markets Inc.
+  hst_number: 103382529RT0001
+  store_name: Longo's - Maple Leaf Square
+  store_address:
+  - 15 York Street
+  - M5J 0A3
+  - Toronto
+  hst_amount:
+    amount: '0.91'
+    currency: CAD
+  total:
+    amount: '7.90'
+    currency: CAD
+  items:
+  - description: Longo's - Maple Leaf Square (Baked Goods)
+    quantity: '1'
+    price: $6.99 (CAD)
+    total:
+      amount: '6.99'
+      currency: CAD
+  description: 2 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-10-18, 1 2 croissants best before 2023-10-18 $1.99 marked down to 1.19, 1 1 Everything  croissants 1.99 marked down to 1.19 best before 2012-10-19, 1 10 Oatmeal Basin Cookies $5.99 marked down to 3.59 best before 2023-10-18,
+  notes: 'Cookies and the croissants were good. The bread sticks were too small for ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and alfredo sauce'
+  image: 2023-10-18/PXL_20231018_220946624.jpg
+  hidden: false
+- invoice_name: TGTG_638176-1818
+  date: '2023-11-11'
+  invoice_number: TGTG_638176-1818
+  order_id: j2fafvpkpsa
+  payment_method: Google Pay
+  seller_name: Longo Brothers Fruit Markets Inc.
+  hst_number: 103382529RT0001
+  store_name: Longo's - Maple Leaf Square
+  store_address:
+  - 15 York Street
+  - M5J 0A3
+  - Toronto
+  hst_amount:
+    amount: '0.91'
+    currency: CAD
+  total:
+    amount: '7.90'
+    currency: CAD
+  items:
+  - description: Longo's - Maple Leaf Square (Baked Goods)
+    quantity: '1'
+    price: $6.99 (CAD)
+    total:
+      amount: '6.99'
+      currency: CAD
+  description: 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12, 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11, 1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
+  notes: ''
+  image: 2023-11-11/PXL_20231111_225224161.jpg
   hidden: false
 - invoice_name: TGTG_638176-1851
   date: '2023-11-16'
@@ -916,17 +982,16 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 'Longos Pumpkin Pie ($5.99 marked down 40% to $2.39) (Best before 2023-10-16) x2, Longos Pumpkin Spice Cookies 10pk ($5.99 marked down 40% to $3.59) (Best before 2023-10-16) x3, 1 Longos Plain Bread Sticks 6pk ($5.49 marked down 40% to $3.29) (Best before 2023-11-15), 1 box assorted pastries 1 muffin and 1 apple fritter $1.99 best before 2023-10-20'
+  description: Longos Pumpkin Pie ($5.99 marked down 40% to $2.39) (Best before 2023-10-16)
+    x2, Longos Pumpkin Spice Cookies 10pk ($5.99 marked down 40% to $3.59) (Best before
+    2023-10-16) x3, 1 Longos Plain Bread Sticks 6pk ($5.49 marked down 40% to $3.29)
+    (Best before 2023-11-15), 1 box assorted pastries 1 muffin and 1 apple fritter
+    $1.99 best before 2023-10-20
   notes: ''
   image: 2023-11-16/PXL_20231117_020027475.jpg
   hidden: false
 
-# Longo's - Maple Leaf Square 2012-10-18
-# 2 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-10-18
-# 1 2 croissants best before 2023-10-18 $1.99 marked down to 1.19
-# 1 1 Everything  croissants 1.99 marked down to 1.19 best before 2012-10-19
-# 1 10 Oatmeal Basin Cookies $5.99 marked down to 3.59 best before 2023-10-18
-# Cookies and the croissants were good. The bread sticks were too small for ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and alfredo sauce
+
 
 # Metro 80 Front St E Baked Goods 2023-11-09
 # Front Street Bakery Strawberry Turnovers (390 grams) 1 box with 4 peices inside (98 grams 290 cals) $5.49 marked down to 4.99 Bakery feature and 30%  best before 2023-11-09
@@ -934,10 +999,3 @@
 # FSB Large Cheddar Asiago Pretzel 135 G $2.89 135g 440 cal packaged 2023-11-05 best before 2023-11-09
 # Deli Style Light Rye Bread 450G Baked in Store $3.99 30% off Packaged on 2023-11-04 Best before 2023-11-09
 # Front Street Bakery Rasin 450 g 30% off Best before 2023-11-09
-
-# Longo's - Maple Leaf Square 2012-11-11
-# 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12
-# 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11
-# 1 2 croissants best before 2023-11-12 1.99
-# 1 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
-
