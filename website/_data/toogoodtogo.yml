@@ -684,7 +684,8 @@
     total:
       amount: '7.99'
       currency: CAD
-  description: 1 6 slice pizza
+  description: 
+    - 1 6 slice pizza
   notes: Reheats well. This was a good flavour. Tasted great!
   image: 2023-09-20/PXL_20230921_022550829.jpg
   hidden: false
@@ -713,7 +714,9 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 8 3 Italian spicy buns and 6 assorted baguettes
+  description: 
+    - 8 3 Italian spicy buns
+    - 6 assorted baguettes
   notes: Tasted greated, the baguettes tasted great with toated with butter, cheese
     and ham. Unfortunately, they went bad before I could eat most of them. I need
     to proactively freeze them next time.
@@ -744,7 +747,11 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: 1 cinnamon roll, 1 croissant, 1 cake square and 1 ginger cookie
+  description:
+    - 1 cinnamon roll
+    - 1 croissant
+    - 1 cake square
+    - 1 ginger cookie
   notes: Tasted great. Heated up the croissant and cinnamon roll and had the croissant
     with some ham. Cut cookie and cake square into pieces and had them as little snacks
   image: 2023-09-26/PXL_20230927_012519413.jpg
@@ -774,7 +781,9 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: 3 cake squares and 1 lemon loaf
+  description: 
+    - 3 cake squares
+    - 1 lemon loaf
   notes: Tasted good. I took home them to my parent's house
   image: 2023-09-27/PXL_20230928_212321860.jpg
   hidden: false
@@ -803,8 +812,13 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 4 bagels, 3 croissants, 1 loaf of bread, 1 cinnamon roll, 1 cheese
-    scone and 1 apple pastry
+  description: 
+    - 4 bagels
+    - 3 croissants
+    - 1 loaf of bread
+    - 1 cinnamon roll, 
+    - 1 cheese scone
+    - 1 apple pastry
   notes: This was a hard ticket to get. I gave the loaf of bread to a friend. Froze
     3 of the bagels and ate the rest within a couple of days
   image: 2023-09-28/PXL_20230929_181558281.jpg
@@ -834,7 +848,10 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: '12 assorted buns, 8 mini cheese danish and 6 apple cinnamon scones '
+  description:
+    - 12 assorted buns
+    - 8 mini cheese danish
+    - 6 apple cinnamon scones
   notes: I chose two buns to eat soon, and froze the rest of the buns and refrigeratored
     the danishs and scones
   image: 2023-10-02/PXL_20231003_020256880.jpg
@@ -864,7 +881,8 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 5 assorted cookies
+  description:
+    - 5 assorted cookies
   notes: Tasted great! Ate them with my family. (My mother starting to eat the cookeies
     before I took the photo)
   image: 2023-10-04/PXL_20231004_220057379.jpg
@@ -894,7 +912,11 @@
     total:
       amount: '4.99'
       currency: CAD
-  description: 1 brownie, 1 cake square, 1 ginger cookie and 1 apple crumble
+  description: 
+    - 1 brownie
+    - 1 cake square
+    - 1 ginger cookie
+    - 1 apple crumble
   notes: The apple crumble taste great. I split the brownie, square and cookie into
     pieces for little snacks
   image: 2023-10-12/PXL_20231013_015448873.jpg
@@ -924,7 +946,11 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: <ul><li>6 Plain Bread Sticks - $5.49 (marked down to $3.29) Best before 2023-10-18</li><li>2 Croissants - $1.99 (marked down to $1.19) Best before 2023-10-18</li><li>1 Everything Croissant - $1.99 (marked down to $1.19) Best before 2023-10-19</li><li>10 Oatmeal Raisin Cookies - $5.99 (marked down to $3.59) Best before 2023-10-18</li></ul>
+  description: 
+    - 6 Plain Bread Sticks - $5.49 (marked down to $3.29) Best before 2023-10-18
+    - 2 Croissants - $1.99 (marked down to $1.19) Best before 2023-10-18
+    - 1 Everything Croissant - $1.99 (marked down to $1.19) Best before 2023-10-19
+    - 10 Oatmeal Raisin Cookies - $5.99 (marked down to $3.59) Best before 2023-10-18
   notes: Cookies and the croissants were good. The bread sticks were too small for
     ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and
     alfredo sauce
@@ -984,10 +1010,10 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before
-    2023-11-12, 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11,
-    1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked
-    down to 2.09 best before 2023-11-12
+  description: 
+    - 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12
+    - 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11
+    - 1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
   notes: ''
   image: 2023-11-11/PXL_20231111_225224161.jpg
   hidden: false
@@ -1016,11 +1042,11 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: Longos Pumpkin Pie ($5.99 marked down 40% to $2.39) (Best before 2023-10-16)
-    x2, Longos Pumpkin Spice Cookies 10pk ($5.99 marked down 40% to $3.59) (Best before
-    2023-10-16) x3, 1 Longos Plain Bread Sticks 6pk ($5.49 marked down 40% to $3.29)
-    (Best before 2023-11-15), 1 box assorted pastries 1 muffin and 1 apple fritter
-    $1.99 best before 2023-10-20
+  description: 
+    - Longos Pumpkin Pie ($5.99 marked down 40% to $2.39) (Best before 2023-10-16) x2
+    - Longos Pumpkin Spice Cookies 10pk ($5.99 marked down 40% to $3.59) (Best before 2023-10-16) x3
+    - 1 Longos Plain Bread Sticks 6pk ($5.49 marked down 40% to $3.29) (Best before 2023-11-15)
+    - 1 box assorted pastries 1 muffin and 1 apple fritter $1.99 best before 2023-10-20
   notes: ''
   image: 2023-11-16/PXL_20231117_020027475.jpg
   hidden: false
