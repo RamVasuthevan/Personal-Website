@@ -9,15 +9,19 @@ title: Too Good to Go Log
     <div style="text-align:center;">
       <img src="/assets/toogoodtogo/{{ purchase.image }}" alt="{{ purchase.store_name }} on {{ purchase.date }}" width="500" />
     </div>
-    <span><strong>Cost:</strong> {{ purchase.total.amount }} {{ purchase.total.currency }}</span><br>
-    {% if purchase.description %}<span><strong>Description:</strong>
-      <ul>
-    {% for row in purchase.description %}
-      <li>{{row}}</li>
-    {% endfor %}
+    <div><strong>Cost:</strong> {{ purchase.total.amount }} {{ purchase.total.currency }}</div>
+    {% if purchase.description %}
+      <div><strong>Description:</strong>
+        <ul style="margin-bottom: 0;">
+          {% for row in purchase.description %}
+            <li>{{ row }}</li>
+          {% endfor %}
         </ul>
-    </span>{% endif %}
-    {% if purchase.notes %}<span><strong>Notes:</strong> {{ purchase.notes }}</span><br>{% endif %}
+      </div>
+    {% endif %}
+    {% if purchase.notes %}
+      <div><strong>Notes:</strong> {{ purchase.notes }}</div>
+    {% endif %}
     <hr>
   {% endif %}
 {% endfor %}
