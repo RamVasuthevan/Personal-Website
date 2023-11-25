@@ -1016,9 +1016,10 @@
       amount: '6.99'
       currency: CAD
   description: 
-    - 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12
-    - 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11
-    - 1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
+    - 1 bag of 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12
+    - 1 bag of 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11
+    - 1 box of 2 croissants best before 2023-11-12 1.99
+    - 1 bag of 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
   notes: ''
   image: 2023-11-11/PXL_20231111_225224161.jpg
   hidden: false
