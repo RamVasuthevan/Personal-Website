@@ -981,7 +981,12 @@
     total:
       amount: '5.99'
       currency: CAD
-  description: 'Front Street Bakery Strawberry Turnovers (390 grams) 1 box with 4 peices inside (98 grams 290 cals) $5.49 marked down to 4.99 Bakery feature and 30%  best before 2023-11-09, CT Bakery Caramel Custard Crunch Donunts 1 box with 6 Donunts (48 g per and 160 cal)  best before 2023-11-09 packaged 2023-11-03, FSB Large Cheddar Asiago Pretzel 135 G $2.89 135g 440 cal packaged 2023-11-05 best before 2023-11-09, Deli Style Light Rye Bread 450G Baked in Store $3.99 30% off Packaged on 2023-11-04 Best before 2023-11-09, Front Street Bakery Rasin 450 g 30% off Best before 2023-11-09'
+  description: 
+  - 1 box of 4 Front Street Bakery Strawberry Turnovers (390 grams) $5.49 marked down to 4.99 best before 2023-11-09
+  - 1 box of 6 CT Bakery Caramel Custard Crunch Donunts best before 2023-11-09 packaged 2023-11-03
+  - FSB Large Cheddar Asiago Pretzel 135 G $2.89 packaged 2023-11-05 best before 2023-11-09
+  - Deli Style Light Rye Bread Baked in Store $3.99 (30% off) Packaged on 2023-11-04 Best before 2023-11-09
+  - Front Street Bakery Rasin (30% off) Best before 2023-11-09
   notes: ''
   image: 2023-11-09/PXL_20231110_215638419.jpg
   hidden: false
