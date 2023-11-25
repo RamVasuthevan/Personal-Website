@@ -924,10 +924,44 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 2 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-10-18, 1 2 croissants best before 2023-10-18 $1.99 marked down to 1.19, 1 1 Everything  croissants 1.99 marked down to 1.19 best before 2012-10-19, 1 10 Oatmeal Basin Cookies $5.99 marked down to 3.59 best before 2023-10-18,
-  notes: 'Cookies and the croissants were good. The bread sticks were too small for ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and alfredo sauce'
+  description: 2 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-10-18,
+    1 2 croissants best before 2023-10-18 $1.99 marked down to 1.19, 1 1 Everything  croissants
+    1.99 marked down to 1.19 best before 2012-10-19, 1 10 Oatmeal Basin Cookies $5.99
+    marked down to 3.59 best before 2023-10-18,
+  notes: Cookies and the croissants were good. The bread sticks were too small for
+    ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and
+    alfredo sauce
   image: 2023-10-18/PXL_20231018_220946624.jpg
   hidden: false
+- invoice_name: TGTG_808501-4833
+  date: '2023-11-09'
+  invoice_number: TGTG_808501-4833
+  order_id: 1nsbbfzxjxd
+  payment_method: Google Pay
+  seller_name: Metro Inc
+  hst_number: 105216170RT0001
+  store_name: Metro - 80 Front St E
+  store_address:
+  - Front Street East 80
+  - M5E 1C4
+  - Toronto
+  hst_amount:
+    amount: '0.78'
+    currency: CAD
+  total:
+    amount: '6.77'
+    currency: CAD
+  items:
+  - description: Metro - 80 Front St E (Baked Goods)
+    quantity: '1'
+    price: $5.99 (CAD)
+    total:
+      amount: '5.99'
+      currency: CAD
+  description: ''
+  notes: ''
+  image: 2023-11-09/
+  hidden: true
 - invoice_name: TGTG_638176-1818
   date: '2023-11-11'
   invoice_number: TGTG_638176-1818
@@ -953,7 +987,10 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before 2023-11-12, 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11, 1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked down to 2.09 best before 2023-11-12
+  description: 1 6 Longos Cinnanon Bagels 5.49 discounted to 40% to 3.29 Best before
+    2023-11-12, 1 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-11-11,
+    1 2 croissants best before 2023-11-12 1.99, 1 6 White dinner rolls 3.49 marked
+    down to 2.09 best before 2023-11-12
   notes: ''
   image: 2023-11-11/PXL_20231111_225224161.jpg
   hidden: false
@@ -990,9 +1027,6 @@
   notes: ''
   image: 2023-11-16/PXL_20231117_020027475.jpg
   hidden: false
-
-
-
 # Metro 80 Front St E Baked Goods 2023-11-09
 # Front Street Bakery Strawberry Turnovers (390 grams) 1 box with 4 peices inside (98 grams 290 cals) $5.49 marked down to 4.99 Bakery feature and 30%  best before 2023-11-09
 # CT Bakery Caramel Custard Crunch Donunts 1 box with 6 Donunts (48 g per and 160 cal)  best before 2023-11-09 packaged 2023-11-03
