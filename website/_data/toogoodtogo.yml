@@ -924,10 +924,7 @@
     total:
       amount: '6.99'
       currency: CAD
-  description: 2 6 Plain Bread Sticks 5.49 (marked down to 3.29) Best before 2023-10-18,
-    1 2 croissants best before 2023-10-18 $1.99 marked down to 1.19, 1 1 Everything  croissants
-    1.99 marked down to 1.19 best before 2012-10-19, 1 10 Oatmeal Basin Cookies $5.99
-    marked down to 3.59 best before 2023-10-18,
+  description: <ul><li>6 Plain Bread Sticks - $5.49 (marked down to $3.29) Best before 2023-10-18</li><li>2 Croissants - $1.99 (marked down to $1.19) Best before 2023-10-18</li><li>1 Everything Croissant - $1.99 (marked down to $1.19) Best before 2023-10-19</li><li>10 Oatmeal Raisin Cookies - $5.99 (marked down to $3.59) Best before 2023-10-18</li></ul>
   notes: Cookies and the croissants were good. The bread sticks were too small for
     ham and cheese sandwhichs. I made toasted bread sticks with sriracha sauce and
     alfredo sauce
