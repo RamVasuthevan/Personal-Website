@@ -13,6 +13,8 @@ permalink: bitsbipsbricks/Focus
    image_link="https://unsplash.com/photos/high-rise-buildings-covered-with-fog-61MtRBl1qeE" 
 %}
 
+**Editor's Note: This was written in early November and my views have changed a bit, but I've decided to post this now for posterity**
+
 The last 12 weeks have been great. It helped me figure out what to do with my life:
 
 _I am a software engineer on sabbatical. I am working on applying technology to real estate in Toronto._
