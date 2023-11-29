@@ -99,7 +99,7 @@ No public documents
 
 Clearly, CD110239 is the correct one. AG DB has
 - the offering plan
-- Amendments 17 to 26
+- Amendments 1 to 25
 
 ## Titlevest
 I asked titlevest for 
@@ -118,3 +118,8 @@ I asked titlevest for
 > Offering plans have NOT been filed for plan IDs beginning with CP, HO, and NA.
 > See the Cooperative Policy Statement & No-Action Letter Applications request form for more information about records associated with a CP, HO, or NA plan ID.
 - Requested all plan and Amendments
+
+
+2023-11-29
+- NY AG FOIL unit came back and said that > The documents responsive to your request are posted to the Office of the Attorney General’s (“OAG”) Real Estate Finance Bureau Database
+- Replied asking for amendment 26
