@@ -38,7 +38,8 @@ Read More:
 - It is a sonnet by John Imrie called Toronto from [Songs and Miscellaneous Poems](https://archive.org/details/songsmiscellaneo00imri/page/338/mode/2up?view=theater) on pg 338. (I'm not sure if this is the original source)
 - A live performance or the poem set to music would be cool
 
-# Think Wrapper Podcast Client 
+# Thin RSS Wrapper for Podcasts
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been thinking about how to share a canonical link to a podcast episode. A thin wrapper of the RSS feed, and it&#39;s easy to play the episode on any client.</p>&mdash; Ram Vasuthevan (in SF Oct 31 - Nov 7) (@RamVasuthevan) <a href="https://twitter.com/RamVasuthevan/status/1706028883433095494?ref_src=twsrc%5Etfw">September 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+- I am basically looking for something like [PodLink — Cortex](https://pod.link/1001591696) but it seems to be owned by [Podsights](https://pod.link/terms), which Spotify bought in Feb. 2022
