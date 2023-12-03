@@ -108,3 +108,7 @@
   url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
   note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
   author: Wealthsimple
+- title: Twitter Publish
+  url: https://publish.twitter.com/#
+  author: Twitter
+  note: Quikcly generate Twitter embeds
