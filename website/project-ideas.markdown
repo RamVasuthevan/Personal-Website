@@ -4,12 +4,6 @@ title: Project Ideas for someone else (or future me)
 header_title: Project Ideas 
 ---
 
-# Email to GH Action
-
-- When an email is recived by a specified address, it should trigger a [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) event and its contents should be passed to the Github Action
-- Would be useful to me in automating my [Too Good to Go Log](/toogoodtogo) 
-
-
 # Win a Stock Picking Contest
 
 - Construct a portfolio from an available pool of securities to maximize the chances of winning a stock-picking contest.
@@ -43,3 +37,8 @@ Read More:
 - The screenshot looks like it was taken from [Toronto "called Back," from 1888 to 1847, and the Queen's Jubilee](https://books.google.ca/books?id=-R4WAAAAYAAJ&pg=PA239&lpg=PA239&dq=fair+toronto+queen+city+of+the+west+of+thy+sister+cities+thou+art+the+best&source=bl&ots=LKcMmbd4KB&sig=ACfU3U3tcUYg0Zuu84m_hxTw7Cu1OxteTQ&hl=en&sa=X#v=onepage&q&f=false) on page 238
 - It is a sonnet by John Imrie called Toronto from [Songs and Miscellaneous Poems](https://archive.org/details/songsmiscellaneo00imri/page/338/mode/2up?view=theater) on pg 338. (I'm not sure if this is the original source)
 - A live performance or the poem set to music would be cool
+
+# Email to GH Action
+
+- When an email is recived by a specified address, it should trigger a [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) event and its contents should be passed to the Github Action
+- Would be have useful to me in automating my [Too Good to Go Log](/toogoodtogo) 
