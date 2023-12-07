@@ -41,4 +41,4 @@ Read More:
 # Email to GH Action
 
 - When an email is recived by a specified address, it should trigger a [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) event and its contents should be passed to the Github Action
-- Would be have useful to me in automating my [Too Good to Go Log](/toogoodtogo) 
+- Would be have useful to me in automating my [Too Good to Go Log](/toogoodtogo)
