@@ -22,7 +22,7 @@ read.gift
 [https://read.gift/u/visakanv](https://web.archive.org/web/20220620200845/https://read.gift/u/visakanv)
 
 OpenLibrary Book list
-- This looks like what I am searching for
+- This looks like what I am searching for but I still can't add the reason why I added to the list
 
 Todo:
 - Copy over Book list from Amazon
