@@ -119,4 +119,10 @@
       author: Jeff Price
       date_published: 2020-02-17
       private_note: h/t [AskYatharth](https://x.com/AskYatharth/status/1719879351070826752?s=20)
-    
+- name: Liquid
+  items:
+    - title: Check if variable is type of string or array in liquid
+      url: https://stackoverflow.com/questions/38917552/check-if-variable-is-type-of-string-or-array-in-liquid
+      author: yaitloutou
+      date_published: 2017-01-14
+      note: Use [first](https://shopify.github.io/liquid/filters/first/) to determine if a value is an array
