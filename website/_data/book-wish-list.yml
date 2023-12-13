@@ -1,6 +1,17 @@
 - name: "A Stranger in Your Own City: Travels in the Middle East's Long War"
   author: Ghaith Abdul-Ahad 
-  isbn-10: 0593536886
-  isbn-13: 9780593536889
+  isbn-10: "0593536886"
+  isbn-13: "9780593536889"
   date_added: 2023-12-11
   reason_added: Recommended by Saj Karsan in [A Stranger In Your Own City—Barel Karsan](https://www.barelkarsan.com/2023/12/a-stranger-in-your-own-city.html)
+- name: "Doctor Who: The Legends of River Song"
+  author:
+    - Jenny T. Colgan
+    - Jacqueline Rayner
+    - Steve Lyons
+    - Guy Adams
+    - Andrew Lane 
+  isbn-10: "1785940880"
+  isbn-13: "9781785940880"
+  date_added:  2023-12-12
+  reason_added: Found it on [Tardis | Fandom](https://tardis.fandom.com/wiki/The_Legends_of_River_Song_(anthology))
