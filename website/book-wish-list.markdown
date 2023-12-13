@@ -32,8 +32,12 @@ Todo:
 {% for wish in site.data.book-wish-list %}
 <div>
     <h4>{{wish.name}}</h4>
-    <p>By: {{wish.author}}</p>
-    <p> Buy: <a href="https://www.amazon.com/dp/{{wish.isbn-10}}/">Amazon US</a> <a href="https://www.amazon.ca/dp/{{wish.isbn-10}}/">Amazon Canada</a></p>
+    {%if wish.author.first %}
+    <p>By: {{ wish.author | array_to_sentence_string}}</p>
+    {% else %}
+    <p>By: {{ wish.author }}</p>
+    {% endif %}
+    <p>Buy: <a href="https://www.amazon.com/dp/{{wish.isbn-10}}/">Amazon US</a> <a href="https://www.amazon.ca/dp/{{wish.isbn-10}}/">Amazon Canada</a></p>
     <p>Date Added: {{wish.date_added}}</p>
     <p>Reason Added: {{wish.reason_added | markdownify | remove: '<p>' | remove: '</p>'}}</p>
 </div>
