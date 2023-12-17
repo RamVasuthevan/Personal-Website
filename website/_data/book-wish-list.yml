@@ -69,3 +69,23 @@
   isbn-13: 9781551524887
   date_added: 2023-12-17
   reason_added: It's about an iconic Vancouver nightclub. I am interested in the history of Canada and cities
+- name: "Money Games: The Inside Story of How American Dealmakers Saved Korea's Most Iconic Bank"
+  author: Weijian Shan 
+  isbn-10: 1394172575
+  isbn-13: 9781394172573
+  date_added: 2022-12-28
+  reason_added: From Byrne Hobart's book list
+  migrated: Amazon_CA_Book_List
+- name: "The Art of Doing Science and Engineering: Learning to Learn"
+  author: Richard Hamming 
+  isbn-10: 1732265178
+  isbn-13: 9781732265172
+  date_added: 2023-12-17
+  reason_added: Published by Stripe Press. Seems cool
+- name: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
+  author: James C. Scott 
+  isbn-10: 0300246757
+  isbn-13: 9780300246759
+  date_added: 2021-11-22
+  reason_added: "From my [quake articles](/quake-articles), [Book Review: Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) by Scott Alexander"
+  migrated: Amazon_US_Shopping_List
