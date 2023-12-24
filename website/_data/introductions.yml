@@ -119,4 +119,9 @@
       author: Jeff Price
       date_published: 2020-02-17
       private_note: h/t [AskYatharth](https://x.com/AskYatharth/status/1719879351070826752?s=20)
-    
+- name: Static Site Generator
+  items:
+    - title: Possibly The Easiest Way to Run an SSG
+      url: https://css-tricks.com/possibly-the-easiest-way-to-run-an-ssg/
+      author: Chris Coyier
+      note: Eleventy is great way to have a simple SSG that handles [HTML includes](https://css-tricks.com/the-simplest-ways-to-handle-html-includes/)
