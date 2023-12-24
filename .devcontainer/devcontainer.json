@@ -24,7 +24,7 @@
     "updateContentCommand": "cd website && gem update --system && bundle install",
     "postCreateCommand": "echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
     "postAttachCommand": {
-        "server": "cd website && jekyll serve"
+        "server": "cd website && bundle exec jekyll serve"
     },
     "portsAttributes": {
         "4000": {
