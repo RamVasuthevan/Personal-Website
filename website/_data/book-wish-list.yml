@@ -115,3 +115,9 @@
   isbn-13: 9781329871274
   date_added: 2023-12-24
   reason_added: "Recommended by Cal Paterson in [An oral history of Bank Python](https://calpaterson.com/bank-python.html#:~:text=one%20thing%20i%20regret%20about%20software%20as%20a%20field%20is%20how%20little%20time%20is%20spent%20learning%20from%20existing%20systems%20and%20judging%20what%20they%20did%20well%2C%20or%20badly.%20there%20are%20only%20a%20small%20number%20of%20books%20discussing%2C%20in%20detail%2C%20real%20systems%20that%20exist.). I want to get better an system design"
+- name: "Good Flag, Bad Flag"
+  author:  Ted Kaye
+  isbn-10: 097477281X
+  isbn-13: 978-0974772813
+  date_added: 2023-12-24
+  reason_added: "The iconic flag book mentioned by CGP Grey in [First Thoughts on Minnesota's Final Flag](https://www.patreon.com/posts/first-thoughts-95001591). Also, referenced by Roman Mars by [Why city flags may be the worst-designed thing you've never noticed](https://www.youtube.com/watch?v=pnv5iKB2hl4)"
