@@ -23,6 +23,7 @@ read.gift
 
 OpenLibrary Book list
 - This looks like what I am searching for but I still can't add the reason why I added to the list
+- There are book notes, which are private. I could use that as the reason I want to read abook. But reason there is now way in the UI to see all of the book notes at once
 
 Todo:
 - Copy over Book list from Amazon
