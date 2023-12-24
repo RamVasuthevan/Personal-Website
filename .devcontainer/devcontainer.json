@@ -21,7 +21,7 @@
         }
     },
     "waitFor": "onCreateCommand",
-    "updateContentCommand": "cd website && gem update --system && bundle install",
+    "updateContentCommand": "cd website && gem update --system && bundle install && gem cleanup",
     "postCreateCommand": "echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
     "postAttachCommand": {
         "server": "cd website && jekyll serve"
