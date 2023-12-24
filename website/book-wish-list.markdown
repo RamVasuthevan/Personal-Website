@@ -27,6 +27,7 @@ OpenLibrary Book list
 
 Todo:
 - Copy over Book list from Amazon
+- Think I should I one field for where did I learn about this and why do I want to add this
 
 <h1>Books I want to read:</h1>
 
