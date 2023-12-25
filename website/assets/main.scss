@@ -4,6 +4,15 @@
 
 @import "minima";
 
+.wrapper {
+  max-width: calc(825px - 30px * 2);
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: calc(850px - (30px));
+  }
+}
+
 .collections-note {
     color: grey;
     @include relative-font-size(0.875);
