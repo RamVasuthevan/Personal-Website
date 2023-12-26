@@ -27,7 +27,7 @@ OpenLibrary Book list
 
 Todo:
 - Copy over Book list from Amazon
-- Think I should I one field for where did I learn about this and why do I want to add this
+- This is not data dense enough, make I should use a table
 
 <h1>Books I want to read:</h1>
 
@@ -41,6 +41,9 @@ Todo:
     {% endif %}
     <p>Buy: <a href="https://www.amazon.com/dp/{{wish.isbn-10}}/">Amazon US</a> <a href="https://www.amazon.ca/dp/{{wish.isbn-10}}/">Amazon Canada</a></p>
     <p>Date Added: {{wish.date_added}}</p>
+    {% if wish.recommendation %}
+    <p>Where I found: {{wish.recommendation | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {% endif %}
     <p>Reason Added: {{wish.reason_added | markdownify | remove: '<p>' | remove: '</p>'}}</p>
 </div>
 {% endfor %}
