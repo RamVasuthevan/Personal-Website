@@ -145,3 +145,12 @@
   date_added: 2023-12-27
   recommended: Mentioned in this New Yorker [article](https://www.newyorker.com/magazine/2024/01/01/american-poly-christopher-gleason-book-review-more-a-memoir-of-open-marriage-molly-roden-winter) by Jennifer Wilson
   reason_added: "I'm interested in memoirs about people diffrent from me"
+- name: "The Missing Billionaires: A Guide to Better Financial Decisions"
+  author:
+    - James White
+    - Victor Haghani
+  isbn-10: 
+  isbn-13:
+  recommendation: "Dave Friedman on [Twitter](https://twitter.com/friedmandave/status/1740023528878215575?t=Vu7hJe4NI4cc_PFwalExFw&s=19)"
+  reason_added: "I am interested social economic mobility. Seems like a great addtion to Piketty's Capital in the Twenty-First Century. Victor Haghani was one of the founding partners of Long-Term Capital Management"
+
