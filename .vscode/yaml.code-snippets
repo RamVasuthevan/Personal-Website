@@ -70,5 +70,17 @@
             "  selected: $4"
         ],
         "description": "Add element to projects.yml"
+    },
+    "Books Element": {
+        "prefix": "s_book_list",
+        "body": [
+            "- name: $1",
+            "  author: $2",
+            "  isbn-10: $3",
+            "  isbn-13: $4",
+            "  recommendation: $5",
+            "  reason_added: $6"
+        ],
+        "description": "Add element to books.yml"
     }
 }
