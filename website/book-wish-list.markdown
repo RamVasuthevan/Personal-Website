@@ -3,6 +3,11 @@ layout: page
 title: Book Wish List
 ---
 
+
+Add:
+- https://twitter.com/misha_saul/status/1741395928911843480
+
+
 I currently use Amazon to track by book wish list.
 
 Amazon Wish List
