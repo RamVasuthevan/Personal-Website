@@ -198,3 +198,17 @@
   isbn-13: 9780141000329
   recommendation: "Misha Saul [recommended](https://twitter.com/misha_saul/status/1741219596521345221) the book and the [review](https://www.thepsmiths.com/p/review-south-africas-brave-new-world) by John Psmith "
   reason_added: "I am interested in regime change"
+- name: The Alchemy of Finance
+  author: George Soros 
+  isbn-10: 0471445495
+  isbn-13: 9780471445494
+  recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
+  reason_added: Writen by Soros himself
+- name: "Softwar: An Intimate Portrait of Larry Ellison and Oracle"
+  author: 
+    - Matthew Symonds 
+    - Larry Ellison
+  isbn-10: 0743225058
+  isbn-13:  9780743225052
+  recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
+  reason_added: Ellison resonds in the footnotes
