@@ -212,3 +212,11 @@
   isbn-13:  9780743225052
   recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
   reason_added: Ellison resonds in the footnotes
+- name: "The Red Atlas: How the Soviet Union Secretly Mapped the World"
+  author:
+    - John Davies 
+    - Alexander J. Kent
+  isbn-10: 022638957X
+  isbn-13: 9780226389578
+  recommendation: "Was the source for Jay Foreman's [Why does Russia have the best maps of Britain?](https://www.youtube.com/watch?v=_bqzwsM6eoQ&list=PLG38rlEKgrZ973NrI6jGXt2ZGaa-5OHdn&index=11&t=403s)"
+  reason_added: I am interested in geopolitics
