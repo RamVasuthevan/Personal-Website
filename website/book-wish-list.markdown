@@ -6,6 +6,7 @@ title: Book Wish List
 
 Add:
 - https://twitter.com/misha_saul/status/1741395928911843480
+- https://crimereads.com/what-ozark-gets-wrong-the-latest-tricks-in-international-money-laundering/
 
 
 I currently use Amazon to track by book wish list.
