@@ -16,7 +16,8 @@
                 "GitHub.vscode-pull-request-github",
                 "wingrunr21.vscode-ruby",
                 "ms-python.python",  // Python
-                "ms-python.vscode-pylance"  // Python
+                "ms-python.vscode-pylance",  // Python
+                "mathematic.vscode-pdf"
             ]
         }
     },
