@@ -279,7 +279,6 @@ def create_yaml(details) -> str:
         if value is not None:  # Exclude fields that have None as a value
             ordered_details[field] = value
 
-
     # Dump the ordered dictionary to a YAML string
     yaml_str = yaml.dump(ordered_details, default_flow_style=False, sort_keys=False)
 
@@ -289,7 +288,7 @@ def create_yaml(details) -> str:
 def load(details: dict, OUTPUT_FILE: str) -> None:
     details["description"] = ""
     details["notes"] = ""
-    details["image"] = details["date"]+"/"
+    details["image"] = details["date"] + "/"
     details["hidden"] = True
 
     # Convert the detail dictionary to a YAML string
@@ -314,7 +313,6 @@ def load(details: dict, OUTPUT_FILE: str) -> None:
 
     # Add the new invoice to the list
     existing_invoices.append(details)
-    
 
     # Sort the invoices by date
     existing_invoices.sort(
@@ -361,10 +359,12 @@ def list_files_in_INVOICE_DIRECTORY(INVOICE_DIRECTORY=INVOICE_DIRECTORY):
 if __name__ == "__main__":
     if len(sys.argv) > 1:  # Check if any command line arguments are provided
         # If yes, then treat those arguments as file paths to be processed
-        invoice_file_paths = sys.argv[1:]  # Exclude the first argument which is the script name
+        invoice_file_paths = sys.argv[
+            1:
+        ]  # Exclude the first argument which is the script name
     else:
         # If no arguments are provided, revert to listing files in INVOICE_DIRECTORY
         invoice_file_paths = list_files_in_INVOICE_DIRECTORY()
-        
+
     # Call the process_invoices function with the list of invoice file paths and the output file path
     process_invoices(invoice_file_paths, OUTPUT_FILE)
