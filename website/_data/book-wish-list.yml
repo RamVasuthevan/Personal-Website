@@ -220,3 +220,15 @@
   isbn-13: 9780226389578
   recommendation: "Was the source for Jay Foreman's [Why does Russia have the best maps of Britain?](https://www.youtube.com/watch?v=_bqzwsM6eoQ&list=PLG38rlEKgrZ973NrI6jGXt2ZGaa-5OHdn&index=11&t=403s)"
   reason_added: I am interested in geopolitics
+- name: "The Gene: An Intimate History"
+  author: "Siddhartha Mukherjee"
+  isbn-10: 1476733503
+  isbn-13: "9781476733500"
+  recommendation: Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1744072422045909240)
+  reason_added: "Seems interesting"
+- name: "Liberalism Disavowed: Communitarianism and State Capitalism in Singapore"
+  author: Beng Huat Chua 
+  isbn-10: 1501713442
+  isbn-13: 9781501713446
+  recommendation: "Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1603507279659012096) when I asked about SG housing"
+  reason_added: "I am interested in Singapore, housing and geopolitics"
