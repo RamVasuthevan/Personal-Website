@@ -3,11 +3,6 @@ layout: page
 title: Book Wish List
 ---
 
-
-Add:
-- https://crimereads.com/what-ozark-gets-wrong-the-latest-tricks-in-international-money-laundering/
-
-
 I currently use Amazon to track by book wish list.
 
 Amazon Wish List
