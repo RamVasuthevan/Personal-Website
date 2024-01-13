@@ -153,18 +153,21 @@
   isbn-13: 9781119747918
   recommendation: "Dave Friedman on [Twitter](https://twitter.com/friedmandave/status/1740023528878215575?t=Vu7hJe4NI4cc_PFwalExFw&s=19)"
   reason_added: "I am interested social economic mobility. Seems like a great addtion to Piketty's Capital in the Twenty-First Century. Victor Haghani was one of the founding partners of Long-Term Capital Management"
+  date_added: 2023-12-27
 - name: "Moral Basis of a Backward Society"
   author: "Edward C. Banfield"
   isbn-10: 0029015103
   isbn-13: 9780029015100
   recommendation: "Recommended by [Ariele](https://twitter.com/weatherdai)"
   reason_added: I am interested in why some places are rich and others are poor
+  date_added: 2023-12-29
 - name: "Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons"
   author: "Edward J. Renehan Jr. "
   isbn-10: 0465068863
   isbn-13: 9780465068869
   recommendation: "Recommended by [Amanda Orson](https://x.com/amandaorson/status/1740121012379775164?s=20)"
   reason_added: Business biography, from the robber baron era
+  date_added: 2023-12-29
 - name: "Wilhelm II: Into the Abyss of War and Exile"
   author: 
     - John C. G. Röhl
@@ -174,36 +177,42 @@
   isbn-13: 9781107544192
   recommendation: "[Recommended](https://twitter.com/TheMindScourge/status/1741272370805965032) by [The Mind Scourge](https://twitter.com/TheMindScourge) to Misha Saul."
   reason_added: "'This final volume of John C. G. Röhl's acclaimed biography of Kaiser Wilhelm II reveals the Kaiser's central role in the origins of the First World War' I am interested is bismark"
+  date_added: 2023-12-31
 - name: "The Strategy of Denial: American Defense in an Age of Great Power Conflict "
   author: Elbridge A. Colby (
   isbn-10: 0300256434
   isbn-13: 9780300256437
   recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
   reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
 - name: "The Other Great Game: The Opening of Korea and the Birth of Modern East Asia "
   author: Sheila Miyoshi Jager
   isbn-10: 0674983394
   isbn-13: 9780674983397
   recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
   reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
 - name: "We May Dominate the World: Ambition, Anxiety, and the Rise of the American Colossus"
   author: Sean A Mirski 
   isbn-10: 1541758439
   isbn-13: 9781541758438
   recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
   reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
 - name: "South Africa's Brave New World: The Beloved Country Since The End Of Apartheid"
   author: "John Psmith"
   isbn-10: 0141000325
   isbn-13: 9780141000329
   recommendation: "Misha Saul [recommended](https://twitter.com/misha_saul/status/1741219596521345221) the book and the [review](https://www.thepsmiths.com/p/review-south-africas-brave-new-world) by John Psmith "
   reason_added: "I am interested in regime change"
+  date_added: 2023-12-31
 - name: The Alchemy of Finance
   author: George Soros 
   isbn-10: 0471445495
   isbn-13: 9780471445494
   recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
   reason_added: Writen by Soros himself
+  date_added: 2023-12-31
 - name: "Softwar: An Intimate Portrait of Larry Ellison and Oracle"
   author: 
     - Matthew Symonds 
@@ -212,6 +221,7 @@
   isbn-13:  9780743225052
   recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
   reason_added: Ellison resonds in the footnotes
+  date_added: 2023-12-31
 - name: "The Red Atlas: How the Soviet Union Secretly Mapped the World"
   author:
     - John Davies 
@@ -220,46 +230,54 @@
   isbn-13: 9780226389578
   recommendation: "Was the source for Jay Foreman's [Why does Russia have the best maps of Britain?](https://www.youtube.com/watch?v=_bqzwsM6eoQ&list=PLG38rlEKgrZ973NrI6jGXt2ZGaa-5OHdn&index=11&t=403s)"
   reason_added: I am interested in geopolitics
+  date_added: 20240-01-03
 - name: "The Gene: An Intimate History"
   author: "Siddhartha Mukherjee"
   isbn-10: 1476733503
   isbn-13: "9781476733500"
   recommendation: Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1744072422045909240)
   reason_added: "Seems interesting"
+  date_added: 2024-01-07
 - name: "Liberalism Disavowed: Communitarianism and State Capitalism in Singapore"
   author: Beng Huat Chua 
   isbn-10: 1501713442
   isbn-13: 9781501713446
   recommendation: "Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1603507279659012096) when I asked about SG housing"
   reason_added: "I am interested in Singapore, housing and geopolitics"
+  date_added: 2024-01-07
 - name: "India After Gandhi: The History of the World's Largest Democracy"
   author: Ramachandra Guha 
   isbn-10: 0060958588
   recommendation: "Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1603507279659012096) when I ask about a political history of India"
   reason_added: "I am intrested in India and geopolitics"
+  date_added: 2024-01-07
 - name: "Tycoon's War: How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer"
   author: Stephen Dando-Collins
   isbn-10: 0306818566
   isbn-13: "978-0306818561"
   recommendation: Recommended by [cruelsardaukar](https://twitter.com/cruelsardaukar/status/1744957998974243020)
   reason_added: "At thhe intersection of two of my favourite topics: geopolitics and business strategy"
+  date_added: 2024-01-10
 - name: "On the Old West Coast: Being Further Reminiscences of a Ranger"
   author: Horace Bell
   asin: B001ANKS62
   recommendation:  Recommended by [cruelsardaukar](https://x.com/cruelsardaukar/status/1744967345636884492?s=20)
   reason_added: "Appreantly about geopolitics and business strategy"
+  date_added: 2024-01-10
 - name: "Equality and Authority: a Study of Class, Status and Power in Australia"
   author: "S. Encel"
   isbn-10: 0422736104
   isbn-13:  9780422736107
   recommendation: "Mentioned in [Misha Saul](https://x.com/misha_saul/status/1741395928911843480?s=20)"
   reason_added: "I'm interested in class and social economic mobility"
+  date_added: 2024-01-10
 - name: "Percentages of Guilt"
   author: Michael Niemann 
   isbn-10: 1603816747
   isbn-13: 978-1603816748
   recommendation: "Written by the author of this [article](https://crimereads.com/what-ozark-gets-wrong-the-latest-tricks-in-international-money-laundering/), about the Russian laundromat"
   reason_added: I am interested in white collar crime and stories about power
+  date_added: 2024-01-10
 - name: "Confessions of a Real Estate Entrepreneur: What It Takes to Win in High-Stakes Commercial Real Estate: What it Takes to Win in High-Stakes Commercial Real Estate"
   author:
   - James Randel
@@ -268,9 +286,11 @@
   isbn-13: 9780071467933
   recommendation: "Mentioned by [SnufferBottle](https://twitter.com/SnufferBottle/status/1745911522688127156?s=20) in a thread about a firm which optioned some land, upzoned and reaped a massive profit"
   reason_added: "I am intrested in real estate"
+  date_added: 2024-01-13
 - name: "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market"
   author:  Edward O. Thorp
   isbn-10: 1400067960
   isbn-13: 9781400067961
   recommendation: "Made a huge impact on [The Rational Walk](https://twitter.com/rationalwalk/status/1743367886129766859?s=20)"
   reason_added: I am intrested in finance and biographies
+  date_added: 2024-01-13

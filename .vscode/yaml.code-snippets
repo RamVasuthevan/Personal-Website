@@ -79,7 +79,8 @@
             "  isbn-10: $3",
             "  isbn-13: $4",
             "  recommendation: $5",
-            "  reason_added: $6"
+            "  reason_added: $6",
+            "  date_added: $7"
         ],
         "description": "Add element to books.yml"
     }
