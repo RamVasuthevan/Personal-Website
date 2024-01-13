@@ -260,3 +260,11 @@
   isbn-13: 978-1603816748
   recommendation: "Written by the author of this [article](https://crimereads.com/what-ozark-gets-wrong-the-latest-tricks-in-international-money-laundering/), about the Russian laundromat"
   reason_added: I am interested in white collar crime and stories about power
+- name: "Confessions of a Real Estate Entrepreneur: What It Takes to Win in High-Stakes Commercial Real Estate: What it Takes to Win in High-Stakes Commercial Real Estate"
+  author:
+  - James Randel
+  - Jim Randel
+  isbn-10: 0071467939
+  isbn-13: 9780071467933
+  recommendation: "Mentioned by [SnufferBottle](https://twitter.com/SnufferBottle/status/1745911522688127156?s=20) in a thread about a firm which optioned some land, upzoned and reaped a massive profit"
+  reason_added: "I am intrested in real estate"
