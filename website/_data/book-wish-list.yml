@@ -294,3 +294,12 @@
   recommendation: "Made a huge impact on [The Rational Walk](https://twitter.com/rationalwalk/status/1743367886129766859?s=20)"
   reason_added: I am intrested in finance and biographies
   date_added: 2024-01-13
+- name: The Oxford Handbook of Historical Political Economy
+  editor: 
+    - Jeffery A Jenkins
+    - Jared Rubin 
+  isbn-10: 019761860X
+  isbn-13: 9780197618608
+  recommendation: "From this [tweet](https://twitter.com/jaredcrubin/status/1605275288241315840?lang=en) by Jared Rubin"
+  reason_added: "I am interested in political economy"
+  date_added: 2024-01-13
