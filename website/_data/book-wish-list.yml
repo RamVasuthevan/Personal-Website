@@ -303,3 +303,10 @@
   recommendation: "From this [tweet](https://twitter.com/jaredcrubin/status/1605275288241315840?lang=en) by Jared Rubin"
   reason_added: "I am interested in political economy"
   date_added: 2024-01-13
+- name: "Pimp: The Story of My Life"
+  author: Iceberg Slim 
+  isbn-10: 1451617135
+  isbn-13: 9781451617139
+  recommendation: Mentioned by David Chappelle in this [bit](https://www.youtube.com/shorts/9HdsA-y9eJ0?app=desktop) 
+  reason_added: "I am interested in biographies and crime"
+  date_added: 2024-01-15
