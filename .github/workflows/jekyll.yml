@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Cache dependencies
         id: cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: website/vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('website/Gemfile.lock') }}
