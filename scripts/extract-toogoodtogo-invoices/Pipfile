@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pymupdf = "1.23.12"
+pymupdf = "1.23.16"
 pyyaml = "6.0.1"
 
 [dev-packages]
