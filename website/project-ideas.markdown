@@ -40,5 +40,5 @@ Read More:
 
 # Spotify Ads Art Project
 
-- Ads on Spotify can interrupt the music from playing. You can buy Spotify ads and speak directly to people.
-- What do you want to say to a thousand strangers? 
+- Audio ads on Spotify interrupt the music. You can [buy these Spotify ads](https://ads.spotify.com/en-CA/)
+- What do you want to say to a captive audience of thousands of strangers?
