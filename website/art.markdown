@@ -4,7 +4,7 @@ title: Art I like
 header_title: Art/Artists I like
 ---
 
-[Why am I creating this page]
+Here is some art and artist which I like
 
 <!-- ### Catherine Jeffrey's November Rain, Bay and Dundas (Toronto) -->
 <!-- - https://digitalarchive.tpl.ca/objects/281918/november-rain-bay-and-dundas-toronto?ctx=fb2689d2348e8cfcb0ab9464b5a98f723f7d0bcd&idx=1  -->
@@ -42,9 +42,12 @@ header_title: Art/Artists I like
 <!--From https://en.wikipedia.org/wiki/The_Black_Brunswicker#/media/File:John_Everett_Millais_The_Black_Brunswicker.jpg -->
 
 ### [Jacques-Louis David's The Lictors Bring to Brutus the Bodies of His Sons](https://en.wikipedia.org/wiki/The_Lictors_Bring_to_Brutus_the_Bodies_of_His_Sons)
-<img src ="/assets/art/jacques_louis_david/jacques_Louis_David_the_lictors_bring_to_brutus_the_bodies_of_his_sons.jpg">
+<img src ="/assets/art/jacques_louis_david/jacques_louis_david_the_lictors_bring_to_brutus_the_bodies_of_his_sons.jpg">
 <!--From https://en.wikipedia.org/wiki/The_Lictors_Bring_to_Brutus_the_Bodies_of_His_Sons#/media/File:David_Brutus.jpg -->
 
+### [Jacques-Louis David's The Death of Socrates](https://www.youtube.com/watch?v=rKhfFBbVtFg)
+<img src ="/assets/art/jacques_louis_david/jacques_louis_david_the_death_of_socrates.jpg">
+<!--From https://en.wikipedia.org/wiki/The_Death_of_Socrates#/media/File:David_-_The_Death_of_Socrates.jpg -->
 
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
