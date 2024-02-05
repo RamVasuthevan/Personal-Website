@@ -47,3 +47,23 @@ Todo:
     <p>Reason Added: {{wish.reason_added | markdownify | remove: '<p>' | remove: '</p>'}}</p>
 </div>
 {% endfor %}
+
+
+<table>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Recommendation</th>
+      <th>Reason Added</th>
+      <th>Date Added</th>
+    </tr>
+    {% for book in site.data.book-wish-list %}
+    <tr>
+        <td style="word-wrap: break-word; max-width: 150px;">{{book.name}}</td>
+        <td style="word-wrap: break-word; max-width: 150px;">{{book.author}}</td>
+        <td style="word-wrap: break-word; max-width: 150px;">{{book.recommendation  | markdownify | remove: '<p>' | remove: '</p>'}}</td>
+        <td style="word-wrap: break-word; max-width: 150px;">{{book.reason_added  | markdownify | remove: '<p>' | remove: '</p>'}}</td>
+        <td style="word-wrap: break-word; max-width: 150px;">{{book.date_added}}</td>
+    </tr>
+    {% endfor %}
+</table>
