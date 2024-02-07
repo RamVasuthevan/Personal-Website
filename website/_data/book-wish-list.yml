@@ -380,3 +380,10 @@
   isbn-13: 9780143109372
   reason_added: It's a book about the global cocaine trade. I am interested in crime.
   date_added: 2024-02-04
+- name: "The Logic of Collective Action: Public Goods and the Theory of Groups"
+  author:  Mancur Olson Jr.
+  isbn-10: 0674537513
+  isbn-13: 9780674537514
+  recommendation: Recommended by Brendan Miller in [The Economics Idea That Will Defeat The Housing Mafia | Logic of Collective Action, Explained](https://www.youtube.com/watch?v=XKEbxd_F7gE)
+  reason_added: I am intrested in YIMBYism and political economy. 
+  date_added: 2024-02-06
