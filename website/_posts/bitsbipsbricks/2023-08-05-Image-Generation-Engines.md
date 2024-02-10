@@ -4,6 +4,7 @@ title:  "The World Has Changed:Image Generation Engines"
 image: "/assets/bitsbipsbricks/Image-Generation-Engines/out-1.png"
 
 permalink: bitsbipsbricks/Image-Generation-Engines
+categories: bitsbipsbricks
 ---
 
 **Editor's Note: This was written in September 2022. At the time, I wanted to add more about what I thought image generators would be used for, and then I procrastinated ... a lot. But I've decided to publish this version for posterity. The world has changed, and still almost nobody knows it yet.**
