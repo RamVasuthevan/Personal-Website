@@ -1,5 +1,5 @@
 {
-    "name": "Ruby 2.7.5",
+    "name": "Ruby 3.2.2",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
