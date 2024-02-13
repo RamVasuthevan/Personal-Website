@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Interchange (de Kooning) no longer on loan to the Art Institute of Chicago"
-image: "/assets/snippets/temp/Photo_of_Interchanged_by_Willem_de_Kooning.jpg"
+image: "/assets/snippets/Interchange-No Longer-on-Loan/Photo_of_Interchanged_by_Willem_de_Kooning.jpg"
 permalink: snippets/Interchange-Not-On-Loan
 categories: snippets
 ---
 
 {% include image.html 
-   src="/assets/snippets/temp/Photo_of_Interchanged_by_Willem_de_Kooning.jpg" 
+   src="/assets/snippets/Interchange-No Longer-on-Loan/Photo_of_Interchanged_by_Willem_de_Kooning.jpg" 
    alt="Photo of Interchange by Willem de Kooning taken by Andrew Cho"
    caption="Photo of Interchange by Willem de Kooning taken by [Andrew Cho/Wikipedia](https://en.wikipedia.org/wiki/File:Photo_of_Interchanged_by_Willem_de_Kooning.jpg)" 
 %}
@@ -21,7 +21,7 @@ But, the Art Institute of Chicago's [website](https://web.archive.org/web/202402
 I emailed the AIC asking if Interchange was still on loan to the Art Institute of Chicago; on 2024-02-09, they replied that it was not.
 
 {% include image.html 
-   src="/assets/snippets/temp/Gmail-email-from-AIC.jpg" 
+   src="/assets/snippets/Interchange-No Longer-on-Loan/Gmail-email-from-AIC.jpg" 
    alt="Screenshot of an email thread stating that Interchange is no longer on loan to the AIC"
    caption="Screenshot of an email thread stating that Interchange is no longer on loan to the AIC" 
 %}
