@@ -3,6 +3,7 @@ layout: post
 title:  "A Bit of a Sabbatical: Time for More Focus"
 image: "/assets/bitsbipsbricks/Focus/mwangi-gatheca-qlKaN7eqay8-unsplash.jpg"
 permalink: bitsbipsbricks/Focus
+categories: bitsbipsbricks
 ---
 
 {% include unsplash_image.html 
