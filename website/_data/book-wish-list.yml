@@ -393,3 +393,23 @@
   isbn-13: 9780140296471
   reason_added: Seems like an interesting concept
   date_added: 2024-02-14
+- name: "Sotheby's: Bidding for Class"
+  author: Robert Lacey
+  isbn-10: 0316511390
+  isbn-13: 9780316511391
+  recommendation: Mentioned in this Vanity Fair [article](https://archive.vanityfair.com/article/2002/2/everything-to-lose#:~:text=the%20english%20writer%20robert%20lacey%20tells%20a%20wonderful%20anecdote%20about%20the%20relationship%20of%20brooks%20and%20ainslie%20in%20his%20book%20sotheby%E2%80%99s%3A%20bidding%20for%20class.%20ainslie%20described%20brooks%E2%80%99s%20business%20style%20as%20%E2%80%9Cattack%2C%20attack%2C%20attack.%E2%80%9D%20) about Christie's and Sotheby's fee collusion scandal
+  reason_added: I am interested in business biographies but was published in 1998
+  date_added: 2024-02-14
+- name: "The Art of the Steal: Inside the Sotheby's-Christie's Auction House Scandal "
+  author: Christopher Mason
+  asin: B001N8ELN0
+  recommendation: From the Wikipedia article for [A. Alfred Taubman](https://en.wikipedia.org/w/index.php?title=A._Alfred_Taubman&oldid=1192365130)
+  reason_added: I am interested in business biographies, and crimes
+  date_added: 2024-02-14
+- name: "Threshold Resistance: The Extraordinary Career of a Luxury Retailing Pioneer"
+  author: A. Alfred Taubman 
+  isbn-10: 0061235377
+  isbn-13: 9780061235375
+  recommendation: From the Wikipedia article for [A. Alfred Taubman](https://en.wikipedia.org/w/index.php?title=A._Alfred_Taubman&oldid=1192365130)
+  reason_added:  I am interested in business biographies. Related to above 2 books
+  date_added: 2024-02-14
