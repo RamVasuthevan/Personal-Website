@@ -5,7 +5,7 @@ title: Git Scraping
 
 [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) inspired by Simon Willison. 
 
-Everyday at midnight download a file, and use git to see how it changes over time:
+Download a file regularly, check it into git and see how it changes over time.
 
 ### Scraping Project
 - [Toronto Lobbyist Registry Data](https://github.com/RamVasuthevan/TorontoLobbyistRegistryData)  
