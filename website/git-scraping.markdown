@@ -12,7 +12,9 @@ Download a file regularly using Git Actions, check it into Git and see how it ch
     - Downloads from [City of Toronto Lobbyist Registry](https://open.toronto.ca/dataset/lobbyist-registry/)
     - The files here are quite large, so they need to be stored in Git LFS, so Github Git Blame does not work
     - A part of my [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry) project
-- City of Toronto Competitive Contracts Data](https://github.com/RamVasuthevan/city-of-toronto-contracts-data)  
-    - Downloads about [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto
+- [City of Toronto Competitive Contracts Data](https://github.com/RamVasuthevan/city-of-toronto-contracts-data)  
+    - Download [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto
 - [Ontario Marriage Officiants](https://github.com/RamVasuthevan/ontario-marriage-officiants)
     - Downloads list of [registered marriage officiants](https://data.ontario.ca/dataset/38ddc983-1bf0-4bee-ad18-07dac8cfe884/resource/e010f610-c3d6-4f88-849b-6f8c11e98d9c/) in Onatrio
+- [City of Toronto Short Term Rentals Registration](https://github.com/RamVasuthevan/city-of-toronto-short-term-rentals-registration)
+    - Downloads list of [Short Term Rentals Registrations](https://open.toronto.ca/dataset/short-term-rentals-registration/) in the City of Toronto
