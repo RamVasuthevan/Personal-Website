@@ -116,3 +116,11 @@
   url: https://ttdb.ca/
   author: Canada's Theatre Museum
   note: IMDB for Toronto plays
+- title: Elections Ontario Data Explorer
+  url: https://results.elections.on.ca/en/data-explorer?fromYear=1867&toYear=2024
+  author: Elections Ontario
+  note: 
+- title: MakeRef
+  url: https://makeref.toolforge.org/
+  author: 
+  note: 
