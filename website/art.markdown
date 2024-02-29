@@ -49,6 +49,10 @@ Here is some art and artist which I like:
 <img src ="/assets/art/jacques_louis_david/jacques_louis_david_the_death_of_socrates.jpg">
 <!--From https://en.wikipedia.org/wiki/File:David_-_The_Death_of_Socrates.jpg -->
 
+### [Anthony van Dyck's Charles I in Three Positions](https://en.wikipedia.org/wiki/Charles_I_in_Three_Positions)
+<img src ="/assets/art/anthony_van_dyck/Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg">
+<!--From https://en.wikipedia.org/wiki/File:Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg -->
+
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
 - [Pascal Normand](https://www.nataliedraz.com/collections/original-artwork)
