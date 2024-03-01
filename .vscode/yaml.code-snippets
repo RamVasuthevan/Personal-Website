@@ -80,7 +80,7 @@
             "  isbn-13: $4",
             "  recommendation: $5",
             "  reason_added: $6",
-            "  date_added: $7"
+            "  date_added: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}"
         ],
         "description": "Add element to books.yml"
     }
