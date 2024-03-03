@@ -6,18 +6,19 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "rebornix.ruby",
-                "ms-azuretools.vscode-docker",
-                "sissel.shopify-liquid",
-                "redhat.vscode-yaml",
                 "GitHub.codespaces",
                 "GitHub.github-vscode-theme",
-                "github.vscode-github-actions",
                 "GitHub.vscode-pull-request-github",
-                "wingrunr21.vscode-ruby",
-                "ms-python.python",  // Python
-                "ms-python.vscode-pylance",  // Python
-                "mathematic.vscode-pdf"
+                "github.vscode-github-actions",
+                "mathematic.vscode-pdf",
+                "ms-azuretools.vscode-docker",
+                "ms-python.debugpy", // Python
+                "ms-python.python", // Python
+                "ms-python.vscode-pylance", // Python
+                "rebornix.ruby",
+                "redhat.vscode-yaml",
+                "sissel.shopify-liquid",
+                "wingrunr21.vscode-ruby"
             ]
         }
     },
