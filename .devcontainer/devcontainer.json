@@ -9,17 +9,16 @@
                 "GitHub.codespaces",
                 "GitHub.github-vscode-theme",
                 "GitHub.vscode-pull-request-github",
+                "Shopify.ruby-lsp",
                 "github.vscode-github-actions",
                 "mathematic.vscode-pdf",
                 "ms-azuretools.vscode-docker",
                 "ms-python.debugpy", // Python
                 "ms-python.python", // Python
                 "ms-python.vscode-pylance", // Python
-                "rebornix.ruby",
                 "redhat.vscode-yaml",
-                "sissel.shopify-liquid",
-                "wingrunr21.vscode-ruby"
-            ]
+                "sissel.shopify-liquid"
+            ]            
         }
     },
     "waitFor": "onCreateCommand",
