@@ -28,6 +28,7 @@ OpenLibrary Book list
 Todo:
 - Copy over Book list from Amazon
 - This is not data dense enough, make I should use a table
+- Add [ont poli books](https://twitter.com/Cadeyrnn/status/1764560569481441302?s=20)
 
 <h1>Books I want to read:</h1>
 
