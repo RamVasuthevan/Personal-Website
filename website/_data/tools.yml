@@ -116,3 +116,7 @@
   url: https://ttdb.ca/
   author: Canada's Theatre Museum
   note: IMDB for Toronto plays
+- title: HTTP Cats
+  url: https://http.cat/
+  author: Rogério Vicente
+  note: HTTP Status code lookup guide with cats!
