@@ -116,6 +116,14 @@
   url: https://ttdb.ca/
   author: Canada's Theatre Museum
   note: IMDB for Toronto plays
+- title: Elections Ontario Data Explorer
+  url: https://results.elections.on.ca/en/data-explorer
+  author: Elections Ontario
+  note: Analyze provincial election results in Ontario since 1867
+- title: MakeRef
+  url: https://makeref.toolforge.org/
+  author: Magnus Manske 
+  note: Used to help generate Wikipedia reference tags
 - title: HTTP Cats
   url: https://http.cat/
   author: Rogério Vicente
