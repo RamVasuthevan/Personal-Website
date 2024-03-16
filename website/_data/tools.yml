@@ -128,3 +128,7 @@
   url: https://oeis.org/
   author: Neil Sloane
   note: An encyclopedia to lookup integer sequences
+- title: HTTP Cats
+  url: https://http.cat/
+  author: Rogério Vicente
+  note: HTTP Status code guide with cats!
