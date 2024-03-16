@@ -124,3 +124,7 @@
   url: https://makeref.toolforge.org/
   author: Magnus Manske 
   note: Used to help generate Wikipedia reference tags
+- title: HTTP Cats
+  url: https://http.cat/
+  author: Rogério Vicente
+  note: HTTP Status code guide with cats!
