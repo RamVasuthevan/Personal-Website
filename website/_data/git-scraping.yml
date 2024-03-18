@@ -11,7 +11,7 @@
     - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
     - "Currently not working due to change in how data is returned"
   updated: "Daily at midnight UTC"
-- name: "Ontario Marriage Officiants]"
+- name: "Ontario Marriage Officiants"
   name_url: "https://github.com/RamVasuthevan/ontario-marriage-officiants"
   notes: 
     - "Downloads list of [registered marriage officiants](https://data.ontario.ca/dataset/38ddc983-1bf0-4bee-ad18-07dac8cfe884/resource/e010f610-c3d6-4f88-849b-6f8c11e98d9c/) in Ontario"
