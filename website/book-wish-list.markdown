@@ -21,6 +21,8 @@ Disadvantages:
 read.gift
 [https://read.gift/u/visakanv](https://web.archive.org/web/20220620200845/https://read.gift/u/visakanv)
 
+The StoryGraph
+
 OpenLibrary Book list
 - This looks like what I am searching for but I still can't add the reason why I added to the list
 - There are book notes, which are private. I could use that as the reason I want to read abook. But reason there is now way in the UI to see all of the book notes at once
