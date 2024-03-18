@@ -3,7 +3,7 @@
     - "Downloads from [City of Toronto Lobbyist Registry](https://open.toronto.ca/dataset/lobbyist-registry/)"
     - "The files here are quite large, so they need to be stored in Git LFS, so Github Git Blame does not work"
     - "Collects the data for [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry) project"
-  updated: "Daily at 21:30 utc (ie 5:30pm est The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 4:30pm everyday)"
+  updated: "Daily at 21:30 UTC ie 5:30pm EST <br> (The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 4:30pm everyday)"
 - name: "[City of Toronto Competitive Contracts Data](https://github.com/RamVasuthevan/city-of-toronto-contracts-data)"
   notes:
     - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
@@ -13,3 +13,14 @@
   notes: 
     - "Downloads list of [registered marriage officiants](https://data.ontario.ca/dataset/38ddc983-1bf0-4bee-ad18-07dac8cfe884/resource/e010f610-c3d6-4f88-849b-6f8c11e98d9c/) in Ontario"
   updated: "Daily at midnight UTC"
+- name: "City of Toronto Short Term Rentals Registration"
+  notes:
+    - "Downloads [Short Term Rentals Registrations](https://open.toronto.ca/dataset/short-term-rentals-registration/)"
+    - "TODO: Move update to 12 utc [Short Term Rentals Registration-CKAN](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/short-term-rentals-registration)"
+  updated: "Daily at midnight UTC"
+- name: "WHOIS TLDs"
+  notes: 
+    - ""
+    - "Unlike other git-scaping projects, updates to the repo require me to manually approve a PR as opposed to being automatically merged in"
+  updated: "Daily at midnight UTC"
+  
