@@ -1,0 +1,468 @@
+- name: "A Stranger in Your Own City: Travels in the Middle East's Long War"
+  author: Ghaith Abdul-Ahad 
+  isbn-10: "0593536886"
+  isbn-13: "9780593536889"
+  date_added: 2023-12-11
+  recommended: Recommended by Saj Karsan in [A Stranger In Your Own City—Barel Karsan](https://www.barelkarsan.com/2023/12/a-stranger-in-your-own-city.html)
+  reason_added: An interesting story about modern history and a failure of high modernism
+- name: "Doctor Who: The Legends of River Song"
+  author:
+    - Jenny T. Colgan
+    - Jacqueline Rayner
+    - Steve Lyons
+    - Guy Adams
+    - Andrew Lane 
+  isbn-10: "1785940880"
+  isbn-13: "9781785940880"
+  date_added:  2023-12-12
+  reason_added: Found it on [Tardis — Fandom](https://tardis.fandom.com/wiki/The_Legends_of_River_Song_(anthology)). Thought it would be an interesting continuation of the TV show
+- name: "Imperial Standard: Imperial Oil, Exxon, and the Canadian Oil Industry from 1880"
+  author: Graham D. Taylor
+  isbn-13: 9781773850351
+  date_added: 2023-12-14
+  url: https://press.ucalgary.ca/books/9781773850351/
+  reason_added: I am interested in the history of Canadian business. There are so many stories about American business, both historically and in the present, but we are missing those stories for Canada 
+- name: "One Man in His Time...: A Memoir"
+  author: Michael Audain 
+  isbn-10: 1771623004
+  isbn-13: 9781771623001
+  date_added: 2023-12-14
+  reason_added: Written by prominent vancouver real estate developer Michael Audain 
+- name: "Building Artistry"
+  author: Ian Gillespie
+  isbn-10: 0986759422
+  isbn-13: 9780986759420
+  date_added: 2023-12-14
+  url: https://vpl.bibliocommons.com/v2/record/S38C3409783
+  reason_added: Written by prominent vancouver real estate developer Ian Gillespie. There doesn't see to by any copies for sale but there are some copies available at the Vancouver Library
+- name: "Raising The Bar: The Life and Work of Gerald D. Hines"
+  author: Mark Seal 
+  asin: B01M04JTLV
+  date_added: 2023-12-14
+  reason_added: Writen about real esate developer Gerald D. Hines. I see a large Hines sign at [CIBC SQUARE](https://urbantoronto.ca/database/projects/cibc-square.5750) redevelopment
+- name: "The Making of Bill Knapp"
+  author: William B Friedricks
+  isbn-10: 1950790061
+  isbn-13: 9781950790067
+  date_added: 2023-12-14
+  reason_added: Written about Bill Knapp founder of Iowa Realty
+- name: "It Is What It Is: A True Manhattan Real Estate Nightmare With a Silver Lining"
+  author: Colin Rath
+  isbn-10: 0692397728
+  isbn-13: 9780692397725
+  date_added: 2023-12-14
+  reason_added: A Memoir about a failed real estate development deal in New York. See [Real Deal review](https://therealdeal.com/new-york/2015/06/26/it-is-what-it-is-a-noob-developer-takes-on-nyc/)
+- name: "Jim Rouse: Capitalist/Idealist"
+  author:  Paul Marx
+  isbn-10: 0761839445
+  isbn-13: 9780761839446
+  date_added: 2023-12-14
+  reason_added: About a real esate developer
+- name: "Merchant of Illusion: James Rouse: America's Salesman of the Businessman's Utopia"
+  author: Nicholas Dagen Bloom
+  isbn-10: 081420953X
+  isbn-13: 9780814209530
+  date_added: 2023-12-14
+  reason_added: About a real esate developer. James Rouse built Columbia, Maryland
+- name: "Liquor, Lust and the Law: The Story of Vancouver's Legendary Penthouse Nightclub"
+  author: Aaron Chapman
+  isbn-10: 1551524880
+  isbn-13: 9781551524887
+  date_added: 2023-12-17
+  reason_added: It's about an iconic Vancouver nightclub. I am interested in the history of Canada and cities
+- name: "Money Games: The Inside Story of How American Dealmakers Saved Korea's Most Iconic Bank"
+  author: Weijian Shan 
+  isbn-10: 1394172575
+  isbn-13: 9781394172573
+  date_added: 2022-12-28
+  recommendation: Recommended by [Byrne Hobart](https://www.thediff.co/archive/longreads-open-thread-1f4/?ref=search#:~:text=Money%20Games%3A%20The,quasi-private%20status.)
+  reason_added: The book covers an American PE firm's restructuring of Korea First Bank
+  migrated: Amazon_CA_Book_List
+- name: "The Art of Doing Science and Engineering: Learning to Learn"
+  author: Richard Hamming 
+  isbn-10: 1732265178
+  isbn-13: 9781732265172
+  date_added: 2023-12-17
+  reason_added: Published by Stripe Press. Seems cool
+- name: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
+  author: James C. Scott 
+  isbn-10: 0300246757
+  isbn-13: 9780300246759
+  date_added: 2021-11-22
+  recommendation: Reviewed by [Scott Alexander](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+  reason_added: "From my [quake articles](/quake-articles), [Book Review: Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) by Scott Alexander"
+  migrated: Amazon_US_Shopping_List
+- name: "The Real North Korea: Life and Politics in the Failed Stalinist Utopia"
+  author: Andrei Lankov
+  isbn-10: 0199390037
+  isbn-13: 9780199390038
+  date_added: 2023-12-18
+  recommendation: "Recommended by [Bryne Hobart](https://www.thediff.co/archive/longreads-open-thread-39/#:~:text=andrei%20lankov%20describes%20such%20a%20system%20in%20the%20real%20north%20korea.%20the%20main%20thrust%20of%20the%20book%20is%20that%20north%20korea's%20regime%20is%20much%20more%20rational%20than%20we%20think)"
+  reason_added: Hobart argues that North Korea has a quasi-Coasian economy through corruption 
+- name: "On Paradise Drive: How We Live Now (And Always Have) In The Future Tense"
+  author: David Brooks
+  isbn-10: 0743227395
+  isbn-13: 9780743227391
+  date_added: 2023-12-18
+  recommendation: "Quoted by Steve Randy Waldman in [Predatory Precarity—Interfluidity](https://www.interfluidity.com/v2/7263.html)"
+  reason_added: "I'm interested in class and social economic mobility. David Brooks also wrote Bobos in Paradise"
+- name: "Subimperial Power: Australia in the International Arena"
+  author: Clinton Fernandes 
+  isbn-10: 0522879268
+  isbn-13: 9780522879261
+  date_added: 2023-12-24
+  recommendation: "Recommended by Misha Saul on [Twitter](https://twitter.com/misha_saul/status/1738766500708896994)"
+  reason_added: "What is the role of middle powers in the 21st century? How does Australia think of itself? Is that different from Canada?"
+- name: 500 Lines or Less
+  author:
+    - Amy Brown
+    - Michael DiBernardo
+  isbn-10: 1329871278
+  isbn-13: 9781329871274
+  date_added: 2023-12-24
+  recommendation: "Recommended by Cal Paterson in [An oral history of Bank Python](https://calpaterson.com/bank-python.html#:~:text=one%20thing%20i%20regret%20about%20software%20as%20a%20field%20is%20how%20little%20time%20is%20spent%20learning%20from%20existing%20systems%20and%20judging%20what%20they%20did%20well%2C%20or%20badly.%20there%20are%20only%20a%20small%20number%20of%20books%20discussing%2C%20in%20detail%2C%20real%20systems%20that%20exist.)."
+  reason_added: "I want to get better an system design"
+- name: "Good Flag, Bad Flag"
+  author:  Ted Kaye
+  isbn-10: 097477281X
+  isbn-13: 978-0974772813
+  date_added: 2023-12-24
+  recommendation: "Mentioned by CGPGrey in [Minnesota's Final Flag](https://www.patreon.com/posts/first-thoughts-95001591)"
+  reason_added: "It's the iconic flag rules book"
+- name: "Facing Social Class: How Societal Rank Influences Interaction"
+  author:
+    - Susan T. Fiske 
+    - Hazel Rose Markus
+  isbn-10: 9780871544797
+  isbn-13: 9780871544797
+  date_added: 2023-12-26
+  recommendation: Mentioned by [Rob Henderson](https://twitter.com/robkhenderson/status/1739318258841637321)
+  reason_added: "I'm interested in class and social economic mobility."
+- name: "More: A Memoir of Open Marriage "
+  author: Molly Roden Winter
+  isbn-10: 0385549458
+  isbn-13: 978-0385549455
+  date_added: 2023-12-27
+  recommended: Mentioned in this New Yorker [article](https://www.newyorker.com/magazine/2024/01/01/american-poly-christopher-gleason-book-review-more-a-memoir-of-open-marriage-molly-roden-winter) by Jennifer Wilson
+  reason_added: "I'm interested in memoirs about people diffrent from me"
+- name: "The Missing Billionaires: A Guide to Better Financial Decisions"
+  author:
+    - James White
+    - Victor Haghani
+  isbn-10: 1119747910
+  isbn-13: 9781119747918
+  recommendation: "Dave Friedman on [Twitter](https://twitter.com/friedmandave/status/1740023528878215575?t=Vu7hJe4NI4cc_PFwalExFw&s=19)"
+  reason_added: "I am interested social economic mobility. Seems like a great addtion to Piketty's Capital in the Twenty-First Century. Victor Haghani was one of the founding partners of Long-Term Capital Management"
+  date_added: 2023-12-27
+- name: "Moral Basis of a Backward Society"
+  author: "Edward C. Banfield"
+  isbn-10: 0029015103
+  isbn-13: 9780029015100
+  recommendation: "Recommended by [Ariele](https://twitter.com/weatherdai)"
+  reason_added: I am interested in why some places are rich and others are poor
+  date_added: 2023-12-29
+- name: "Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons"
+  author: "Edward J. Renehan Jr. "
+  isbn-10: 0465068863
+  isbn-13: 9780465068869
+  recommendation: "Recommended by [Amanda Orson](https://x.com/amandaorson/status/1740121012379775164?s=20)"
+  reason_added: Business biography, from the robber baron era
+  date_added: 2023-12-29
+- name: "Wilhelm II: Into the Abyss of War and Exile"
+  author: 
+    - John C. G. Röhl
+    - Sheila de Bellaigue
+    - Roy Bridge
+  isbn-10: 110754419X
+  isbn-13: 9781107544192
+  recommendation: "[Recommended](https://twitter.com/TheMindScourge/status/1741272370805965032) by [The Mind Scourge](https://twitter.com/TheMindScourge) to Misha Saul."
+  reason_added: "'This final volume of John C. G. Röhl's acclaimed biography of Kaiser Wilhelm II reveals the Kaiser's central role in the origins of the First World War' I am interested is bismark"
+  date_added: 2023-12-31
+- name: "The Strategy of Denial: American Defense in an Age of Great Power Conflict "
+  author: Elbridge A. Colby (
+  isbn-10: 0300256434
+  isbn-13: 9780300256437
+  recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
+  reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
+- name: "The Other Great Game: The Opening of Korea and the Birth of Modern East Asia "
+  author: Sheila Miyoshi Jager
+  isbn-10: 0674983394
+  isbn-13: 9780674983397
+  recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
+  reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
+- name: "We May Dominate the World: Ambition, Anxiety, and the Rise of the American Colossus"
+  author: Sean A Mirski 
+  isbn-10: 1541758439
+  isbn-13: 9781541758438
+  recommendation: "[Steven Glinert's](https://twitter.com/StevenGlinert/status/1730623727875014904?t=MWdb4SD8URMs1dnce2iOxg&s=19) realism reading list"
+  reason_added: "I am interested in geopolitics"
+  date_added: 2023-12-31
+- name: "South Africa's Brave New World: The Beloved Country Since The End Of Apartheid"
+  author: "John Psmith"
+  isbn-10: 0141000325
+  isbn-13: 9780141000329
+  recommendation: "Misha Saul [recommended](https://twitter.com/misha_saul/status/1741219596521345221) the book and the [review](https://www.thepsmiths.com/p/review-south-africas-brave-new-world) by John Psmith "
+  reason_added: "I am interested in regime change"
+  date_added: 2023-12-31
+- name: The Alchemy of Finance
+  author: George Soros 
+  isbn-10: 0471445495
+  isbn-13: 9780471445494
+  recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
+  reason_added: Writen by Soros himself
+  date_added: 2023-12-31
+- name: "Softwar: An Intimate Portrait of Larry Ellison and Oracle"
+  author: 
+    - Matthew Symonds 
+    - Larry Ellison
+  isbn-10: 0743225058
+  isbn-13:  9780743225052
+  recommendation: "Recommended by Bryne Hobart in [The Cynic’s Guide to Reading Business Books](https://marker.medium.com/the-cynics-guide-to-reading-business-books-f4da2be2d7cb#:~:text=Take%20Soros%2C%20for,the%20early%201980s.)"
+  reason_added: Ellison resonds in the footnotes
+  date_added: 2023-12-31
+- name: "The Red Atlas: How the Soviet Union Secretly Mapped the World"
+  author:
+    - John Davies 
+    - Alexander J. Kent
+  isbn-10: 022638957X
+  isbn-13: 9780226389578
+  recommendation: "Was the source for Jay Foreman's [Why does Russia have the best maps of Britain?](https://www.youtube.com/watch?v=_bqzwsM6eoQ&list=PLG38rlEKgrZ973NrI6jGXt2ZGaa-5OHdn&index=11&t=403s)"
+  reason_added: I am interested in geopolitics
+  date_added: 20240-01-03
+- name: "The Gene: An Intimate History"
+  author: "Siddhartha Mukherjee"
+  isbn-10: 1476733503
+  isbn-13: "9781476733500"
+  recommendation: Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1744072422045909240)
+  reason_added: "Seems interesting"
+  date_added: 2024-01-07
+- name: "Liberalism Disavowed: Communitarianism and State Capitalism in Singapore"
+  author: Beng Huat Chua 
+  isbn-10: 1501713442
+  isbn-13: 9781501713446
+  recommendation: "Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1603507279659012096) when I asked about SG housing"
+  reason_added: "I am interested in Singapore, housing and geopolitics"
+  date_added: 2024-01-07
+- name: "India After Gandhi: The History of the World's Largest Democracy"
+  author: Ramachandra Guha 
+  isbn-10: 0060958588
+  recommendation: "Recommended by [Pradyumna](https://twitter.com/PradyuPrasad/status/1603507279659012096) when I ask about a political history of India"
+  reason_added: "I am intrested in India and geopolitics"
+  date_added: 2024-01-07
+- name: "Tycoon's War: How Cornelius Vanderbilt Invaded a Country to Overthrow America's Most Famous Military Adventurer"
+  author: Stephen Dando-Collins
+  isbn-10: 0306818566
+  isbn-13: "978-0306818561"
+  recommendation: Recommended by [cruelsardaukar](https://twitter.com/cruelsardaukar/status/1744957998974243020)
+  reason_added: "At thhe intersection of two of my favourite topics: geopolitics and business strategy"
+  date_added: 2024-01-10
+- name: "On the Old West Coast: Being Further Reminiscences of a Ranger"
+  author: Horace Bell
+  asin: B001ANKS62
+  recommendation:  Recommended by [cruelsardaukar](https://x.com/cruelsardaukar/status/1744967345636884492?s=20)
+  reason_added: "Appreantly about geopolitics and business strategy"
+  date_added: 2024-01-10
+- name: "Equality and Authority: a Study of Class, Status and Power in Australia"
+  author: "S. Encel"
+  isbn-10: 0422736104
+  isbn-13:  9780422736107
+  recommendation: "Mentioned in [Misha Saul](https://x.com/misha_saul/status/1741395928911843480?s=20)"
+  reason_added: "I'm interested in class and social economic mobility"
+  date_added: 2024-01-10
+- name: "Percentages of Guilt"
+  author: Michael Niemann 
+  isbn-10: 1603816747
+  isbn-13: 978-1603816748
+  recommendation: "Written by the author of this [article](https://crimereads.com/what-ozark-gets-wrong-the-latest-tricks-in-international-money-laundering/), about the Russian laundromat"
+  reason_added: I am interested in white collar crime and stories about power
+  date_added: 2024-01-10
+- name: "Confessions of a Real Estate Entrepreneur: What It Takes to Win in High-Stakes Commercial Real Estate: What it Takes to Win in High-Stakes Commercial Real Estate"
+  author:
+  - James Randel
+  - Jim Randel
+  isbn-10: 0071467939
+  isbn-13: 9780071467933
+  recommendation: "Mentioned by [SnufferBottle](https://twitter.com/SnufferBottle/status/1745911522688127156?s=20) in a thread about a firm which optioned some land, upzoned and reaped a massive profit"
+  reason_added: "I am intrested in real estate"
+  date_added: 2024-01-13
+- name: "A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market"
+  author:  Edward O. Thorp
+  isbn-10: 1400067960
+  isbn-13: 9781400067961
+  recommendation: "Made a huge impact on [The Rational Walk](https://twitter.com/rationalwalk/status/1743367886129766859?s=20)"
+  reason_added: I am intrested in finance and biographies
+  date_added: 2024-01-13
+- name: The Oxford Handbook of Historical Political Economy
+  editor: 
+    - Jeffery A Jenkins
+    - Jared Rubin 
+  isbn-10: 019761860X
+  isbn-13: 9780197618608
+  recommendation: "From this [tweet](https://twitter.com/jaredcrubin/status/1605275288241315840?lang=en) by Jared Rubin"
+  reason_added: "I am interested in political economy"
+  date_added: 2024-01-13
+- name: "Pimp: The Story of My Life"
+  author: Iceberg Slim 
+  isbn-10: 1451617135
+  isbn-13: 9781451617139
+  recommendation: Mentioned by David Chappelle in this [bit](https://www.youtube.com/shorts/9HdsA-y9eJ0?app=desktop) 
+  reason_added: "I am interested in biographies and crime"
+  date_added: 2024-01-15
+- name: "The Fish That Ate the Whale: The Life and Times of America's Banana King"
+  author: Rich Cohen 
+  isbn-10: 1250033314
+  isbn-13: 9781250033314
+  recommendation: "According to [Cedric Chin](https://twitter.com/ejames_c/status/1747169902610501882), 'best business biography I’ve ever read'"
+  reason_added: "I am interested in business biographies"
+  date_added: 2024-01-15
+- name: "The Asylum: Inside the Rise and Ruin of the Global Oil Market"
+  author: Leah McGrath Goodman 
+  isbn-10: 0061766283
+  isbn-13: 9780061766282
+  recommendation: "[Byrne Hobart](https://x.com/ByrneHobart/status/1748524416139444331?s=20) shared an anecdote about a trader for whom 'making money was so euphoric for him that sometimes, the day after a big win, he’d have his morning coffee without any Jack Daniel’s.'  "
+  reason_added: I am interested in business
+  date_added: 2024-01-22
+- name: "Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate"
+  author: Rose George
+  isbn-10: 0805092633
+  isbn-13: 978-0805092639
+  recommendation: "Mentioned by this now deleted [tweet](https://x.com/DiplomaticIdeas/status/1743892740210032697?s=20)"
+  reason_added: I am intrested in business and geopolitics
+  date_added: 2024-01-22
+- name: "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger"
+  author:  Marc Levinson
+  isbn-10: 0691170819
+  isbn-13: 9780691170817
+  recommendation: "I've heard this book mentioned in several places. Note there is a 2nd edition with an extra chapter"
+  reason_added: "This seems like an interesting piece of business history."
+  date_added: 2024-01-22
+- name: "Vancouver Ltd."
+  author: Donald Gutstein 
+  isbn-10: 1459417003
+  isbn-13: 9781459417007
+  recommendation: "I just saw it on Amazon"
+  reason_added: I am interested in real esate development in Canada 
+  date_added: 2024-01-25
+- name: Folding Beijing
+  author: Hao Jingfang
+  translator: Ken Liu
+  url: https://www.uncannymagazine.com/article/folding-beijing-2/
+  recommendation: "Mentioned by Tyler Cowen as an important piece of Chinese science fiction and unique science fiction during [Converstions with Typer Cowen with Rebecca F. Kuang on National Literatures](https://conversationswithtyler.com/episodes/rebecca-f-kuang/#:~:text=cowen%3A%20why%20is%20%E2%80%9Cfolding%20beijing%E2%80%9D%20an%20important%20short%20story%3F)"
+  reason_added: "I am intrested in science fiction, I trust Tyler Cowen as a picker of intresting things "
+  date_added: 2024-01-25
+- name: "War and Technology: A Very Short Introduction Get access Arrow"
+  author: Alex Roland
+  isbn-13: 9780190605414
+  recommendation: Recommended by [Soul0Engineer](https://twitter.com/Soul0Engineer/status/1752368740266553681?s=20)
+  reason_added: I am intrested in how technology effects war.
+  date_added: 2024-02-02
+- name: The Night Manager
+  author: John le Carré
+  isbn-10: 0679425136
+  isbn-13: 9780679425137
+  recommendation: Saw a part of the TV show [The Night Manager](https://en.wikipedia.org/wiki/The_Night_Manager_(British_TV_series)) based on the book
+  reason_added: I want to read more fiction. I (think) like spy thrillers
+  date_added: 2024-02-04
+  private_note: "Watch this [The Night Manager ~ Lost In Adaptation](https://www.youtube.com/watch?v=iOnlYo3beLE)"
+- name: "Gomorrah: A Personal Journey into the Violent International Empire of Naples' Organized Crime System"
+  author: Roberto Saviano 
+  translator: Virginia Jewiss 
+  isbn-10: 0312427794
+  isbn-13: 9780312427795 
+  reason_added: It's a book about the Camorra— Neapolitan mafia. I am interested in crime.
+  date_added: 2024-02-04
+- name: ZeroZeroZero
+  author: Roberto Saviano 
+  translator: Virginia Jewiss 
+  isbn-10: 0143109375
+  isbn-13: 9780143109372
+  reason_added: It's a book about the global cocaine trade. I am interested in crime.
+  date_added: 2024-02-04
+- name: "The Logic of Collective Action: Public Goods and the Theory of Groups"
+  author:  Mancur Olson Jr.
+  isbn-10: 0674537513
+  isbn-13: 9780674537514
+  recommendation: Recommended by Brendan Miller in [The Economics Idea That Will Defeat The Housing Mafia | Logic of Collective Action, Explained](https://www.youtube.com/watch?v=XKEbxd_F7gE)
+  reason_added: I am intrested in YIMBYism and political economy. 
+  date_added: 2024-02-06
+- name: "Zero: The Biography of a Dangerous Idea"
+  author: Charles Seife
+  isbn-10: 0140296476
+  isbn-13: 9780140296471
+  reason_added: Seems like an interesting concept
+  date_added: 2024-02-14
+- name: "Sotheby's: Bidding for Class"
+  author: Robert Lacey
+  isbn-10: 0316511390
+  isbn-13: 9780316511391
+  recommendation: Mentioned in this Vanity Fair [article](https://archive.vanityfair.com/article/2002/2/everything-to-lose#:~:text=the%20english%20writer%20robert%20lacey%20tells%20a%20wonderful%20anecdote%20about%20the%20relationship%20of%20brooks%20and%20ainslie%20in%20his%20book%20sotheby%E2%80%99s%3A%20bidding%20for%20class.%20ainslie%20described%20brooks%E2%80%99s%20business%20style%20as%20%E2%80%9Cattack%2C%20attack%2C%20attack.%E2%80%9D%20) about Christie's and Sotheby's fee collusion scandal
+  reason_added: I am interested in business biographies but was published in 1998
+  date_added: 2024-02-14
+- name: "The Art of the Steal: Inside the Sotheby's-Christie's Auction House Scandal "
+  author: Christopher Mason
+  asin: B001N8ELN0
+  recommendation: From the Wikipedia article for [A. Alfred Taubman](https://en.wikipedia.org/w/index.php?title=A._Alfred_Taubman&oldid=1192365130)
+  reason_added: I am interested in business biographies, and crimes
+  date_added: 2024-02-14
+- name: "Threshold Resistance: The Extraordinary Career of a Luxury Retailing Pioneer"
+  author: A. Alfred Taubman 
+  isbn-10: 0061235377
+  isbn-13: 9780061235375
+  recommendation: From the Wikipedia article for [A. Alfred Taubman](https://en.wikipedia.org/w/index.php?title=A._Alfred_Taubman&oldid=1192365130)
+  reason_added:  I am interested in business biographies. Related to above 2 books
+  date_added: 2024-02-14
+- name: "The Crown: The Official Companion, Volume 1: Elizabeth II, Winston Churchill, and the Making of a Young Queen (1947-1955)"
+  author: Robert Lacey 
+  isbn-10: 1524762288
+  isbn-13: 9781524762285
+  reason_added: I am interested in history. I watched the first two seasons of The Crown, it was very intrested. I learned a lot about early post-WW2 UK politics.
+  date_added: 2024-02-14
+- name: "The Battlefield of Ontario Politics: An Autobiography"
+  author: Greg Sorbara
+  isbn-10: 1459724615
+  isbn-13: 9781459724617
+  recommendation: In [Line 1 Yonge–University—Wikipedia](https://en.wikipedia.org/w/index.php?title=Line_1_Yonge%E2%80%93University&oldid=1209512438#:~:text=Greg%20Sorbara%2C%20former,it%20went.%22%5B36%5D), it is mentioned that in his memoir he talks about his support for the Vaughan Subway Stop 
+  reason_added: I am interested in memoirs and recent ontario political history
+  date_added: 2024-02-25
+- name: "Down and Dirty Pictures: Miramax, Sundance, and the Rise of Independent Film"
+  author: Peter Biskind
+  isbn-10: 0684862581
+  isbn-13: 9780684862583
+  recommendation: Mentioned in [this](https://www.youtube.com/watch?v=6tihITlPAn4) Youtube video about Harvey Weinstein's Shakespeare in Love Oscar campaign  
+  reason_added: Chronicling the rise Sundance (founded by Robert Redford) and Miramax (founded by Harvey and Bob Weinstein)
+  date_added: 2024-02-26
+- name: "Indie, Inc.: Miramax and the Transformation of Hollywood in the 1990s "
+  author: Alisa Perren 
+  isbn-10: 0274706385
+  isbn-13:  9780292754355
+  recommendation: Mentioned in [this](https://www.youtube.com/watch?v=6tihITlPAn4) Youtube video about Harvey Weinstein's Shakespeare in Love Oscar campaign  
+  reason_added: Chronicling the rise of Miramax (founded by Harvey and Bob Weinstein)
+  date_added: 2024-02-26
+- name: "Saudi America: The Truth About Fracking and How It's Changing the World"
+  author: Bethany McLean 
+  isbn-10: 0999745441
+  isbn-13: 9780999745441
+  recommendation: "Mentioned by Byrne Hobart in [Fracking: The Alchemy of Turning High-Yield Bonds into Low-Inflation Growth](https://byrnehobart.medium.com/fracking-the-alchemy-of-turning-high-yield-bonds-into-low-inflation-growth-e04ce8f44b3e), but he does say 'Saudi America was kind of disappointing; fairly brief, poorly-edited, not a ton of new information, but it does articulate the financial engineering thesis of fracking.'"
+  reason_added: I like business and geopolitics
+  date_added: 2024-02-27
+- name: "Without A Badge: Undercover in the World's Deadliest Criminal Organization"
+  author: Jerry Speziale 
+  asin: B011MFQQMC
+  recommendation: Mentioned in this [Twitter](https://twitter.com/alexpotato/status/1750594511451955670) from [Alex Elliott](https://twitter.com/alexpotato)
+  reason_added: "It's about financial crime and mentioned by [Patio11](https://twitter.com/patio11/status/1761881582661448023): * Quentin Tarantino could not have written a better character or scene. It’s like the Wolf was on the good guys’ side.*"
+  date_added: 2024-03-01
+- name: "Thermonuclear Monarchy: Choosing Between Democracy and Doom"
+  author:  Elaine Scarry 
+  isbn-10: 0393080080
+  isbn-13: 978-393080087
+  recommendation: Mentioned by [QuoProQuid](https://twitter.com/TNOQuoProQuid/) in this [thread](https://x.com/TNOQuoProQuid/status/1763972975924257138?s=20) 
+  reason_added: Thermonuclear Monarchy is a very interesting phrase
+  date_added: 2024-03-03
+- name: Profiles in Leadership
+  author: CIA
+  url: https://www.cia.gov/resources/csi/static/4789eee9e734cd7409eed3d133929b36/Profiles-in-Leadership-Updated-July-2023.pdf
+  recommendation: I was looking to add photos to [Deputy Director of the Central Intelligence Agency](https://en.wikipedia.org/wiki/Deputy_Director_of_the_Central_Intelligence_Agency), I found this interesting book
+  reason_added: An overview of the CIA seems quite interesting
+  date_added: 2024-03-16
