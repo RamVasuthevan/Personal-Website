@@ -28,13 +28,24 @@
     THE SOFTWARE.
 -->
 
-1. Check of page.blog_category exist
-
-
-<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+<h2 class="post-list-heading">{{ include.list_title | default: "Posts" }}</h2>
 <ul class="post-list">
   {%- for post in site.posts -%}
-    {%-if post.categories contains page.blog_category -%}
+    {%- assign post_included = false -%}
+    {%- if include.category -%}
+      {%- if post.categories contains include.category -%}
+        {%- assign post_included = true -%}
+      {%- endif -%}
+    {%- endif -%}
+    {%- if include.categories -%}
+      {%- assign categories_list = include.categories | split: ' ' -%}
+      {%- for category in categories_list -%}
+        {%- if post.categories contains category -%}
+          {%- assign post_included = true -%}
+        {%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if post_included -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
