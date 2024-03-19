@@ -6,7 +6,7 @@
             "  note: $2",
             "  link: $3",
             "  license_text: $4",
-            "  license_link: $5",
+            "  license_link: $5"
         ],
         "description": "Add element to acknowledgements.yml"
     },
@@ -70,5 +70,18 @@
             "  selected: $4"
         ],
         "description": "Add element to projects.yml"
+    },
+    "Git Scraping Element": {
+        "prefix": "s_data_projects",
+        "body": [
+            "- name: $1",
+            "  name_url: $2",
+            "  notes:",
+            "    - $3",
+            "    - $4",
+            "    - $5",
+            "  updated: $6"
+        ],
+        "description": "Add element to git-scraping.yml"
     }
 }
