@@ -72,7 +72,7 @@
         "description": "Add element to projects.yml"
     },
     "Git Scraping Element": {
-        "prefix": "s_data_projects",
+        "prefix": "s_git_scraping",
         "body": [
             "- name: $1",
             "  name_url: $2",
