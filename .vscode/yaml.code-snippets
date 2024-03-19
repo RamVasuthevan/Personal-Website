@@ -3,7 +3,7 @@
         "prefix": "s_acknowledgements",
         "body": [
             "- name: $1",
-            "  note: $2"
+            "  note: $2",
             "  link: $3",
             "  license_text: $4",
             "  license_link: $5",
