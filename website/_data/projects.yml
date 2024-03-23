@@ -48,5 +48,5 @@
   selected: true
 - name: Git Scraping
   url: https://ramvasuthevan.ca/git-scraping
-  description: ""
+  description: "Use Git to track changes to open data files"
   selected: true
