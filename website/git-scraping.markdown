@@ -51,13 +51,6 @@ TODO:
 
 
 <!-- 
-- name: Ontario Legislature Bills
-  name_url: https://github.com/RamVasuthevan/ontario-legislature-bills
-  notes:
-    - "Downloads the list of for each session of the Ontario legislature since the 36th Parliament, 1st Session (September 26, 1995)"
-    - "This is not particularly useful. I wrote this code so I see a list of private bills, but since I have it I thought why not hook it up to a GitHub action"
-  updated: "Monthly on the 1st"
-
   updated: "Daily at midnight UTC"
 - name: "City of Toronto Short Term Rentals Registration"
   name_url: https://github.com/RamVasuthevan/city-of-toronto-short-term-rentals-registration
