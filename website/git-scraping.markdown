@@ -33,7 +33,6 @@ Download a file regularly using Git Actions, check it into Git and see how it ch
 
 
 Future scraping pages:
-- [Short Term Rentals Registration—City of Toronto](https://open.toronto.ca/dataset/short-term-rentals-registration/)
 - [Building Permits Cleared Permits—City of Toronto](https://open.toronto.ca/dataset/building-permits-cleared-permits/)
 - [Building Permits Active Permits—City of Toronto](https://open.toronto.ca/dataset/building-permits-active-permits/)
 - [Building Construction Demolition Violations—City of Toronto](https://open.toronto.ca/dataset/building-construction-demolition-violations/)
