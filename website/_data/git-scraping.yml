@@ -4,12 +4,12 @@
     - "Downloads from [City of Toronto Lobbyist Registry](https://open.toronto.ca/dataset/lobbyist-registry/)"
     - "The files here are quite large, so they need to be stored in Git LFS, so Github Git Blame does not work"
     - "Collects the data for [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry) project"
-  updated: "Daily at 21:30 UTC ie 5:30pm EST <br> (The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 4:30pm everyday)"
-- name: "City of Toronto Competitive Contracts Data"
+  updated: "Daily at 21:30 UTC ie 5:30 pm EST <br> (The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 4:30 pm everyday)"
+- name: "City of Toronto Contracts Data"
   name_url: https://github.com/RamVasuthevan/city-of-toronto-contracts-data
   notes:
     - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
-    - "Currently not working due to change in how data is returned. I am following up with team that mananges SAP Ariba—the procurement software, for the City of Toronto"
+    - "Currently not working due to a change in how data is returned. I am following up with the team that manages SAP Ariba—the procurement software for the City of Toronto. It should be working again by May 2024"
   updated: "Daily at midnight UTC"
 - name: "Ontario Marriage Officiants"
   name_url: "https://github.com/RamVasuthevan/ontario-marriage-officiants"
@@ -20,11 +20,16 @@
   name_url: https://github.com/RamVasuthevan/city-of-toronto-short-term-rentals-registration
   notes: 
     - "Downloads [Short Term Rentals Registrations](https://open.toronto.ca/dataset/short-term-rentals-registration/)"
-    - "TODO: Move update to 12 UTC [Short Term Rentals Registration-CKAN](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/short-term-rentals-registration)"
-  updated: "Daily at midnight UTC"
+  updated: "Daily at 16:30 UTC ie 12:30 pm EST <br> (The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 12 pm everyday)"
 - name: "WHOIS TLDs"
   name_url: https://github.com/RamVasuthevan/whois-server-list
   notes: 
     - "Downloads a list of WHOIS servers for top-level domains"
     - "Unlike other git-scaping projects, updates to the repo require me to manually approve a PR as opposed to being automatically merged in"
   updated: "Daily at midnight UTC"
+- name: Ontario Legislature Bills
+  name_url: https://github.com/RamVasuthevan/ontario-legislature-bills
+  notes:
+    - "Downloads a list of bills for each session of the Ontario legislature since the 36th Parliament, 1st Session (September 26, 1995)"
+    - "This is not particularly useful. I wrote this code so I see a list of [private bills](https://www.ola.org/en/legislative-business/bills/private-bills-procedures), but since I have it I thought why not hook it up to a GitHub action"
+  updated: "Monthly on the 1st"
