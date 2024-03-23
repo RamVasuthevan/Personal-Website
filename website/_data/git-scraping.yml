@@ -9,7 +9,7 @@
   name_url: https://github.com/RamVasuthevan/city-of-toronto-contracts-data
   notes:
     - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
-    - "Currently not working due to change in how data is returned. I am following up with the team that manages SAP Ariba—the procurement software for the City of Toronto"
+    - "Currently not working due to a change in how data is returned. I am following up with the team that manages SAP Ariba—the procurement software for the City of Toronto. It should be working again by May 2024"
   updated: "Daily at midnight UTC"
 - name: "Ontario Marriage Officiants"
   name_url: "https://github.com/RamVasuthevan/ontario-marriage-officiants"
@@ -30,6 +30,6 @@
 - name: Ontario Legislature Bills
   name_url: https://github.com/RamVasuthevan/ontario-legislature-bills
   notes:
-    - "Downloads the list of for each session of the Ontario legislature since the 36th Parliament, 1st Session (September 26, 1995)"
-    - "This is not particularly useful. I wrote this code so I see a list of private bills, but since I have it I thought why not hook it up to a GitHub action"
+    - "Downloads a list of bills for each session of the Ontario legislature since the 36th Parliament, 1st Session (September 26, 1995)"
+    - "This is not particularly useful. I wrote this code so I see a list of [private bills](https://www.ola.org/en/legislative-business/bills/private-bills-procedures), but since I have it I thought why not hook it up to a GitHub action"
   updated: "Monthly on the 1st"
