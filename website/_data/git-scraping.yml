@@ -5,7 +5,7 @@
     - "The files here are quite large, so they need to be stored in Git LFS, so Github Git Blame does not work"
     - "Collects the data for [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry) project"
   updated: "Daily at 21:30 UTC ie 5:30 pm EST <br> (The [data source](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/activity/lobbyist-registry) is updated around 4:30 pm everyday)"
-- name: "City of Toronto Competitive Contracts Data"
+- name: "City of Toronto Contracts Data"
   name_url: https://github.com/RamVasuthevan/city-of-toronto-contracts-data
   notes:
     - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
