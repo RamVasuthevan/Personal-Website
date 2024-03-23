@@ -47,15 +47,3 @@ Future scraping pages:
 
 TODO: 
   - Create [Github: template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
-
-
-
-<!-- 
-  updated: "Daily at midnight UTC"
-- name: "City of Toronto Short Term Rentals Registration"
-  name_url: https://github.com/RamVasuthevan/city-of-toronto-short-term-rentals-registration
-  notes: 
-    - "Downloads [Short Term Rentals Registrations](https://open.toronto.ca/dataset/short-term-rentals-registration/)"
-    - "TODO: Move update to 12 UTC [Short Term Rentals Registration-CKAN](https://ckan0.cf.opendata.inter.prod-toronto.ca/en/dataset/short-term-rentals-registration)"
-  updated: "Daily at midnight UTC"
--->
