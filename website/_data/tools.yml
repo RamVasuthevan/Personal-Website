@@ -4,27 +4,27 @@
   note: Date string formatter
 - title: Save Page Now
   url: https://web.archive.org/save/
-  note: Save a page to the Internet Archive
+  note: Add pages to the Internet Archive
   author: Internet Archive
 - title: TinySheet 
   url: https://tinysheet.com/
   author:  Postlight
-  note: Spreadsheet scrapbook 
+  note: Tiny spreadsheet 
 - title: TableConvert 
   url: https://tableconvert.com/
   author:  FechinLi
-  note: Transfrom and convert tables 
+  note: Transfrom and convert between table formats 
 - title: CarefulWords 
   url: https://carefulwords.com/
   author: Simon Sarris
   note:  A little bit more than a thesaurus 
 - title: Yellow Lab Tools 
-  url: https://https://yellowlab.tools/.com/
+  url: https://yellowlab.tools
   author: Gaël Métais
-  note: Online test to help speeding up heavy web pages
+  note: Online test to help speeding up web pages
 - title: SQLite Viewer
   url: https://inloop.github.io/sqlite-viewer/
-  author: INLOOPX
+  author: Juraj Novák
   note: Front end for SQLite
 - title: Crontab Guru
   url: https://crontab.guru/
@@ -37,8 +37,98 @@
 - title: JSON Crack
   url: https://jsoncrack.com/
   author: Aykut Saraç
-  note: Seamlessly visualizes your JSON data instantly into graphs. [Herowand Editor](https://editor.herowand.com/) visualizes JSON, YAML, XML, TOML and CSV 
+  note: Visualizes JSON data. [Herowand Editor](https://editor.herowand.com/) visualizes JSON, YAML, XML, TOML and CSV 
 - title: CanLII
   url: https://www.canlii.org/
   author: Federation of Law Societies of Canada
   note: Search court judgments, tribunal decisions, statutes and regulations from all Canadian jurisdictions
+- title: World Time Buddy
+  url: https://www.worldtimebuddy.com/
+  author: Slava Romanovsky
+  note: The best tool to schedule meetings across time zones
+- title: Python Tutor
+  url: https://pythontutor.com/
+  note: Visualizing Python, JavaScript, C, C++, and Java programming code execution
+  author: Philip Guo
+- title: BuiltWith
+  url: https://builtwith.com/
+  note: Find out what websites are built with
+  author: Andrew Rogers & Gary Brewer
+- title: SQLite3 Editor
+  url: https://marketplace.visualstudio.com/items?itemName=yy0931.vscode-sqlite3-editor
+  note: VSCode plugin to edit SQLite3 files like you would spreadsheet applications.
+  author: yy0931
+- title: TinEye
+  url: https://tineye.com/
+  note: Reverse image search engine 
+  author: Leila Boujnane & Paul Bloore
+- title: Twitter Card Preview Tool
+  url: https://www.bannerbear.com/tools/twitter-card-preview-tool/
+  note: Preview Twitter and [Facebook](https://www.bannerbear.com/tools/facebook-open-graph-preview-tool/) cards
+  author: Jon Yongfook
+- title: Math Trainer
+  url: https://www.mathtrainer.io/
+  author: 
+  note: Train mental math
+- title: Time.is
+  url: https://time.is/
+  note: Compare your clock with an atomic clock time and easily see the time across the world
+  author: Even Scharning
+- title: Rectangle
+  url: https://rectangleapp.com/
+  author: Ryan Hanson
+  note: Easily organize macOS windows without using a mouse.
+- title: Beast Mode
+  url: https://www.namecheap.com/domains/registration/results/
+  author: Namecheap
+  note: Bulk domain name search which lets you search 1000+ TLDs with up to 5000 keywords
+- title: FontSee
+  url: https://fontsee.com/
+  author: 
+  note: Font viewer to see what OTF, TTF, WOFF, WOFF2 fonts look like
+- title: Is My Computer On?
+  url: http://ismycomputeron.com/
+  author: 
+  note: Tool to tell if your computer is on
+- title: EmDa.sh
+  url: EmDa.sh
+  note: Just an em dash ( — ), so that you can easily copy it when you need an em dash
+- title: Twitter Video Downloader
+  URL: https://twittervideodownloader.com/
+  note: Get the actual CDN link to a video or gif on Twitter
+- title: RapidTables Notepad
+  url: https://www.rapidtables.com/tools/notepad.html
+  author:
+  note: Online plain text notepad. Great for drafting
+- title: Open Parliament
+  url: https://openparliament.ca
+  note: A great way to search Canadian parliamentary debates 
+  author: Michael Mulley  
+- title: Canada Income Tax Calculator
+  url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
+  note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
+  author: Wealthsimple
+- title: Twitter Publish
+  url: https://publish.twitter.com/#
+  author: Twitter
+  note: Quikcly generate Twitter embeds
+- title: The Toronto Theatre Database
+  url: https://ttdb.ca/
+  author: Canada's Theatre Museum
+  note: IMDB for Toronto plays
+- title: Elections Ontario Data Explorer
+  url: https://results.elections.on.ca/en/data-explorer
+  author: Elections Ontario
+  note: Analyze provincial election results in Ontario since 1867
+- title: MakeRef
+  url: https://makeref.toolforge.org/
+  author: Magnus Manske 
+  note: Used to help generate Wikipedia reference tags
+- title: The On-Line Encyclopedia of Integer Sequences
+  url: https://oeis.org/
+  author: Neil Sloane
+  note: An encyclopedia to lookup integer sequences
+- title: HTTP Cats
+  url: https://http.cat/
+  author: Rogério Vicente
+  note: HTTP Status code guide with cats!

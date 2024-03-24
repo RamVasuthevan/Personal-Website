@@ -23,16 +23,16 @@
   url: https://applieddivinitystudies.com/asymmetric/
   author: Applied Divinity Studies
 - title: "Why aren't there more Billionaires"
-  url: https://applieddivinitystudies.com/billionaire/
+  url: https://applieddivinitystudies.com/billionaire
   author: Applied Divinity Studies
 - title: Finance
-  url: https://applieddivinitystudies.com/finance/
+  url: https://applieddivinitystudies.com/finance
   author: Applied Divinity Studies
 - title: "The 30-Year Mortgage is an Intrinsically Toxic Product"
   url: https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a
   author: Byrne Hobart
 - title: "Is Time Working for or Against You?"
-  url: https://applieddivinitystudies.com/time/
+  url: https://applieddivinitystudies.com/time
   author: Applied Divinity Studies
 - title: Staying Classy
   url: https://slatestarcodex.com/2016/01/30/staying-classy/
@@ -111,4 +111,118 @@
   author: Scott Alexander
 - title: Cardiologists and Chinese Robbers
   url: https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/
+  author: Scott Alexander
+- title: "The Revenue-Evil Curve: a different way to think about prioritizing public goods funding"
+  url: https://vitalik.ca/general/2022/10/28/revenue_evil.html
+  author: Vitalik Buterin
+- title: The Baked Data architectural pattern
+  url: https://simonwillison.net/2021/Jul/28/baked-data/
+  author:  Simon Willison
+- title: Epistemic trespassing, or epistemic squatting?
+  url: https://www.noahpinion.blog/p/epistemic-trespassing-or-epistemic
+  author: Noah Smith
+- title: "Oracle Database 12.2: It is close to 25 million lines of C code"
+  url: https://news.ycombinator.com/item?id=18442941
+  author: oraguy
+- title: The Paradox of Ambition
+  url: https://perell.com/essay/the-paradox-of-ambition/
+  author: David Perell
+- title: The Look of Gentrification
+  url: https://darrellowens.substack.com/p/the-look-of-gentrification
+  author: Darrell Owens
+- title: The End of the Beginning
+  url: https://stratechery.com/2020/the-end-of-the-beginning/
+  author: Ben Thompson
+- title: "There’s no speed limit"
+  url: https://sive.rs/kimo
+  author: Derek Sivers
+- title: Eleven Magic Words
+  url: https://ymeskhout.substack.com/p/eleven-magic-words-unlocked
+  author: Yassine Meskhout
+- title: Unemployment Part I – Quitting Won't Save You
+  url: https://applieddivinitystudies.com/2020/09/01/quitting/
+  author: Applied Divinity Studies
+- title: Unemployment Part 2 - How to Save Yourself
+  url: https://applieddivinitystudies.com/2020/09/03/quitting-II/
+  author: Applied Divinity Studies
+- title: Why do people hate the media so much?
+  url: https://marginalrevolution.com/marginalrevolution/2016/09/people-hate-media-much.html
+  author: Tyler Cowen
+- title: Cool URIs don't change
+  url: https://www.w3.org/Provider/Style/URI
+  author: Tim Berners-Lee
+- title: "Why TV News Is A Waste Of Human Effort: One Example Worth A Trillion Dollars"
+  url: https://www.cgpgrey.com/blog/why-tv-news-is-a-waste-of-human-effort-one-video-is-worth-a-trillion-dollars
+  author: CGP Grey
+- title: Digital gardening
+  url: https://nicolasbouliane.com/blog/digital-gardening
+  author: Nicolas Bouliane
+- title: Money and Confidence are Interchangeable
+  url: https://www.mrmoneymustache.com/2018/03/09/money-and-confidence-are-interchangeable/
+  author: Mr. Money Mustache
+- title: The Harried Leisure Class
+  url: https://marginalrevolution.com/marginalrevolution/2023/06/the-harried-leisure-class.html
+  author: Tyler Cowen
+- title: "The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained"
+  url: https://grugbrain.dev/
+  author: Grug
+- title: How To Legally Own Another Person
+  url: https://medium.com/incerto/how-to-legally-own-another-person-4145a1802bf6
+  author: Nassim Taleb
+- title: "Book Review: Seeing Like A State"
+  url: https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/
+  author: Scott Alexander
+- title: "Book Review: Against The Grain"
+  url: https://slatestarcodex.com/2019/10/14/book-review-against-the-grain/
+  author: Scott Alexander
+- title: The Economics of Pricelessness
+  url: https://www.ribbonfarm.com/2014/08/12/the-economics-of-pricelessness/
+  author: Venkatesh Rao
+- title: Luxury Beliefs are Status Symbols
+  url: https://www.robkhenderson.com/p/status-symbols-and-the-struggle-for
+  author: Rob Henderson
+- title: "Why is Everything Liberal?"
+  url: https://www.richardhanania.com/p/why-is-everything-liberal
+  author:  Richard Hanania
+- title: Contra Hanania On Partisanship
+  url: https://www.astralcodexten.com/p/contra-hanania-on-partisanship
+  author: Scott Alexander
+- title: "The 4-Hour Life"
+  url: https://lindynewsletter.beehiiv.com/p/4hour-life
+  author: Paul Skallas
+- title: Why were you late?
+  url: https://www.visakanv.com/blog/late/
+  author: Visa
+- title: The Bus Ticket Theory of Genius
+  url: http://www.paulgraham.com/genius.html
+  author: Paul Graham
+- title: All Debates Are Bravery Debates
+  url: https://slatestarcodex.com/2013/06/09/all-debates-are-bravery-debates/
+  author: Scott Alexander
+- title: Sort By Controversial
+  url: https://slatestarcodex.com/2018/10/30/sort-by-controversial/
+  author: Scott Alexander
+- title: "Dictator Book Club: Chavez"
+  url: https://www.astralcodexten.com/p/dictator-book-club-chavez
+  author: Scott Alexander
+- title: 'Book Review: Legal Systems Very Different From Ours'
+  url: https://slatestarcodex.com/2017/11/13/book-review-legal-systems-very-different-from-ours/
+  author: Scott Alexander
+- title: The Ideology Is Not The Movement
+  url: https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/
+  author: Scott Alexander
+- title: The Amish Health Care System
+  url: https://slatestarcodex.com/2020/04/20/the-amish-health-care-system/
+  author: Scott Alexander
+- title: I Can Tolerate Anything Except The Outgroup
+  url: https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/
+  author:  Scott Alexander
+- title: The Categories Were Made for Man, Not Man for the Categories
+  url: https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/
+  author: Scott Alexander
+- title: Conflict Vs. Mistake
+  url: https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/
+  author: Scott Alexander
+- title: "Who By Very Slow Decay"
+  url: https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/
   author: Scott Alexander

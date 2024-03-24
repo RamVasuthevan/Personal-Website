@@ -1,0 +1,13 @@
+{% if include.src %}
+    {% assign image_src = include.src %}
+{% else %}
+    {% assign directory = page.permalink %}
+    {% assign image_src = "/assets/" | append: directory | append: "/" | append: include.name %}
+{% endif %}
+<div class="image-container">
+    <img src="{{ image_src }}" alt="{{ include.alt }}">
+    <div class="caption">
+        {{ include.caption | markdownify }}
+    </div>
+</div>
+<br>

@@ -21,23 +21,42 @@
 title: Ram's Personal Website
 email: FirstName@LastName.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal website of Ram Vasuthevan. I am a software engineer interested in technology, finance and real estate.
+    Built by Ram Vasuthevan with ❤️ on the [shoulders of giants](/acknowledgements.html)
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
+flickr_username: RamVasuthevan
+
+
+# jekyll-seo-tag based on https://github.com/jekyll/jekyll-seo-tag/blob/db0e6392591a13e33339ee250a2861fc01646146/docs/usage.md
+
+twitter:
+  username: RamVasuthevan
+  card: summary_large_image
+
+social:
+  name: Ram Vasuthevan
+  links:
+    - https://twitter.com/RamVasuthevan/
+    - https://www.linkedin.com/in/ramvasuthevan/
+    - https://github.com/RamVasuthevan/
 
 # Build settings
 theme: minima
 
 header_pages:
-  - introductions.html
-  - quake-articles.markdown
-  - tools.html
+  - bitsbipsbricks.markdown
   - thinking-about.markdown
-  - acknowledgements.html
+  - quake-articles.markdown
+  - tools.markdown
+  - project-ideas.markdown
+  - all-pages.html
+
+sass:
+  quiet_deps: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

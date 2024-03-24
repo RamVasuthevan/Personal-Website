@@ -1,0 +1,52 @@
+- name: "This Website!"
+  url: "https://github.com/RamVasuthevan/Personal-Website/"
+  description: "My personal website built using Jekyll and deployed using CloudPages"
+  selected: true
+- name: "Bits, Bips and Bricks"
+  url: "/bitsbipsbricks"
+  description: "Collection of essays about tech, finance and real estate and the intersection of the three"
+  selected: true
+- name: "Ram's Real Estate Site"
+  url: https://www.realestate.ramvasuthevan.ca
+  description: "A place to catalogue my real estate interests. Built using Pandoc and deployed using CloudPages"
+  selected: true
+- name: "The GoldenHack"
+  url: "https://www.thegoldenhack.ca/"
+  description: "Cofounded a hackathon focusing on the intersection between business and technology"
+  selected: true
+- name: "TLD WHOIS Server"
+  url: "https://github.com/RamVasuthevan/whois-server-list"
+  description: "List of whois servers for all TLDs available in csv, markdown and xlsx"
+  selected: false
+- name: "Lobbying in Toronto"
+  url: "https://lobbyingintoronto.ca/"
+  description: "A work-in-progress project to make it easier to analyze data from the Toronto Lobbyist Registrar"
+  selected: true
+- name: "FIPS Census County and County Equivalent Entities"
+  url: "https://github.com/RamVasuthevan/FIPS-Census-County-and-County-Equivalent-Entities"
+  description: "A consolidated list of 2010 and 2020 FIPS Census codes for US counties and county equivalents"
+  selected: true
+- name: "Tax Strategy Statement"
+  url: "https://taxstrategystatement.com/"
+  description: "A collection of tax strategy statements which are required to published by large businesses in the UK"
+  selected: false
+- name: "Modern Slavery Statements"
+  url: https://modernslaverystatements.com/
+  description: "Some sample modern slavery statements and a short example of their use in the UK and Australia"
+  selected: false
+- name: SavePageNow API
+  url: "https://github.com/RamVasuthevan/savepagenow_client"
+  description: "A Python wrapper for archive.org’s SavePageNow API"
+  selected: true
+- name: Version Check Pre-commit Hooks
+  url: https://github.com/RamVasuthevan/version-check-pre-commit-hooks
+  description: Pre-commit hooks to check that Python versions in configurations are consistent
+  selected: true
+- name: Tweet Archive Converter
+  url: https://github.com/RamVasuthevan/tweet-archive-converter
+  description: "Convert `tweet.js` file from [Twitter data archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-x-archive) into a CSV file"
+  selected: true
+- name: Git Scraping
+  url: /git-scraping
+  description: "Use Git to track changes to open data files"
+  selected: true
