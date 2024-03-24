@@ -7,7 +7,7 @@
 - name: Unlicense
   items:
     - title: "Say No to Copyright Unlicense Yourself: Set Your Code Free"
-      url: https://unlicense.org/
+      url: https://web.archive.org/web/20230703162904/https://unlicense.org/
       note: Interesting license, where you dedicate your code to public domain
     - title: Placing documents into the public domain
       url: https://cr.yp.to/publicdomain.html
@@ -91,5 +91,32 @@
   items:
     - title: "How to run a GitHub Action from a branch other than master?"
       url: https://stackoverflow.com/questions/63480433/how-to-run-a-github-action-from-a-branch-other-than-master
-      note: How to run Github Action from the non-main branch for the first time?
-
+      note: "How to run Github Action from the non-main branch for the first time?"
+      date: 2020-08-19
+    - title: "How to trigger repository_dispatch event for non-default branch?"
+      url: https://github.com/orgs/community/discussions/24657
+      note:  repository_dispatch can only be triggered on the default branch
+      date: 2019-10-09
+- name: Regex
+  items:
+    - title: "Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)"
+      url: https://swtch.com/~rsc/regexp/regexp1.html
+      author: Russ Cox
+      date_published: 2007-01
+    - title: "Regular Expression Matching in the Wild"
+      url: https://swtch.com/~rsc/regexp/regexp3.html
+      author: Russ Cox
+      date_published: 2010-04
+- name: Music Royalties
+  items:
+    - title: Round Hill Music Royalty Fund — Music and finance in harmony
+      url: https://www.edisongroup.com/research/music-and-finance-in-harmony/29828/
+      author: Fiona Orford-Williams
+      date_published: 2021-08-21
+      note: Great breakdown of the bussines of a royalty fund. [Exhibit 4](https://www.edisongroup.com/research/music-and-finance-in-harmony/29828/#image-2) shows how streaming royalty's are split up 
+    - title: The Definitive Guide to Spotify Royalties
+      url: https://medium.com/@JPriceOfMusic/the-definitive-guide-to-spotify-royalties-dc5960862c00
+      author: Jeff Price
+      date_published: 2020-02-17
+      private_note: h/t [AskYatharth](https://x.com/AskYatharth/status/1719879351070826752?s=20)
+    

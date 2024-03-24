@@ -1,29 +1,44 @@
-- name: Linkedin Logo
-  image: /assets/logos/Linkedin.png
-  link: https://brand.linkedin.com/en-us
-  license_text: 
-  license_link: 
-  notes: Cropped using https://www.iloveimg.com/
-- name: Twitter Logo
-  image: /assets/logos/Twitter.png
-  link: https://about.twitter.com/en/who-we-are/brand-toolkit
-  license_text: 
-  license_link: 
-- name: Microsoft Fluentui Ledger Emoji
-  image: /assets/logos/microsoft_fluentui_emoji_ledger_flat.svg
-  link: https://github.com/microsoft/fluentui-emoji
-  license_text: MIT License
-  license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
-- name: Microsoft Fluentui E-Mail Emoji
-  image: /assets/logos/microsoft_fluentui_emoji_e-mail_flat.svg
-  link: https://github.com/microsoft/fluentui-emoji
-  license_text: MIT License
-  license_link: https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE
+- name: This Tweet
+  note: Inspired me to start this website, starting with a Markdown file edited on [StackEdit](https://stackedit.io/) and manually uploaded to Cloudflare pages
+  link: https://twitter.com/everestpipkin/status/1588636275942502400
+- name: Cloudflare Pages
+  note: Platform to build and deploy JAMstack websites
+  link: https://pages.cloudflare.com/
+  license_text: SAAS with a free tier 
+  license_link: https://www.cloudflare.com/plans/developer-platform/
+- name: Github Repository
+  note: Managed Git with with an scripting [environment](https://github.com/features/actions)
+  link: http://github.com/
+  license_text: SAAS with a free tier 
+  license_link: https://github.com/pricing
 - name: Jekyll
+  note: Static site generator used to build site
   link: https://jekyllrb.com/
   license_text: MIT License
   license_link: https://github.com/jekyll/jekyll/blob/master/LICENSE
 - name: Minima
+  note: Theme for this site, the default theme for Jekyll
   link: https://github.com/jekyll/minima
   license_text: MIT License
   license_link: https://github.com/jekyll/minima/blob/master/LICENSE.txt
+- name: "jekyll-feed"
+  note: Builds [RSS feed](https://ramvasuthevan.ca/feed.xml) for [Bits, Bips and Bricks](https://ramvasuthevan.ca/bitsbipsbricks)
+  link: https://github.com/jekyll/jekyll-feed
+  license_text: MIT License
+  license_link: https://github.com/jekyll/jekyll-feed/blob/master/LICENSE.txt
+- name: "jekyll-sitemap"
+  note: Builds [sitemap.xml](https://ramvasuthevan.ca/sitemap.xml) for this site
+  link: https://github.com/jekyll/jekyll-sitemap
+  license_text: MIT License
+  license_link: https://github.com/jekyll/jekyll-sitemap/blob/master/LICENSE.md
+- name: "jekyll-seo-tag"
+  note: Adds metadata tags for search engines and social networks. Using a fork which fixes an issue with Twitter Cards
+  link: https://github.com/RamVasuthevan/jekyll-seo-tag
+  license_text: MIT License
+  license_link: https://github.com/RamVasuthevan/jekyll-seo-tag/blob/master/LICENSE.txt
+- name: Weightless
+  note: A simple email list service for static sites
+  link: https://weightless.so/
+  license_text: SAAS with a free tier 
+  license_link: https://weightless.so/
+
