@@ -18,4 +18,6 @@ categories: snippets
 This help get 1passwaord and git to work togther:
 https://1password.community/discussion/142814/1password-ssh-within-local-devcontainer-in-vscode
 
-Must open Cursor from CLI
+Must open Cursor from CLI for it to work work with 1passwaord and devcontainer
+
+I ran out of free token the first day I started using it 
