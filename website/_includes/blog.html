@@ -31,11 +31,14 @@
 <h2 class="post-list-heading">{{ include.list_title | default: "Posts" }}</h2>
 <ul class="post-list">
   {%- assign categories_list = include.categories | strip | split: ' ' -%}
+  
   {%- if include.category -%}
     {%- assign trimmed_category = include.category | strip -%}
     {%- assign categories_list = categories_list | push: trimmed_category -%}
   {%- endif -%}
+
   {%- for post in site.posts -%}
+  
     {%- assign post_included = false -%}
     {%- for category in categories_list -%}
       {%- if post.categories contains category -%}
@@ -43,6 +46,7 @@
         {%- break -%}
       {%- endif -%}
     {%- endfor -%}
+
     {%- if post_included -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -57,6 +61,7 @@
       {%- endif -%}
     </li>
     {%- endif -%}
+
   {%- endfor -%}
 </ul>
 
