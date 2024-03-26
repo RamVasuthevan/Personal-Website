@@ -3,7 +3,6 @@ layout: post
 title:  "Felt Feels like Magic"
 image: "/assets/bitsbipsbricks/Felt-Magic/francesca-saraco-u8DiM00gIR8-unsplash.jpg"
 permalink: bitsbipsbricks/Felt-Magic
-categories: bitsbipsbricks
 ---
 
 {% include unsplash_image.html 

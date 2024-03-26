@@ -55,6 +55,11 @@ header_pages:
   - project-ideas.markdown
   - all-pages.html
 
+feed:
+  categories:
+    - bitsbipsbricks
+    - snippets
+
 sass:
   quiet_deps: true
 

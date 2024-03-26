@@ -3,7 +3,6 @@ layout: post
 title:  "A Bit of a Sabbatical"
 image: "/assets/bitsbipsbricks/Sabbatical/mwangi-gatheca-qlKaN7eqay8-unsplash.jpg"
 permalink: bitsbipsbricks/Sabbatical
-categories: bitsbipsbricks
 ---
 
 {% include unsplash_image.html 
