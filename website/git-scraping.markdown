@@ -44,5 +44,6 @@ Future scraping pages:
 - [.nyc Domain Registrations—City of NYC](https://data.cityofnewyork.us/Business/-nyc-Domain-Registrations/9cw8-7heb/about_data)
 - [City Record Online—City of NYC](https://data.cityofnewyork.us/City-Government/City-Record-Online/dg92-zbpx/about_data)
 - [Assessment Review Board Proceedings](https://tribunalsontario.ca/arb/proceedings/)
+
 TODO: 
   - Create [Github: template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
