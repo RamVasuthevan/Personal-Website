@@ -52,7 +52,7 @@ header_pages:
   - thinking-about.markdown
   - quake-articles.markdown
   - tools.markdown
-  - project-ideas.markdown
+  - projects-I-am-working-on.markdown
   - all-pages.html
 
 sass:
