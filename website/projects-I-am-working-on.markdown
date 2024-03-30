@@ -7,29 +7,42 @@ header_title: Projects
 - Public domain images of parliamentarians
     - Scrape Library of Parliament's Parlinfo to get all public domain images of parliamentarians
 - Private acts
-- City of Toronto Elections
-- Git Scraping
+    - I'm curious about the [Private acts](https://www.ola.org/en/legislative-business/bills/private-bills-procedures#:~:text=They%20are%20sometimes%20called%20private,be%20obtained%20under%20general%20law.) in Ontario and Canada
+    - Update [ontario-legislature-bills](https://github.com/RamVasuthevan/ontario-legislature-bills) to only get status from bill in the current sessions to avoid to speed scraping  
+- [City of Toronto Elections](https://github.com/RamVasuthevan/city-of-toronto-elections)
+    - Load City of Toronto elections data into [Datasette](https://datasette.io/)
+    - Analyze and create some visualizations 
+- [Git Scraping](/git-scraping)
     - Scrape more pages
     - Setup Github template for scraping projects
-    - Setup Datasette to analyze results
+    - Setup [Datasette](https://datasette.io/) to analyze results
     - Setup dashboard to monitor all repos
 - Private Website
+    - My public website has been very useful
+    - Update tools to create a private version
 - City of Toronto Archives
+    - Get all public domain images from [City of Toronto Archives](https://gencat4.eloquent-systems.com/webcat/request/DoMenuRequest?SystemName=City+of+Toronto+Archives&UserName=wa+public&Password=&TemplateProcessID=6000_3355&bCachable=1&MenuName=City+of+Toronto+Archives)
 - Public Digital Garden
+    - Create a [digital garden](https://github.com/RamVasuthevan/Real-Estate/issues/79)
 - Read and Review [Black Edge](https://www.amazon.ca/Black-Edge-Inside-Information-Wanted/dp/0812995805)
 - Finish writing
     - [Create Jekyll Sub Blogs using only Liquid](https://github.com/RamVasuthevan/Personal-Website/pull/308/)
     - [Do I Know How to Cook?](https://github.com/RamVasuthevan/Personal-Website/pull/310)
     - [How do Property Taxes in Toronto Work?](https://github.com/RamVasuthevan/Personal-Website/pull/291)
 -  Jekyll stats board
-    - stats that can be dervied at build time
-    - GH action to add data periodically
-    - dynamically load states from api
-- Datasettee Dogsheep
-    - Setup for me
-    - Presto 
-    - Longos
-    - Extract from Email in general 
+    - [Stats that can be dervied at build time](https://shellsharks.com/dynamize-jekyll)
+    - Github Action to add data
+    - Dynamically load stats from API
+- [Datasette Dogsheep](https://dogsheep.github.io/)
+    - Setup an instance for me
+    - Add[Presto](https://www.prestocard.ca/en/) data to Dogsheep
+    - Add data from emailed Longos recipes to Dogsheep
+    - Build a plugin to add data from emails to Dogsheep?
 - Lobbying in Toronto
+    - Keep working on [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry)
+    - Maybe I need to do a rewrite
 - TLAB descions
+    - I requested all non published TLAB decisions
+    - Split PDFs, extract meta data and publish
 - City of Toronto Lobbying registry
+    - Analyze City of Toronto [Heritage Register data](https://open.toronto.ca/dataset/heritage-register/)
