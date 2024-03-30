@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Projects I Am Thinking About
+title: Projects I Am Thinking About or Working on
 header_title: Projects 
 ---
+
+This is a living document with the projects that I am think about, some of which I am working on. The ones I think about most and have energy to work on, will become completed projects and ones I don't, will fall off this list.
 
 - Public domain images of parliamentarians
     - Scrape Library of Parliament's Parlinfo to get all public domain images of parliamentarians
@@ -46,3 +48,5 @@ header_title: Projects
     - Split PDFs, extract meta data and publish
 - City of Toronto Lobbying registry
     - Analyze City of Toronto [Heritage Register data](https://open.toronto.ca/dataset/heritage-register/)
+- [Pre-commit Hook to Check That Python Versions Match](https://github.com/RamVasuthevan/version-check-pre-commit-hooks)
+    - Python [Pre-commit](https://pre-commit.com/) hook to make sure that Python versions in [runtime.txt](https://devcenter.heroku.com/articles/python-runtimes), [Pipenv](https://pipenv.pypa.io/zh-cn/stable/basics.html#specifying-versions-of-python), [Github Action](https://github.com/actions/setup-python?tab=readme-ov-file#supported-version-syntax), [Docker](https://hub.docker.com/_/python) file
