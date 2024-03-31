@@ -357,14 +357,7 @@ def list_files_in_INVOICE_DIRECTORY(INVOICE_DIRECTORY=INVOICE_DIRECTORY):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:  # Check if any command line arguments are provided
-        # If yes, then treat those arguments as file paths to be processed
-        invoice_file_paths = sys.argv[
-            1:
-        ]  # Exclude the first argument which is the script name
-    else:
-        # If no arguments are provided, revert to listing files in INVOICE_DIRECTORY
-        invoice_file_paths = list_files_in_INVOICE_DIRECTORY()
+    invoice_file_paths = list_files_in_INVOICE_DIRECTORY()
 
     # Call the process_invoices function with the list of invoice file paths and the output file path
     process_invoices(invoice_file_paths, OUTPUT_FILE)
