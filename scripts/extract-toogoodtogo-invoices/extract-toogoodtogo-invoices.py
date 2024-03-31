@@ -348,7 +348,6 @@ def list_files_in_invoice_directory(invoice_directory):
             os.path.join(invoice_directory, filename)
             for filename in os.listdir(invoice_directory)
             if os.path.isfile(os.path.join(invoice_directory, filename))
-            and filename.endswith(".pdf")
         ]
         return invoice_file_paths
     except FileNotFoundError as e:
