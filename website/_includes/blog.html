@@ -28,51 +28,38 @@
     THE SOFTWARE.
 -->
 
-<h2 class="post-list-heading">{{ include.list_title | default: "Posts" }}</h2>
-<ul class="post-list">
-  {%- assign categories_list = include.categories | strip | split: ' ' -%}
-  
-  {%- if include.category -%}
-    {%- assign trimmed_category = include.category | strip -%}
-    {%- assign categories_list = categories_list | push: trimmed_category -%}
-  {%- endif -%}
+<div class="blog">
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- if post.categories contains include.category or  post.tags contains include.tag -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%-endif -%}
+      {%- endfor -%}
 
-  {%- for post in site.posts -%}
-  
-    {%- assign post_included = false -%}
-    {%- for category in categories_list -%}
-      {%- if post.categories contains category -%}
-        {%- assign post_included = true -%}
-        {%- break -%}
-      {%- endif -%}
-    {%- endfor -%}
+    </ul>
 
-    {%- if post_included -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
-      {%- endif -%}
-    </li>
+    {%- if include.category and site.feed.categories contains include.category -%}
+    {% unless include.tag %}
+    <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.category | append: '.xml' | relative_url }}">via RSS</a></p>
+    {% endunless %}
     {%- endif -%}
 
-  {%- endfor -%}
-</ul>
+    {%- if include.tag and site.feed.tags contains include.tag -%}
+    {% unless include.category %}
+    <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.tag | append: '.xml' | relative_url }}">via RSS</a></p>
+    {% endunless %}
+    {%- endif -%}
 
-{%- assign show_rss_link = false -%}
-{%- if categories_list.size == 1 -%}
-  {%- assign rss_category = categories_list | first -%}
-  {%- if site.feed.categories contains rss_category -%}
-    {%- assign show_rss_link = true -%}
-  {%- endif -%}
-{%- endif -%}
-
-{%- if show_rss_link -%}
-  <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: rss_category | append: '.xml' | relative_url }}">via RSS</a></p>
-{%- endif -%}
+</div>
