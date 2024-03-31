@@ -466,3 +466,10 @@
   recommendation: I was looking to add photos to [Deputy Director of the Central Intelligence Agency](https://en.wikipedia.org/wiki/Deputy_Director_of_the_Central_Intelligence_Agency), I found this interesting book
   reason_added: An overview of the CIA seems quite interesting
   date_added: 2024-03-16
+- name: "Complexity: The Emerging Science at the Edge of Order and Chaos"
+  author: Mitchell M. Waldrop 
+  isbn-10: 0671872346
+  isbn-13: 9780671872342
+  recommendation: "[Josh Wolfe](https://twitter.com/wolfejosh) mentions that Bill 'Gurley credits [@sfiscience](https://twitter.com/sfiscience) + book 'Complexity' for most influencing his worldview"
+  reason_added: "I respect Bill Gurley"
+  date_added: 2024-03-30
