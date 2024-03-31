@@ -40,5 +40,6 @@ Read More:
 
 # Spotify Ads Art Project
 
-- Audio ads on Spotify interrupt the music. You can [buy these Spotify ads](https://ads.spotify.com/en-CA/)
+- Spotify has audio ads on it's free tier. You can [buy these Spotify ads](https://ads.spotify.com/en-CA/)
 - What do you want to say to a captive audience of thousands of strangers?
+- Maybe you singing in the shower, maybe you telling people you can buy ads on Spotify to tell people things or maybe just a moment of calm?
