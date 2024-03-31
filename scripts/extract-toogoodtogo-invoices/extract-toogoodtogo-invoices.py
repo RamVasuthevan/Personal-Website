@@ -329,7 +329,7 @@ def process_invoices(invoice_file_paths: list, OUTPUT_FILE: str) -> None:
         # Check if the provided path is a valid file
         if not os.path.isfile(filepath) or not filepath.endswith(".pdf"):
             print(f"{filepath} is not a valid PDF file.")
-            continue
+            raise ValueError(f"{filepath} is not a valid PDF file.")
 
         # Process each invoice file
         try:
@@ -341,23 +341,23 @@ def process_invoices(invoice_file_paths: list, OUTPUT_FILE: str) -> None:
             raise e
 
 
-def list_files_in_INVOICE_DIRECTORY(INVOICE_DIRECTORY=INVOICE_DIRECTORY):
+def list_files_in_invoice_directory(invoice_directory):
     # Collect all PDF files in the specified INVOICE_DIRECTORY
     try:
         invoice_file_paths = [
-            os.path.join(INVOICE_DIRECTORY, filename)
-            for filename in os.listdir(INVOICE_DIRECTORY)
-            if os.path.isfile(os.path.join(INVOICE_DIRECTORY, filename))
+            os.path.join(invoice_directory, filename)
+            for filename in os.listdir(invoice_directory)
+            if os.path.isfile(os.path.join(invoice_directory, filename))
             and filename.endswith(".pdf")
         ]
         return invoice_file_paths
     except FileNotFoundError as e:
-        print(f"The INVOICE_DIRECTORY {INVOICE_DIRECTORY} does not exist.")
+        print(f"The invoice_directory {invoice_directory} does not exist.")
         raise e
 
 
 if __name__ == "__main__":
-    invoice_file_paths = list_files_in_INVOICE_DIRECTORY()
+    invoice_file_paths = list_files_in_invoice_directory(INVOICE_DIRECTORY)
 
     # Call the process_invoices function with the list of invoice file paths and the output file path
     process_invoices(invoice_file_paths, OUTPUT_FILE)
