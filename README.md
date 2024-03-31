@@ -18,3 +18,12 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 1. Think about how to archive articles. WIP - [PrivateLibrary](https://github.com/RamVasuthevan/PrivateLibrary)
 2. Make pretty
 3. Start vendoring dependencies 
+
+
+### CloudFlare Pages Env Variables 
+
+#### Production
+- RUBY_VERSION=3.2.2
+
+#### Preview
+- RUBY_VERSION=3.2.2

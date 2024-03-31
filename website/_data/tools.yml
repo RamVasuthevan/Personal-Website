@@ -108,3 +108,27 @@
   url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
   note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
   author: Wealthsimple
+- title: Twitter Publish
+  url: https://publish.twitter.com/#
+  author: Twitter
+  note: Quikcly generate Twitter embeds
+- title: The Toronto Theatre Database
+  url: https://ttdb.ca/
+  author: Canada's Theatre Museum
+  note: IMDB for Toronto plays
+- title: Elections Ontario Data Explorer
+  url: https://results.elections.on.ca/en/data-explorer
+  author: Elections Ontario
+  note: Analyze provincial election results in Ontario since 1867
+- title: MakeRef
+  url: https://makeref.toolforge.org/
+  author: Magnus Manske 
+  note: Used to help generate Wikipedia reference tags
+- title: The On-Line Encyclopedia of Integer Sequences
+  url: https://oeis.org/
+  author: Neil Sloane
+  note: An encyclopedia to lookup integer sequences
+- title: HTTP Cats
+  url: https://http.cat/
+  author: Rogério Vicente
+  note: HTTP Status code guide with cats!
