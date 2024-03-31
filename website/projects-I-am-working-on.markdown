@@ -55,3 +55,5 @@ This is a living document with the projects that I am think about, some of which
     - Scrape public offering plans from [NY AG's Offering Plan Database](https://offeringplandatasearch.ag.ny.gov/REF/welcome.jsp)
 - The Master Plan
     - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [review](https://github.com/RamVasuthevan/Personal-Website/pull/235) it along with the play [The Master Plan](https://www.crowstheatre.com/whats-on/view-all/themasterplan)
+- [ca-property-tax]
+    - Add a [country to ca-property-tax](https://github.com/typpo/ca-property-tax/issues/1)
