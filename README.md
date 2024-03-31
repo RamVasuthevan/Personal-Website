@@ -18,3 +18,6 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 1. Think about how to archive articles. WIP - [PrivateLibrary](https://github.com/RamVasuthevan/PrivateLibrary)
 2. Make pretty
 3. Start vendoring dependencies 
+
+https://github.com/microsoft/vscode-remote-release/issues/9303
+https://github.com/microsoft/vscode-remote-release/issues/9302
