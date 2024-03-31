@@ -50,3 +50,8 @@ This is a living document with the projects that I am think about, some of which
     - Analyze City of Toronto [Heritage Register data](https://open.toronto.ca/dataset/heritage-register/)
 - [Pre-commit Hook to Check That Python Versions Match](https://github.com/RamVasuthevan/version-check-pre-commit-hooks)
     - Python [Pre-commit](https://pre-commit.com/) hook to make sure that Python versions in [runtime.txt](https://devcenter.heroku.com/articles/python-runtimes), [Pipenv](https://pipenv.pypa.io/zh-cn/stable/basics.html#specifying-versions-of-python), [Github Action](https://github.com/actions/setup-python?tab=readme-ov-file#supported-version-syntax), [Docker](https://hub.docker.com/_/python) file
+- NYC Offering Plans
+    - Finish writing [article](https://github.com/RamVasuthevan/Personal-Website/pull/255) about FOILing NY Offering Plan
+    - Scrape public offering plans from [NY AG's Offering Plan Database](https://offeringplandatasearch.ag.ny.gov/REF/welcome.jsp)
+- The Master Plan
+    - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [review](https://github.com/RamVasuthevan/Personal-Website/pull/235) it along with the play [The Master Plan](https://www.crowstheatre.com/whats-on/view-all/themasterplan)
