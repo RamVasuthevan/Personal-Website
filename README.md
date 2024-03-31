@@ -27,3 +27,6 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 #### Preview
 - RUBY_VERSION=3.2.2
+
+https://github.com/jekyll/jekyll-redirect-from/issues/226
+https://github.com/search?q=repo%3Ajekyll%2Fjekyll-redirect-from+localhost&type=issues
