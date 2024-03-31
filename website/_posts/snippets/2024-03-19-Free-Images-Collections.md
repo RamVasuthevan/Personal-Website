@@ -7,9 +7,9 @@ categories: snippets
 ---
 
 {% include image.html 
-   src="/assets/snippets/Free-Images-Collections/9924-f1244_it0099.jpg" 
+   src="/assets/snippets/Free-Images-Collections/9924-f1244_it0099_cropped.jpg" 
    alt="Three locomotives in the station at [Old Union Station](https://en.wikipedia.org/wiki/Toronto_Union_Station_(1873))"
-   caption="Taken in 1907 by freelance photographer William James,rom the City of Toronto Archives, [Fonds 1244, Item 99](https://gencat.eloquent-systems.com/city-of-toronto-archives-m-permalink.html?key=48963)" 
+   caption="Taken in 1907 by freelance photographer William James (City of Toronto Archives, [Fonds 1244, Item 99](https://gencat.eloquent-systems.com/city-of-toronto-archives-m-permalink.html?key=48963))" 
 %}
 
 **Editor’s Note: I initially intended Snippets to be for posts which were never updated, like blog posts. I don't know if I'll update this post if I find another large free image repository.** 
