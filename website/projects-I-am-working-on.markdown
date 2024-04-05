@@ -57,3 +57,7 @@ This is a living document with the projects that I am think about, some of which
     - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [review](https://github.com/RamVasuthevan/Personal-Website/pull/235) it along with the play [The Master Plan](https://www.crowstheatre.com/whats-on/view-all/themasterplan)
 - [ca-property-tax]
     - Add a [country to ca-property-tax](https://github.com/typpo/ca-property-tax/issues/1)
+- Build a map of the walking time between Subway Station
+    - Build [this](https://twitter.com/_ChanFace/status/1774555217977016705?t=DBrpmo2ST0UNNnpQaIMFCQ&s=19) graphic for all of Toronto
+    - Or maybe just line 1 and 2
+    - Here is the [source](https://downtownyonge.com/getting-here/#:~:text=enjoy%20the%20moment,areas%20in%20Toronto.) 
