@@ -1,22 +1,27 @@
 ---
-layout: default
-title: Random Page
+layout: null
+title: Redirect to Random Page
 ---
 
-<div id="redirecting">
-  Redirecting to a random page...
-</div>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting to random page...</title>
+    <script>
+      // Pre-generated list of page URLs
       var pages = [
         {% for page in site.html_pages %}
-          {% if page.url != '/random.html' %}'{{ page.url }}',{% endif %}
+          {% unless page.url contains 'random.html' %}
+            "{{ page.url }}"{% unless forloop.last %},{% endunless %}
+          {% endunless %}
         {% endfor %}
       ];
-  
-      var randomPage = pages[Math.floor(Math.random() * pages.length)];
-      window.location.href = randomPage; // Redirect to the random page
-    });
-  </script>
-  
+
+      // Directly use the pre-generated array for redirection
+      window.location.href = pages[Math.floor(Math.random() * pages.length)];
+    </script>
+</head>
+<body>
+</body>
+</html>
