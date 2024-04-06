@@ -51,9 +51,10 @@
     </ul>
 
     {%- if include.category and site.feed.categories contains include.category -%}
-    {% unless include.tag %}
-    <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.category | append: '.xml' | relative_url }}">via RSS</a></p>
-    {% endunless %}
+      {% unless include.tag %}
+      {% assign feed_location = site.feed.categories[include.category].path | default: '/feed/' | append: include.category | append: '.xml' | relative_url %}
+        <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.category | append: '.xml' | relative_url }}">via RSS</a></p>
+        {% endunless %}
     {%- endif -%}
 
     {%- if include.tag and site.feed.tags contains include.tag -%}

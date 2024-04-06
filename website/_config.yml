@@ -57,8 +57,10 @@ header_pages:
 
 feed:
   categories:
-    - bitsbipsbricks
-    - snippets
+    snippets:
+    bitsbipsbricks:
+      path: "/changes.atom"
+  tags: true
 
 sass:
   quiet_deps: true
