@@ -53,6 +53,27 @@ Here is some art and artist which I like:
 <img src ="/assets/art/anthony_van_dyck/Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg">
 <!--From https://en.wikipedia.org/wiki/File:Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg -->
 
+### Kaws:Family
+<img src ="/assets/art/anthony_van_dyck/Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg">
+<!--From https://ago.ca/exhibitions/kaws-family -->
+Add this image or the image with me in the photo?
+
+People say that there's some art which captivates you and just brings you in 
+This is the first time I remember that happening to me in an organic way. 
+
+I've tried to ... force that, intentionally sitting in front of painting that I like for 10 or 15 minutes. But this is the first time when the painting forced me to keep looking. 
+
+
+I was struck by how each of the family members were similar to each other and different. And how the differences don't make them not family. The family is something that transcends the differences 
+
+I just had to stop there and stare and keep looking at it and thinking about how the piece reflected life
+
+
+### DNCB
+https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c
+
+I was moved by the idea of a man applying 
+
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
 - [Pascal Normand](https://www.nataliedraz.com/collections/original-artwork)

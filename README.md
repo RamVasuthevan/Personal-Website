@@ -27,3 +27,7 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 #### Preview
 - RUBY_VERSION=3.2.2
+
+
+1. Add KAWS and DNCB
+2. Add source as a comment for all images
