@@ -61,3 +61,8 @@ This is a living document with the projects that I am think about, some of which
     - Build [this](https://twitter.com/_ChanFace/status/1774555217977016705?t=DBrpmo2ST0UNNnpQaIMFCQ&s=19) graphic for all of Toronto
     - Or maybe just line 1 and 2
     - Here is the [source](https://downtownyonge.com/getting-here/#:~:text=enjoy%20the%20moment,areas%20in%20Toronto.) 
+- Private Cloud Flare Pages site Blog Post
+    - Manage -> Manage access policy
+    - Create a new policy for the main domain or remove the wild card?
+    - Does one time password auto login work when logged into CF?
+    - Is a one-time password auto-loaded as an identity provider?
