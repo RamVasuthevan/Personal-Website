@@ -49,3 +49,9 @@ Read More:
 
 - I am basically looking for something like [PodLink — Cortex](https://pod.link/1001591696) but it seems to be owned by [Podsights](https://pod.link/terms), which Spotify bought in Feb. 2022
 - I'd really like an open source version and I'm not sure Spotify with maintain this forever
+
+# Spotify Ads Art Project
+
+- Spotify has audio ads on its free tier. You can buy these [Spotify ads](https://ads.spotify.com/en-CA/)
+- What do you want to say to a captive audience of thousands of strangers?
+- Maybe you singing in the shower? Maybe you telling people you can buy ads on Spotify to tell people things? Or maybe just a moment of calm?
