@@ -21,3 +21,4 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 https://github.com/microsoft/vscode-remote-release/issues/9303
 https://github.com/microsoft/vscode-remote-release/issues/9302
+https://github.com/microsoft/vscode/issues/203964
