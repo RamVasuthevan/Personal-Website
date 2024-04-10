@@ -66,3 +66,8 @@ This is a living document with the projects that I am think about, some of which
     - Create a new policy for the main domain or remove the wild card?
     - Does one time password auto login work when logged into CF?
     - Is a one-time password auto-loaded as an identity provider?
+- FEN to SVG
+    - Build a static client side js pass to convert FEN strings to images
+    -  [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) is a way descibe chess board
+    - Here are some tools that convert so something similar [1](https://www.apronus.com/chess/pgnviewer/) [2](https://www.dailychess.com/chess/chess-fen-viewer.php) [3](http://www.netreal.de/Forsyth-Edwards-Notation/index.php)
+    <!--https://chat.openai.com/c/dcd07c52-15eb-450d-a480-991fc3f1cbb4-->
