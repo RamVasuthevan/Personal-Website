@@ -71,3 +71,5 @@ This is a living document with the projects that I am think about, some of which
     -  [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) is a way descibe chess board
     - Here are some tools that convert so something similar [1](https://www.apronus.com/chess/pgnviewer/) [2](https://www.dailychess.com/chess/chess-fen-viewer.php) [3](http://www.netreal.de/Forsyth-Edwards-Notation/index.php)
     <!--https://chat.openai.com/c/dcd07c52-15eb-450d-a480-991fc3f1cbb4-->
+- Live Toronto Island Ferry Ticket Counts 
+    - [Duplicate](https://toronto.cityhallwatcher.com/p/city-halls-not-so-wild-spring-break#:~:text=open%20data%20alert!%20the%20open%20data%20portal%20has%20posted%20a%20real%20treasure%20trove%20of%20a%20dataset%20with%20up-to-date%20toronto%20island%20ticket%20sales%20and%20redemptions%20since%20the%20spring%20of%202015.) this chart using Datasette based on [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/)
