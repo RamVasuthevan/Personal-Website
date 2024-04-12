@@ -32,3 +32,11 @@ header_title: Soda Review
 - No sharpness
 - Okay flavour
 - Would be disappointed if I wanted ginger beer and I got this, but might have it again
+
+
+### 7Up Zero Sugar Grapefruit
+- It tastes good. 
+- Not that sweet
+- Doesn't really have an aftertaste
+- Honestly, not sure what I was expecting, it's kind mid
+
