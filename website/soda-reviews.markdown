@@ -18,6 +18,7 @@ header_title: Soda Review
 - It lacks the sharp (bitter?) aftertaste of better ginger soda
 - The sweetness tastes a little weird
     - (It's naturally favour, zero sugar)
+- Would I have it again: No
 
 ### 2024-03-18 Fever-Tree Premium Ginger Beer
 {% include image.html 
@@ -27,16 +28,28 @@ header_title: Soda Review
    license="© 2024 Fever-Tree. All Rights Reserved" 
    source="https://fever-tree.com/en_CA/products/ginger-beer"
 %}
-- 5/4
+- 5/10
 - Bought from [Victory Cafe](https://www.victorycafe.ca/) <!-- 440 Bloor St W, Toronto, ON M5S 1X -->
 - No sharpness
 - Okay flavour
 - Would be disappointed if I wanted ginger beer and I got this, but might have it again
+- A lot of restaurants have this as the only ginger beer
+- Would I have it again: Yes
 
 
-### 7Up Zero Sugar Grapefruit
+### 2024-04-10 7Up Zero Sugar Grapefruit
+{% include image.html 
+   src="/assets/soda-review/2024-04-10_7Up_Zero_Sugar_Grapefruit.webp" 
+   alt="Photo of 7Up Zero Sugar Grapefruit" 
+   caption=""
+   license="© 2024 Candy Depot. All Rights Reserved" 
+   source="https://www.candydepot.ca/products/7up-grapefruit-zero-355ml"
+%}
+- 6/10
+- Got it from the Hniebergall residence
 - It tastes good. 
 - Not that sweet
 - Doesn't really have an aftertaste
 - Honestly, not sure what I was expecting, it's kind mid
+- Would I have it again: Maybe
 
