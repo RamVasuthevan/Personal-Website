@@ -50,3 +50,7 @@
   url: /git-scraping
   description: "Use Git to track changes to open data files"
   selected: true
+- name: fen2svg
+  url: http://fen2svg.com/
+  description: Convert [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) string to an svg image of a chess board
+  selected: true
