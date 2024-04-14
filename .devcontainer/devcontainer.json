@@ -1,5 +1,6 @@
 {
     "name": "Ruby 3.2.2",
+    "dockerFile": "Dockerfile",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
