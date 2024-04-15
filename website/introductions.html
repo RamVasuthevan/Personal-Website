@@ -4,7 +4,7 @@ title: 101s
 ---
 
 {% for topic in site.data.introductions  %}
-<span style="font-weight:bold">{{topic.name}}</span><br>
+<span id={{topic.name}} style="font-weight:bold">{{topic.name}}</span><br>
     {% if topic.note %}
     <span class="collections-note">{{topic.note | markdownify | remove: '<p>' | remove: '</p>' }}</span><br>
     {% endif %}
