@@ -73,3 +73,5 @@ This is a living document with the projects that I am think about, some of which
     <!--https://chat.openai.com/c/dcd07c52-15eb-450d-a480-991fc3f1cbb4-->
 - Live Toronto Island Ferry Ticket Counts 
     - [Duplicate](https://toronto.cityhallwatcher.com/p/city-halls-not-so-wild-spring-break#:~:text=open%20data%20alert!%20the%20open%20data%20portal%20has%20posted%20a%20real%20treasure%20trove%20of%20a%20dataset%20with%20up-to-date%20toronto%20island%20ticket%20sales%20and%20redemptions%20since%20the%20spring%20of%202015.) this chart using Datasette based on [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/)
+ - https://chat.openai.com/c/70a4a997-f74d-4d91-8bb0-d68500d2c236
+    - 
