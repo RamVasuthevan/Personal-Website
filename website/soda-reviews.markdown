@@ -55,3 +55,19 @@ header_title: Soda Review
 - Rating: 6/10
 - Would I have it again: Maybe
 
+
+
+# 2024-04-13 Grace Island Soda Gingerbeer
+{% include image.html 
+   src="/assets/soda-review/2024-04-13_Grace_Island_Soda_Gingerbeer.png"
+   alt="Photo of Grace Island Soda Gingerbeer" 
+   width="400px"
+   license="© Loblaws Inc. All Rights Reserved" 
+   source="https://www.valumart.ca/island-soda/p/20299652005_EA"
+%}
+- Tastes great
+- My favourite ginger beer
+- Amazing aftertaste
+- This soda is only the main reason I am doing this review. I'd know soda could taste so good!
+- Rating: 9/10
+- Would I have it again? Yes
