@@ -9,16 +9,17 @@ title: Random Page
     <meta charset="UTF-8">
     <title>Redirecting to random page...</title>
     <script>
-      // Pre-generated list of page URLs
-      var pages = [
-        {% for page in site.html_pages %}
-          {% unless page.url contains 'random.html' %}
-            "{{ page.url }}"{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-      ];
-
-      // Directly use the pre-generated array for redirection
-      window.location.href = pages[Math.floor(Math.random() * pages.length)];
+        // Define an array of all pages except "/random.html"
+        var pages = [
+            {% for page in site.pages %}
+                {% if page.url != '/random.html' %}
+                    "{{ page.url }}",
+                {% endif %}
+            {% endfor %}
+        ];
+      
+        // Redirect to a random page
+        window.location.href = pages[Math.floor(Math.random() * pages.length)];
     </script>
 </head>
 <body>
