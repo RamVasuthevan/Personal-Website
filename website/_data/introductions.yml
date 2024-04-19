@@ -123,4 +123,4 @@
   items:
     - title: "MacOS Mojave – Microsoft Office 365 2019 – Excel – VBAProject References Missing"
       url: https://superuser.com/a/1480657
-      note: "Many aren't available on a Mac including the Microsoft Scripting Runtime library (which has Dictionary, FileSystemObject, etc.)"
+      note: "Many libraries aren't available on macOS including the Microsoft Scripting Runtime library (which has Dictionary, FileSystemObject, etc.)"
