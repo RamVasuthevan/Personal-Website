@@ -4,6 +4,11 @@ title: Projects I Am Thinking About or Working on
 header_title: Projects 
 ---
 
+{% include projects.html projects=site.data.wip-projects %}
+
+
+
+
 This is a living document with the projects that I am think about, some of which I am working on. The ones I think about most and have energy to work on, will become completed projects and ones I don't, will fall off this list.
 
 - Public domain images of parliamentarians
