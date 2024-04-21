@@ -32,7 +32,7 @@
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- if post.categories contains include.category or  post.tags contains include.tag -%}
+      {%- if post.categories contains include.category or post.tags contains include.tag -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -59,7 +59,7 @@
 
     {%- if include.tag and site.feed.tags contains include.tag -%}
     {% unless include.category %}
-    <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.tag | append: '.xml' | relative_url }}">via RSS</a></p>
+      <p class="rss-subscribe">subscribe <a href="{{ '/feed/' | append: include.tag | append: '.xml' | relative_url }}">via RSS</a></p>
     {% endunless %}
     {%- endif -%}
 
