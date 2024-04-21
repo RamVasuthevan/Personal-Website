@@ -5,7 +5,7 @@ image: "/assets/bitsbipsbricks/Focus/mwangi-gatheca-qlKaN7eqay8-unsplash.jpg"
 permalink: bitsbipsbricks/Jekyll-Sub-Blogs
 ---
 
-I started writing this [blog](/bitsbipsbricks.html)) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/).
+I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/).
 
 I first started writing on [Ghost](https://ghost.org/). It was esay to setup and maintain. When I first started the blog, I didn't mention put my name on it anywhere. Eventually, I decided to merge it my personal site after I become more confident with my writing and so that I could gain more control over how the site looked. As an engineer by trade, I loving being able to take advantage of Git for version control, setup my writing expericnce using VS Code and know that I can easily maintain and migrate if necessary.
 
