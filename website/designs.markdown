@@ -17,10 +17,13 @@ I am not sure what I am doing here. Is this a page of designs I like, just examp
 - I am sucker for raw HTML
 - You know someone whose blogs looks like that is a certified high priest of the CS gods
 
+### [New Demps](https://newdemos.ca/)
+- More raw HMTL
+- Clean, simple, gets the job done
+
 ### [Bridgetown](https://github.com/bridgetownrb/bridgetown)
 <!--https://news.ycombinator.com/item?id=28524604-->
 - Not at endorsement of Bridgetown or this repo readme, but this is the most growth hacked repo readme I've ever seen (That's a value neutral observation)
-
 
 ### [Tiny Clouds](https://tinyclouds.org/)
 - Looks like the default theme for Deno Blog
