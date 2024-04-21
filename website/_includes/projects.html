@@ -5,7 +5,7 @@
       <th>Projects</th>
       <th>Description</th>
     </tr>
-    {% for project in site.data.projects %}
+    {% for project in include.projects %}
       {% if show_selected_only %}
         {% if project.selected == true %}
           <tr>
