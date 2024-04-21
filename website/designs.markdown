@@ -20,3 +20,8 @@ I am not sure what I am doing here. Is this a page of designs I like, just examp
 ### [Bridgetown](https://github.com/bridgetownrb/bridgetown)
 <!--https://news.ycombinator.com/item?id=28524604-->
 - Not at endorsement of Bridgetown or this repo readme, but this is the most growth hacked repo readme I've ever seen (That's a value neutral observation)
+
+
+### [Tiny Clouds](https://tinyclouds.org/)
+- Looks like the default theme for Deno Blog
+- Clean, simple, modern
