@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create Jekyll Sub Blogs using only Liquid"
-image: "/assets/bitsbipsbricks/Focus/andrew-neel-cckf4TsHAuw-unsplash.jpg"
+image: "/assets/bitsbipsbricks/Jekyll-Sub-Blogs/andrew-neel-cckf4TsHAuw-unsplash.jpg"
 permalink: bitsbipsbricks/Jekyll-Sub-Blogs
 ---
 
