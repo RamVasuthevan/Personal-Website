@@ -1,10 +1,9 @@
 ---
-layout: category
-title: Bits, Bips and Bricks 
+layout: page
+title: Designs I like
 ---
 
-I am not sure what I am doing here. Is this a page of designs I like, just examples or pagee I've [noted](?
-
+I am not sure what I am doing here. Is this a page of designs I like or designs of varying quality which I want to save for
 
 ### [Joodaloop](https://joodaloop.com/)
 <!--https://web.archive.org/web/20240314115923/https://joodaloop.com/-->
@@ -14,10 +13,12 @@ I am not sure what I am doing here. Is this a page of designs I like, just examp
 
 
 ### [cr.yp.to](https://cr.yp.to/patents/us/4200770.html)
+<!--https://web.archive.org/web/20230929033024/https://cr.yp.to/patents/us/4200770.html-->
 - I am sucker for raw HTML
-- You know someone whose blogs looks like that is a certified high priest of the CS gods
+- You know someone whose blog looks like that is a certified high priest of the CS gods
 
 ### [New Demps](https://newdemos.ca/)
+<!--ADD ME-->
 - More raw HMTL
 - Clean, simple, gets the job done
 
@@ -26,5 +27,6 @@ I am not sure what I am doing here. Is this a page of designs I like, just examp
 - Not at endorsement of Bridgetown or this repo readme, but this is the most growth hacked repo readme I've ever seen (That's a value neutral observation)
 
 ### [Tiny Clouds](https://tinyclouds.org/)
+<!--https://web.archive.org/web/20240327224034/https://tinyclouds.org/-->
 - Looks like the default theme for Deno Blog
 - Clean, simple, modern
