@@ -54,9 +54,9 @@ Here is some art and artist which I like:
 <!--From https://en.wikipedia.org/wiki/File:Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg -->
 
 ### Kaws:Family
-<img src ="/assets/art/anthony_van_dyck/Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg">
+<img src ="/assets/art/kaws_family/13028.5199.1_KAWS_FAMILY_88in_Ed1_Final_002_DA EDIT2.png">
 <!--From https://ago.ca/exhibitions/kaws-family -->
-Add this image or the image with me in the photo?
+<!--KAWS, FAMILY (2021) Bronze, paint, (219.1 x 207 x 95.6 cm) © KAWS-->
 
 People say that there's some art which captivates you and just brings you in 
 This is the first time I remember that happening to me in an organic way. 
@@ -70,9 +70,11 @@ I just had to stop there and stare and keep looking at it and thinking about how
 
 
 ### DNCB
-https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c
+<img src ="/assets/art/kaws_family/13028.5199.1_KAWS_FAMILY_88in_Ed1_Final_002_DA EDIT2.png">
+<!--From https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c -->
+<!-- -->
 
-I was moved by the idea of a man applying 
+I was moved by the idea of a dying man applying poison to skin to try to live.
 
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
