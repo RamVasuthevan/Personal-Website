@@ -1,30 +1,31 @@
 {
-    "name": "Ruby 2.7.5",
+    "name": "Ruby 3.2.2",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     },
     "customizations": {
         "vscode": {
             "extensions": [
-                "rebornix.ruby",
-                "ms-azuretools.vscode-docker",
-                "sissel.shopify-liquid",
-                "redhat.vscode-yaml",
                 "GitHub.codespaces",
                 "GitHub.github-vscode-theme",
-                "github.vscode-github-actions",
                 "GitHub.vscode-pull-request-github",
-                "wingrunr21.vscode-ruby",
-                "ms-python.python",  // Python
-                "ms-python.vscode-pylance"  // Python
-            ]
+                "Shopify.ruby-lsp",
+                "github.vscode-github-actions",
+                "mathematic.vscode-pdf",
+                "ms-azuretools.vscode-docker",
+                "ms-python.debugpy", // Python
+                "ms-python.python", // Python
+                "ms-python.vscode-pylance", // Python
+                "redhat.vscode-yaml",
+                "sissel.shopify-liquid"
+            ]            
         }
     },
     "waitFor": "onCreateCommand",
     "updateContentCommand": "cd website && gem update --system && bundle install",
     "postCreateCommand": "echo \"alias nb='$(pwd)/.devcontainer/new_branch.sh'\" >> ~/.bashrc",
     "postAttachCommand": {
-        "server": "cd website && jekyll serve"
+        "server": "cd website && bundle exec jekyll serve"
     },
     "portsAttributes": {
         "4000": {

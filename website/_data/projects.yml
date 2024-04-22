@@ -42,3 +42,15 @@
   url: https://github.com/RamVasuthevan/version-check-pre-commit-hooks
   description: Pre-commit hooks to check that Python versions in configurations are consistent
   selected: true
+- name: Tweet Archive Converter
+  url: https://github.com/RamVasuthevan/tweet-archive-converter
+  description: "Convert `tweet.js` file from [Twitter data archive](https://help.twitter.com/en/managing-your-account/how-to-download-your-x-archive) into a CSV file"
+  selected: true
+- name: Git Scraping
+  url: /git-scraping
+  description: "Use Git to track changes to open data files"
+  selected: true
+- name: fen2svg
+  url: http://fen2svg.com/
+  description: Convert [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) string to an svg image of a chess board
+  selected: true
