@@ -108,8 +108,8 @@
   url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
   note: A simple Canadian income tax calculator based on types of income and RRSP/TFSA contributions
   author: Wealthsimple
-- title: TaxTips.ca
-  url: https://www.taxtips.ca/site-map.htm
+- title: "Tax Tips: Combined Tax Rates & Tax Brackets"
+  url: https://www.taxtips.ca/marginal-tax-rates-in-canada.htm
   author: Boat Harbour Investments
-  note:  An amazing set of resources related to Canadian taxes, like a [federal-provincial combined marginal tax rates tables](https://www.taxtips.ca/taxrates/on.htm), a very detailed [Canadian Tax Calculator](https://www.taxtips.ca/calculators/canadian-tax/canadian-tax-calculator.htm) and [federal-provincial grossed up dividend tax credit rates table](https://www.taxtips.ca/dtc/eligible-dividends/eligible-dividend-tax-credit-rates.htm)
+  note: Canadian tax rates & tax brackets with both federal and province income taxes (eg [Ontario](https://www.taxtips.ca/taxrates/on.htm))
  
