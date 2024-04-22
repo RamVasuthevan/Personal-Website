@@ -16,7 +16,7 @@ header_title: Soda Review
 - It's okay, but I wouldn't have it again
 - It lacks the sharp (bitter?) aftertaste of better ginger soda
 - The sweetness tastes a little weird
-    - (It's naturally favour, zero sugar)
+    - It's naturally favour, zero sugar (lol)
 - Rating: 4/10
 - Would I have it again: No
 
@@ -32,7 +32,7 @@ header_title: Soda Review
 - No sharpness
 - Okay flavour
 - Would be disappointed if I wanted ginger beer and I got this, but might have it again
-- A lot of restaurants have this as the only ginger beer
+- A lot of restaurants have this as their only ginger beer
 - Rating: 5/10
 - Would I have it again: Yes
 
@@ -68,6 +68,6 @@ header_title: Soda Review
 - Tastes great
 - My favourite ginger beer
 - Amazing aftertaste
-- This soda is only the main reason I am doing this review. I'd know soda could taste so good!
+- This soda is the main reason I am doing this review. I didn't know soda could taste so good!
 - Rating: 9/10
 - Would I have it again? Yes
