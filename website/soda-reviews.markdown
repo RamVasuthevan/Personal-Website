@@ -68,6 +68,6 @@ header_title: Soda Review
 - Tastes great
 - My favourite ginger beer
 - Amazing aftertaste
-- This soda is the main reason I am doing this review. I didn't know soda could taste so good!
+- This soda is the main reason I am doing this review. I love soda and I didn't know soda could taste so good!
 - Rating: 9/10
 - Would I have it again? Yes
