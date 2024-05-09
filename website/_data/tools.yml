@@ -106,7 +106,7 @@
   author: Michael Mulley  
 - title: Canada Income Tax Calculator
   url: https://www.wealthsimple.com/en-ca/tool/tax-calculator
-  note: Estimating after-tax income based on types of income and RRSP/TFSA contributions
+  note: A simple Canadian income tax calculator based on types of income and RRSP/TFSA contributions
   author: Wealthsimple
 - title: Twitter Publish
   url: https://publish.twitter.com/#
@@ -136,3 +136,7 @@
   url: https://mediamodifier.com/mockup/twitter-profile-page-mockup-generator-mobile/42871
   author: Media Modifier
   note: Mockup a Twitter profile page to see how a new profile or banner image looks like
+- title: "Tax Tips: Combined Tax Rates & Tax Brackets"
+  url: https://www.taxtips.ca/marginal-tax-rates-in-canada.htm
+  author: Boat Harbour Investments
+  note: Canadian tax rates & tax brackets with both federal and province income taxes (eg [Ontario](https://www.taxtips.ca/taxrates/on.htm))
