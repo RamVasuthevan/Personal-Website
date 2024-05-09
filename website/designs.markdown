@@ -24,7 +24,7 @@ I am not sure what I am doing here. Is this a page of designs I like or designs 
 
 ### [Bridgetown](https://github.com/bridgetownrb/bridgetown)
 <!--https://news.ycombinator.com/item?id=28524604-->
-- Not at endorsement of Bridgetown or this repo readme, but this is the most growth hacked repo readme I've ever seen (That's a value neutral observation)
+- Not an endorsement of Bridgetown or this repo readme, but this is the most growth hacked repo readme I've ever seen (That's a value-neutral observation)
 
 ### [Tiny Clouds](https://tinyclouds.org/)
 <!--https://web.archive.org/web/20240327224034/https://tinyclouds.org/-->
