@@ -12,11 +12,11 @@ permalink: bitsbipsbricks/Jekyll-Sub-Blogs
    username="@andrewtneel" 
    image_link="https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw" 
 %}
-I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/).
+I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/). 
 
-I first started writing on [Ghost](https://ghost.org/). It was esay to setup and maintain. When I first started the blog, I didn't mention put my name on it anywhere. Eventually, I decided to merge it my personal site after I become more confident with my writing and so that I could gain more control over how the site looked. As an engineer by trade, I loving being able to take advantage of Git for version control, setup my writing expericnce using VS Code and know that I can easily maintain and migrate if necessary.
+I started writing on [Ghost](https://ghost.org/) because it was esay to setup and maintain. At first it didn't mention name anywhere. Eventually, I decided to merge it my personal site after I become more confident with my writing and so that I could gain more control over how the site looked. As an enginee, I love being able to take advantage of Git for version control, setup my writing expericnce using VS Code and know that I can easily maintain and migrate it from Jekyll if  necessary.
 
-Jekyll by default puts all blog posts into one feed, but sometimes, I want to write something small, a [snippet](/snippets), a note mostly for myself, that doesn't really fit it [Bits, Bips and Bricks](/bitsbipsbricks).  There is a [plugin](https://github.com/scandio/jekyll-paginate-multiple) that help with creating sub blogs. But I wasn't confident that they would be maintained and wanted to see if it could be done without any Ruby.
+Jekyll by default puts all blog posts into one feed, but sometimes, I want to write something small [snippet](/snippets), a note mostly for myself, that doesn't really fit it [Bits, Bips and Bricks](/bitsbipsbricks).  There is a [plugin](https://github.com/scandio/jekyll-paginate-multiple) that helps with creating sub blogs. But I wasn't confident that they would be maintained and wanted to see if it could be done without any Ruby.
 
 By taking advantage of Jekyll categories and tags you can easy have multiple sub blogs each with their own Atom feed using only Liquid
 
@@ -24,9 +24,10 @@ A [category](https://jekyllrb.com/docs/posts/#categories) can be defined using t
 
 A [tag](https://jekyllrb.com/docs/posts/#tags) can be defined using can be defined using the front matter keys `tag` or `tags` (a space separated list of tags)
 
-This snippet is build to match the style of Minma, but similar logic can be used for another theme. Download the file and save it in _includes/blog.html.
+This snippet is build to match the style of Minma, but similar logic can be used for another theme. Download the file and save it in `_includes/blog.html`.
 
-Copy the following code and paste it in _includes/blog.html:
+Copy the following code and paste it in `_includes/blog.html`:
+
 {% highlight liquid %}
 {% raw %}
 <div class="blog">
