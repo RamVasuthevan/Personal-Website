@@ -79,7 +79,7 @@ Copy the following code and paste it in `_includes/blog.html`:
 {% endraw %}
 {% endhighlight %}
 
-The above code is available under the MIT license and contains code from [minima/_layouts/home.html](https://github.com/jekyll/minima/blob/38a84a949f9753c4542e25f422935f59b4913053/_layouts/home.html)
+The above code is available under the [MIT license](/assets/bitsbipsbricks/Jekyll-Sub-Blogs/license.txt) and contains code from [minima/_layouts/home.html](https://github.com/jekyll/minima/blob/38a84a949f9753c4542e25f422935f59b4913053/_layouts/home.html)
 <br><br>
 
 On the page that you want a sub blog with only posts from a certain category:
