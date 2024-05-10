@@ -5,6 +5,15 @@ image: "/assets/bitsbipsbricks/Jekyll-Sub-Blogs/andrew-neel-cckf4TsHAuw-unsplash
 permalink: bitsbipsbricks/Jekyll-Sub-Blogs
 ---
 
+<style>
+  :not(pre) > code {
+    background-color: #f4f4f4; /* Light grey background */
+    color: #333; /* Darker text for better readability */
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+</style>
+
 {% include unsplash_image.html 
    name="andrew-neel-cckf4TsHAuw-unsplash.jpg" 
    alt="Stock photo of a laptop, coffee, pen, notepad and phone" 
