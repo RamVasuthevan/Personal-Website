@@ -140,3 +140,11 @@
   url: https://www.taxtips.ca/marginal-tax-rates-in-canada.htm
   author: Boat Harbour Investments
   note: Canadian tax rates & tax brackets with both federal and province income taxes (eg [Ontario](https://www.taxtips.ca/taxrates/on.htm))
+- title: LoopTube
+  url: https://looptube.io/
+  author: Yuya Uzu
+  note: Easily loop all or part of a YouTube video
+- title: Real-time HTML Editor
+  url: https://htmledit.squarefree.com/
+  author: Jesse Ruderman
+  note: Easily render HTML snippets
