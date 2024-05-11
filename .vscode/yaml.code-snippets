@@ -3,11 +3,10 @@
         "prefix": "s_acknowledgements",
         "body": [
             "- name: $1",
-            "  image: $2",
+            "  note: $2",
             "  link: $3",
             "  license_text: $4",
-            "  license_link: $5",
-            "  notes: $6"
+            "  license_link: $5"
         ],
         "description": "Add element to acknowledgements.yml"
     },
@@ -61,5 +60,28 @@
             "  note: $4"
         ],
         "description": "Add element to tools.yml"
+    },
+    "Projects Element": {
+        "prefix": "s_projects",
+        "body": [
+            "- name: $1",
+            "  url: $2",
+            "  description: $3",
+            "  selected: $4"
+        ],
+        "description": "Add element to projects.yml"
+    },
+    "Git Scraping Element": {
+        "prefix": "s_git_scraping",
+        "body": [
+            "- name: $1",
+            "  name_url: $2",
+            "  notes:",
+            "    - $3",
+            "    - $4",
+            "    - $5",
+            "  updated: $6"
+        ],
+        "description": "Add element to git-scraping.yml"
     }
 }
