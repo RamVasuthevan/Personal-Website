@@ -28,13 +28,13 @@ I started writing on [Ghost](https://ghost.org/) because it was easy to set up a
 
 Jekyll by default puts all blog posts into one feed, but sometimes, I want to write something small, a [snippet](/snippets), a note mostly for myself, that doesn't really fit in [Bits, Bips and Bricks](/bitsbipsbricks).
 
-By taking advantage of Jekyll categories and tags you can easy have multiple sub blogs each with their own Atom feed using only Liquid
+By taking advantage of Jekyll categories and tags you can easily have multiple sub blogs each with their own Atom feed using only Liquid.
 
 A [category](https://jekyllrb.com/docs/posts/#categories) can be defined using the front matter keys `category` or `categories` (a space separated list of categories) or putting a directory above the post's `_post` directory with the name of the category. 
 
 A [tag](https://jekyllrb.com/docs/posts/#tags) can be defined using can be defined using the front matter keys `tag` or `tags` (a space separated list of tags)
 
-This snippet is built to match the style of Minma, but similar logic can be used for another theme. Download the file and save it in `_includes/blog.html`.
+This snippet is built to match the style of Minma, but similar logic can be used for another theme.
 
 Copy the following code and paste it in `_includes/blog.html`:
 
@@ -80,7 +80,7 @@ Copy the following code and paste it in `_includes/blog.html`:
 {% endhighlight %}
 
 The above code is available under the [MIT license](/assets/bitsbipsbricks/Jekyll-Sub-Blogs/license.txt) and contains code from [minima/_layouts/home.html](https://github.com/jekyll/minima/blob/38a84a949f9753c4542e25f422935f59b4913053/_layouts/home.html)
-<br><br>
+<br>
 
 On the page that you want a sub blog with only posts from a certain category:
 {% highlight liquid %}
