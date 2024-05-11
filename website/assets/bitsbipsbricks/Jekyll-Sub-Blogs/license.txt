@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Ram Vasuthevan
+Copyright (c) 2024 Ram Vasuthevan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,6 +23,7 @@ THE SOFTWARE.
 Additional software components are copyrighted by their respective owners and
 licensed under their own respective licenses. Included third-party software 
 components:
+
 - Minima Theme by Parker Moore and the minima contributors, The MIT License (MIT)
-  Copyright (c) 2016-present Parker Moore and the minima contributors
+  Copyright (c) 2016-present Parker Moore and the Minima contributors
   https://github.com/jekyll/minima/blob/38a84a949f9753c4542e25f422935f59b4913053/_layouts/home.html
