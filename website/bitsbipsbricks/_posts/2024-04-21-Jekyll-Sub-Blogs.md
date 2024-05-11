@@ -22,7 +22,7 @@ permalink: bitsbipsbricks/Jekyll-Sub-Blogs
    image_link="https://unsplash.com/photos/macbook-pro-white-ceramic-mugand-black-smartphone-on-table-cckf4TsHAuw" 
 %}
 
-I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/). 
+I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/). The best way to become a better writer is to write. Writing and writing energy is not scarce. It's not like you have a finite number of things you can write in your life. The more you write, the more you can write. If you write an article about an idea, it doesn't need to be perfect. You can always write more about it later.
 
 I started writing on [Ghost](https://ghost.org/) because it was easy to set up and maintain. At first, I didn't mention my name anywhere. Eventually, I decided to merge it with my personal site after I became more confident with my writing and so that I could gain more control over how the site looked. As an engineer, I love being able to take advantage of Git for version control, setting up my writing experience using VS Code and knowing that I can easily maintain and migrate it from Jekyll if necessary.
 
