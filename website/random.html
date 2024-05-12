@@ -9,12 +9,12 @@ title: Random Page
     <meta charset="UTF-8">
     <title>Redirecting to random page...</title>
     <script>
-        // Define an array of all pages except "/random.html"
         var pages = [
-            {% for page in site.pages %}
-                {% if page.url != '/random.html' %}
+            {% assign all_pages = site.pages | concat: site.posts %}
+            {% for page in all_pages %}
+                {% unless page.url contains 'random.html' contains 'robots.txt' or page.url contains '.scss' or page.url contains '.css' or page.url contains '.xml' %}
                     "{{ page.url }}",
-                {% endif %}
+                {% endunless %}
             {% endfor %}
         ];
       
