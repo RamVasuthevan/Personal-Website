@@ -24,7 +24,7 @@ permalink: bitsbipsbricks/Jekyll-Sub-Blogs
 
 I started writing this [blog](/bitsbipsbricks.html) in the spirit of [Visa's do 100's things](https://www.visakanv.com/blog/do100things/). The best way to become a better writer is to write. Writing and writing energy is not scarce. It's not like you have a finite number of things you can write in your life. The more you write, the more you can write. If you write an article about an idea, it doesn't need to be perfect. You can always write more about it later.
 
-I started writing on [Ghost](https://ghost.org/) because it was easy to set up and maintain. At first, I didn't mention my name anywhere. Eventually, I decided to merge it with my personal site after I became more confident with my writing and so that I could gain more control over how the site looked. As an engineer, I love being able to take advantage of Git for version control, setting up my writing experience using VS Code and knowing that I can easily maintain and migrate it from Jekyll if necessary.
+I started writing on [Ghost](https://ghost.org/) because it was easy to set up and maintain. At first, I didn't mention my name anywhere. Eventually, I decided to merge it with my personal site after I became more confident with my writing and so that I could gain more control over how the site looked. As an engineer, I love being able to take advantage of Git for version control, setting up my writing environment using VS Code and knowing that I can easily maintain and migrate it from Jekyll if necessary.
 
 Jekyll by default puts all blog posts into one feed, but sometimes, I want to write something small, a [snippet](/snippets), a note mostly for myself, that doesn't really fit in [Bits, Bips and Bricks](/bitsbipsbricks).
 
@@ -34,7 +34,7 @@ A [category](https://jekyllrb.com/docs/posts/#categories) can be defined using t
 
 A [tag](https://jekyllrb.com/docs/posts/#tags) can be defined using can be defined using the front matter keys `tag` or `tags` (a space separated list of tags)
 
-This snippet is built to match the style of Minma, but similar logic can be used for another theme.
+This snippet is built to match the style of Minma, but similar logic can be used for other themes.
 
 Copy the following code and paste it in `_includes/blog.html`:
 
@@ -98,4 +98,6 @@ On the page that you want a sub blog with only posts with a certain tag:
 
 If you don't add a category or tag parameter, then all posts will be in the sub blog.
 
-[Minima](https://github.com/jekyll/minima/pull/137/files#r124796175) assumes that if there are no posts, the feed will not be shown. I disagree, you can have a blog without blog posts. Update your *_config.yml* according to the instructions for [jekyll-feed](https://github.com/jekyll/jekyll-feed) to make sure that the feeds for your category or tag are generated.
+[Minima](https://github.com/jekyll/minima/pull/137/files#r124796175) assumes that if there are no posts, the feed will not be shown. I disagree, you can have a blog without blog posts. 
+
+Make sure to update your *_config.yml* according to the instructions for [jekyll-feed](https://github.com/jekyll/jekyll-feed) to make sure that the feeds for your category or tag are generated.
