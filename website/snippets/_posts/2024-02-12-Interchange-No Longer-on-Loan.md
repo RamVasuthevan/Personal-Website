@@ -3,7 +3,6 @@ layout: post
 title:  "Interchange (de Kooning) no longer on loan to the Art Institute of Chicago"
 image: "/assets/snippets/Interchange-No Longer-on-Loan/Photo_of_Interchanged_by_Willem_de_Kooning.jpg"
 permalink: snippets/Interchange-Not-On-Loan
-categories: snippets
 ---
 
 {% include image.html 

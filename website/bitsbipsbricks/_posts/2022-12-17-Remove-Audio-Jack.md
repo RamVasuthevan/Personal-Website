@@ -3,7 +3,6 @@ layout: post
 title: "Removing the Audio Jack was a Mistake"
 image: /assets/bitsbipsbricks/Remove-Audio-Jack/74lirquirtl01.png
 permalink: bitsbipsbricks/Remove-Audio-Jack
-categories: bitsbipsbricks
 ---
 
 I recently upgraded my Pixel 4a to 6a. I'm a big fan of Pixel's solid hardware, clean stock Android (with Pixel UI) and great price.
