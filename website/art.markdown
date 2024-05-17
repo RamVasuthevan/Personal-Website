@@ -73,7 +73,7 @@ I just had to stop there and stare and keep looking at it and thinking about how
 <!--From https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c -->
 <!-- Or https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/ -->
 
-DNCB, or dinitrochlorobenzene, is a chemical compound that was used an treatment for experimental treatment for HIV. I was moved by the idea of a dying man applying poison to skin to try to live.
+DNCB, or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. I was moved by the idea of a dying man applying poison to his skin to try to live.
 
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
