@@ -58,15 +58,14 @@ Here is some art and artist which I like:
 <!--From https://ago.ca/exhibitions/kaws-family -->
 <!--KAWS, FAMILY (2021) Bronze, paint, (219.1 x 207 x 95.6 cm) © KAWS-->
 
-People say that there's some art which captivates you and just brings you in 
+People say that some art captivates you and just brings you in.
 This is the first time I remember that happening to me in an organic way. 
 
 I've tried to ... force that, intentionally sitting in front of painting that I like for 10 or 15 minutes. But this is the first time when the painting forced me to keep looking. 
 
+I was struck by how each of the family members were similar to each other and different. And how the differences don't make them not family. The family is something that transcends the differences.
 
-I was struck by how each of the family members were similar to each other and different. And how the differences don't make them not family. The family is something that transcends the differences 
-
-I just had to stop there and stare and keep looking at it and thinking about how the piece reflected life
+I just had to stop there and stare and keep looking at it and thinking about how the piece reflected life.
 
 
 ### DNCB
