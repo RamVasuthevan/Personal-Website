@@ -84,7 +84,9 @@ Here are some photos that I can use:
 {% endcomment %}
 
 
-DNCB, or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. I was moved by the idea of a dying man applying poison to his skin to try to live.
+DNCB, or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. The above is a still from th[e 3-channel video installation](https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/) at [MOCA](moca.ca).
+
+I was deeply moved by the idea of a dying man applying poison to his skin to try to live.
 
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
