@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code Snippets
+title: CLI Snippets
 ---
 
 1. `open -e test.txt`
