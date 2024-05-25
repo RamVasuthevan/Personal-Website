@@ -67,4 +67,7 @@ Starting again:
     - Scrape public offering plans from [NY AG's Offering Plan Database](https://offeringplandatasearch.ag.ny.gov/REF/welcome.jsp)
 - [ca-property-tax]
     - Add a [country to ca-property-tax](https://github.com/typpo/ca-property-tax/issues/1)
-    
+- [todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite)
+    - This is library to download all data from todoist and dump into a sqlite db for datasette
+    - It has not been updated in since 2021-01-02. It depends on [pytodoist](https://github.com/Garee/pytodoist) which has not be updated 2021-07-08. It is a [wrapper](https://github.com/Garee/pytodoist/blob/master/pytodoist/api.py) from Todoist V8, which was [deprecated in Dec 2022](https://developer.todoist.com/sync/v9/#migrating-from-v8:~:text=deprecated%20in%20dec%202022). /sync returns a empty list [now](https://groups.google.com/a/doist.com/g/todoist-api/c/08RH6rWTA_8?pli=1)
+    - I should rewrite the code to use the offical [todoist-api-python](https://pypi.org/project/todoist-api-python/) SDK while preserving the todoist-to-sqlite API
