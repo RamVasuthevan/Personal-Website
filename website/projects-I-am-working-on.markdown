@@ -4,38 +4,17 @@ title: Projects I Am Thinking About or Working on
 header_title: Projects 
 ---
 
-{% include projects.html projects=site.data.wip-projects %}
-
-
-
 
 This is a living document with the projects that I am think about, some of which I am working on. The ones I think about most and have energy to work on, will become completed projects and ones I don't, will fall off this list.
 
-- Public domain images of parliamentarians
-    - Scrape Library of Parliament's Parlinfo to get all public domain images of parliamentarians
-- Private acts
-    - I'm curious about the [Private acts](https://www.ola.org/en/legislative-business/bills/private-bills-procedures#:~:text=They%20are%20sometimes%20called%20private,be%20obtained%20under%20general%20law.) in Ontario and Canada
-    - Update [ontario-legislature-bills](https://github.com/RamVasuthevan/ontario-legislature-bills) to only get status from bill in the current sessions to avoid to speed scraping  
-- [City of Toronto Elections](https://github.com/RamVasuthevan/city-of-toronto-elections)
-    - Load City of Toronto elections data into [Datasette](https://datasette.io/)
-    - Analyze and create some visualizations 
+
 - [Git Scraping](/git-scraping)
     - Scrape more pages
     - Setup Github template for scraping projects
     - Setup [Datasette](https://datasette.io/) to analyze results
     - Setup dashboard to monitor all repos
-- Private Website
-    - My public website has been very useful
-    - Update tools to create a private version
-- City of Toronto Archives
-    - Get all public domain images from [City of Toronto Archives](https://gencat4.eloquent-systems.com/webcat/request/DoMenuRequest?SystemName=City+of+Toronto+Archives&UserName=wa+public&Password=&TemplateProcessID=6000_3355&bCachable=1&MenuName=City+of+Toronto+Archives)
-- Public Digital Garden
-    - Create a [digital garden](https://github.com/RamVasuthevan/Real-Estate/issues/79)
-- Read and Review [Black Edge](https://www.amazon.ca/Black-Edge-Inside-Information-Wanted/dp/0812995805)
-- Finish writing
-    - [Create Jekyll Sub Blogs using only Liquid](https://github.com/RamVasuthevan/Personal-Website/pull/308/)
-    - [Do I Know How to Cook?](https://github.com/RamVasuthevan/Personal-Website/pull/310)
-    - [How do Property Taxes in Toronto Work?](https://github.com/RamVasuthevan/Personal-Website/pull/291)
+
+
 -  Jekyll stats board
     - [Stats that can be dervied at build time](https://shellsharks.com/dynamize-jekyll)
     - Github Action to add data
@@ -45,33 +24,47 @@ This is a living document with the projects that I am think about, some of which
     - Add[Presto](https://www.prestocard.ca/en/) data to Dogsheep
     - Add data from emailed Longos recipes to Dogsheep
     - Build a plugin to add data from emails to Dogsheep?
+- [Pre-commit Hook to Check That Python Versions Match](https://github.com/RamVasuthevan/version-check-pre-commit-hooks)
+    - Python [Pre-commit](https://pre-commit.com/) hook to make sure that Python versions in [runtime.txt](https://devcenter.heroku.com/articles/python-runtimes), [Pipenv](https://pipenv.pypa.io/zh-cn/stable/basics.html#specifying-versions-of-python), [Github Action](https://github.com/actions/setup-python?tab=readme-ov-file#supported-version-syntax), [Docker](https://hub.docker.com/_/python) file
+
+
+Starting again:
+
+- Finish writing
+    - [Create Jekyll Sub Blogs using only Liquid](https://github.com/RamVasuthevan/Personal-Website/pull/308/)
+    - [Do I Know How to Cook?](https://github.com/RamVasuthevan/Personal-Website/pull/310)
+    - [How do Property Taxes in Toronto Work?](https://github.com/RamVasuthevan/Personal-Website/pull/291)
+    - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [The Master Plan Review](https://github.com/RamVasuthevan/Personal-Website/pull/235)
+    - [Live Charts](https://github.com/RamVasuthevan/Personal-Website/pull/336)
+    - [First thoughts about Cursor](https://github.com/RamVasuthevan/Personal-Website/pull/313)
+    - [Python Counter Zeros](https://github.com/RamVasuthevan/Personal-Website/pull/275)
+    - [Create NYC Offering Plans](https://github.com/RamVasuthevan/Personal-Website/pull/255)
+    - Read and Review [Black Edge](https://www.amazon.ca/Black-Edge-Inside-Information-Wanted/dp/0812995805)
+- Public domain images of parliamentarians
+    - Scrape Library of Parliament's Parlinfo to get all public domain images of parliamentarians
+- Private acts
+    - I'm curious about the [Private acts](https://www.ola.org/en/legislative-business/bills/private-bills-procedures#:~:text=They%20are%20sometimes%20called%20private,be%20obtained%20under%20general%20law.) in Ontario and Canada
+    - Update [ontario-legislature-bills](https://github.com/RamVasuthevan/ontario-legislature-bills) to only get status from bill in the current sessions to avoid to speed scraping  
+- [City of Toronto Elections](https://github.com/RamVasuthevan/city-of-toronto-elections)
+    - Load City of Toronto elections data into [Datasette](https://datasette.io/)
+    - Analyze and create some visualizations 
+- City of Toronto Archives
+    - Get all public domain images from [City of Toronto Archives](https://gencat4.eloquent-systems.com/webcat/request/DoMenuRequest?SystemName=City+of+Toronto+Archives&UserName=wa+public&Password=&TemplateProcessID=6000_3355&bCachable=1&MenuName=City+of+Toronto+Archives)
+- Public Digital Garden
+    - Create a [digital garden](https://github.com/RamVasuthevan/Real-Estate/issues/79)
 - Lobbying in Toronto
     - Keep working on [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry)
     - Maybe I need to do a rewrite
+    - What do I need to do here?
 - TLAB descions
-    - I requested all non published TLAB decisions
+    - I requested all non published TLAB decisions. 
+    - Did I get all of the correct files
     - Split PDFs, extract meta data and publish
 - City of Toronto Lobbying registry
     - Analyze City of Toronto [Heritage Register data](https://open.toronto.ca/dataset/heritage-register/)
-- [Pre-commit Hook to Check That Python Versions Match](https://github.com/RamVasuthevan/version-check-pre-commit-hooks)
-    - Python [Pre-commit](https://pre-commit.com/) hook to make sure that Python versions in [runtime.txt](https://devcenter.heroku.com/articles/python-runtimes), [Pipenv](https://pipenv.pypa.io/zh-cn/stable/basics.html#specifying-versions-of-python), [Github Action](https://github.com/actions/setup-python?tab=readme-ov-file#supported-version-syntax), [Docker](https://hub.docker.com/_/python) file
 - NYC Offering Plans
     - Finish writing [article](https://github.com/RamVasuthevan/Personal-Website/pull/255) about FOILing NY Offering Plan
     - Scrape public offering plans from [NY AG's Offering Plan Database](https://offeringplandatasearch.ag.ny.gov/REF/welcome.jsp)
-- The Master Plan
-    - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [review](https://github.com/RamVasuthevan/Personal-Website/pull/235) it along with the play [The Master Plan](https://www.crowstheatre.com/whats-on/view-all/themasterplan)
 - [ca-property-tax]
     - Add a [country to ca-property-tax](https://github.com/typpo/ca-property-tax/issues/1)
-- Build a map of the walking time between Subway Station
-    - Build [this](https://twitter.com/_ChanFace/status/1774555217977016705?t=DBrpmo2ST0UNNnpQaIMFCQ&s=19) graphic for all of Toronto
-    - Or maybe just line 1 and 2
-    - Here is the [source](https://downtownyonge.com/getting-here/#:~:text=enjoy%20the%20moment,areas%20in%20Toronto.) 
-- Private Cloud Flare Pages site Blog Post
-    - Manage -> Manage access policy
-    - Create a new policy for the main domain or remove the wild card?
-    - Does one time password auto login work when logged into CF?
-    - Is a one-time password auto-loaded as an identity provider?
-- Live Toronto Island Ferry Ticket Counts 
-    - [Duplicate](https://toronto.cityhallwatcher.com/p/city-halls-not-so-wild-spring-break#:~:text=open%20data%20alert!%20the%20open%20data%20portal%20has%20posted%20a%20real%20treasure%20trove%20of%20a%20dataset%20with%20up-to-date%20toronto%20island%20ticket%20sales%20and%20redemptions%20since%20the%20spring%20of%202015.) this chart using Datasette based on [City of Toronto Open Data Portal](https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/)
- - https://chat.openai.com/c/70a4a997-f74d-4d91-8bb0-d68500d2c236
-    - 
+    
