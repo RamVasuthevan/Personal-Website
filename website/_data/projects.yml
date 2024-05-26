@@ -9,7 +9,7 @@
 - name: "Ram's Real Estate Site"
   url: https://www.realestate.ramvasuthevan.ca
   description: "A place to catalogue my real estate interests. Built using Pandoc and deployed using CloudPages"
-  selected: true
+  selected: false
 - name: "The GoldenHack"
   url: "https://www.thegoldenhack.ca/"
   description: "Cofounded a hackathon focusing on the intersection between business and technology"
@@ -28,11 +28,11 @@
   selected: true
 - name: "Tax Strategy Statement"
   url: "https://taxstrategystatement.com/"
-  description: "A collection of tax strategy statements which are required to published by large businesses in the UK"
+  description: "A collection of tax strategy statements which are required to be published by large businesses in the UK"
   selected: false
 - name: "Modern Slavery Statements"
   url: https://modernslaverystatements.com/
-  description: "Some sample modern slavery statements and a short example of their use in the UK and Australia"
+  description: "Some sample modern slavery statements which are required in the UK and Australia"
   selected: false
 - name: SavePageNow API
   url: "https://github.com/RamVasuthevan/savepagenow_client"
