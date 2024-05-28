@@ -56,6 +56,6 @@ Read More:
 - What do you want to say to a captive audience of thousands of strangers?
 - Maybe you singing in the shower? Maybe you telling people you can buy ads on Spotify to tell people things? Or maybe just a moment of calm?
 
- # Visualize Electoral District Change Over Time 
+# - Show how a country, state and city's electoral districts have changed over time
  
- - Show are electoral districts have changed over time
+- Show how a country, state and city's electoral districts have changed over time
