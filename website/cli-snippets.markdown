@@ -25,3 +25,8 @@ title: CLI Snippets
     - **CMD+V** to paste copied text
     - **Esc** to exit insert mode
     - **:wq Enter** to save and exit
+
+6. `lsof -ti :4000 | xargs kill -9`
+    - Kill a process running on port 4000
+    - **lsof -ti :4000** finds the process ID (PID) using port 4000
+    - **xargs kill -9** sends the kill signal to terminate the process
