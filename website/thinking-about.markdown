@@ -48,8 +48,9 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - Towns associated with religious groups (Ave Maria FL, Antelope OR, Kiryas Joel NY, Lakewood NJ)
     - Paradise, Nevada
     - Ward’s Island and Algonquin Island in Toronto
-    - Rosemont, Illinois <!---  https://twitter.com/north0fnorth/status/1713960831602323613 --->
-    - Free Acres, New Jersey <!-- https://twitter.com/mnolangray/status/1650599822972567552?t=KctJuMsesHDRh9-Z9VS8CQ&s=19 https://www.nj.com/inside-jersey/2014/09/hidden_jersey_were_off_to_see_free_acres.html--->
+    - Rosemont, Illinois <!--  https://twitter.com/north0fnorth/status/1713960831602323613 --->
+    - Free Acres, New Jersey <!-- https://twitter.com/mnolangray/status/1650599822972567552?t=KctJuMsesHDRh9-Z9VS8CQ&s=19 https://www.nj.com/inside-jersey/2014/09/hidden_jersey_were_off_to_see_free_acres.html ->
+    -  Rosemont, Illinois <!--  https://x.com/north0fnorth/status/1713960831602323613?s=20 -->
     
 # Get more from data
 - There are massive amounts of data which is being explicitly and implicitly created
