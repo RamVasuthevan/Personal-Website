@@ -1,0 +1,73 @@
+---
+layout: page
+title: Projects I Am Thinking About or Working on
+header_title: Projects 
+---
+
+
+This is a living document with the projects that I am think about, some of which I am working on. The ones I think about most and have energy to work on, will become completed projects and ones I don't, will fall off this list.
+
+
+- [Git Scraping](/git-scraping)
+    - Scrape more pages
+    - Setup Github template for scraping projects
+    - Setup [Datasette](https://datasette.io/) to analyze results
+    - Setup dashboard to monitor all repos
+
+
+-  Jekyll stats board
+    - [Stats that can be dervied at build time](https://shellsharks.com/dynamize-jekyll)
+    - Github Action to add data
+    - Dynamically load stats from API
+- [Datasette Dogsheep](https://dogsheep.github.io/)
+    - Setup an instance for me
+    - Add[Presto](https://www.prestocard.ca/en/) data to Dogsheep
+    - Add data from emailed Longos recipes to Dogsheep
+    - Build a plugin to add data from emails to Dogsheep?
+- [Pre-commit Hook to Check That Python Versions Match](https://github.com/RamVasuthevan/version-check-pre-commit-hooks)
+    - Python [Pre-commit](https://pre-commit.com/) hook to make sure that Python versions in [runtime.txt](https://devcenter.heroku.com/articles/python-runtimes), [Pipenv](https://pipenv.pypa.io/zh-cn/stable/basics.html#specifying-versions-of-python), [Github Action](https://github.com/actions/setup-python?tab=readme-ov-file#supported-version-syntax), [Docker](https://hub.docker.com/_/python) file
+
+
+Starting again:
+
+- Finish writing
+    - [Create Jekyll Sub Blogs using only Liquid](https://github.com/RamVasuthevan/Personal-Website/pull/308/)
+    - [Do I Know How to Cook?](https://github.com/RamVasuthevan/Personal-Website/pull/310)
+    - [How do Property Taxes in Toronto Work?](https://github.com/RamVasuthevan/Personal-Website/pull/291)
+    - Read [Sideways: The City Google Couldn't Buy](https://www.amazon.ca/Sideways-City-Google-Couldnt-Buy/dp/1039000789) and [The Master Plan Review](https://github.com/RamVasuthevan/Personal-Website/pull/235)
+    - [Live Charts](https://github.com/RamVasuthevan/Personal-Website/pull/336)
+    - [First thoughts about Cursor](https://github.com/RamVasuthevan/Personal-Website/pull/313)
+    - [Python Counter Zeros](https://github.com/RamVasuthevan/Personal-Website/pull/275)
+    - [Create NYC Offering Plans](https://github.com/RamVasuthevan/Personal-Website/pull/255)
+    - Read and Review [Black Edge](https://www.amazon.ca/Black-Edge-Inside-Information-Wanted/dp/0812995805)
+- Public domain images of parliamentarians
+    - Scrape Library of Parliament's Parlinfo to get all public domain images of parliamentarians
+- Private acts
+    - I'm curious about the [Private acts](https://www.ola.org/en/legislative-business/bills/private-bills-procedures#:~:text=They%20are%20sometimes%20called%20private,be%20obtained%20under%20general%20law.) in Ontario and Canada
+    - Update [ontario-legislature-bills](https://github.com/RamVasuthevan/ontario-legislature-bills) to only get status from bill in the current sessions to avoid to speed scraping  
+- [City of Toronto Elections](https://github.com/RamVasuthevan/city-of-toronto-elections)
+    - Load City of Toronto elections data into [Datasette](https://datasette.io/)
+    - Analyze and create some visualizations 
+- City of Toronto Archives
+    - Get all public domain images from [City of Toronto Archives](https://gencat4.eloquent-systems.com/webcat/request/DoMenuRequest?SystemName=City+of+Toronto+Archives&UserName=wa+public&Password=&TemplateProcessID=6000_3355&bCachable=1&MenuName=City+of+Toronto+Archives)
+- Public Digital Garden
+    - Create a [digital garden](https://github.com/RamVasuthevan/Real-Estate/issues/79)
+- Lobbying in Toronto
+    - Keep working on [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry)
+    - Maybe I need to do a rewrite
+    - What do I need to do here?
+- TLAB descions
+    - I requested all non published TLAB decisions. 
+    - Did I get all of the correct files
+    - Split PDFs, extract meta data and publish
+- City of Toronto Lobbying registry
+    - Analyze City of Toronto [Heritage Register data](https://open.toronto.ca/dataset/heritage-register/)
+- NYC Offering Plans
+    - Finish writing [article](https://github.com/RamVasuthevan/Personal-Website/pull/255) about FOILing NY Offering Plan
+    - Scrape public offering plans from [NY AG's Offering Plan Database](https://offeringplandatasearch.ag.ny.gov/REF/welcome.jsp)
+- [ca-property-tax]
+    - Add a [country to ca-property-tax](https://github.com/typpo/ca-property-tax/issues/1)
+- [todoist-to-sqlite](https://github.com/bcongdon/todoist-to-sqlite)
+    - This is library to download all data from todoist and dump into a sqlite db for datasette
+    - It has not been updated in since 2021-01-02. It depends on [pytodoist](https://github.com/Garee/pytodoist) which has not be updated 2021-07-08. It is a [wrapper](https://github.com/Garee/pytodoist/blob/master/pytodoist/api.py) from Todoist V8, which was [deprecated in Dec 2022](https://developer.todoist.com/sync/v9/#migrating-from-v8:~:text=deprecated%20in%20dec%202022). /sync returns a empty list [now](https://groups.google.com/a/doist.com/g/todoist-api/c/08RH6rWTA_8?pli=1)
+    - I should rewrite the code to use the offical [todoist-api-python](https://pypi.org/project/todoist-api-python/) SDK while preserving the todoist-to-sqlite API

@@ -12,7 +12,7 @@ I am a software engineer. I’m interested in technology, finance and real estat
 <br>
 
 Here are some selected projects:
-{% include projects.html selected_only=true %}
+{% include projects.html projects=site.data.projects selected_only=true %}
 
 ---
 
