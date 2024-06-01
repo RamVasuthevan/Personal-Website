@@ -71,3 +71,10 @@ header_title: Soda Review
 - This soda is the main reason I am doing this review. I love soda and I didn't know soda could taste so good!
 - Rating: 9/10
 - Would I have it again? Yes
+
+# 2024-05-31 Faygo Original Grape Soda
+- Tastes good
+- Sweet pleasant flavour
+- Grape after taste
+- Rating: 6/10
+- Would I have it again? Yes
