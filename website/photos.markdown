@@ -18,7 +18,7 @@ title: Photos I Like
 ### John M. Innes in 1948
 
 {% include image.html 
-    src="https://gencat.eloquent-systems.com/city-of-toronto-archives-m-permalink.html?key=142076" 
+    src="assets/photos-I-like/john-m-innes-1948.jpg" 
     alt="John M. Innes, Controller; seated, full face" 
     caption="John M. Innes, Controller; seated, full face, 1948, fromm City of Toronto Archives Fonds 200, Series 372, Subseries 41, Item 512"
     source="https://gencat.eloquent-systems.com/city-of-toronto-archives-m-permalink.html?key=142076"
