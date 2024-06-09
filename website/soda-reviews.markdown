@@ -73,13 +73,29 @@ header_title: Soda Review
 - Would I have it again? Yes
 
 # 2024-05-31 Faygo Original Grape Soda
+{% include image.html 
+   src="/assets/soda-review/2024-05-31_Faygo_Original_Grape_Soda.png"
+   alt="Photo of Faygo Original Grape Soda" 
+   width="200px"
+   license="Copyright 2024 © Soda Pop Stop " 
+   source="https://sodapopstop.com/shop/classics/faygo-original-grape-soda/"
+%}
+- Bought from XXX
 - Tastes good
 - Sweet pleasant flavour
 - Grape after taste
 - Rating: 6/10
 - Would I have it again? Yes
 
-# 2024-06-08
+# 2024-06-08 Limca Lemon Soda
+{% include image.html 
+   src="/assets/soda-review/2024-06-08_Limca_Lemon_Soda.jpg"
+   alt="Photo of Limca Lemon Soda" 
+   width="400px"
+   license="Copyright© 2024 Quicklly.com" 
+   source="https://www.quicklly.com/grocery-store/limca-lime-n-lemon-can/274691"
+%}
+- Bought from DesiFest
 - Sweet but not that sweet, sour but not that sour 
 - not that strong
 - This is carabatned water, I'm not sure if they can reallt be compared to sodas
@@ -88,7 +104,15 @@ header_title: Soda Review
 - Would I have it again? Porably not
 
 
-# 2024-06-09 
+# 2024-06-09 7Up Lemon Lime
+{% include image.html 
+   src="/assets/soda-review/2024-06-09_7Up_Lemon_Lime.webp"
+   alt="Photo of 7Up Lemon Lime Can" 
+   width="400px"
+   license="© Copyright 2023 Sobeys Inc." 
+   source="https://voila.ca/products/990001EA/details"
+%}
+- Bought from Dual citizen from Sheraton Toronto
 - nice and good taste
 - good sweet taste
 - Not strong taste,
