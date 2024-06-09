@@ -78,3 +78,20 @@ header_title: Soda Review
 - Grape after taste
 - Rating: 6/10
 - Would I have it again? Yes
+
+# 2024-06-08
+- Sweet but not that sweet, sour but not that sour 
+- not that strong
+- This is carabatned water, I'm not sure if they can reallt be compared to sodas
+- pretty good
+- Rating: 6/10
+- Would I have it again? Porably not
+
+
+# 2024-06-09 
+- nice and good taste
+- good sweet taste
+- Not strong taste,
+- Can’t really taste the lemon-lime favloru 
+- Rating: 7/10
+- Would I have it again? Maybe
