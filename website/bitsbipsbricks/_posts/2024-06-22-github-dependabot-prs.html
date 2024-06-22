@@ -27,22 +27,11 @@ permalink: bitsbipsbricks/Github-Dependabot-PRs
 
 <div style="margin-bottom:1em;"></div>
 
-<p style="display:inline">Search query: <code id="search-query">is:pr author:app/dependabot is:open archived:false owner:RamVasuthevan</code></p>
+<p style="display:inline">Search query: <code id="search-query">is:pr author:app/dependabot is:open archived:false owner:@me</code></p>
 
 <p id="search-link">
-  <a href="https://github.com/search?q=is%3Apr+author%3Aapp%2Fdependabot+is%3Aopen+archived%3Afalse+owner%3ARamVasuthevan" target="_blank">GitHub Search for Dependabot PRs</a>
+  <a href="https://github.com/search?q=search-query%22%3Eis%3Apr%20author%3Aapp%2Fdependabot%20is%3Aopen%20archived%3Afalse%20owner%3A%40m&type=pullrequests" target="_blank">GitHub Search for Dependabot PRs</a>
 </p>
-
-<script>
-  function updateQuery() {
-    const username = document.getElementById('github-username').value;
-    const query = `is:pr author:app/dependabot is:open archived:false owner:${username}`;
-    const url = `https://github.com/search?q=${encodeURIComponent(query)}`;
-    
-    document.getElementById('search-query').innerText = query;
-    document.getElementById('search-link').innerHTML = `<a href="${url}" target="_blank">GitHub Search for Dependabot PRs</a>`;
-  }
-</script>
 
 </body>
 </html>
