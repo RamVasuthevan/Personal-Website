@@ -5,8 +5,7 @@ title: Ram's Warrants
 
 The Royal Family issues [royal warrants](https://www.royalwarrant.org/) to businesses to signify their seal of approval.
 
-
-I have in turn decided to offer warrants to products
+I have in turn decided to offer my own warrants to products:
 
 ### Black Uni-Ball Signo Um-151 Gel Ink Pen - 0.38 mm
  - An amazing pen
