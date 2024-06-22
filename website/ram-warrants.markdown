@@ -3,7 +3,8 @@ layout: page
 title: Ram's Warrants
 ---
 
-The Royal Family issues [royal warrants](https://www.royalwarrant.org/) to businesses to signify their seal of approval for product.
+The Royal Family issues [royal warrants](https://www.royalwarrant.org/) to businesses to signify their seal of approval.
+
 
 I have in turn decided to offer warrants to products
 
