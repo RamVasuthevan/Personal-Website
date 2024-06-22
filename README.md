@@ -27,3 +27,4 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 #### Preview
 - RUBY_VERSION=3.2.2
+  

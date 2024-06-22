@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ram's Personal Website
-email: FirstName@LastName.com
+email: FirstName@LastName.ca
 description: >- # this means to ignore newlines until "baseurl:"
     Built by Ram Vasuthevan with ❤️ on the [shoulders of giants](/acknowledgements.html)
 locale: en-CA 

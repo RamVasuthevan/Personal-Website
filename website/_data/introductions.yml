@@ -124,3 +124,16 @@
     - title: "MacOS Mojave – Microsoft Office 365 2019 – Excel – VBAProject References Missing"
       url: https://superuser.com/a/1480657
       note: "Microsoft Scripting Runtime library (Dictionary, FileSystemObject, etc.) and other libraries are not available on macOS"
+- name: Jekyll Redirect From
+  items:
+    - title: How to set a relative URL?
+      url: https://github.com/jekyll/jekyll-redirect-from/issues/226
+      author: ashmaroli
+      date_published: 2020-09-14
+      note: jekyll serve will overwrite redirected relative URLs to http://localhost:4000
+    - title: jekyll-redirect-from/README.md
+      url: https://github.com/jekyll/jekyll-redirect-from/blob/6a751b274300ece194d8ba7cea934c396dff6163/README.md?plain=1#L128
+      note: "frontmatter page.redirect.to  will redirect the page to the absolute URL (where available) of the target page"
+    - title: Jekyll 4.2.0 Released Permalink
+      url: https://jekyllrb.com/news/2020/12/14/jekyll-4-2-0-released/
+      note: As of 4.2.0, Jekyll no longer overrides the site.url to http://localhost:4000 in absolute URLs while developing via jekyll serve. I think Jekyll Redirect From just has not been updated yet
