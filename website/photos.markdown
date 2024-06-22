@@ -3,7 +3,7 @@ layout: page
 title: Photos I Like
 ---
 
-### Hikaru Nakamura by Andreas Kontokanis
+### [Hikaru Nakamura by Andreas Kontokanis](https://commons.wikimedia.org/wiki/File:Nakamura_Hikaru_(29290269410).jpg)
 
 {% include image.html 
     src="assets/photos-I-like/hikaru-nakamura-by-andreas-kontokanis.jpg"
@@ -15,7 +15,7 @@ title: Photos I Like
 I really like how the focus on this image really highlights Nakamura
 
 
-### John M. Innes in 1948
+### [John M. Innes in 1948](https://gencat.eloquent-systems.com/city-of-toronto-archives-m-permalink.html?key=142076)
 
 {% include image.html 
     src="assets/photos-I-like/john-m-innes-1948.jpg" 
