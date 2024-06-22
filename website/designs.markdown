@@ -17,9 +17,8 @@ I am not sure what I am doing here. Is this a page of designs I like or designs 
 - I am sucker for raw HTML
 - You know someone whose blog looks like that is a certified high priest of the CS gods
 
-### [New Demps](https://newdemos.ca/)
-<!--ADD ME-->
-- More raw HMTL
+### [New Demos](https://newdemos.ca/)
+- More raw HMTL. I really am a sucker for raw HTML
 - Clean, simple, gets the job done
 
 ### [Bridgetown](https://github.com/bridgetownrb/bridgetown)
