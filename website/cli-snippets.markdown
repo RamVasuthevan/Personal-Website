@@ -30,3 +30,9 @@ title: CLI Snippets
     - Kill a process running on port 4000
     - **lsof -ti :4000** finds the process ID (PID) using port 4000
     - **xargs kill -9** sends the kill signal to terminate the process
+
+7. `git log --oneline`
+    - Lists all commits in the repository in a compact, one-line format
+
+8. `git commit --allow-empty -m "Empty commit"`
+    - Creates an empty commit with the message "Empty commit"
