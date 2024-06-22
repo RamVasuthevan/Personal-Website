@@ -12,7 +12,7 @@ title: Photos I Like
     source="https://commons.wikimedia.org/wiki/File:Nakamura_Hikaru_(29290269410).jpg"
 %}
 
-I really like how the focus on this image really highlights the subject, Nakamura
+I really like how the focus on this image really highlights Nakamura
 
 
 ### John M. Innes in 1948
