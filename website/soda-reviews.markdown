@@ -80,7 +80,7 @@ header_title: Soda Review
    license="Copyright 2024 © Soda Pop Stop " 
    source="https://sodapopstop.com/shop/classics/faygo-original-grape-soda/"
 %}
-- Bought from XXX
+- Bought from [Garden View](https://maps.app.goo.gl/WBacx1F1T5t98mSf9) <!-- 252 Queen St W, Toronto, ON M5V 1Z8 -->
 - Tastes good
 - Sweet pleasant flavour
 - Grape after taste
@@ -95,13 +95,14 @@ header_title: Soda Review
    license="Copyright© 2024 Quicklly.com" 
    source="https://www.quicklly.com/grocery-store/limca-lime-n-lemon-can/274691"
 %}
-- Bought from DesiFest
-- Sweet but not that sweet, sour but not that sour 
-- not that strong
-- This is carabatned water, I'm not sure if they can reallt be compared to sodas
-- pretty good
-- Rating: 6/10
-- Would I have it again? Porably not
+- Bought from [DesiFest](https://desifest.ca/)
+- Sweet but not that sweet, sour but not that sour
+- Not that strong
+- This is carabiner water, I’m not sure if they can really be compared to sodas
+- Pretty good
+- Rating: 5/10
+- Would I have it again? Probably not
+
 
 
 # 2024-06-09 7Up Lemon Lime
@@ -112,10 +113,10 @@ header_title: Soda Review
    license="© Copyright 2023 Sobeys Inc." 
    source="https://voila.ca/products/990001EA/details"
 %}
-- Bought from Dual citizen from Sheraton Toronto
-- nice and good taste
+- Bought from [Dual citizen from Sheraton Toronto](https://www.dualcitizentoronto.ca/)
+- Nice and good taste
 - good sweet taste
 - Not strong taste,
-- Can’t really taste the lemon-lime favloru 
+- Can’t really taste the lemon-lime flavour 
 - Rating: 7/10
 - Would I have it again? Maybe
