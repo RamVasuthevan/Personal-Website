@@ -31,8 +31,8 @@ linkedin_username: RamVasuthevan
 flickr_username: RamVasuthevan
 
 mastodon:
- - username: RamVasuthevan
-   instance: mastodon.social
+  - username: RamVasuthevan
+    instance: mastodon.social
 
 
 # jekyll-seo-tag based on https://github.com/jekyll/jekyll-seo-tag/blob/db0e6392591a13e33339ee250a2861fc01646146/docs/usage.md
