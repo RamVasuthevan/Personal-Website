@@ -114,9 +114,8 @@ header_title: Soda Review
    source="https://voila.ca/products/990001EA/details"
 %}
 - Bought from [Dual citizen from Sheraton Toronto](https://www.dualcitizentoronto.ca/)
-- Nice and good taste
-- good sweet taste
-- Not strong taste,
+- Good, sweet taste
+- Not strong
 - Can’t really taste the lemon-lime flavour 
 - Rating: 7/10
 - Would I have it again? Maybe
