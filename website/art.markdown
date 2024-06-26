@@ -53,6 +53,30 @@ Here is some art and artist which I like:
 <img src ="/assets/art/anthony_van_dyck/Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg">
 <!--From https://en.wikipedia.org/wiki/File:Sir_Anthony_Van_Dyck_-_Charles_I_(1600-49)_-_Google_Art_Project.jpg -->
 
+### Kaws:Family
+<img src ="/assets/art/kaws_family/13028.5199.1_KAWS_FAMILY_88in_Ed1_Final_002_DA EDIT2.png">
+<!--From https://ago.ca/exhibitions/kaws-family -->
+<!--KAWS, FAMILY (2021) Bronze, paint, (219.1 x 207 x 95.6 cm) © KAWS-->
+
+People say that some art captivates you and just brings you in.
+This is the first time I remember that happening to me in an organic way. 
+
+I've tried to ... force that, intentionally sitting in front of painting that I like for 10 or 15 minutes. But this is the first time when the painting forced me to keep looking. 
+
+I was struck by how each of the family members were similar to each other and different. And how the differences don't make them not family. The family is something that transcends the differences.
+
+I just had to stop there and stare and keep looking at it and thinking about how the piece reflected life.
+
+
+### Oliver Husain and Kerstin Schroedinger, DNCB
+<img src ="/assets/art/oliver_husain_kerstin_schroedinger/MOCA_DNCB.jpg">
+<!--- 
+Oliver Husain and Kerstin Schroedinger, DNCB, 2021. Three-channel installation: colour video with sound (10 min), 16mm silent film projection (5 min 30 sec), audio interviews (10 min). Installation view, GTA24 at MOCA Toronto, 2024. © and courtesy the artists. Photo: LF Documentation. --->
+
+DNCB, or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. The above [image](https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/) is a still from the 3-channel video installation at [MOCA](moca.ca).
+
+I was deeply moved by the idea of a dying man applying poison to his skin to try to live.
+
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
 - [Pascal Normand](https://www.nataliedraz.com/collections/original-artwork)
