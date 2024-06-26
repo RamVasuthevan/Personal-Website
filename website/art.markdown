@@ -73,17 +73,6 @@ I just had to stop there and stare and keep looking at it and thinking about how
 <!--- 
 Oliver Husain and Kerstin Schroedinger, DNCB, 2021. Three-channel installation: colour video with sound (10 min), 16mm silent film projection (5 min 30 sec), audio interviews (10 min). Installation view, GTA24 at MOCA Toronto, 2024. © and courtesy the artists. Photo: LF Documentation. --->
 
-{% comment %}
-Here are some photos that I can use:
-
-- https://www.everand.com/article/494986883/What-Are-They-Fighting-For-On-Oliver-Husain-Kerstin-Schroedinger-And-The-Community-Who-Embraced-Dncb-As-An-Experimental-Treatment-For-Hiv
-- https://www.daniels.utoronto.ca/news/thu-apr-11-2024-all-day/four-daniels-faculty-artists-featured-moca-torontos-gta24-triennial
-- https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/
-- https://www.bemiscenter.org/events/artist-talk-crystal-campbell-oliver-husain-kerstin-schroedinger (This is a video)
-- https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c (I like this one the most)
-{% endcomment %}
-
-
 DNCB, or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. The above is a still from th[e 3-channel video installation](https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/) at [MOCA](moca.ca).
 
 I was deeply moved by the idea of a dying man applying poison to his skin to try to live.
