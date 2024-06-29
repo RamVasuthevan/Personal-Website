@@ -1,0 +1,20 @@
+---
+layout: default
+title: Photo of the Day
+---
+
+<div class="photo-of-the-day">
+  <h2>Photo of the Day</h2>
+  <ul>
+    {% for photo in site.data.photo-of-the-day %}
+    {% assign date = photo.date  | date: "%Y-%m-%d"  %}
+    {% assign metadata = site.data.photo-of-the-day-metadata[date] %}
+    <li>
+      <h3>{{ photo.date | date: "%B %d, %Y" }}</h3>
+      <img src="/assets/photo-of-the-day/{{ photo.date | date: "%Y-%m-%d" }}/{{ metadata.display_image }}" alt="{{ photo.description }}">
+      <p>{{ photo.description | markdownify }}</p>
+      <p>{{ photo.notes | markdownify }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
