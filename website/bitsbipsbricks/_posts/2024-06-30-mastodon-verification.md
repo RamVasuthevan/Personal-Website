@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Verify Jekyll Minima Site on Mastodon"
-image: "/assets/bitsbipsbricks/Github-Dependabot-PRs/nolan-issac-It0DCaCBr40-unsplash.jpg"
-permalink: bitsbipsbricks/XXX
+image: "/assets/bitsbipsbricks/Mastodon-Verification/mastodon-elephant-logo.webp"
+permalink: bitsbipsbricks/Mastodon-Verification
 ---
 
-{% include unsplash_image.html 
-  name="nolan-issac-It0DCaCBr40-unsplash.jpg" 
-  alt="Caffe latte on white ceramic cup beside silver and black laptop computer" 
-  photographer="Nolan Issac" 
-  username="@nolanissac" 
-  image_link="https://unsplash.com/photos/caffe-latte-on-white-ceramic-cup-beside-silver-and-black-laptop-computer-It0DCaCBr40" 
+{% include image.html 
+  name="mastodon-elephant-logo.webp" 
+  alt="Mastodon elephant logo" 
+  width="300px"
 %}
+
+<br>
 
 On Mastodon, one way that you can prove that you are who you say you are is by verifying that you own your personal site. 
 
@@ -21,13 +21,13 @@ You prove that you own a page by having a link from that page to your Mastodon a
 
 The two simplest ways to verify your site: 
 
-1. Is to add an invisible `<link>` tag inside the `<head>` tag at the top page that you linked to like: 
+1. Add an invisible `<link>` tag inside the `<head>` tag at the top page that you linked to like: 
 
 ```
 <link rel="me" href="https://mastodon.social/@RamVasuthevan"> 
 ```
 
-Or by adding a hyperlink to your Mastodon profile somewhere on the page, like:
+2. By adding a hyperlink to your Mastodon profile somewhere on the page, like:
 
 ```
 <a rel="me" href="https://mastodon.social/@RamVasuthevan">Mastodon</a> 
@@ -50,6 +50,6 @@ And then add a `rel="me"` attribute to the a href tag for Mastodon
 
 Or you can just copy my [version]()
 
-After adding the link to your page, go to [https://mastodon.social/settings/profile](https://mastodon.social/settings/profile) and add the page you want to verify as one of the extra fields. Make sure copy the link exactly as you added it your website (i.e. https://mastodon.social/@RamVasuthevan). 
+After adding the link to your page, go to [https://mastodon.social/settings/profile](https://mastodon.social/settings/profile) and add the page you want to verify as one of the extra fields. Make sure copy the link exactly as you added it your website (i.e. `https://mastodon.social/@RamVasuthevan`). 
 
 Your profile must be updated after adding the rel-me link to your web page.  If you have added the link to your profile before, then try removing the link from your profile, saving, re-adding the link, and then saving again. (See [documentation](https://docs.joinmastodon.org/user/profile/#verification)).
