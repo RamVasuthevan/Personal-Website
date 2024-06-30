@@ -19,8 +19,6 @@ For example, on my [Mastodon account](https://mastodon.social/@RamVasuthevan), I
 
 You prove that you own a page by having a link from that page to your Mastodon account with a [`rel="me"`](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel/me) attribute. 
 
-Go to [https://mastodon.social/settings/profile](https://mastodon.social/settings/profile) and add the page you want to verify as one of the extra fields 
-
 The two simplest ways to verify your site: 
 
 1. Is to add an invisible `<link>` tag inside the `<head>` tag at the top page that you linked to like: 
@@ -51,3 +49,7 @@ But you can copy the [_includes/social.html](https://github.com/jekyll/minima/bl
 And then add a `rel="me"` attribute to the a href tag for Mastodon
 
 Or you can just copy my [version]()
+
+After adding the link to your page, go to [https://mastodon.social/settings/profile](https://mastodon.social/settings/profile) and add the page you want to verify as one of the extra fields. Make sure copy the link exactly as you added it your website (i.e. https://mastodon.social/@RamVasuthevan). 
+
+Your profile must be updated after adding the rel-me link to your web page.  If you have added the link to your profile before, then try removing the link from your profile, saving, re-adding the link, and then saving again. (See [documentation](https://docs.joinmastodon.org/user/profile/#verification)).
