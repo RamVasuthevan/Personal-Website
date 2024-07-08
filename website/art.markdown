@@ -10,8 +10,6 @@ Here is some art and artist which I like:
 <img src="/assets/art/catherine_jeffrey/197305.jpg">
 {{"© [Catherine Jeffrey](https://digitalarchive.tpl.ca/objects/281918/november-rain-bay-and-dundas-toronto) via [Toronto Public Library Digital Archive](https://digitalarchive.tpl.ca/objects/281918/november-rain-bay-and-dundas-toronto?ctx=fb2689d2348e8cfcb0ab9464b5a98f723f7d0bcd)"| markdownify}}
 
-<!-- - https://digitalarchive.tpl.ca/objects/281918/november-rain-bay-and-dundas-toronto?ctx=fb2689d2348e8cfcb0ab9464b5a98f723f7d0bcd&idx=1  -->
-
 ### [Thomas Cole's The Course of Empire](https://en.wikipedia.org/wiki/The_Course_of_Empire_(paintings)#The_Savage_State,_or_The_Commencement_of_Empire)
 
 #### The Savage State, or The Commencement of Empire
