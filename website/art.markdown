@@ -69,10 +69,10 @@ I just had to stop there and stare and keep looking at it and thinking about how
 
 
 ### Oliver Husain and Kerstin Schroedinger's DNCB
-<img src ="/assets/art/oliver_husain_kerstin_schroedinger/MOCA_DNCB.jpg">
-{{"© Oliver Husain and Kerstin Schroedinger 2024 via [Oliver Husain and Kerstin Schroedinger](https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/)"| markdownify}}
+<img src ="/assets/art/oliver_husain_kerstin_schroedinger/1_-0lbMFMe8eAeF4KHgDaFjA.jpg">
+{{"[Photo](https://medium.com/@lynne.li/march-29-2024-mocas-greater-toronto-art-2024-triennial-exhibition-c098d815024c#d171) taken by [Lynne Li](https://medium.com/@lynne.li) (Thanks to her for allowing me to use it) "| markdownify}}
 <!--- 
-Oliver Husain and Kerstin Schroedinger, DNCB, 2021. Three-channel installation: colour video with sound (10 min), 16mm silent film projection (5 min 30 sec), audio interviews (10 min). Installation view, GTA24 at MOCA Toronto, 2024. © and courtesy the artists. Photo: LF Documentation. --->
+Oliver Husain and Kerstin Schroedinger, DNCB, 2021. Three-channel installation: colour video with sound (10 min), 16mm silent film projection (5 min 30 sec), audio interviews (10 min). Installation view, GTA24 at MOCA Toronto, 2024.  See personal license in Linkedin and Google Photos  --->
 
 [DNCB](https://en.wikipedia.org/wiki/2,4-Dinitrochlorobenzene), or dinitrochlorobenzene, is a chemical compound that was used an experimental treatment for HIV. The above [image](https://moca.ca/exhibitions/oliver-husain-kerstin-schroedinger/) is a still from the 3-channel video installation at [MOCA](moca.ca).
 
