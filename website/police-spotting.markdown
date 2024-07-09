@@ -3,13 +3,13 @@ layout: page
 title: Police Spotting
 ---
 
-Some people like to bird watch. I like to police spot. How police departments are organized says interesting something about society that they serve.
+Some people like to birdwatch. I like to police spot. How police departments are organized says something interesting about the society that they serve
 
 ### [Toronto Community Housing Community Safety Unit](https://www.torontohousing.ca/current-tenants/tenant-safety/community-safety-unit)
 {% comment %} 
 - They were in an SUV
-- Their car said  special constable 
-- I didn't know that THC has their own police, I was kinda surprised
+- Their car said special constable 
+- I didn't know that Toronto Community Housing has their own police, I was kinda surprised
 {% endcomment %} 
 - Date: 2024-06-04
 - Location: McCaul St & Dundas St W, Toronto
