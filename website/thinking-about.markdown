@@ -12,7 +12,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - How was Terranet created? How was POLRIAS created? How was MPAC created?
     - How were things done before POLRIAS? And digitization?
     - How is the POLARIS structured from a technical perspective?
-    - Who are customers? How do they use it? Can I use this data?
+    - Who are theircustomers? How do they use it? Can I use this data?
 
 - Realtors
     - TRREB is the professional association for real estate brokers and salespeople in the GTA, which manages the Toronto MLS (Multiple Listing Service) system
@@ -24,7 +24,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
 - Other?
 	- Are there other DBs that have an interesting view on the city?
 	- Are there opportunities for creating interesting DBs?
-	- With the data which exists? What new view on real estate development can be built?
+	- With the data which exists, what new view on real estate development can be built?
 	- Here are some other views on Toronto
 		- [City of Toronto Open Data](https://open.toronto.ca/catalogue/?search=development&sort=score%20desc)
 		- [Urban Toronto Projects DB](https://urbantoronto.ca/database/projects/)
@@ -32,7 +32,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
         - [TORONTOVERSE](https://torontoverse.com/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
-- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies:
+- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies: (TODO add a explain for why these are interesting)
     - UBC University Endowment Lands
     - Reedy Creek Improvement District
     - Universal City
@@ -48,8 +48,8 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - Towns associated with religious groups (Ave Maria FL, Antelope OR, Kiryas Joel NY, Lakewood NJ)
     - Paradise, Nevada
     - Ward’s Island and Algonquin Island in Toronto
-    - Rosemont, Illinois <!--  https://twitter.com/north0fnorth/status/1713960831602323613 --->
-    - Free Acres, New Jersey <!-- https://twitter.com/mnolangray/status/1650599822972567552?t=KctJuMsesHDRh9-Z9VS8CQ&s=19 https://www.nj.com/inside-jersey/2014/09/hidden_jersey_were_off_to_see_free_acres.html ->
+    - Rosemont, Illinois <!--  https://twitter.com/north0fnorth/status/1713960831602323613 -->
+    - Free Acres, New Jersey <!-- https://twitter.com/mnolangray/status/1650599822972567552?t=KctJuMsesHDRh9-Z9VS8CQ&s=19 https://www.nj.com/inside-jersey/2014/09/hidden_jersey_were_off_to_see_free_acres.html -->
     -  Rosemont, Illinois <!--  https://x.com/north0fnorth/status/1713960831602323613?s=20 -->
     
 # Get more from data
