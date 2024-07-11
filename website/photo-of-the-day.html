@@ -4,8 +4,18 @@ title: Photo of the Day
 ---
 
 <div class="photo-of-the-day">
+  <style>
+    .photo-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .photo-list li {
+      margin-bottom: 20px;
+    }
+  </style>
   <h2>Photo of the Day</h2>
-  <ul>
+  <ul class="photo-list">
     {% for photo in site.data.photo-of-the-day %}
     {% assign date = photo.date  | date: "%Y-%m-%d"  %}
     {% assign metadata = site.data.photo-of-the-day-metadata[date] %}
