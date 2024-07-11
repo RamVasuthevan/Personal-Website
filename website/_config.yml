@@ -30,6 +30,10 @@ github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
 flickr_username: RamVasuthevan
 
+mastodon:
+  - username: RamVasuthevan
+    instance: mastodon.social
+
 
 # jekyll-seo-tag based on https://github.com/jekyll/jekyll-seo-tag/blob/db0e6392591a13e33339ee250a2861fc01646146/docs/usage.md
 
@@ -43,7 +47,6 @@ social:
     - https://twitter.com/RamVasuthevan/
     - https://www.linkedin.com/in/ramvasuthevan/
     - https://github.com/RamVasuthevan/
-    - https://bsky.app/profile/ramvasuthevan.bsky.social
 
 # Build settings
 theme: minima
