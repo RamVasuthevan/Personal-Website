@@ -12,7 +12,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - How was Terranet created? How was POLRIAS created? How was MPAC created?
     - How were things done before POLRIAS? And digitization?
     - How is the POLARIS structured from a technical perspective?
-    - Who are theircustomers? How do they use it? Can I use this data?
+    - Who are their customers? How do they use it? Can I use this data?
 
 - Realtors
     - TRREB is the professional association for real estate brokers and salespeople in the GTA, which manages the Toronto MLS (Multiple Listing Service) system
@@ -32,7 +32,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
         - [TORONTOVERSE](https://torontoverse.com/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
-- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies: (TODO add a explain for why these are interesting)
+- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies: <!-- (TODO add a explain for why these are interesting) -->
     - UBC University Endowment Lands
     - Reedy Creek Improvement District
     - Universal City
