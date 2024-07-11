@@ -18,4 +18,4 @@ Here are some selected projects:
 
 <br />
 
-I spent several years procrastinating on creating a personal website. I was inspired by this [tweet](https://twitter.com/RamVasuthevan/status/1589036193966329856?s=20&t=ugmG3OLXRUIKGov6VA4zEQ) to actually just do it. Just put something up and go from there. Here is the [repo](https://github.com/RamVasuthevan/Personal-Website) for this website.
+I spent several years procrastinating on creating a personal website. I was inspired by this [tweet](https://twitter.com/RamVasuthevan/status/1589036193966329856?s=20&t=ugmG3OLXRUIKGov6VA4zEQ) to just do it. Just put something up and go from there. Here is the [repo](https://github.com/RamVasuthevan/Personal-Website) for this website.
