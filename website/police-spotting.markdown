@@ -22,3 +22,13 @@ Some people like to birdwatch. I like to police spot. How police departments are
 {% endcomment %} 
 - Date: 2024-07-09
 - Location: Queen's Park, Toronto
+
+### [Traffic Agent Special Constable](https://www.tps.ca/media-centre/stories/police-support-traffic-agent-program/)
+{% comment %} 
+- Saw a guy in a bright yellow vest directing traffic during rush hour at 3pm
+- See more:
+    - https://www.tps.ca/media-centre/stories/police-support-traffic-agent-program/
+    - https://tpsb.ca/images/agendas/PUBLIC_AGENDA_July31.pdf#page=20
+{% endcomment %} 
+- Date: 2024-07-11
+- Location: Bay St & King S W, Toronto
