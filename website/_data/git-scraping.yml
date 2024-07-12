@@ -8,8 +8,7 @@
 - name: "City of Toronto Contracts Data"
   name_url: https://github.com/RamVasuthevan/city-of-toronto-contracts-data
   notes:
-    - "Downloads [Competitive Contracts](https://open.toronto.ca/dataset/competitive-call-award-results/), [Non Competitive Contracts](https://open.toronto.ca/dataset/non-competitive-contracts/) and [Solicitations for the Purchase of Goods and Services](https://open.toronto.ca/dataset/call-documents-for-the-purchase-of-goods-and-services/) issued by the City of Toronto."
-    - "Currently not working due to a change in how data is returned. I am following up with the team that manages SAP Ariba—the procurement software for the City of Toronto. It should be working again by May 2024"
+    - "Downloads [Awarded Contracts](https://open.toronto.ca/dataset/tobids-awarded-contracts/), [Non-Competitive Contracts](https://open.toronto.ca/dataset/tobids-non-competitive-contracts/), and [All Solicitations](https://open.toronto.ca/dataset/tobids-all-open-solicitations/) issued by the City of Toronto."
   updated: "Daily at midnight UTC"
 - name: "Ontario Marriage Officiants"
   name_url: "https://github.com/RamVasuthevan/ontario-marriage-officiants"
