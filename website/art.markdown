@@ -79,6 +79,14 @@ Oliver Husain and Kerstin Schroedinger, DNCB, 2021. Three-channel installation: 
 
 I was deeply moved by the idea of a dying man applying poison to his skin to try to live.
 
+
+### [Pavel Bondarenko's Monument to Yuri Gagarin](https://en.wikipedia.org/wiki/Monument_to_Yuri_Gagarin)
+<img src ="/assets/art/pavel_bondarenko/GRlXjsXaUAA7iko.jpeg">
+{{"From [acorbo](https://x.com/motphysics/status/1808573063715565627) via [The Last Great Arrakian Dynasty](https://x.com/cruelsardaukar/status/1808580676171583734). Unknown photographer "| markdownify}}
+
+I am not usually a fan of [socialist realist](https://en.wikipedia.org/wiki/Socialist_realism) statues, but this one seems apt. Also, this photo is amazing, other photos of the statue don't seem to capture its beauty.
+
+
 ### Artists I liked at the 2023 Toronto Outdoor Art Fair
 - [Natalie Draz ](https://www.nataliedraz.com/)
 - [Pascal Normand](https://www.nataliedraz.com/collections/original-artwork)
