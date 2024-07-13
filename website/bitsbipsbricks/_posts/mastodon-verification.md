@@ -44,7 +44,7 @@ Minima 2.5 does not automatically add the `rel=me` attribute to the link in the 
 
 But you can copy the [_includes/social.html](https://github.com/jekyll/minima/blob/2.5-stable/_includes/social.html) file and add it to your `_includes` file. And then add a `rel="me"` attribute to the a href tag for Mastodon.
 
-Or you can just copy my [version](https://github.com/RamVasuthevan/Personal-Website/blob/5ff8c5249cee88d64dd8971e35d52d2624508556/website/_includes/social.html).
+Or you can just copy my [version](https://github.com/RamVasuthevan/Personal-Website/blob/dd4391b0aeee65c8d03cd49cfe8f17e3d37f960b/website/_includes/social.html).
 
 After adding the link to your page, go to [https://mastodon.social/settings/profile](https://mastodon.social/settings/profile) and add the page you want to verify as one of the extra fields. 
 
