@@ -25,3 +25,7 @@ I really like how the focus on this image really highlights Nakamura
 %}
 
 I love the composition of this photograph
+
+
+## Twitter Threads of Photos I Like
+- [Most Beautiful Metro Stations on Earth](https://x.com/JamesLucasIT/status/1808915462731747614) by [James Lucas (@JamesLucasIT)](https://x.com/JamesLucasIT)
