@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Verify Jekyll Minima Site on Mastodon"
-image: "/assets/bitsbipsbricks/Mastodon-Verification/mastodon-elephant-logo.webp"
+image: "/assets/bitsbipsbricks/Mastodon-Verification/mastodon-elephant-logo-wider.webp"
 permalink: bitsbipsbricks/Mastodon-Verification
 ---
 

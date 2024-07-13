@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Built by Ram Vasuthevan with ❤️ on the [shoulders of giants](/acknowledgements.html)
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mastodon-verification-fix-tw.personal-website-a13.pages.dev/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
