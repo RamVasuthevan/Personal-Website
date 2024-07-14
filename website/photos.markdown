@@ -27,5 +27,6 @@ I really like how the focus on this image really highlights Nakamura
 I love the composition of this photograph
 
 
-## Twitter Threads of Photos I Like
+## Threads of Photos I Like
 - [Most Beautiful Metro Stations on Earth](https://x.com/JamesLucasIT/status/1808915462731747614) by [James Lucas (@JamesLucasIT)](https://x.com/JamesLucasIT)
+- [World’s best new architecture revealed-CNN](https://www.cnn.com/2024/07/10/style/waf-awards-2024-best-new-architecture/index.html) via [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2024/07/friday-assorted-links-477.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-477#:~:text=4.%20new%20architectural%20citations.)
