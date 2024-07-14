@@ -33,3 +33,7 @@ I am not sure what I am doing here. Is this a page of designs I like or designs 
 ### [Sam Whoo—Load Balancing](https://samwho.dev/load-balancing/)
 - The simulation of load balancing are not elegant but very useful
 - Looks like HTML canvas and [js](https://samwho.dev/js/load-balancers.js)
+
+> This tweet literally changed my life. The last 18 months hinge directly on this tweet.
+> 
+> — [Sam Rose](https://x.com/samwhoo/status/1811557379831402774)
