@@ -26,6 +26,18 @@ I really like how the focus on this image really highlights Nakamura
 
 I love the composition of this photograph
 
+### [Puffins and Pufted Puffin License Plate](https://www.oregonlive.com/trending/2024/07/a-new-tufted-puffin-license-plate-is-coming-thanks-to-the-oregon-coast-aquarium.html)
+
+{% include image.html 
+    src="assets/photos-I-like/john-m-innes-1948.jpg" 
+    alt="Tufted puffin license plate pictured with some tufted puffins." 
+    caption="Tufted puffin license plate pictured with some tufted puffins.
+    source="https://www.oregonlive.com/trending/2024/07/a-new-tufted-puffin-license-plate-is-coming-thanks-to-the-oregon-coast-aquarium.html via [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2024/07/friday-assorted-links-477.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-477#:~:text=management%20so%20male%3F-,6.%20mie%3A%20oregon%20puffin%20license%20plates.,-7.%20For%20the)"
+%}
+
+I think it was taken by Jeremy Burke for Oregon Coast Aquarium
+https://ktvl.com/news/local/gallery/new-oregon-coast-aquarium-license-plate-to-support-wildlife-rehabilitation-efforts?photo=5
+
 
 ## Threads of Photos I Like
 - [Most Beautiful Metro Stations on Earth](https://x.com/JamesLucasIT/status/1808915462731747614) by [James Lucas (@JamesLucasIT)](https://x.com/JamesLucasIT)
