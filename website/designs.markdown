@@ -29,3 +29,7 @@ I am not sure what I am doing here. Is this a page of designs I like or designs 
 <!--https://web.archive.org/web/20240327224034/https://tinyclouds.org/-->
 - Looks like the default theme for Deno Blog
 - Clean, simple, modern
+
+### [Sam Whoo—Load Balancing](https://samwho.dev/load-balancing/)
+- The simulation of load balancing are not elegant but very useful
+- Looks like HTML canvas and [js](https://samwho.dev/js/load-balancers.js)
