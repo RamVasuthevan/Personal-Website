@@ -9,8 +9,8 @@ title: CLI Snippets
 2. `python3 -m http.server 9000`
     - Opens a Python web server on port 9000 in the current directory
 
-3. `find . -type f ! -path "./.git/*" -print | sed 's|[^/]*/|   |g;s|\(.*\)/\(.*\)|\1/--\2|'`
-    - Finds all files in the current directory, excluding .git directory, and prints them in a tree-like format
+3. `find . -type d \( -name .git -o -name node_modules -o -name .jekyll-cache \) -prune -o -print | sed -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'`
+    - Finds all files in the current directory, excluding the .git,.jekyll-cache and node_modules directories, and prints them in a tree-like format
 
 4. `docker ps -aq | xargs docker rm -f`
     - Kill all Docker containers
