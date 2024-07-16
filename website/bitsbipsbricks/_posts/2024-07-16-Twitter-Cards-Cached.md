@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Twitter Cards Images are Cached"
-image: "/assets/bitsbipsbricks/Mastodon-Verification/replicate-prediction-ey7z80d79srgj0cgqhpvf0sw7m.png"
+image: "/assets/bitsbipsbricks/Twitter-Cards-Cached/replicate-prediction-ey7z80d79srgj0cgqhpvf0sw7m.png"
 permalink: bitsbipsbricks/Twitter-Cards-Cached
 ---
 
