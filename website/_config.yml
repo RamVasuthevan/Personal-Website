@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ram's Personal Website
-email: FirstName@LastName.com
+email: FirstName@LastName.ca
 description: >- # this means to ignore newlines until "baseurl:"
     Built by Ram Vasuthevan with ❤️ on the [shoulders of giants](/acknowledgements.html)
 locale: en-CA 
@@ -29,6 +29,10 @@ twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
 flickr_username: RamVasuthevan
+
+mastodon:
+  - username: RamVasuthevan
+    instance: mastodon.social
 
 
 # jekyll-seo-tag based on https://github.com/jekyll/jekyll-seo-tag/blob/db0e6392591a13e33339ee250a2861fc01646146/docs/usage.md
