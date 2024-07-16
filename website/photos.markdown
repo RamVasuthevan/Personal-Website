@@ -35,6 +35,7 @@ I love the composition of this photograph
     source="https://www.oregonlive.com/trending/2024/07/a-new-tufted-puffin-license-plate-is-coming-thanks-to-the-oregon-coast-aquarium.html via [Tyler Cowen](https://marginalrevolution.com/marginalrevolution/2024/07/friday-assorted-links-477.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-477#:~:text=management%20so%20male%3F-,6.%20mie%3A%20oregon%20puffin%20license%20plates.,-7.%20For%20the)"
 %}
 
+The photo is well framed with the license plate and puffins
 
 ## Threads of Photos I Like
 - [Most Beautiful Metro Stations on Earth](https://x.com/JamesLucasIT/status/1808915462731747614) by [James Lucas (@JamesLucasIT)](https://x.com/JamesLucasIT)
