@@ -150,9 +150,5 @@
   note: Easily render HTML snippets
 - title: Edit Counter 
   url: https://xtools.wmcloud.org/ec/en.wikipedia.org
-  author: 
-  note: 
-- title: Petscan
-  url: https://petscan.wmflabs.org/
-  author: 
-  note: 
+  author: MusikAnimal, Matthewrb and Samwilson
+  note: Suite of statistics tools for Wikimedia wikis, users, pages, and more.
