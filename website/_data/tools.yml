@@ -152,3 +152,7 @@
   url: https://xtools.wmcloud.org/ec/en.wikipedia.org
   author: MusikAnimal, Matthewrb and Samwilson
   note: Suite of statistics tools for Wikimedia wikis, users, pages, and more
+- title: CropTool 
+  url: https://croptool.toolforge.org/
+  author: danmichaelo
+  note: Crop images on Wikimedia Commons and other Wikimedia sites
