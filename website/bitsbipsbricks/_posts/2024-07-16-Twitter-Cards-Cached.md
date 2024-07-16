@@ -13,7 +13,7 @@ permalink: bitsbipsbricks/Twitter-Cards-Cached
 
 <br>
 
-[Yesterday, I learned](https://x.com/search?q=%22Today%20I%20learned%22%20OR%20TIL%20from%3ARamVasuthevan&src=typed_query&f=top) in a not-so-enjoyable fashion that Twitter caches [summary card images](https://developer.x.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image). 
+[Recently, I learned](https://x.com/search?q=%22Today%20I%20learned%22%20OR%20TIL%20from%3ARamVasuthevan&src=typed_query&f=top) in a not-so-enjoyable fashion that Twitter caches [summary card images](https://developer.x.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image). 
 
 While writing [Verify Jekyll Minima Sites on Mastodon](/bitsbipsbricks/Mastodon-Verification), I originally had a summary card image which was getting cropped poorly, so I kept the image that was being displayed at the top of the article but changed the summary card image with a wider version which got a better crop. And it showed up correctly in my preferred Twitter Card preview tool: [BannerBear Twitter Card Preview Tool](https://www.bannerbear.com/tools/twitter-card-preview-tool/). 
 
