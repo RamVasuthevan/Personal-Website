@@ -2,7 +2,7 @@
 layout: post
 title: "An Okay Start and How Do You Actually Learn Things"
 image: "/assets/bitsbipsbricks/Twitter-Cards-Cached/replicate-prediction-ey7z80d79srgj0cgqhpvf0sw7m.png"
-permalink: bitsbipsbricks/Twitter-Cards-Cached
+permalink: bitsbipsbricks/First-Step-Frontend
 ---
 
 {% include image.html 
