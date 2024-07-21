@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gifs I like
+title: GIFs I like
 ---
 
 ### [Hudson Yard 2015-2018 Timelapse](https://x.com/BernoulliDefect/status/1812929173603709250)
