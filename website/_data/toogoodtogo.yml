@@ -1093,8 +1093,37 @@
       amount: '6.99'
       currency: CAD
   description:
-    - 2 boxes of Longos Carrot Muffins (marked down 40% to $4.19) Best before 2024-01-05
-    - "6 Fred's Bread Hot Cross Buns (marked down 40% to $4.18) Best before 2024-01-05"
+  - 2 boxes of Longos Carrot Muffins (marked down 40% to $4.19) Best before 2024-01-05
+  - 6 Fred's Bread Hot Cross Buns (marked down 40% to $4.18) Best before 2024-01-05
   notes: ''
   image: 2024-01-05/
+  hidden: true
+- invoice_name: TGTG_1125937-328
+  date: '2024-07-14'
+  invoice_number: TGTG_1125937-328
+  order_id: n0asj732rar71
+  payment_method: ''
+  seller_name: Tim Hortons - 1 Richmond Street West
+  hst_number: 111111111RT0001
+  store_name: Tim Hortons - 1 Richmond Street West
+  store_address:
+  - Richmond Street West 1
+  - M5H 3W4
+  - Toronto
+  hst_amount:
+    amount: '0.00'
+    currency: CAD
+  total:
+    amount: '4.99'
+    currency: CAD
+  items:
+  - description: Tim Hortons - 1 Richmond Street West (Baked Goods)
+    quantity: '1'
+    price: $4.99 (CAD)
+    total:
+      amount: '4.99'
+      currency: CAD
+  description: ''
+  notes: 'I opened the app and so this Tim Horton'
+  image: 2024-07-14/PXL_20240715_001831357.RAW-01.COVER.jpg
   hidden: true

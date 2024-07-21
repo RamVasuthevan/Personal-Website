@@ -88,7 +88,8 @@ def get_invoice_number(file_path, lines):
 def get_order_id(file_path, lines):
     order_id = lines[4][9:]
 
-    assert len(order_id) == 11, f"Invalid order id {order_id} extracted from {lines[4]}"
+    #assert len(order_id) == 11, f"Invalid order id {order_id} extracted from {lines[4]}"
+    # TGTG_1125937-328's order_id is 13 chars long. I think that they've change format
     return order_id
 
 
