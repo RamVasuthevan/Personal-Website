@@ -14,4 +14,4 @@ title: Gifs I like
 <!--Downloaded using https://redketchup.io/twitter-downloader-->
 
 
-It's a simple GIF but it clearly shows the scope of the Hudson Yards development 
+It's a simple GIF but it really shows the scope of the Hudson Yards development 
