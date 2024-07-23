@@ -11,9 +11,7 @@ Return `True` if all cased characters in the string are lowercase and there is a
 
 Cased characters are those with the Unicode general category property being one of “Lu” (Letter, uppercase), “Ll” (Letter, lowercase), or “Lt” (Letter, titlecase). This means that the method checks for characters that are specifically recognized as letters in their uppercase, lowercase, or titlecase forms.
 
-[See docs: str.islower()](https://docs.python.org/3/library/stdtypes.html#str.islower)
 
-````markdown
 ```python
 print('a'.islower())   # True
 print('A'.islower())   # False
@@ -24,6 +22,10 @@ print('Á'.islower())   # False
 print('汉'.islower())  # False  # Chinese character, not cased
 print('ß'.islower())   # True  # German sharp s, considered lowercase
 ```
+
+See more:
+- [Python Documentation: str.islower()](https://docs.python.org/3/library/stdtypes.html#str.islower)
+
 
 ## Dictionary Ordering
 
@@ -51,8 +53,8 @@ print(d)  # {1: True, 3: True, 2: True}
 OrderedDict can be used if you want to explicitly state the importance of the order or if you want to use methods like [.move_to_end()](https://docs.python.org/3/library/collections.html#collections.OrderedDict.move_to_end) or [.popitem()](https://docs.python.org/3/library/collections.html#collections.OrderedDict.popitem).
 
 See more:
-- [OrderedDict vs dict in Python: The Right Tool for the Job](https://realpython.com/python-ordereddict/)
-- [collections.OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict)
-- [dict](https://docs.python.org/3/library/stdtypes.html#dict)
+- [Real Python: OrderedDict vs dict in Python: The Right Tool for the Job](https://realpython.com/python-ordereddict/)
+- [Python Documentation: collections.OrderedDict](https://docs.python.org/3/library/collections.html#collections.OrderedDict)
+- [Python Documentation: dict](https://docs.python.org/3/library/stdtypes.html#dict)
 
 
