@@ -152,3 +152,11 @@
   url: https://www.whatismybrowser.com/
   author: Brett Harris
   note: Get details about your browser, device and operating system settings
+- title: reFillα
+  url: https://refill.toolforge.org/ng/
+  author: CurbSafeCharmer
+  note: Expand bare references on Wikipedia
+- title: InternetArchiveBot
+  url: https://iabot.wmcloud.org/index.php?page=runbotsingle
+  author: cyberpower678
+  note: Replaces broken external links with archive links on Wikipedia
