@@ -5,7 +5,7 @@ title: Python Notes
 
 I don't really know what I am going to do on this page. But I have some notes about the Python Standard Library that I want to save for my future self.
 
-## .islower()
+## .islower() (and .isupper())
 
 Return `True` if all cased characters in the string are lowercase and there is at least one cased character, `False` otherwise.
 
@@ -59,7 +59,7 @@ See more:
 
 
 
-## Default Value for max()
+## Default Value for max() (and min())
 
 If `max()` is given an sequence, it will raise a  `ValueError`.  s of Python 3.4, the `max()` function supports a `default` parameter, which is returned if the provided sequence is empty. 
 
