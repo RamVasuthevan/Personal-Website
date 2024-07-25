@@ -3,7 +3,7 @@ layout: page
 title: Python Notes
 ---
 
-I don't really know what I am going to do on this page. But I have some notes about the Python Standard Library that I want to save for my future self.
+I don't really know what I am going to do on this page. But I have some notes about the Python standard library that I want to save for my future self.
 
 ## .islower() (and .isupper())
 
@@ -64,8 +64,6 @@ See more:
 If `max()` is given an sequence, it will raise a  `ValueError`.  s of Python 3.4, the `max()` function supports a `default` parameter, which is returned if the provided sequence is empty. 
 
 This is helpful when dealing with sequences of unknown length that could be empty.
-
-### Example
 
 ```python
 print(max([], default=0))  # 0
