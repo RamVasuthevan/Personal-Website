@@ -13,6 +13,8 @@ permalink: bitsbipsbricks/Felt-Magic
    image_link="https://unsplash.com/photos/u8DiM00gIR8" 
 %}
 
+**Editor's Note: Here is the link to the [map](https://felt.com/map/Toronto-Property-Boundaries-Blog-Post-2023-08-29-Felt-Feels-like-Magic-copy-n0X6GPVNTjWv6keVeffKRD?loc=43.62012,-79.36888,13.6z&share=1). Embedding maps now requires the "Talk to Sales" Enterprise tier.**
+
 
 I just started using [Felt](https://felt.com/). The best way to describe it is it feels like magic.
 I have been thinking about side projects involving creating maps or using geospatial data for a while, but I’ve procrastinated on learning Mapbox or QGIS. And I’ve spent way too much time trying to install SpatiaLite on a Windows Laptop.
@@ -23,3 +25,4 @@ In general, I like open tools so that I can have more control over the output an
 
 It didn’t take me that long to start seeing interesting things near the water, on Algonquin Island, near my home, etc.
 However, I need to work on my styling.
+

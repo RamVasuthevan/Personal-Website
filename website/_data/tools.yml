@@ -160,3 +160,11 @@
   url: https://croptool.toolforge.org/
   author: danmichaelo
   note: Crop images on Wikimedia Commons and other Wikimedia sites
+- title: reFillα
+  url: https://refill.toolforge.org/ng/
+  author: CurbSafeCharmer
+  note: Expand bare references on Wikipedia
+- title: InternetArchiveBot
+  url: https://iabot.wmcloud.org/index.php?page=runbotsingle
+  author: cyberpower678
+  note: Replaces broken external links with archive links on Wikipedia
