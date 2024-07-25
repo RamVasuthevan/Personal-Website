@@ -58,3 +58,18 @@ See more:
 - [Python Documentation: dict](https://docs.python.org/3/library/stdtypes.html#dict)
 
 
+
+## Default Value for max()
+
+If `max()` is given an sequence, it will raise a  `ValueError`.  s of Python 3.4, the `max()` function supports a `default` parameter, which is returned if the provided sequence is empty. 
+
+This is helpful when dealing with sequences of unknown length that could be empty.
+
+### Example
+
+```python
+print(max([], default=0))  # 0
+```
+
+See more:
+- [Python Documentation: max()](https://docs.python.org/3/library/functions.html#max)
