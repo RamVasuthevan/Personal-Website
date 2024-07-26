@@ -1,0 +1,43 @@
+- name: "Public domain images of parliamentarians"
+  description:
+    - "Get all public domain images of parliamentarians from [ Library of Parliament's Parlinfo](https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/parliamentarians)"
+  next_step:
+    - "Scrape all parliamentarians profile pages and headshot photo copyrights"
+    - "[All parliamentarians](https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/parliamentarians) page"
+    - "[Profile page](https://lop.parl.ca/sites/ParlInfo/default/en_CA/People/Profile?personId=13134) page"
+  selected: true
+- name: "Onatrio Private acts"
+  url: "https://github.com/RamVasuthevan/ontario-legislature-bills"
+  description:
+    - "I'm curious about the [Private acts](https://www.ola.org/en/legislative-business/bills/private-bills-procedures#:~:text=They%20are%20sometimes%20called%20private,be%20obtained%20under%20general%20law.) in Ontario and Canada"
+  next_step:
+    - "Rewrite [ontario-legislature-bills](https://github.com/RamVasuthevan/ontario-legislature-bills) to use SQLite to make easy to partially update of data"
+  selected: true
+- name: "City of Toronto Elections Dataset"
+  description:
+    - "Put information about City of Toronto Elections into Datasette"
+  next_step:
+    - "Complete [#2](https://github.com/RamVasuthevan/city-of-toronto-elections/pull/2) to load 2022 elections results"
+    - "Deploy MVP Datasette" 
+  selected: true
+- name: "City of Toronto Archives Scraping"
+  description:
+    - "City of Toronto Archives search tool is horrible"
+    - "Their website is very fragile. Will need to scrape very slowly. It'll be too long for GH Actions, I'll need to run it a VM"
+  next_step:
+    - "Scrape one [search page](https://gencat4.eloquent-systems.com/webcat/request/Action?ClientSession=-aa68abc:18ef9e67c9c:-7e50&TemplateProcessID=6000_3355&CMD_(SearchRequest)[12]=&PromptID=&ParamID=&RequesterType=SearchTemplate&browseData=1&bCachable=1&Keyword=0&POI30_51522=119)"
+    - "Deploy to an DigitalOcean VM"
+  selected: true
+- name: "Public Digital Garden"
+  description: 
+    - Build a Digital Garden 
+    - Should it be public or Private? For everything or just Real Estate related
+  next_step:
+    - "Obsidian vs Quartz"
+  selected: true
+- name: "Bits, Bips and Bricks: Read and Review Black Edge"
+  description: 
+    - Read and Rewview Black Edge
+  next_step:
+    - "Read Black Edge. Just book 4 hours one day"
+  selected: true

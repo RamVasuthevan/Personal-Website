@@ -5,19 +5,12 @@
       <th>Projects</th>
       <th>Description</th>
     </tr>
-    {% for project in site.data.projects %}
-      {% if show_selected_only %}
-        {% if project.selected == true %}
-          <tr>
-            <td><a href="{{ project.url }}">{{ project.name }}</a></td>
-            <td>{{ project.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
-          </tr>
-        {% endif %}
-      {% else %}
+    {% for project in include.projects %}
+      {% unless show_selected_only and project.selected != true %}
         <tr>
           <td><a href="{{ project.url }}">{{ project.name }}</a></td>
           <td>{{ project.description | markdownify | remove: '<p>' | remove: '</p>' }}</td>
         </tr>
-      {% endif %}
+      {% endunless %}
     {% endfor %}
 </table>
