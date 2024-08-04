@@ -103,8 +103,6 @@ header_title: Soda Review
 - Rating: 5/10
 - Would I have it again? Probably not
 
-
-
 # 2024-06-09 7Up Lemon Lime
 {% include image.html 
    src="/assets/soda-review/2024-06-09_7Up_Lemon_Lime.webp"
@@ -119,3 +117,50 @@ header_title: Soda Review
 - Can’t really taste the lemon-lime flavour 
 - Rating: 7/10
 - Would I have it again? Maybe
+
+# 2024-07-17 Grace Famous Island Soda Pineapple
+{% include image.html 
+   src="/assets/soda-review/2024-07-17_Grace_Famous_Island_Soda_Pineapple.webp"
+   alt="Photo of Grace Famous Island Soda Pineapple Drink" 
+   width="400px"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
+%}
+- Tastes pretty good
+- Not that strong or sweet
+- A bit of a pineapple taste
+- Nnot that carbonated.
+- Rating: 6/10
+- Would I have it again? Probably not
+
+# 2024-07-18 Grace Island Kola Champagne Soda
+{% include image.html 
+   src="/assets/soda-review/2024-07-18_Grace Island_Kola_Champagne_Soda.jpg"
+   alt="Photo of Grace Island Soda Kola Champagne" 
+   width="400px"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
+%}
+- Tastes pretty good
+- You can taste the cream
+- Not too sweet, just the right amount
+- Could be stronger
+- Rating: ??/10 (#TODO Forget to rate, I need but it again lol)
+- Would I have it again? Yes
+
+# 2024-08-04 Crush Peach
+{% include image.html 
+   src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
+   alt="Photo of Crush Peach Can" 
+   width="400px"
+   license="© 2024 So Sweet Canada ." 
+   source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
+%}
+- [Crush](https://en.wikipedia.org/wiki/Crush_(drink)) is a brand owned by PepsiCo 
+- Bought from 6ix Fried Chicken
+   - [Google Maps](https://maps.app.goo.gl/ZFqMee2weSet8aLB6)
+   - [Instagram](https://www.instagram.com/6ixfriedchicken/?hl=en)
+- Pretty good taste
+- But not that strong could be sweeter and bubblier
+- Rating: 4/10
+- Would I have it again? Probably not
