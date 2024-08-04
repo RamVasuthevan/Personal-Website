@@ -118,7 +118,7 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Maybe
 
-# Grace Island Kola Champagne Soda
+# 2024-07-18 Grace Island Kola Champagne Soda
 {% include image.html 
    src="/assets/soda-review/2024-04-13_Grace_Island_Soda_Gingerbeer.png"
    alt="Photo of Grace Island Soda Kola Champagne" 
