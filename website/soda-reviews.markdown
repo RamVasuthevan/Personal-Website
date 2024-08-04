@@ -118,6 +118,21 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Maybe
 
+# Grace Island Kola Champagne Soda
+{% include image.html 
+   src="/assets/soda-review/2024-04-13_Grace_Island_Soda_Gingerbeer.png"
+   alt="Photo of Grace Island Soda Kola Champagne" 
+   width="400px"
+   license="© 2024, The Islands Caribbean Cookshop" 
+   source="https://www.theislandscaribbean.com/products/island-soda-kola-champagne"
+%}
+- Tastes pretty good
+- You can taste the cream
+- Not too sweet, just the right amount
+- Could be stronger
+- Rating: ??/10 (#TODO Forget to rate, I need but it again lol)
+- Would I have it again? Yes
+
 # 2024-08-04 Crush Peach
 {% include image.html 
    src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
