@@ -119,3 +119,20 @@ header_title: Soda Review
 - Can’t really taste the lemon-lime flavour 
 - Rating: 7/10
 - Would I have it again? Maybe
+
+# 2024-08-04 Crush Peach
+{% include image.html 
+   src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
+   alt="Photo of Crush Peach Can" 
+   width="400px"
+   license="© 2024 So Sweet Canada ." 
+   source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
+%}
+- [Crush](https://en.wikipedia.org/wiki/Crush_(drink)) is a brand owned by PepsiCo 
+- Bought from 6ix Fried Chicken
+   - [Google Maps](https://maps.app.goo.gl/ZFqMee2weSet8aLB6)
+   - [Instagram](https://www.instagram.com/6ixfriedchicken/?hl=en)
+- Pretty good taste
+- But not that strong could be sweeter and bubblier
+- Rating: 4/10
+- Would I have it again? Probably not
