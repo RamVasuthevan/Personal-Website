@@ -118,13 +118,28 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Maybe
 
+# 2024-07-17 Grace Famous Island Soda Pineapple
+{% include image.html 
+   src="/assets/soda-review/2024-07-17_Grace_Famous_Island_Soda_Pineapple.webp"
+   alt="Photo of Grace Famous Island Soda Pineapple Drink" 
+   width="400px"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
+%}
+- Tastes pretty good
+- Not that strong or sweet
+- A bit of a pineapple taste
+- Nnot that carbonated.
+- Rating: 6/10
+- Would I have it again? Probably not
+
 # 2024-07-18 Grace Island Kola Champagne Soda
 {% include image.html 
-   src="/assets/soda-review/2024-04-13_Grace_Island_Soda_Gingerbeer.png"
+   src="/assets/soda-review/2024-07-18_Grace Island_Kola_Champagne_Soda.jpg"
    alt="Photo of Grace Island Soda Kola Champagne" 
    width="400px"
-   license="© 2024, The Islands Caribbean Cookshop" 
-   source="https://www.theislandscaribbean.com/products/island-soda-kola-champagne"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
 %}
 - Tastes pretty good
 - You can taste the cream
