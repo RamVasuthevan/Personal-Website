@@ -103,8 +103,6 @@ header_title: Soda Review
 - Rating: 5/10
 - Would I have it again? Probably not
 
-
-
 # 2024-06-09 7Up Lemon Lime
 {% include image.html 
    src="/assets/soda-review/2024-06-09_7Up_Lemon_Lime.webp"
