@@ -35,7 +35,7 @@ Some people like to birdwatch. I like to police spot. How police departments are
 
 ### [TTC Transit Enforcement Unit](https://www.ttc.ca/en/riding-the-ttc/safety-and-security/Special-Constables/transit-enforcement-unit)
 {% comment %} 
-- At Union Station, just past the gates from the Subwat
+- At Union Station, just past the gates for the Subway
 {% endcomment %} 
 - Date: 2024-07-31
 - Location: Union Subway Station, Toronto
@@ -43,7 +43,7 @@ Some people like to birdwatch. I like to police spot. How police departments are
 ### City of Toronto Corporate Security
 {% comment %} 
 - Giving direction by the closed ramp, at the Taste of India food festival 
-- Apparently, Corporate Security they are just security guards
+- Apparently, Corporate Security are just security guards
 {% endcomment %} 
 - Date: 2024-08-03
 - Location: Nathan Phillips Square, Toronto
