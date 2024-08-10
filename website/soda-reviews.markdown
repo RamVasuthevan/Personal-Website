@@ -12,7 +12,7 @@ header_title: Soda Review
    license="© 2024 Zevia. All rights reserved." 
    source="https://www.zevia.com/products/ginger-root-beer"
 %}
-- Bought from Longos
+- Bought from [Longos](https://www.longos.com/)
 - It's okay, but I wouldn't have it again
 - It lacks the sharp (bitter?) aftertaste of better ginger soda
 - The sweetness tastes a little weird
@@ -46,8 +46,8 @@ header_title: Soda Review
    source="https://www.candydepot.ca/products/7up-grapefruit-zero-355ml"
 %}
 
-- Got it from the Hniebergall residence
-- It tastes good. 
+- Got it from the Hniebergall Residence
+- It tastes good
 - Not that sweet
 - Doesn't really have an aftertaste
 - Honestly, not sure what I was expecting, it's kind mid
@@ -98,12 +98,10 @@ header_title: Soda Review
 - Bought from [DesiFest](https://desifest.ca/)
 - Sweet but not that sweet, sour but not that sour
 - Not that strong
-- This is carabiner water, I’m not sure if they can really be compared to sodas
+- This is carbonated water, I’m not sure it can really be compared to sodas.
 - Pretty good
 - Rating: 5/10
 - Would I have it again? Probably not
-
-
 
 # 2024-06-09 7Up Lemon Lime
 {% include image.html 
@@ -119,3 +117,48 @@ header_title: Soda Review
 - Can’t really taste the lemon-lime flavour 
 - Rating: 7/10
 - Would I have it again? Maybe
+
+# 2024-07-17 Grace Famous Island Soda Pineapple
+{% include image.html 
+   src="/assets/soda-review/2024-07-17_Grace_Famous_Island_Soda_Pineapple.webp"
+   alt="Photo of Grace Famous Island Soda Pineapple Drink" 
+   width="400px"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
+%}
+- Tastes pretty good
+- Not that strong or sweet
+- A bit of a pineapple taste
+- Not that carbonated.
+- Rating: 6/10
+- Would I have it again? Probably not
+
+# 2024-07-18 Grace Island Kola Champagne Soda
+{% include image.html 
+   src="/assets/soda-review/2024-07-18_Grace Island_Kola_Champagne_Soda.jpg"
+   alt="Photo of Grace Island Soda Kola Champagne" 
+   width="400px"
+   license="© 2024 Walmart. All Rights Reserved." 
+   source="https://www.walmart.ca/en/ip/Grace-Famous-Island-Soda-Pineapple-Drink/6000188763419"
+%}
+- Tastes pretty good
+- You can taste the cream
+- Not too sweet, just the right amount
+- Could be stronger
+- Rating: ??/10 (#TODO Forget to rate, I need but it again lol)
+- Would I have it again? Yes
+
+# 2024-08-04 Crush Peach
+{% include image.html 
+   src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
+   alt="Photo of Crush Peach Can" 
+   width="400px"
+   license="© 2024 So Sweet Canada ." 
+   source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
+%}
+- [Crush](https://en.wikipedia.org/wiki/Crush_(drink)) is a brand owned by PepsiCo 
+- Bought from [6ix Fried Chicken](https://www.instagram.com/6ixfriedchicken/?hl=en) <!-- 335 Yonge St, Toronto, ON M5B 1R7 -->
+- Pretty good taste
+- But not that strong could be sweeter and bubblier
+- Rating: 4/10
+- Would I have it again? Probably not
