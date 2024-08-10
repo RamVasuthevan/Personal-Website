@@ -157,7 +157,7 @@ header_title: Soda Review
    source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
 %}
 - [Crush](https://en.wikipedia.org/wiki/Crush_(drink)) is a brand owned by PepsiCo 
-- Bought from [6ix Fried Chicken](https://www.instagram.com/6ixfriedchicken/?hl=en) <!--335 Yonge St, Toronto, ON M5B 1R7--->
+- Bought from [6ix Fried Chicken](https://www.instagram.com/6ixfriedchicken/?hl=en) <!-- 335 Yonge St, Toronto, ON M5B 1R7 -->
 - Pretty good taste
 - But not that strong could be sweeter and bubblier
 - Rating: 4/10
