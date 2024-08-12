@@ -150,7 +150,7 @@ header_title: Soda Review
    src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
    alt="Photo of Crush Peach Can" 
    width="400px"
-   license="© 2024 So Sweet Canada ." 
+   license="© 2024 So Sweet Canada" 
    source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
 %}
 - [Crush](https://en.wikipedia.org/wiki/Crush_(drink)) is a brand owned by PepsiCo 
@@ -162,13 +162,13 @@ header_title: Soda Review
 
 # 2024-08-11 SFC Bio Sparkling Melon
 {% include image.html 
-   src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
-   alt="Photo of Crush Peach Can" 
-   width="400px"
-   license="© 2024 So Sweet Canada ." 
-   source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
+   src="/assets/soda-review/2024-08-11_SFC_Bio_Sparkling_Melon.jpg"
+   alt="Photo of SFC Bio Sparkling Melon Can" 
+   width="300px"
+   license="© 2024 H Mart Manhattan Delivery" 
+   source="https://hmartdelivery.com/products/sfc-melon-flavoured-soda-350ml"
 %}
-- It's a Korean Soda made by I think [SFC](https://en.wikipedia.org/wiki/Sangaria_(soft_drink))
+- It's a Korean soda made by I think [SFC](https://en.wikipedia.org/wiki/Sangaria_(soft_drink))
 - Bought from [Nene Chicken](https://www.nenechickenontario.com/)<!-- 171 Dundas St W Lower Unit, Toronto, ON M5G 1C7 -->
 - Tastes pretty good
 - Clear and distinctive good
