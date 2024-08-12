@@ -36,7 +36,6 @@ header_title: Soda Review
 - Rating: 5/10
 - Would I have it again: Yes
 
-
 ### 2024-04-10 7Up Zero Sugar Grapefruit
 {% include image.html 
    src="/assets/soda-review/2024-04-10_7Up_Zero_Sugar_Grapefruit.webp" 
@@ -54,8 +53,6 @@ header_title: Soda Review
 - The taste way too plain for how colorful the container is
 - Rating: 6/10
 - Would I have it again: Maybe
-
-
 
 # 2024-04-13 Grace Island Soda Gingerbeer
 {% include image.html 
@@ -162,3 +159,18 @@ header_title: Soda Review
 - But not that strong could be sweeter and bubblier
 - Rating: 4/10
 - Would I have it again? Probably not
+
+# 2024-08-11 SFC Bio Sparkling Melon
+{% include image.html 
+   src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
+   alt="Photo of Crush Peach Can" 
+   width="400px"
+   license="© 2024 So Sweet Canada ." 
+   source="https://www.sosweetcanada.ca/products/copy-of-crush-peach"
+%}
+- It's a Korean Soda made by I think [SFC](https://en.wikipedia.org/wiki/Sangaria_(soft_drink))
+- Bought from [Nene Chicken](https://www.nenechickenontario.com/)<!-- 171 Dundas St W Lower Unit, Toronto, ON M5G 1C7 -->
+- Tastes pretty good
+- Clear and distinctive good
+- Rating: 7/10
+- Would I have it again? Yes
