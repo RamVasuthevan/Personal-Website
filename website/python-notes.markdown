@@ -11,7 +11,6 @@ Return `True` if all cased characters in the string are lowercase and there is a
 
 Cased characters are those with the Unicode general category property being one of “Lu” (Letter, uppercase), “Ll” (Letter, lowercase), or “Lt” (Letter, titlecase). This means that the method checks for characters that are specifically recognized as letters in their uppercase, lowercase, or titlecase forms.
 
-
 ```python
 print('a'.islower())   # True
 print('A'.islower())   # False
@@ -58,10 +57,9 @@ See more:
 - [Python Documentation: dict](https://docs.python.org/3/library/stdtypes.html#dict)
 
 
-
 ## Default Value for max() (and min())
 
-If `max()` is given an sequence, it will raise a  `ValueError`.  s of Python 3.4, the `max()` function supports a `default` parameter, which is returned if the provided sequence is empty. 
+If `max()` is given an sequence, it will raise a  `ValueError`. As of Python 3.4, the `max()` function supports a `default` parameter, which is returned if the provided sequence is empty. 
 
 This is helpful when dealing with sequences of unknown length that could be empty.
 
@@ -71,3 +69,15 @@ print(max([], default=0))  # 0
 
 See more:
 - [Python Documentation: max()](https://docs.python.org/3/library/functions.html#max)
+
+
+## Get Python Version
+
+```python
+import sys
+
+print(sys.version)  # '3.9.6 (default, Jul 27 2021, 07:03:06) [GCC 8.3.0]'
+```
+
+See more:
+- [Python Documentation: sys.version](https://docs.python.org/3/library/sys.html#sys.version)
