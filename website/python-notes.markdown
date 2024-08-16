@@ -71,14 +71,12 @@ See more:
 - [Python Documentation: max()](https://docs.python.org/3/library/functions.html#max)
 
 
-## Getting Python Version
-
-You can retrieve the Python version using the `sys` module. This is useful to know what version of Python is running, especially when debugging or logging information.
+## Get Python Version
 
 ```python
 import sys
 
-print(sys.version)  # Output example: '3.9.6 (default, Jul 27 2021, 07:03:06) [GCC 8.3.0]'
+print(sys.version)  # '3.9.6 (default, Jul 27 2021, 07:03:06) [GCC 8.3.0]'
 ```
 
 See more:
