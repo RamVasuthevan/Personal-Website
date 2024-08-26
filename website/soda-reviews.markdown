@@ -174,3 +174,19 @@ header_title: Soda Review
 - Clear and distinctive good
 - Rating: 7/10
 - Would I have it again? Yes
+
+# 2024-08-23 Jarritos Mexican Cola
+{% include image.html 
+   src="/assets/soda-review/2024-08-13_Jarritos_Mexican_Cola.png"
+   alt="Photo of Jarritos Mexican Col" 
+   width="400px"
+   license="© 2024 Foods Gala via eBay" 
+   source="https://www.ebay.ca/itm/387013669692"
+%}
+ <!-- There photos of Jarritos Mexican with slightly different bottles. I found a picture of the correct one -->
+- Bought from a Metro after a run, as a reward
+- Tastes okay
+- Could be more carbonated
+- There is a clear cane sugar taste, but I don't actually know if it has cane sugar. The ingredients say sugar and natural flavouring 
+- Rating: 5/10 
+- Would I have it again? Maybe 
