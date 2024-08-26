@@ -175,6 +175,21 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Yes
 
+# 2024-08-19 Brio Mandarinata
+{% include image.html 
+   src="/assets/soda-review/2024-08-Brio_Mandarinata.jpg"
+   alt="Photo of Bro Brio Mandarinata" 
+   width="400px"
+   license="© 2024 MVR Cash and Carry" 
+   source="https://store.auroraimporting.com/products/brio-craft-soda?variant=40212363608122"
+%}
+- Bought from [King Slice Pizza](https://www.kingslice.ca/) <!--1598 Bloor St W, Toronto, ON M6P 1A7-->
+- Sweet
+- Could be more carbonated
+- I like the favour
+- Rating: 7/10
+- Would I have it again? Yes
+
 # 2024-08-23 Jarritos Mexican Cola
 {% include image.html 
    src="/assets/soda-review/2024-08-13_Jarritos_Mexican_Cola.png"
