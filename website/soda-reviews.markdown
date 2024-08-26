@@ -205,3 +205,19 @@ header_title: Soda Review
 - There is a clear cane sugar taste, but I don't actually know if it has cane sugar. The ingredients say sugar and natural flavouring 
 - Rating: 5/10 
 - Would I have it again? Maybe 
+
+# 2024-08-26 Dr Pepper Zero Sugar
+{% include image.html 
+   src="/assets/soda-review/2024-08-26_Dr_Pepper_Zero_Sugar.jpeg"
+   alt="Photo of Dr Pepper Zero Sugar" 
+   width="400px"
+   license="© 2024 Uber Eats" 
+   source="https://www.ubereats.com/ca/product/b/a6bc911d-203f-5efa-a961-1c11a0a71a81"
+%}
+- Bought from a [7-Eleven](https://maps.app.goo.gl/aFW2BkTZzTegBhoS8) <!--Richmond, 372 Bay St., Toronto, ON M5H 2W9 -->
+- I was [fiending](https://x.com/RamVasuthevan/status/1828151558267158949) for caffeine
+- It actually tastes like Dr Pepper
+- I wished it had a stronger cream taste
+- Right amount of sweetness
+- Rating: 6/10
+- Would I have it again? Probably
