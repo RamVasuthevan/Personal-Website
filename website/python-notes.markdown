@@ -9,7 +9,7 @@ I don't really know what I am going to do on this page. But I have some notes ab
 
 Return `True` if all cased characters in the string are lowercase and there is at least one cased character, `False` otherwise.
 
-Cased characters are those with the Unicode general category property being one of “Lu” (Letter, uppercase), “Ll” (Letter, lowercase), or “Lt” (Letter, titlecase). This means that the method checks for characters that are specifically recognized as letters in their uppercase, lowercase, or titlecase forms.
+Cased characters are those with the Unicode general category property being one of "Lu" (Letter, uppercase), "Ll" (Letter, lowercase), or "Lt" (Letter, titlecase). This means that the method checks for characters that are specifically recognized as letters in their uppercase, lowercase, or titlecase forms.
 
 ```python
 print('a'.islower())   # True
@@ -81,3 +81,31 @@ print(sys.version)  # '3.9.6 (default, Jul 27 2021, 07:03:06) [GCC 8.3.0]'
 
 See more:
 - [Python Documentation: sys.version](https://docs.python.org/3/library/sys.html#sys.version)
+
+
+## dict.get()
+
+The `dict.get()` method is a safe way to retrieve values from a dictionary without raising a `KeyError` if the key doesn't exist.
+
+```python
+dict.get(key, default=None)
+```
+
+This method returns the value for `key` if `key` is in the dictionary, else `default`. If `default` is not given, it defaults to `None`, so that this method never raises a `KeyError`.
+
+```python
+d = {'a': 1, 'b': 2}
+
+print(d.get('a'))      # 1
+print(d.get('c'))      # None
+print(d.get('c', 0))   # 0
+
+# Contrast with direct key access:
+print(d['a'])          # 1
+# print(d['c'])        # Raises KeyError
+```
+
+Useful when you want to handle missing keys without using a try-except block.
+
+See more:
+- [Python Documentation: dict.get()](https://docs.python.org/3/library/stdtypes.html#dict.get)
