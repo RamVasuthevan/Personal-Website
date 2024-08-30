@@ -109,3 +109,17 @@ Useful when you want to handle missing keys without using a try-except block.
 
 See more:
 - [Python Documentation: dict.get()](https://docs.python.org/3/library/stdtypes.html#dict.get)
+
+## itertools.islice()
+
+`itertools.islice()` returns an iterator with selected elements using sequence slicing.
+
+```python
+itertools.islice(iterable, stop)
+itertools.islice(iterable, start, stop[, step])
+```
+
+The step argument must be positive, as iterators can be infinite.
+
+See more:
+- [Python Documentation: itertools.islice()](https://docs.python.org/3/library/itertools.html#itertools.islice)
