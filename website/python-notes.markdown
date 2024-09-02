@@ -193,3 +193,30 @@ In the type hint `Generator[YieldType, SendType, ReturnType]`:
 See more:
 - [Python Documentation: Generators](https://docs.python.org/3/tutorial/classes.html#generators)
 - [PEP 255 -- Simple Generators](https://www.python.org/dev/peps/pep-0255/) (`#TODO: Read this`)
+
+## Walrus Operator (:=)
+
+The walrus operator (`:=`), introduced in Python 3.8, allows assignment in expressions.
+
+```python
+# Assume expensive_function() is costly to compute
+if (result := expensive_function()) > 100:
+    print(f"Result {result} is large")
+else:
+    print(f"Result {result} is small")
+```
+
+Parentheses are sometimes required around the assignment expression, depending on context:
+
+```python
+# Parentheses required here
+if (n := len(a)) > 10:
+    print(f"List is too long ({n} elements, expected <= 10)")
+
+# Parentheses not required here
+while chunk := file.read(8192):
+    process(chunk)
+```
+
+See more:
+- [PEP 572 -- Assignment Expressions](https://www.python.org/dev/peps/pep-0572/)
