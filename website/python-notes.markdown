@@ -121,5 +121,9 @@ itertools.islice(iterable, start, stop[, step])
 
 The step argument must be positive, as iterators can be infinite.
 
+```python
+print(list(itertools.islice(range(10), 2, 8, 2)))  # [2, 4, 6]
+```
+
 See more:
 - [Python Documentation: itertools.islice()](https://docs.python.org/3/library/itertools.html#itertools.islice)
