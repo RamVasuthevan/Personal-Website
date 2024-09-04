@@ -31,3 +31,7 @@ permalink: bitsbipsbricks/Charity-Open-Data
 
 - [2024-08-22](https://drive.google.com/drive/u/0/folders/1NrjCZyCHBsqzv_GtIr6x2da8dB6YeLVo) made request for all available data from the List of charities
 - > The turnaround time to process your request may take up to four (4) weeks. We will contact you if we need more information.
+
+### 2024-09-04 Got a response from CRA via [Email](ubuntu-s-1vcpu-512mb-10gb-nyc1-01)
+- They can send data for 2022 and 2023 over 11 emails, or they can send my invite to Canada Post's Connect Portal
+- I choose to receive the emails
