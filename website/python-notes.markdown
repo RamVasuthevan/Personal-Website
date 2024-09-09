@@ -217,9 +217,7 @@ See more:
 
 ## Pinning Dependencies in Pipfile
 
-#TODO How do this work for Github Dependabot 
-
-### Download Latest Version
+### Latest Version
 
 ```toml
 [packages]
@@ -229,9 +227,23 @@ beautifulsoup4 = "*"
 
 ### Pin Specific Versions
 
-
 ```toml
 [packages]
 requests = "==2.25.1"
 beautifulsoup4 = "4.12.3"
+```
+
+### Pin in GitHub Dependabot
+
+
+```yaml
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "requests"
+      - dependency-name: "beautifulsoup4"
 ```
