@@ -148,7 +148,6 @@ for number in countdown(5):
  - `TODO: Yield expression vs yield ??`
  - `TODO: Why do this?`
 
-
 ### Returning from Generators
 Generators can have return statements. Useful to provide additional information after the generator has finished.
 
