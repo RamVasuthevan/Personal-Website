@@ -198,3 +198,17 @@ updates:
       - dependency-name: "requests"
       - dependency-name: "beautifulsoup4"
 ```
+
+## Timsort Space Complexity
+
+Timsort sort has space complexity of **O(N)**:
+
+> Timsort can require a temp array containing as many as N//2 pointers,
+  which means as many as 2*N extra bytes on 32-bit boxes. It can be
+  expected to require a temp array this large when sorting random data; on
+  data with significant structure, it may get away without using any extra
+  heap memory. This appears to be the strongest argument against it, but
+  compared to the size of an object, 2 temp bytes worst-case (also expected-
+  case for random data) doesn't scare me much.
+
+Source: [Python/cpython - Objects/listsort.txt](https://github.com/python/cpython/blob/main/Objects/listsort.txt#L17C2-L23C47)
