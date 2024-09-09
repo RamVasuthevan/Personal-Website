@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pymupdf = "==1.23.26"
+pymupdf = "1.23.26" # Pinned in dependabot
 pyyaml = "6.0.2"
 
 [dev-packages]
