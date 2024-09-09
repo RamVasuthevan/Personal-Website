@@ -132,11 +132,6 @@ See more:
 
 Allows you to create iterators using a function with the `yield` keyword instead of `return`.
 
-### Benefits of Generators
-1. Memory Efficiency: Generate values on-the-fly instead of storing them all in memory
-2. Lazy Evaluation: Values are computed only when requested
-3. Infinite Sequences: Can represent infinite sequences without using infinite memory
-
 ### Basic Generator Function
 ```python
 def countdown(n):
