@@ -214,3 +214,24 @@ while chunk := file.read(8192):
 
 See more:
 - [PEP 572 -- Assignment Expressions](https://www.python.org/dev/peps/pep-0572/)
+
+## Pinning Dependencies in Pipfile
+
+#TODO How do this work for Github Dependabot 
+
+### Download Latest Version
+
+```toml
+[packages]
+requests = "*"
+beautifulsoup4 = "*"
+```
+
+### Pin Specific Versions
+
+
+```toml
+[packages]
+requests = "==2.25.1"
+beautifulsoup4 = "4.12.3"
+```
