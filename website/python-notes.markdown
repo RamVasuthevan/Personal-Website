@@ -166,12 +166,18 @@ beautifulsoup4 = "*"
 ```
 
 ### Pin Specific Versions
-
+<!--  
 ```toml
 [packages]
 requests = "==2.25.1"
 beautifulsoup4 = "4.12.3"
 ```
+
+There is an issue with [rouge](https://github.com/rouge-ruby/rouge), the highlighter for Jekyll, so that the 2nd dot in requests' version is an error.
+
+I have submitted a [bug report](https://github.com/rouge-ruby/rouge/issues/2069)
+
+-->
 
 <div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[packages]</span>
 <span class="py">requests</span> <span class="p">=</span> <span class="py">"=</span><span class="p">=</span><span class="mf">2.25</span><span class="mf">.</span><span class="mi">1</span><span class="s">"</span><span class="err">
