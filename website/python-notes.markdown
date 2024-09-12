@@ -173,6 +173,11 @@ requests = "==2.25.1"
 beautifulsoup4 = "4.12.3"
 ```
 
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[packages]</span>
+<span class="py">requests</span> <span class="p">=</span> <span class="py">"=</span><span class="p">=</span><span class="mf">2.25</span><span class="err">.</span><span class="mi">1</span><span class="s">"</span><span class="err">
+</span><span class="py">beautifulsoup4</span> <span class="p">=</span> <span class="s">"4.12.3"</span>
+</code></pre></div></div>
+
 ### Pin in GitHub Dependabot
 
 
