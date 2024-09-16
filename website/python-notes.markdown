@@ -128,6 +128,66 @@ print(list(itertools.islice(range(10), 2, 8, 2)))  # [2, 4, 6]
 See more:
 - [Python Documentation: itertools.islice()](https://docs.python.org/3/library/itertools.html#itertools.islice)
 
+## Generators
+
+Allows you to create iterators using a function with the `yield` keyword instead of `return`.
+
+### Basic Generator Function
+```python
+def countdown(n):
+    while n > 0:
+        yield n
+        n -= 1
+
+for number in countdown(5):
+    print(number)  # Prints: 5, 4, 3, 2, 1
+```
+
+### Sending Values
+ - `TODO: Understand and more`
+ - `TODO: Yield expression vs yield ??`
+ - `TODO: Why do this?`
+
+### Returning from Generators
+Generators can have return statements. Useful to provide additional information after the generator has finished.
+
+```python
+def gen_with_return():
+    yield 1
+    yield 2
+    return "Done"
+
+g = gen_with_return()
+print(next(g))  # 1
+print(next(g))  # 2
+try:
+    next(g)
+except StopIteration as e:
+    print(f"Returned: {e.value}")  # Prints: Returned: Done
+```
+
+### Type Hinting Generators
+You can use the `Generator` type from the `typing` module to type hint generators:
+
+```python
+from typing import Generator
+
+def count_up(n: int) -> Generator[int, None, None]:
+    i = 0
+    while i < n:
+        yield i
+        i += 1
+```
+
+In the type hint `Generator[YieldType, SendType, ReturnType]`:
+- `YieldType` is the type of values yielded by the generator
+- `SendType` is the type of values that can be sent to the generator (or `None` if send() isn't used)
+- `ReturnType` is the type of the value returned by the generator (or `None` if there's no return statement)
+
+See more:
+- [Python Documentation: Generators](https://docs.python.org/3/tutorial/classes.html#generators)
+- [PEP 255 -- Simple Generators](https://www.python.org/dev/peps/pep-0255/) (`#TODO: Read this`)
+
 ## Walrus Operator (:=)
 
 The walrus operator (`:=`), introduced in Python 3.8, allows assignment in expressions.
@@ -166,23 +226,12 @@ beautifulsoup4 = "*"
 ```
 
 ### Pin Specific Versions
-<!--  
+
 ```toml
 [packages]
 requests = "==2.25.1"
 beautifulsoup4 = "4.12.3"
 ```
-
-There is an issue with [rouge](https://github.com/rouge-ruby/rouge), the highlighter for Jekyll, so that the 2nd dot in requests' version is an error.
-
-I have submitted a [bug report](https://github.com/rouge-ruby/rouge/issues/2069)
-
--->
-
-<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[packages]</span>
-<span class="py">requests</span> <span class="p">=</span> <span class="py">"=</span><span class="p">=</span><span class="mf">2.25</span><span class="mf">.</span><span class="mi">1</span><span class="s">"</span><span class="err">
-</span><span class="py">beautifulsoup4</span> <span class="p">=</span> <span class="s">"4.12.3"</span>
-</code></pre></div></div>
 
 ### Pin in GitHub Dependabot
 
