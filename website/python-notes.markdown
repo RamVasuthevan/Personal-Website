@@ -127,3 +127,45 @@ print(list(itertools.islice(range(10), 2, 8, 2)))  # [2, 4, 6]
 
 See more:
 - [Python Documentation: itertools.islice()](https://docs.python.org/3/library/itertools.html#itertools.islice)
+
+## Range
+
+- Range objects implement the [collections.abc.Sequence](https://docs.python.org/3/library/collections.abc.html#collections.abc.Sequence) ABC
+- Memory-efficient: stores only start, stop, and step values
+
+```python
+range(stop)
+range(start, stop[, step])
+```
+
+* `start` defaults to 0 if omitted.
+* `step` defaults to 1 if omitted.
+* `step` can be negative, creating a descending sequence.
+
+### Features and Operations
+
+• Indexing: `r[i]`
+• Length: `len(r)`
+• Containment: `x in r`
+• Iteration: Supports `i in r` and `reversed(r)`
+• `index(value)`: Returns index of `value`. Very efficient.
+• `count(value)`: Returns occurrences of `value`.
+• Comparable: Supports `==`, `!=`, `<`, `<=`, `>`, `>=`
+
+## Examples
+
+```python
+r = range(0, 10, 2)
+print(list(r))         # [0, 2, 4, 6, 8]
+print(r[2])            # 4
+print(6 in r)          # True
+print(r.index(6))      # 3
+print(len(r))          # 5
+
+# Negative step
+r_neg = range(10, 0, -2)
+print(list(r_neg))     # [10, 8, 6, 4, 2]
+
+# Reverse iteration
+print(list(reversed(r)))  # [8, 6, 4, 2, 0]
+```
