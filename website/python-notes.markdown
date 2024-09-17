@@ -144,13 +144,13 @@ range(start, stop[, step])
 
 ### Features and Operations
 
-• Indexing: `r[i]`
-• Length: `len(r)`
-• Containment: `x in r`
-• Iteration: Supports `i in r` and `reversed(r)`
-• `index(value)`: Returns index of `value`. Very efficient.
-• `count(value)`: Returns occurrences of `value`.
-• Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
+- Indexing: `r[i]`
+- Length: `len(r)`
+- Containment: `x in r`
+- Iteration: Supports `i in r` and `reversed(r)`
+- `index(value)`: Returns index of `value`. Very efficient.
+- `count(value)`: Returns occurrences of `value`.
+- Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
 
 ## Examples
 
