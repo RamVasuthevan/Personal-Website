@@ -150,7 +150,7 @@ range(start, stop[, step])
 • Iteration: Supports `i in r` and `reversed(r)`
 • `index(value)`: Returns index of `value`. Very efficient.
 • `count(value)`: Returns occurrences of `value`.
-• Comparable: Supports `==`, `!=`, `<`, `<=`, `>`, `>=`
+• Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
 
 ## Examples
 
@@ -169,3 +169,7 @@ print(list(r_neg))     # [10, 8, 6, 4, 2]
 # Reverse iteration
 print(list(reversed(r)))  # [8, 6, 4, 2, 0]
 ```
+
+*As of 3.2:* Implement the Sequence ABC. Support slicing and negative indices. Test `int` objects for membership in constant time instead of iterating through all items.
+
+*As of 3.3:* Define '==' and '!=' to compare range objects based on the sequence of values they define (instead of comparing based on object identity).
