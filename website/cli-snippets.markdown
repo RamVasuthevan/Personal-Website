@@ -10,7 +10,7 @@ title: CLI Snippets
     - Opens a Python web server on port 9000 in the current directory
 
 3. `find . -type d \( -name .git -o -name node_modules -o -name .jekyll-cache \) -prune -o -print | sed -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'`
-    - Prints directory structure, excluding the .git, .jekyll-cache and node_modules directories, in a tree-like format
+    - Prints directory structure, excluding the .git, .jekyll-cache, and node_modules directories, in a tree-like format
 
 4. `docker ps -aq | xargs docker rm -f`
     - Kill all Docker containers
@@ -36,3 +36,13 @@ title: CLI Snippets
 
 8. `git commit --allow-empty -m "Empty commit"`
     - Creates an empty commit with the message "Empty commit"
+
+9. macOS Version and System Specs  
+    - `sw_vers`  
+      Displays the macOS version, including the ProductName, ProductVersion, and BuildVersion.
+
+    - `system_profiler SPHardwareDataType`  
+      Shows detailed system hardware information including processor, memory, and serial number.
+
+    - `system_profiler`  
+      Provides a comprehensive overview of all system specifications, including hardware, software, and other components.
