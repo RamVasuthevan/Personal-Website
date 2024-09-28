@@ -16,10 +16,17 @@ jobs:
         with:
           path: website/vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('website/Gemfile.lock') }}
+      
+      - name: Get Ruby version from Gemfile
+        run: echo "RUBY_VERSION=$(grep -oP "(?<=ruby \").*(?=\")" website/Gemfile)" >> $GITHUB_ENV
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7.5
+          ruby-version: ${{ env.RUBY_VERSION }}
+          bundler-cache: true
+          working-directory: './website'
+
       - name: Get dependencies if cache miss
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
