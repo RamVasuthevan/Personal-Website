@@ -212,3 +212,49 @@ Timsort sort has space complexity of **O(N)**:
   case for random data) doesn't scare me much.
 
 Source: [Python/cpython - Objects/listsort.txt](https://github.com/python/cpython/blob/main/Objects/listsort.txt#L17C2-L23C47)
+
+## Range
+
+- Range objects implement the [collections.abc.Sequence](https://docs.python.org/3/library/collections.abc.html#collections.abc.Sequence) ABC
+- Memory-efficient: stores only start, stop, and step values
+
+```python
+range(stop)
+range(start, stop[, step])
+```
+
+* `start` defaults to 0 if omitted.
+* `step` defaults to 1 if omitted.
+* `step` can be negative, creating a descending sequence.
+
+### Features and Operations
+
+- Indexing: `r[i]`
+- Length: `len(r)`
+- Containment: `x in r`
+- Iteration: Supports `i in r` and `reversed(r)`
+- `index(value)`: Returns index of `value`. Very efficient.
+- `count(value)`: Returns occurrences of `value`.
+- Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
+
+### Examples
+
+```python
+r = range(0, 10, 2)
+print(list(r))         # [0, 2, 4, 6, 8]
+print(r[2])            # 4
+print(6 in r)          # True
+print(r.index(6))      # 3
+print(len(r))          # 5
+
+# Negative step
+r_neg = range(10, 0, -2)
+print(list(r_neg))     # [10, 8, 6, 4, 2]
+
+# Reverse iteration
+print(list(reversed(r)))  # [8, 6, 4, 2, 0]
+```
+
+*As of 3.2:* Implement the Sequence ABC. Support slicing and negative indices. Test `int` objects for membership in constant time instead of iterating through all items.
+
+*As of 3.3:* Define '==' and '!=' to compare range objects based on the sequence of values they define (instead of comparing based on object identity).
