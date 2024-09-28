@@ -37,7 +37,11 @@ title: CLI Snippets
 8. `git commit --allow-empty -m "Empty commit"`
     - Creates an empty commit with the message "Empty commit"
 
-9. macOS Version and System Specs  
+9. Copy and paste from the CLI
+   - `cat main.py | pbcopy` copies the contents of pbcopy
+   - `pbpaste > main.py` pastes into main.py 
+
+10. macOS Version and System Specs  
     - `sw_vers`  
       Displays the macOS version, including the ProductName, ProductVersion, and BuildVersion.  
       **Example**:  
