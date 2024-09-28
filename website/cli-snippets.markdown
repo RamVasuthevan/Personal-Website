@@ -37,5 +37,9 @@ title: CLI Snippets
 8. `git commit --allow-empty -m "Empty commit"`
     - Creates an empty commit with the message "Empty commit"
 
-9. `gh pr view --web`
+9. `gh pr list`
+   - List all open PRs in the repo
+
+10. `gh pr view --web`
    - Opens the PR for the branch you are on
+`
