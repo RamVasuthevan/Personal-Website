@@ -152,7 +152,7 @@ range(start, stop[, step])
 - `count(value)`: Returns occurrences of `value`.
 - Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
 
-## Examples
+### Examples
 
 ```python
 r = range(0, 10, 2)
