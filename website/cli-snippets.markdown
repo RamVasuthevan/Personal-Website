@@ -44,7 +44,6 @@ title: CLI Snippets
 10. macOS Version and System Specs  
     - `sw_vers`  
       Displays the macOS version, including the ProductName, ProductVersion, and BuildVersion.  
-      **Example**:  
       ```
       ram@Rams-MacBook-Air ~/c/Personal-Website (macos-version-and-system-specs-cli)> sw_vers
       ProductName:		macOS
@@ -55,7 +54,6 @@ title: CLI Snippets
 
     - `system_profiler SPHardwareDataType`  
       Shows detailed system hardware information including processor, memory, and serial number.  
-      **Example**:  
       ```
       ram@Rams-MacBook-Air ~/c/Personal-Website (macos-version-and-system-specs-cli)> system_profiler SPHardwareDataType
 
