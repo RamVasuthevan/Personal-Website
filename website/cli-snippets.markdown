@@ -35,8 +35,11 @@ title: CLI Snippets
     - Lists all commits in the repository in a compact, one-line format
 
 8. `git commit --allow-empty -m "Empty commit"`
-    - Creates an empty commit with the message "Empty commit
+    - Creates an empty commit with the message "Empty commit"
 
-9. Copy and paste from the CLI
-   - `cat main.py | pbcopy` copies the contents of pbcopy
-   - `pbpaste > main.py` pastes into main.py 
+9. `gh pr list`
+   - List all open PRs in the repo
+
+10. `gh pr view --web`
+   - Opens the PR for the branch you are on
+`
