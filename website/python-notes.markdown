@@ -127,3 +127,134 @@ print(list(itertools.islice(range(10), 2, 8, 2)))  # [2, 4, 6]
 
 See more:
 - [Python Documentation: itertools.islice()](https://docs.python.org/3/library/itertools.html#itertools.islice)
+
+## Walrus Operator (:=)
+
+The walrus operator (`:=`), introduced in Python 3.8, allows assignment in expressions.
+
+```python
+# Assume expensive_function() is costly to compute
+if (result := expensive_function()) > 100:
+    print(f"Result {result} is large")
+else:
+    print(f"Result {result} is small")
+```
+
+Parentheses are sometimes required around the assignment expression, depending on context:
+
+```python
+# Parentheses required here
+if (n := len(a)) > 10:
+    print(f"List is too long ({n} elements, expected <= 10)")
+
+# Parentheses not required here
+while chunk := file.read(8192):
+    process(chunk)
+```
+
+See more:
+- [PEP 572 -- Assignment Expressions](https://www.python.org/dev/peps/pep-0572/)
+
+## Pinning Dependencies in Pipfile
+
+### Latest Version
+
+```toml
+[packages]
+requests = "*"
+beautifulsoup4 = "*"
+```
+
+### Pin Specific Versions
+<!--  
+```toml
+[packages]
+requests = "==2.25.1"
+beautifulsoup4 = "4.12.3"
+```
+
+There is an issue with [rouge](https://github.com/rouge-ruby/rouge), the highlighter for Jekyll, so that the 2nd dot in requests' version is an error.
+
+I have submitted a [bug report](https://github.com/rouge-ruby/rouge/issues/2069)
+
+-->
+
+<div class="language-toml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">[packages]</span>
+<span class="py">requests</span> <span class="p">=</span> <span class="py">"=</span><span class="p">=</span><span class="mf">2.25</span><span class="mf">.</span><span class="mi">1</span><span class="s">"</span><span class="err">
+</span><span class="py">beautifulsoup4</span> <span class="p">=</span> <span class="s">"4.12.3"</span>
+</code></pre></div></div>
+
+### Pin in GitHub Dependabot
+
+
+```yaml
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "requests"
+      - dependency-name: "beautifulsoup4"
+```
+
+## Timsort Space Complexity
+
+Timsort sort has space complexity of **O(N)**:
+
+> Timsort can require a temp array containing as many as N//2 pointers,
+  which means as many as 2*N extra bytes on 32-bit boxes. It can be
+  expected to require a temp array this large when sorting random data; on
+  data with significant structure, it may get away without using any extra
+  heap memory. This appears to be the strongest argument against it, but
+  compared to the size of an object, 2 temp bytes worst-case (also expected-
+  case for random data) doesn't scare me much.
+
+Source: [Python/cpython - Objects/listsort.txt](https://github.com/python/cpython/blob/main/Objects/listsort.txt#L17C2-L23C47)
+
+## Range
+
+- Range objects implement the [collections.abc.Sequence](https://docs.python.org/3/library/collections.abc.html#collections.abc.Sequence) ABC
+- Memory-efficient: stores only start, stop, and step values
+
+```python
+range(stop)
+range(start, stop[, step])
+```
+
+* `start` defaults to 0 if omitted.
+* `step` defaults to 1 if omitted.
+* `step` can be negative, creating a descending sequence.
+
+### Features and Operations
+
+- Indexing: `r[i]`
+- Length: `len(r)`
+- Containment: `x in r`
+- Iteration: Supports `i in r` and `reversed(r)`
+- `index(value)`: Returns index of `value`. Very efficient.
+- `count(value)`: Returns occurrences of `value`.
+- Comparable: Supports `==` and `!=` (Note: `<`, `<=`, `>`, `>=` are not supported)
+
+### Examples
+
+```python
+r = range(0, 10, 2)
+print(list(r))         # [0, 2, 4, 6, 8]
+print(r[2])            # 4
+print(6 in r)          # True
+print(r.index(6))      # 3
+print(len(r))          # 5
+
+# Negative step
+r_neg = range(10, 0, -2)
+print(list(r_neg))     # [10, 8, 6, 4, 2]
+
+# Reverse iteration
+print(list(reversed(r)))  # [8, 6, 4, 2, 0]
+```
+
+*As of 3.2:* Implement the Sequence ABC. Support slicing and negative indices. Test `int` objects for membership in constant time instead of iterating through all items.
+
+*As of 3.3:* Define '==' and '!=' to compare range objects based on the sequence of values they define (instead of comparing based on object identity).
