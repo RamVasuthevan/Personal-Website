@@ -15,6 +15,11 @@ title: VI Snippet
 
 `:q!` : Quit without saving any changes
 
+`10j` : Move down 10 lines
+
+`10k` : Move up 10 lines
+
+`dd` : Delete line
 
 # Keyboard Chains
 
