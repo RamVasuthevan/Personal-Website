@@ -9,6 +9,8 @@ title: VI Snippet
 
 `$` : Go to the end of the line
 
+`0` : Go to the start of the line
+
 `i` : Enter **insert mode**, where you can start typing text
 
 `:wq` : Save the file and quit Vi/Vim
