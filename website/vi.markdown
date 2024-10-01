@@ -15,6 +15,8 @@ title: VI Snippet
 
 `:wq` : Save the file and quit Vi/Vim
 
+`w` : Save (but not close) file
+
 `:q!` : Quit without saving any changes
 
 `10j` : Move down 10 lines
