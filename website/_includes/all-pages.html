@@ -1,7 +1,10 @@
 {% assign sorted_pages = site.pages | sort: 'title' %}
-{% assign do_no_show_paths = site.do_no_show_paths %}
+{% assign do_no_show_paths = page.do_no_show_paths | default: [] %}
 
 {{ do_no_show_paths | inspect }}
+<br>
+{{ page | inspect }}
+
 
 <ul>
 
@@ -13,25 +16,26 @@
   </li>
 {% endfor %}
 
-{% for page in sorted_pages %}
-  {{ do_no_show_paths contains page.path }}
-  {% unless do_no_show_paths contains page.path %}
-  {% else %}
-  {% if page.title %}
-    <li>
-      <a href="{{ page.url }}">{{ page.path: }}</a>
-    </li>
-  {% endif %}
-  {% endunless %}
-{% endfor %}
+<!-- Loop through sorted pages -->
 {% for page in sorted_pages %}
   {% unless do_no_show_paths contains page.path %}
-  {% unless page.title %}
-    <li>
-      <a href="{{ page.url }}">{{ page.path }}</a>
-    </li>
-  {% endunless %}
+    {% if page.title %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
   {% endunless %}
 {% endfor %}
 
-</ul> 
+<!-- Loop through pages without titles -->
+{% for page in sorted_pages %}
+  {% unless do_no_show_paths contains page.path %}
+    {% unless page.title %}
+      <li>
+        <a href="{{ page.url }}">{{ page.path }}</a>
+      </li>
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
+
+</ul>
