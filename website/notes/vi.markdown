@@ -1,9 +1,9 @@
 ---
 layout: page  
-title: VI Snippet  
+title: VI  
 ---
 
-# Keyboard Shortcuts
+### Keyboard Shortcuts
 
 `G` : Go to bottom of the page
 
@@ -25,10 +25,9 @@ title: VI Snippet
 
 `dd` : Delete line
 
-# Keyboard Chains
+### Keyboard Chains
 
-`ggVG d i CMD+V Esc :wq Enter`
-- In vi, select all, delete, paste, and save file
+#### Select all, delete, paste, and save file: `ggVG d i CMD+V Esc :wq Enter`
 - **gg** to move the cursor to the beginning of the file
 - **V** to start linewise visual mode
 - **G** to move the cursor to the end of the file, selecting everything in between
