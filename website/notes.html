@@ -1,0 +1,19 @@
+---
+layout: default
+title: Notes
+---
+
+<h1>Notes</h1>
+
+When I keep having to look something up with Google or an LLM, I try to note it down so that I can remember it better.
+
+<p>&nbsp;</p>
+
+<h2>Topics</h2>
+<ul>
+  {% for note in site.pages %}
+    {% if note.path contains 'notes/' and note.path contains '.markdown' %}
+      <li><a href="{{ note.url }}">{{ note.title | default: note.basename }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

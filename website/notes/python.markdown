@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python Notes
+title: Python
 ---
 
 I don't really know what I am going to do on this page. But I have some notes about the Python standard library that I want to save for my future self.
