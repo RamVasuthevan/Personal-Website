@@ -17,7 +17,7 @@ title: VI
 
 `w` : Save (but not close) file
 
-`:q!` : Quit without saving any changes
+`:q` : Quit without saving any changes
 
 `10j` : Move down 10 lines
 
