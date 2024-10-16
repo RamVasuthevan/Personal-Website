@@ -42,4 +42,3 @@ title: CLI
 
 10. `gh pr view --web`
    - Opens the PR for the branch you are on
-`

@@ -56,7 +56,7 @@ header_pages:
   - thinking-about.markdown
   - quake-articles.markdown
   - tools.markdown
-  - project-ideas.markdown
+  - notes.html
   - all-pages.html
 
 feed:
