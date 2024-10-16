@@ -46,3 +46,8 @@ Setting up a Python project on an Ubuntu Digital Ocean Droplet using pipenv
 
 caddy validate --config /etc/caddy/Caddyfile
 caddy fmt --overwrite /etc/caddy/Caddyfile
+
+If you want to enable the service to start automatically at boot, run:
+sudo systemctl enable TorontoLobbyistRegistry
+
+Remeber to [Enable Monitoring](https://docs.digitalocean.com/products/monitoring/how-to/install-agent/) with creating the droplet
