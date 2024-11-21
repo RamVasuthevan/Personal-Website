@@ -174,3 +174,50 @@ header_title: Soda Review
 - Clear and distinctive good
 - Rating: 7/10
 - Would I have it again? Yes
+
+# 2024-08-19 Brio Mandarinata
+{% include image.html 
+   src="/assets/soda-review/2024-08-Brio_Mandarinata.jpg"
+   alt="Photo of Bro Brio Mandarinata" 
+   width="400px"
+   license="© 2024 MVR Cash and Carry" 
+   source="https://store.auroraimporting.com/products/brio-craft-soda?variant=40212363608122"
+%}
+- Bought from [King Slice Pizza](https://www.kingslice.ca/) <!--1598 Bloor St W, Toronto, ON M6P 1A7-->
+- Sweet
+- Could be more carbonated
+- I like the favour
+- Rating: 7/10
+- Would I have it again? Yes
+
+# 2024-08-23 Jarritos Mexican Cola
+{% include image.html 
+   src="/assets/soda-review/2024-08-13_Jarritos_Mexican_Cola.png"
+   alt="Photo of Jarritos Mexican Col" 
+   width="400px"
+   license="© 2024 Foods Gala via eBay" 
+   source="https://www.ebay.ca/itm/387013669692"
+%}
+ <!-- There photos of Jarritos Mexican with slightly different bottles. I found a picture of the correct one -->
+- Bought from a Metro after a run, as a reward
+- Tastes okay
+- Could be more carbonated
+- There is a clear cane sugar taste, but I don't actually know if it has cane sugar. The ingredients say sugar and natural flavouring 
+- Rating: 5/10 
+- Would I have it again? Maybe 
+
+# 2024-08-26 Dr Pepper Zero Sugar
+{% include image.html 
+   src="/assets/soda-review/2024-08-26_Dr_Pepper_Zero_Sugar.jpeg"
+   alt="Photo of Dr Pepper Zero Sugar" 
+   width="400px"
+   license="© 2024 Uber Eats" 
+   source="https://www.ubereats.com/ca/product/b/a6bc911d-203f-5efa-a961-1c11a0a71a81"
+%}
+- Bought from a [7-Eleven](https://maps.app.goo.gl/aFW2BkTZzTegBhoS8) <!--Richmond, 372 Bay St., Toronto, ON M5H 2W9 -->
+- I was [fiending](https://x.com/RamVasuthevan/status/1828151558267158949) for caffeine
+- It actually tastes like Dr Pepper
+- I wished it had a stronger cream taste
+- Right amount of sweetness
+- Rating: 6/10
+- Would I have it again? Probably
