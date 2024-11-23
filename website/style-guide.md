@@ -3,8 +3,12 @@ layout: page
 title: Ram's Style Guide
 ---
 
+This page is a work in progress. But as I polish the sections that already exist, I am adding more rough draft sections. This pushes the page further from being merge-ready and risks leaving it in feature-branch purgatory forever. In theory, I could have feature branches on feature branches, but I don't like that.
+
+
 ## Calendaring
 
+<!-- 
 Color Name: Tomato, Hex Code: #D50000
 Color Name: Flamingo, Hex Code: #E67C73
 Color Name: Tangerine, Hex Code: #F4511E
@@ -17,7 +21,7 @@ Color Name: Lavender, Hex Code: #7986CB
 Color Name: Grape, Hex Code: #8E24AA
 Color Name: Graphite, Hex Code: #616161
 Color Name: Calendar colour, Hex Code: #4285F4
-
+-->
 
 | Type         | Color     | Notes            | Comment                                                                                                                             |
 |--------------|-----------|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,7 +31,7 @@ Color Name: Calendar colour, Hex Code: #4285F4
 | Reminder     | Tangerine | Zero-length even |                                                                                                                                     |
 | Work         | Gold      | Making money     | Add this [symbol](https://www.flaticon.com/free-icon/money_10384161?term=money&page=1&position=1&origin=search&related_id=10384161) |
 | Outside      | Flamingo  |                  | Go somewhere without order people but not an errand?                                                                                |
-This page is a work in progress. But as I polish the sections that already exist, I am adding more rough draft sections. This pushes the page further from being merge-ready and risks leaving it in feature-branch purgatory forever. In theory, I could have feature branches on feature branches, but I don't like that.
+
 
 ## Dates
 
