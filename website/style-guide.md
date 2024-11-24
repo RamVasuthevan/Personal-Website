@@ -23,15 +23,23 @@ Color Name: Graphite, Hex Code: #616161
 Color Name: Calendar colour, Hex Code: #4285F4
 -->
 
-| Type         | Color     | Notes            | Comment                                                                                                                             |
-|--------------|-----------|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Sleep        | Graphite  |                  |                                                                                                                                     |
-| Social Event | Tomato    |                  | With other people?                                                                                                                  |
-| Errands      | Flamingo  |                  |                                                                                                                                     |
-| Reminder     | Tangerine | Zero-length even |                                                                                                                                     |
-| Work         | Gold      | Making money     | Add this [symbol](https://www.flaticon.com/free-icon/money_10384161?term=money&page=1&position=1&origin=search&related_id=10384161) |
-| Outside      | Flamingo  |                  | Go somewhere without order people but not an errand?                                                                                |
+| Type                     | Color     | Notes             | Comment                                                                                                                             |
+|--------------------------|-----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Sleep                    | Graphite  |                   | Good                                                                                                                                |
+| Social Event             | Tomato    | With other people | Good                                                                                                                                |
+| Reminder                 | Tangerine | Zero-length even  | Good                                                                                                                                |
+| Context Change Errand    | Flamingo  |                   |                                                                                                                                     |
+| No Context Change Errand | Lavender  |                   |                                                                                                                                     |
+| Work                     | Gold      | Making money      | Add this [symbol](https://www.flaticon.com/free-icon/money_10384161?term=money&page=1&position=1&origin=search&related_id=10384161) |
+| Outside                  | Flamingo  |                   | Go somewhere without order people but not an errand?                                                                                |
 
+Regarding errands:
+
+What is `Get Ready for Work` vs `Go to Longos` vs `Workout at home`? Are they all errands? 
+
+I feel like indoor/outdoor errands are different. Or maybe the distinction is between errands which require context/environment changes and ones which don't.  
+
+So `Workout at home` and `Go to Longos` are Context Change Errands, but `Get Ready for Work` is not
 
 ## Dates
 
