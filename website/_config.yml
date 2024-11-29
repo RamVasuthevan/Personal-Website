@@ -53,10 +53,10 @@ social:
 theme: minima
 
 header_pages:
-  - bitsbipsbricks.markdown
-  - thinking-about.markdown
-  - quake-articles.markdown
-  - tools.markdown
+  - bitsbipsbricks.md
+  - thinking-about.md
+  - quake-articles.md
+  - tools.md
   - notes.html
   - all-pages.html
 
