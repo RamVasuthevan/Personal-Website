@@ -29,4 +29,6 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 - RUBY_VERSION=3.2.2
 
 
-2024-07-04 and before are good
+#### Photo of the Day
+
+- I have got through and added the photos for 2024-07-04 and before
