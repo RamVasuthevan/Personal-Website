@@ -31,4 +31,4 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 #### Photo of the Day
 
-- I have got through and added the photos for 2024-07-04 and before
+- I have gone through and added the photos for 2024-07-04 and before
