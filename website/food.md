@@ -9,11 +9,6 @@ This website is a hub for many of my projects, so it would be a natural home for
 
 But lets just get started.
 
-<!--
-## Do I know how to Cook?
-https://github.com/RamVasuthevan/Personal-Website/pull/310
--->
-
 ## Grocery List
 
 When I buy something, I want to know what I am getting. So if I find something that I like, I will buy the same thing over and over again. Maybe I should be trying new things more often.
