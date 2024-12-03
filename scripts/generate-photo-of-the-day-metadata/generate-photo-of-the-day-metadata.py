@@ -4,7 +4,7 @@ import yaml
 
 def generate_photo_of_the_day_metadata():
     photo_metadata = {}
-    photo_directory = "/workspaces/Personal-Website/website/assets/photo-of-the-day"
+    photo_directory = "website/assets/photo-of-the-day"
 
     for root, dirs, files in os.walk(photo_directory):
         for filename in files:
@@ -22,9 +22,8 @@ def generate_photo_of_the_day_metadata():
                 photo_metadata[date] = {"display_image": image_name}
 
     # Write metadata to YAML file
-    metadata_file = (
-        "/workspaces/Personal-Website/website/_data/photo-of-the-day-metadata.yml"
-    )
+    metadata_file = "website/_data/photo-of-the-day-metadata.yml"
+    
     with open(metadata_file, "w") as file:
         yaml.dump(photo_metadata, file, default_flow_style=False)
 
