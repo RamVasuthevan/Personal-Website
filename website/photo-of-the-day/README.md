@@ -2,7 +2,7 @@
 
 ## Progress
 
-- I have gone through and added the photos for 2024-07-19 and before
+- I have gone through and added the photos for 2024-07-20 and before
 - I need to add notes for photos from 
     - 2024-07-09
     - 2024-07-10
