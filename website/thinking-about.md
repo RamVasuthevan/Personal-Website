@@ -55,7 +55,7 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
 # Get more from data
 - There are massive amounts of data which is being explicitly and implicitly created
 - It is being constantly pumped out into the void, being forgotten, lost and overwritten
-- It’s sitting there waiting to be parsed, structured, cleaned, searched and visualized. To be made useful
+- It’s sitting there waiting to be saved, parsed, structured, cleaned, searched and visualized. To be made useful
 - We have created great tools for sharing open-source code (Git, Github, PyPI, etc.), but how do we share open data?
 - We have created easy-to-use tools for sharing documents (Google Drive, Jekyll, Cloudflare Pages, etc.), but what about indexing, searching and visualizing data?
 See:
@@ -71,7 +71,7 @@ See:
 - Initial Ideas:
     - Static site generators
     - HTML/CSS only websites
-    - Store in a public repo and host on Github Pages
+    - Store in a public Github repo and host on GitHub Pages
     - Save all links to the Internet Archive
     - 10 year domain registration
 
