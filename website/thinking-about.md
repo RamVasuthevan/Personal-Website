@@ -26,12 +26,6 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
 	- Are there opportunities to create interesting DBs?
 	- With the existing data, what new views on real estate can be built?
 	- Here are some other views on Toronto
-
-- Other?
-	- Are there other DBs that have an interesting view on the city?
-	- Are there opportunities for creating interesting DBs?
-	- With the data which exists, what new view on real estate development can be built?
-	- Here are some other views on Toronto
 		- [City of Toronto Open Data](https://open.toronto.ca/catalogue/?search=development&sort=score%20desc)
 		- [Urban Toronto Projects DB](https://urbantoronto.ca/database/projects/)
 		- [Future Model Toronto](https://www.stephenvelasco.com/)
@@ -64,11 +58,11 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
 - It’s sitting there waiting to be saved, parsed, structured, cleaned, searched and visualized. To be made useful
 - We have created great tools for sharing open-source code (Git, Github, PyPI, etc.), but how do we share open data?
 - We have created easy-to-use tools for sharing documents (Google Drive, Jekyll, Cloudflare Pages, etc.), but what about indexing, searching and visualizing data?
-See:
-- [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
-- [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
-- [Bloomberg Terminal for everything](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html#:~:text=Bloomberg%20Terminal%20for,variety%20of%20domains.)
-- [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
+- See:
+    - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+    - [The Magic of Small Databases](https://tomcritchlow.com/2023/01/27/small-databases/)
+    - [Bloomberg Terminal for everything](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html#:~:text=Bloomberg%20Terminal%20for,variety%20of%20domains.)
+    - [Lobbying in Toronto](https://github.com/RamVasuthevan/TorontoLobbyistRegistry/)
 
 # Building perpetual websites
 - The web is an evolving standard. A website that works today can break tomorrow because a browser vendor decides not to honour a standard
