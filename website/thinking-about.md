@@ -80,5 +80,5 @@ See:
 - How should a project be structured differently if the project manager, designer, marketer and engineer are the same person?
 
 # Startup of you
-- There's advice for portfolio management and career management
-- There isn’t much personal finance advice that acknowledges that most people’s largest asset is human capital
+- There's a lot of advice for investment portfolio management, career development, and personal finance
+- There isn't much personal finance advice that acknowledges that most people's largest asset is the present value of expected future earnings
