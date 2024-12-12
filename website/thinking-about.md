@@ -76,7 +76,7 @@ See:
     - 10 year domain registration
 
 # Paradigms for one-person software projects
-- For example, if a 1000 people are working on a project, breaking that project up into microservices and multiple repos could reduce the amount of coordination needed. But if only one person is working on the project, that might add unnecessary complexity
+- For example, if 1000 people are working on a project, breaking that project up into microservices and multiple repos could reduce the coordination needed. But if only one person is working on the project, that might add unnecessary complexity
 - How should a project be structured differently if the project manager, designer, marketer and engineer are the same person?
 
 # Startup of you
