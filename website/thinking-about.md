@@ -32,25 +32,28 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
         - [TORONTOVERSE](https://torontoverse.com/)
 
 # Interesting Land Tenure, Zoning and Municipal Governance
-- Across Canada and the United States there's a lot of uniformity in the relationship between municipal governments, land and its uses but there are some interesting anomalies: <!-- (TODO add a explain for why these are interesting) -->
-    - UBC University Endowment Lands
-    - Reedy Creek Improvement District
-    - Universal City
-    - City of Industry
-    - The Villages
-    - Loudoun County
-    - Mobile City (Texas)
-    - Houston
-    - Sen̓áḵw
-    - (The canceled) Sidewalk Toronto
-    - Leasehold condominiums in Vancouver
-    - Public Facility Corporations in Texas
-    - Towns associated with religious groups (Ave Maria FL, Antelope OR, Kiryas Joel NY, Lakewood NJ)
-    - Paradise, Nevada
-    - Ward’s Island and Algonquin Island in Toronto
-    - Rosemont, Illinois <!--  https://twitter.com/north0fnorth/status/1713960831602323613 -->
-    - Free Acres, New Jersey <!-- https://twitter.com/mnolangray/status/1650599822972567552?t=KctJuMsesHDRh9-Z9VS8CQ&s=19 https://www.nj.com/inside-jersey/2014/09/hidden_jersey_were_off_to_see_free_acres.html -->
-    -  Rosemont, Illinois <!--  https://x.com/north0fnorth/status/1713960831602323613?s=20 -->
+- Across Canada and the United States, there's a lot of uniformity in the relationship between municipal governments and land use, but there are some interesting anomalies: 
+I'll add a "Why Notable" column explaining what makes each location interesting from a governance/development perspective:
+
+| Location | Why Notable |
+|----------|-------------|
+| [UBC University Endowment Lands](https://en.wikipedia.org/wiki/University_Endowment_Lands)| Special administrative district managed by BC government and UBC. UBC owns the land and controls the zoning. They have developed some of the land and sold leasehold condominiums|
+| [Reedy Creek Improvement District](https://en.wikipedia.org/wiki/Reedy_Creek_Improvement_Act) | A special-purpose taxing district which has the same powers as a county government, controled by Disney overseeing the land around Disney World|
+| [Universal City](https://en.wikipedia.org/wiki/Universal_City,_California) | Is an unincorporated area in LA County, owned mainly by Universal Pictures. Universal Studio directly integrates with the different levels of the government, and provides some the services normally provided by municipalities. |
+| [City of Industry](https://en.wikipedia.org/wiki/City_of_Industry,_California) | Almost all of the city is industrial and commercial. See [Youtube Video())|
+| The Villages | Massive retirement community in Florida with special district powers and unique governance |
+| Loudoun County | Data center hub with special zoning/tax arrangements, making it critical to global internet infrastructure |
+| Mobile City (Texas) | Tiny municipality (~200 people) known for permissive adult business regulations |
+| Houston | Largest U.S. city without traditional zoning laws, uses deed restrictions instead |
+| Sen̓áḵw | First Nations development on reserve land in Vancouver, exempt from city planning rules |
+| (The canceled) Sidewalk Toronto | Failed "smart city" project by Google's Sidewalk Labs that raised governance questions |
+| Leasehold condominiums in Vancouver | Property ownership structure where land is leased long-term, common in Vancouver |
+| Public Facility Corporations in Texas | Special non-profit entities that can provide property tax exemptions for housing |
+| Towns associated with religious groups | Communities effectively controlled by religious groups through voting/governance |
+| Paradise, Nevada | Unincorporated area containing Las Vegas Strip, governed by Clark County not City of Las Vegas |
+| Ward's Island and Algonquin Island in Toronto | Land trust communities with unique lease structure and governance |
+| Rosemont, Illinois | Village heavily dependent on convention/entertainment revenue, unusual governance structure |
+| Free Acres, New Jersey | Historic land trust community founded on Georgist single-tax principles |
     
 # Get more from data
 - There are massive amounts of data which is being explicitly and implicitly created
