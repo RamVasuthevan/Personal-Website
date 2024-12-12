@@ -9,9 +9,9 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
 	- POLARIS (Province of Ontario Land Registration Information System) is the Electronic Land Registration System (ELRS) for Ontario, managed by Terranet, a portfolio company of OMERS (Ontario Municipal Employees Retirement System), the pension fund for municipal workers 😂
     - MPAC (Municipal Property Assessment Corporation), a crown corporation, determines the assessed value of all the properties in Ontario so that property taxes can be calculated
     - What is the relationship between the various branches of the government and Terranet?
-    - How was Terranet created? How was POLRIAS created? How was MPAC created?
-    - How were things done before POLRIAS? And digitization?
-    - How is the POLARIS structured from a technical perspective?
+    - How was Terranet created? How was POLARIS created? How was MPAC created?
+    - How were things done before POLARIS? And digitization?
+    - How is POLARIS structured from a technical perspective?
     - Who are their customers? How do they use it? Can I use this data?
 
 - Realtors
@@ -20,6 +20,12 @@ How is the city viewed from the perspective of a database ([Seeing like a state]
     - TRREB vs. Competition Bureau and TRREB vs Mongohouse (scraping)
     - How do realtors, their customers and the public gain access to this data? Both from a legal and technical perspective?
     - How can I get access to the data?
+
+- Other
+	- Are there other DBs that have interesting views of the city?
+	- Are there opportunities to create interesting DBs?
+	- With the existing data, what new views on real estate can be built?
+	- Here are some other views on Toronto
 
 - Other?
 	- Are there other DBs that have an interesting view on the city?
