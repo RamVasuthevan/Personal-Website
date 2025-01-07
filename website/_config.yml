@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://colon-analogy-notation.personal-website-a13.pages.dev"
 twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
