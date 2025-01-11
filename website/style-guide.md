@@ -23,15 +23,16 @@ Color Name: Graphite, Hex Code: #616161
 Color Name: Calendar colour, Hex Code: #4285F4
 -->
 
-| Type                     | Color     | Notes             | Comment                                                                                                                             |
-|--------------------------|-----------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Sleep                    | Graphite  |                   | Good                                                                                                                                |
-| Social Event             | Tomato    | With other people | Good                                                                                                                                |
-| Reminder                 | Tangerine | Zero-length even  | Good                                                                                                                                |
-| Context Change Errand    | Flamingo  |                   |                                                                                                                                     |
-| No Context Change Errand | Lavender  |                   |                                                                                                                                     |
-| Work                     | Gold      | Making money      | Add this [symbol](https://www.flaticon.com/free-icon/money_10384161?term=money&page=1&position=1&origin=search&related_id=10384161) |
-| Outside                  | Flamingo  |                   | Go somewhere without order people but not an errand?                                                                                |
+| Type                                                                           | Color     | Notes             | Comment                                              |
+|--------------------------------------------------------------------------------|-----------|-------------------|------------------------------------------------------|
+| Sleep                                                                          | Graphite  |                   | Good                                                 |
+| Social Event                                                                   | Tomato    | With other people | Good                                                 |
+| Reminder                                                                       | Tangerine | Zero-length even  | Good                                                 |
+| Context Change Errand                                                          | Flamingo  |                   |                                                      |
+| No Context Change Errand                                                       | Lavender  |                   |                                                      |
+| [Alive Time](https://ryanholiday.net/will-you-choose-alive-time-or-dead-time/) | Gold      |                   |                                                      |
+| Employment                                                                     | Sage      |                   |                                                      |
+| Outside                                                                        | Flamingo  |                   | Go somewhere without order people but not an errand? |                                                                        |
 
 Regarding errands:
 
@@ -40,6 +41,8 @@ What is `Get Ready for Work` vs `Go to Longos` vs `Workout at home`? Are they al
 I feel like indoor/outdoor errands are different. Or maybe the distinction is between errands which require context/environment changes and ones which don't.  
 
 So `Workout at home` and `Go to Longos` are Context Change Errands, but `Get Ready for Work` is not
+
+This calendaring section does not feel done, but it is probably my personal most visited page. It's annoying to go to the [GitHub pull request](https://github.com/RamVasuthevan/Personal-Website/pull/458), then the [Cloudflare Pages preview](https://style-guide-calendaring.personal-website-a13.pages.dev/), and then [All Pages](https://style-guide-calendaring.personal-website-a13.pages.dev/all-pages) and then [Style Guide](https://style-guide-calendaring.personal-website-a13.pages.dev/style-guide). So, let's just merge it in.
 
 ## Dates
 
