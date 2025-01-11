@@ -9,8 +9,8 @@ title: CLI
 2. `python3 -m http.server 9000`
     - Opens a Python web server on port 9000 in the current directory
 
-3. `find . -type d \( -name .git -o -name node_modules -o -name .jekyll-cache \) -prune -o -print | sed -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'`
-    - Prints directory structure, excluding the .git, .jekyll-cache and node_modules directories, in a tree-like format
+3. `find . -type d \( -name .git -o -name node_modules -o -name .jekyll-cache -o -name venv \) -prune -o -print | sed -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'`
+    - Prints directory structure, excluding the .git, .jekyll-cache, venv and node_modules directories, in a tree-like format
 
 4. `docker ps -aq | xargs docker rm -f`
     - Kill all Docker containers
