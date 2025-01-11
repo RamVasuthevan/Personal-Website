@@ -174,3 +174,13 @@ header_title: Soda Review
 - Clear and distinctive good
 - Rating: 7/10
 - Would I have it again? Yes
+
+###  2025-01-01 Brio Aranciata Rossa Soda 
+
+- Bought from [Garden View](https://maps.app.goo.gl/WBacx1F1T5t98mSf9) <!-- 252 Queen St W, Toronto, ON M5V 1Z8 -->
+- Sweet but not fizzy enough
+- Better than the Vodka Brio
+- Flavour is good enough though
+- I left it in the fridge for several months, so maybe it's my fault
+- Rating: 4/10
+- Would I have it again? No
