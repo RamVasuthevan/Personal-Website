@@ -175,7 +175,7 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Yes
 
-###  2025-01-01 Brio Aranciata Rossa Soda 
+### 2025-01-01 Brio Aranciata Rossa Soda 
 
 - Bought from [Garden View](https://maps.app.goo.gl/WBacx1F1T5t98mSf9) <!-- 252 Queen St W, Toronto, ON M5V 1Z8 -->
 - Sweet but not fizzy enough
@@ -183,4 +183,10 @@ header_title: Soda Review
 - Flavour is good enough though
 - I left it in the fridge for several months, so maybe it's my fault
 - Rating: 4/10
+- Would I have it again? No
+
+### 2025-01-02 Rise Better Soda Classic Classic Cola
+- Not bad, but "low in sugar" is not what I am looking for in my sodas
+It doesn't really taste like a "classic soda," but it does taste like it's flavoured with fruit juices
+- Rating: 3/10
 - Would I have it again? No
