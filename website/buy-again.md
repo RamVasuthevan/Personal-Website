@@ -17,4 +17,5 @@ From Amazon:
 - [OLD EL PASO - VALUE SIZE PACK - Taco Seasoning Mix Original, 177 Grams Package of Taco Seasoningd](https://www.amazon.ca/dp/B0BT8BF7FT)
 - [Philips Sonicare DiamondClean Replacement Brush Heads, Black, 2 Pack, HX6062/90](https://www.amazon.ca/dp/B0BT8BF7FT)
 
-From CortexBrand
+From Cortex Brand:
+- [The Theme System Journal](https://cottonbureau.com/p/TZ4WZJ/journal/the-theme-system-journal#/6880807/grey-paper-standard-journal)
