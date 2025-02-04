@@ -191,6 +191,13 @@ It doesn't really taste like a "classic soda," but it does taste like it's flavo
 - Rating: 3/10
 - Would I have it again? No
 
+### 2025-02-03 Fuze Iced Tea
+- I am not normally a fan of Iced Tea, but this is pretty good
+- Less sweet than I expected and Neste Tea
+- From the Queen's Cross Food Hall [Swanky Burger](https://queenscrossfoodhall.com/swanky-burger/)
+- Rating: 6/10
+- Would I have it again? Yes
+
 ### 2025-03-16 Inca Kola
 {% include image.html
    src="/assets/soda-review/2025-03-16_Inca_Kola.jpg"
