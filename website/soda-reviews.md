@@ -174,3 +174,10 @@ header_title: Soda Review
 - Clear and distinctive good
 - Rating: 7/10
 - Would I have it again? Yes
+
+# 2025-02-03 Fuze Iced Tea
+- I am not normally a fan of Iced Tea, but this is pretty good
+- Less sweet than I expected and Neste Tea
+- From the Queen's Cross Food Hall [Swanky Burger](https://queenscrossfoodhall.com/swanky-burger/)
+- 6/10
+- yes
