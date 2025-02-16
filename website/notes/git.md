@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Git
+title: git
 ---
 
 1. `git log --oneline`

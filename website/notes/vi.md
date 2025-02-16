@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: VI  
+title: vi  
 ---
 
 ### Keyboard Shortcuts
