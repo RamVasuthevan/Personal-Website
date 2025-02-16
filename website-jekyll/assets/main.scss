@@ -1,0 +1,56 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.wrapper {
+  max-width: calc(825px - 30px * 2);
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: calc(850px - (30px));
+  }
+}
+
+.collections-note {
+    color: grey;
+    @include relative-font-size(0.875);
+}
+
+.collections-note a {
+    color: grey;
+    text-decoration: underline;
+}
+
+.table-first-col-nowrap th:first-child,
+.table-first-col-nowrap td:first-child {
+  white-space: nowrap;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-col-4 {
+  margin-top: 20px;
+}
+
+.footer-col-4 h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.footer-col-4 input[type="email"] {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.footer-col-4 input[type="submit"] {
+  padding: 10px 15px;
+  cursor: pointer;
+}

@@ -1,0 +1,22 @@
+{% if include.src %}
+    {% assign unsplash_image_src = include.src %}
+{% else %}
+    {% if include.directory %}
+        {% assign directory = include.directory %}
+    {% else %}
+        {% assign directory = page.permalink %}
+    {% endif %}
+    
+    {% assign unsplash_image_src = "/assets/" | append: directory | append: "/" | append: include.name %}
+{% endif %}
+{% capture unsplash_caption %}
+Photo by [{{ include.photographer }}](https://unsplash.com/@{{ include.username }}) from [Unsplash]({{ include.image_link }})
+{% endcapture %}
+
+{% include image.html 
+   src=unsplash_image_src 
+   alt=include.alt 
+   caption=unsplash_caption 
+   width=include.width 
+   height=include.height
+%}
