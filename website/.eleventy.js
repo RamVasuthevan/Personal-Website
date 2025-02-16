@@ -10,13 +10,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("**/*.jpg");
   eleventyConfig.addPassthroughCopy("**/*.png");
 
-  eleventyConfig.addPassthroughCopy("**/*.css");
-  eleventyConfig.addPassthroughCopy("**/*.js");
-
-  eleventyConfig.addPassthroughCopy("**/*.csv"); 
-
-  eleventyConfig.addPassthroughCopy("daily-journal/2025-02-11-daily-journal/voice-interface/");
-
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
   
   function generateImageHtml(params) {
@@ -63,7 +56,7 @@ export default function (eleventyConfig) {
       output: "_site", // Output folder
     },
     serverOptions: {
-      port: 4001,
+      port: 4000,
     },
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
