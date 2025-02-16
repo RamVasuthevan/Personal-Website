@@ -1,0 +1,39 @@
+- name: Canoe
+  address: "66 Wellington St W 54th floor, Toronto, ON M5K 1H6"
+  website: https://www.canoerestaurant.com/
+  note: Best restaurant in Toronto. The view and the tasting menu are amazing!
+  category: Canadian
+- name: Terroni Adelaide
+  address: "57 Adelaide St E, Toronto, ON M5C 1K6"
+  website: https://www.terroni.com/locations/terroni-adelaide
+  category: Italian
+- name: Aanch
+  address: "259 Wellington St., Toronto, M5V, Canada"
+  website: https://www.aanch.ca/
+  category: Indian
+- name: Joe Bird
+  address: "207 Queens Quay W #150, Toronto, ON M5J 1A7"
+  website: https://www.joebird.ca/
+  category: Waterfront Pub
+- name: Pearl Harbourfront Chinese Cuisine
+  address: "207 Queens Quay W #200, Toronto, ON M5J 1A7"
+  website: https://www.pearlharbourfront.ca/
+  category: Waterfront Chinese
+- name: Jackson's Burger
+  address: "38 Elm St, Toronto, ON M5G 2K5"
+  website: https://jacksonsburger.com/
+  category: Burger
+- name: Cherry Street Bar-B-Que
+  address: "275 Cherry St, Toronto, ON M5A 3L3"
+  website: https://www.cherrystbbq.com/
+  note: I'd recommend a getting a sampler
+  category: BBQ
+- name: PAI Northern Thai Kitchen
+  address: "18 Duncan St, Toronto, ON M5H 3G8"
+  website: https://paitoronto.com/
+  category: Thai
+- name: DaiLo
+  address: "503 College Street Toronto"
+  website: https://dailoto.com/
+  note: The tasting menu is amazing!
+  category: New Asian Cuisine

@@ -1,0 +1,18 @@
+---
+layout: page
+title: 101s
+---
+
+{% for topic in site.data.introductions  %}
+<span id="{{ topic.name | replace: ' ', '-' }}" style="font-weight:bold">{{ topic.name }}</span><br>
+    {% if topic.note %}
+    <span class="collections-note">{{topic.note | markdownify | remove: '<p>' | remove: '</p>' }}</span><br>
+    {% endif %}
+    {% for item in topic.items %}
+    <span><a href="{{item.url}}">{{item.title}}</a>{% if item.author %} — {{item.author}} {% endif %}</span><br>
+        {% if item.note %}
+        <span class="collections-note">{{item.note | markdownify | remove: '<p>' | remove: '</p>' }}</span><br>
+        {% endif %}
+    {% endfor %}
+    <br>
+{% endfor %}
