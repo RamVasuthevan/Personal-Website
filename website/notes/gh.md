@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CLI
+title: gh
 ---
 
 1. `gh pr list`
