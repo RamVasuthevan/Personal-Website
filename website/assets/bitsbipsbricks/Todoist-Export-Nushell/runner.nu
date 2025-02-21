@@ -5,13 +5,8 @@ const RFC3339_FORMAT = "%Y-%m-%dT%H:%M:%S%z"
 source ./sync.nu
 
 
-#let sync_data = get-sync-data
-let sync_data = open todoist-export.json | get endpoints.sync
-
-#let completed_tasks = get-completed-tasks
-let completed_tasks = open todoist-export.json | get endpoints.completed/get_all
-
-#let completed_tasks_stats = get-stats
+let sync_data = get-sync-data
+let completed_tasks = get-completed-tasks
 let completed_tasks_stats = get-stats
 
 
