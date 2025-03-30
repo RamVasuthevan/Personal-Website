@@ -1,0 +1,31 @@
+{% assign sorted_pages = site.pages | sort: 'title' %}
+
+<ul>
+
+<!-- Adding sub domain URLs passed in -->
+{% for domain_url in page.sub_domains %}
+  {% assign domain_name = domain_url | replace: 'https://', '' | remove: '/' %}
+  <li>
+    <a href="{{ domain_url }}">{{ domain_name }}</a>
+  </li>
+{% endfor %}
+
+{% for page in sorted_pages %}
+  {% if page.title %}
+    {% unless page.path contains 'redirected/' %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+{% for page in sorted_pages %}
+  {% unless page.title or page.path contains 'redirected/' %}
+    <li>
+      <a href="{{ page.url }}">{{ page.path }}</a>
+    </li>
+  {% endunless %}
+{% endfor %}
+
+</ul>
