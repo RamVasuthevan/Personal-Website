@@ -137,3 +137,10 @@
     - title: Jekyll 4.2.0 Released Permalink
       url: https://jekyllrb.com/news/2020/12/14/jekyll-4-2-0-released/
       note: As of 4.2.0, Jekyll no longer overrides the site.url to http://localhost:4000 in absolute URLs while developing via jekyll serve. I think Jekyll Redirect From just has not been updated yet
+- name: Automator
+  items:
+    - title: Is there a keyboard shortcut (hotkey) to open Terminal in macOS?
+      url: https://stackoverflow.com/questions/35954184/is-there-a-keyboard-shortcut-hotkey-to-open-terminal-in-macos
+      author: Rob Mayoff
+      date_published: 2024-09-17
+      note: Use Automator to setup a keyboard shortcut to open Terminal
