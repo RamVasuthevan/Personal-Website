@@ -168,3 +168,7 @@
   url: https://iabot.wmcloud.org/index.php?page=runbotsingle
   author: cyberpower678
   note: Replaces broken external links with archive links on Wikipedia
+- title: SVG Viewer
+  url: https://www.svgviewer.dev/
+  author: [Checker Software](https://www.checkersoftware.ca/)
+  note: Edit, view and optimize SVG as text
