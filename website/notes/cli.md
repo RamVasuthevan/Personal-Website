@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CLI
+title: cli
 ---
 
 1. `open -e test.txt`
