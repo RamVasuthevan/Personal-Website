@@ -168,3 +168,11 @@
   url: https://iabot.wmcloud.org/index.php?page=runbotsingle
   author: cyberpower678
   note: Replaces broken external links with archive links on Wikipedia
+- title: SVG Viewer
+  url: https://www.svgviewer.dev/
+  author: Checker Software
+  note: "Edit, view and optimize SVG as text"
+- title: tldraw
+  url: https://tldraw.com/
+  author: Steve Ruiz
+  note: Online whiteboard which feels magical to use

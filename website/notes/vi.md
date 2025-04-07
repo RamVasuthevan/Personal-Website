@@ -17,7 +17,9 @@ title: vi
 
 `w` : Save (but not close) file
 
-`:q` : Quit without saving any changes
+`:q` : Quit without saving any changes (will fail if there are unsaved changes)
+
+`:q!` : Quit without saving any changes (will force quit even if there are unsaved changes)
 
 `10j` : Move down 10 lines
 
