@@ -9,7 +9,7 @@ title: git
 2. `git commit --allow-empty -m "Empty commit"`
     - Creates an empty commit with the message "Empty commit"
 
-3. `git commit --allow-empty --allow-empty-message`
+3. `git commit --allow-empty --allow-empty-message -m ""`
     - Creates an empty commit with an empty message. Useful for triggering CI pipelines allowing the creation of GH PR
 
 4. `git reset --soft HEAD~1`
