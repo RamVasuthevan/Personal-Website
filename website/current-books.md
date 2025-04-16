@@ -3,6 +3,8 @@ layout: page
 title: Books I Am Currently Reading
 ---
 
+When I was younger in grade 4 to 8, I would read books voraciously, but as a 
+
 
 ## Boom: Bubbles and the End of Stagnation by Bryne Hobarts and Tobias Huber
 
