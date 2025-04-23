@@ -180,3 +180,7 @@
   url: https://textise.net/
   author: Subjunctive Software
   note: Generate text-only versions of web pages
+- title: "DenCode"
+  url: https://dencode.com/
+  author: mozq
+  note: Encoding and decoding strings between formats, including into camel, kebab and snake case
