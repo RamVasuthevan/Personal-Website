@@ -5,4 +5,5 @@ title: VSCode
 
 Keyboard Shortcuts (for macOS)
 
-- Split Terminal: `⌘\`
+- Split Terminal: `⌘+\`
+- Close Current File: `⌘+W`

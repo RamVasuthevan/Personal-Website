@@ -1,0 +1,38 @@
+---
+layout: page 
+title: Interesting YouTube Channels
+---
+
+## Channels
+- [CGP Grey](https://www.youtube.com/@CGPGrey)
+- [Wendover Productions](https://www.youtube.com/@Wendoverproductions/videos)
+- [Sean Munger](https://www.youtube.com/@SeanMunger)
+    - [1924: The Fascinating Forgotten Election](https://www.youtube.com/watch?v=BPORWowONV8)
+    - [Iran-Contra Explained: The Wall of Crazy Scandal](https://www.youtube.com/watch?v=E6Ucn-Whh4g)
+- [Fredo Rockwell](https://www.youtube.com/@FredoRockwell)
+    - [San Marino's 1957 Coup - The Rovereta Affair!](https://www.youtube.com/watch?v=xlywur_QEx4)
+- [Harrison T. Brown](https://www.youtube.com/@harrisonbrown512)
+    - [Robert Moses: The Power Broker Who Built New York](https://www.youtube.com/watch?v=TClOw5uPzhY)
+- [Spectacles](https://www.youtube.com/@spectacles-dm/videos)
+- [Bloomberg law](https://www.youtube.com/@bloomberglaw)
+    - [Billion Dollar Lawsuits: When Litigation Finance Met Mass Torts](https://www.youtube.com/watch?v=D9nqJXMXzRI)
+    - [From Kirkland to Paul Weiss: The Rise of the Non-Equity Partner](https://www.youtube.com/watch?v=LhqhZp9Kckg)
+    - [How Best Buy, Apple, Nike, and Other Online Retailers Make Millions From California Tax Deals](https://www.youtube.com/watch?v=mMQaI5fSyoo)
+- [EmperorTigerstar](https://www.youtube.com/@EmperorTigerstar)
+    - [The Wrong Map of Syria No One Noticed](https://www.youtube.com/watch?v=OAM9zw1eMPs)
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)/[TheVimeagen](https://www.youtube.com/@TheVimeagen)
+- [Fireship](https://www.youtube.com/c/Fireship)
+    - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+- [Supabase](https://www.youtube.com/c/supabase)
+    - [You don't need Supabase Auth - use this instead!](https://www.youtube.com/watch?v=BPD7kxb5N84)
+- [The Operations Room](https://www.youtube.com/@TheOperationsRoom)
+- [Sarcasmitron](https://www.youtube.com/@Sarcasmitron/)
+- [PolyMatter](https://www.youtube.com/@PolyMatter)
+- [Preston Jacob](https://www.youtube.com/@PrestonJacobstheSweetrobin)
+    - [House of the Dragon](https://www.youtube.com/watch?v=b70_yYhiC7A&list=PLCsx_OFEYH6sQ-lZ_LvhDZKZhc3GwINok&index=2)
+- [Mark Felton Productions](https://www.youtube.com/@MarkFeltonProductions)
+- [William Spaniel](https://www.youtube.com/@Gametheory101)
+- [ThatsGoodSports](https://www.youtube.com/@thatsgoodsports)
+- [Premodernist](https://www.youtube.com/@premodernist_history)
+    - [The Reluctant President: Reelecting George Washington](https://www.youtube.com/watch?v=1CSkUqMddgo)
+    - [The election of George Washington was weirder than you think](https://www.youtube.com/watch?v=DZO1O3CeW2w)
