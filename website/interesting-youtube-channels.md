@@ -33,3 +33,6 @@ title: Interesting YouTube Channels
 - [Mark Felton Productions](https://www.youtube.com/@MarkFeltonProductions)
 - [William Spaniel](https://www.youtube.com/@Gametheory101)
 - [ThatsGoodSports](https://www.youtube.com/@thatsgoodsports)
+- [Premodernist](https://www.youtube.com/@premodernist_history)
+    - [The Reluctant President: Reelecting George Washington](https://www.youtube.com/watch?v=1CSkUqMddgo)
+    - [The election of George Washington was weirder than you think](https://www.youtube.com/watch?v=DZO1O3CeW2w)
