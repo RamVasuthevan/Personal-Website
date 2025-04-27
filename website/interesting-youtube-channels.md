@@ -42,3 +42,5 @@ title: Interesting YouTube Channels
     - [The Wikipedia Elections Edit War](https://youtu.be/OVIl_DJl5NU?si=YTc0GyWO7JzmCOMd)
     - [When Wikipedia has the Flag Wrong](https://youtu.be/HgvB9aW98z8?si=zjiFktmAinsPaD08)
 - [Urbanist](https://www.youtube.com/@UrbanistAriel)
+- [Volksgeist](https://www.youtube.com/@Volksgeist)
+    - [Rap’s Misunderstood Genius: The Story of Future](https://www.youtube.com/watch?v=NZ105XlGPus)
