@@ -5,10 +5,14 @@ title: SQL (PostgreSQL Variant)
 
 <!-- Add Using and Distinct on -->
 
-1. `DATE_PART(field, source)`
+- `DATE_PART(field, source)`
     - Get the component of a `date`
     - See [Neon PostgreSQL Tutorial: DATE_PART() Function](https://neon.tech/postgresql/postgresql-date-functions/postgresql-date_part)
-2. `agg_func(<expr>) FILTER (WHERE <condition>)
+
+- `ALTER TABLE table_name RENAME TO new_table_name;`
+    - Rename a table
+    - See [Neon PostgreSQL Tutorial:PostgreSQL Rename Table](https://neon.tech/postgresql/postgresql-tutorial/postgresql-rename-table)
+- `agg_func(<expr>) FILTER (WHERE <condition>)
     - Aggregate values which match a condition
     - Could also be done with a `case` statment
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
