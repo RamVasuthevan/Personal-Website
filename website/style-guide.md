@@ -66,3 +66,9 @@ This calendaring section does not feel done, but it is probably my personal most
 ## Licence
 - I prefer the MIT licence because it is the default permissive licence
 
+## PgSQL
+
+- DDL should be lower case
+
+
+

@@ -18,3 +18,5 @@ title: SQL (PostgreSQL Variant)
     - Could also be done with a `case` statment
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
+
+
