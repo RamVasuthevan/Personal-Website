@@ -13,7 +13,7 @@ title: SQL (PostgreSQL Variant)
     - Rename a table
     - See [Neon PostgreSQL Tutorial:PostgreSQL Rename Table](https://neon.tech/postgresql/postgresql-tutorial/postgresql-rename-table)
 
-- `agg_func(<expr>) FILTER (WHERE <condition>)
+- `agg_func(<expr>) FILTER (WHERE <condition>)`
     - Aggregate values which match a condition
     - Could also be done with a `case` statment
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
