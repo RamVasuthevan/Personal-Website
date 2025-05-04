@@ -14,7 +14,7 @@ title: SQL (PostgreSQL Variant)
 
 - `agg_func(<expr>) FILTER (WHERE <condition>)`
     - Aggregate values which match a condition
-    - Could also be done with a `case` statment
+    - Could also be done with a `case` statement
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
