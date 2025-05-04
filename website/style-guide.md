@@ -64,11 +64,8 @@ This calendaring section does not feel done, but it is probably my personal most
 
 
 ## Licence
-- I prefer the MIT licence because it is the default permissive licence
+- I prefer the MIT license because it is the default permissive license
 
-## PgSQL
+## SQL (PostgreSQL Variant)
 
 - DDL should be lower case
-
-
-
