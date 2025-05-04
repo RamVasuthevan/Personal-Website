@@ -1,8 +1,9 @@
 ---
 layout: page
-title: MacOS
+title: macOS
 ---
 
-Keyboard Shortcuts (RAMTODO)
-- Take a screenshot: 
-- Take a screenrecording: 
+## Take a Screenshot
+- Capture the entire screen: Shift + Command + 3
+- Capture a portion of the screen: Shift + Command + 4
+- Open screenshoot utility:  Shift + Command + 5
