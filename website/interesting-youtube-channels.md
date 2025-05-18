@@ -46,3 +46,6 @@ title: Interesting YouTube Channels
     - [Rap’s Misunderstood Genius: The Story of Future](https://www.youtube.com/watch?v=NZ105XlGPus)
 - [EmperorTigerstar](https://www.youtube.com/@EmperorTigerstar)
     - [The Longest Papal Election in History](https://www.youtube.com/watch?v=oR0-JGWrqkY)
+
+## Videos
+[The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
