@@ -184,3 +184,7 @@
   url: https://dencode.com/
   author: mozq
   note: Encoding and decoding strings between formats, including into camel, kebab and snake case
+- title: "JSON Formatter & Validator"
+  url: https://picsum.photos/
+  author: DMarby
+  note: Easy to use, stylish placeholders
