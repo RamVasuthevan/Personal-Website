@@ -46,6 +46,9 @@ title: Interesting YouTube Channels
     - [Rap’s Misunderstood Genius: The Story of Future](https://www.youtube.com/watch?v=NZ105XlGPus)
 - [EmperorTigerstar](https://www.youtube.com/@EmperorTigerstar)
     - [The Longest Papal Election in History](https://www.youtube.com/watch?v=oR0-JGWrqkY)
+- [Search Party](https://www.youtube.com/@SearchParty)
+    - [How this little pill took over the Middle East](https://www.youtube.com/watch?v=NKNTbbe_ifA)
+    - [The country no one expected to dominate sumo](https://www.youtube.com/watch?v=0KBcNYlRzNA)
 
 ## Videos
 [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
