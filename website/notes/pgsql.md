@@ -18,6 +18,11 @@ title: SQL (PostgreSQL Variant)
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
-To Add:
-    - Using
-    - Distinct on
+- Division of integers
+    - By default, the division of two integers is integer division
+    - To do floating point division, you need to cast at least of the integers to numeric
+    - See [PostgreSQL Numeric Division](https://www.postgresql.org/docs/current/functions-math.html#:~:text=numeric_type%20/%20numeric_type%20%E2%86%92%20numeric_type)
+
+To do:
+    - Add `Using`
+    - Add `Distinct on`
