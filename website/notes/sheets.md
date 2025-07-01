@@ -7,7 +7,10 @@ title: Google Sheets
 - [Keyboard shortcuts for Google Sheets](https://support.google.com/docs/answer/181110#zippy=%2Cmac-shortcuts)
 
 ## Keyboard shortcuts
--  New line in cell `⌘ + Enter`
+- New line in cell `⌘ + Enter`
+- Insert date `⌘ + ;`
+- Insert time `⌘ + Shift + ;`
+- Insert date and time `⌘ + Option + Shift + ;`
 
 ## Notes
 
