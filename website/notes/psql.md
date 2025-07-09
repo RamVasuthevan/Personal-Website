@@ -39,3 +39,6 @@ select format('set role %I;', :'my_user')
 select current_user;
 ```
 
+## Useful Links
+
+- Use `\gset` [Luca Ferrari: Using psql Variables to Introspect Your Script](https://fluca1978.github.io/2023/10/23/PostgreSQLPSQLVariablesToMonitorTransactions.html)
