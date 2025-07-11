@@ -9,6 +9,7 @@ title: Chrome
 
 - New Tab: `⌘+T`
 - Open Bookmark Manager: `⌥⌘B`
+- Focus a specific tab: `⌘+1` to `⌘+8`
 
 ## [Disable JavaScript](https://developer.chrome.com/docs/devtools/javascript/disable)
 
