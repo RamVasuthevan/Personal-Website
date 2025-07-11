@@ -14,3 +14,6 @@ title: git
 
 4. `git reset --soft HEAD~1`
     - Resets the current branch to the previous commit, keeping the changes in the staging area
+
+5. `git fetch --prune`
+    - Fetches from remote and removes any branches that have been deleted on the remote 
