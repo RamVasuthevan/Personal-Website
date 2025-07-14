@@ -23,6 +23,16 @@ title: SQL (PostgreSQL Variant)
     - To do floating point division, you need to cast at least of the integers to numeric
     - See [PostgreSQL Numeric Division](https://www.postgresql.org/docs/current/functions-math.html#:~:text=numeric_type%20/%20numeric_type%20%E2%86%92%20numeric_type)
 
+## Snippets
+
+### Print all the keys and values of a record (Useful for debugging)
+
+```sql
+    for _key, _value in select key, value from jsonb_each_text(to_jsonb(_record)) loop
+        raise warning '% : %', _key, _value; 
+    end loop;
+```
+
 To do:
     - Add `Using`
     - Add `Distinct on`
