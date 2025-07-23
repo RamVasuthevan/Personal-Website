@@ -16,4 +16,10 @@ title: git
     - Resets the current branch to the previous commit, keeping the changes in the staging area
 
 5. `git fetch --prune`
-    - Fetches from remote and removes any branches that have been deleted on the remote 
+    - Fetches from remote and removes any branches that have been deleted on the remote
+
+6. `git diff main..HEAD`
+    - See diff for changes on your branch but not on main (one way)
+
+7. `git diff main...HEAD`  
+    - See diff for change between your brnach and main (two way)
