@@ -23,3 +23,10 @@ title: git
 
 7. `git diff main...HEAD`  
     - See diff for change between your brnach and main (two way)
+
+8. `git difftool --staged --tool=code`
+    - Opens the staged changes with the `code` diff tool 
+    - Needs to be setup with:
+        - `git config --global difftool.code.cmd 'code --wait --diff --reuse-window "$LOCAL" "$REMOTE"'` (Set code as a diff tool)
+        - `git config --global diff.tool code` (Set code as the default diff tool)
+        - `git config --global difftool.prompt false` (Disable the per file diff permission) 
