@@ -1,0 +1,27 @@
+---
+layout: null
+title: Random Page
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting to random page...</title>
+    <script>
+        var pages = [
+            {% assign all_pages = site.pages | concat: site.posts %}
+            {% for page in all_pages %}
+                {% unless page.url contains 'random.html' contains 'robots.txt' or page.url contains '.scss' or page.url contains '.css' or page.url contains '.xml' %}
+                    "{{ page.url }}",
+                {% endunless %}
+            {% endfor %}
+        ];
+      
+        // Redirect to a random page
+        window.location.href = pages[Math.floor(Math.random() * pages.length)];
+    </script>
+</head>
+<body>
+</body>
+</html>
