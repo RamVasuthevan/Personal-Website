@@ -18,6 +18,9 @@ title: SQL (PostgreSQL Variant)
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
+- `coalesce(value1, value2, ...)`
+    - Returns the first non-null argument
+
 - Division of integers
     - By default, the division of two integers is integer division
     - To do floating point division, you need to cast at least of the integers to numeric
