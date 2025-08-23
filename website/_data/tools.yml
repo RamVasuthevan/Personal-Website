@@ -188,3 +188,12 @@
   url: https://picsum.photos/
   author: DMarby
   note: Easy to use, stylish placeholders
+- title: "Read Scott Alexander"
+  url: https://readscottalexander.com/
+  author: Robin 
+  private_note: Source for author from [Robin's comment Open Thread 344](https://www.astralcodexten.com/p/open-thread-344/comment/66778536)
+  note: A database for exploring the writing of Scott Alexander of [SSC](https://slatestarcodex.com/) and [ACX](https://www.astralcodexten.com/) fame
+- title: "The Codex Community Corpus"
+  url: https://codexcc.neocities.org/
+  author: Jenn
+  note: Database of entries to the ACX review contest
