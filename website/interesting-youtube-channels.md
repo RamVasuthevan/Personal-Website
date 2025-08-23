@@ -49,6 +49,8 @@ title: Interesting YouTube Channels
 - [Search Party](https://www.youtube.com/@SearchParty)
     - [How this little pill took over the Middle East](https://www.youtube.com/watch?v=NKNTbbe_ifA)
     - [The country no one expected to dominate sumo](https://www.youtube.com/watch?v=0KBcNYlRzNA)
+- [Chris and Jack](https://www.youtube.com/@ChrisandJack)
+    - [A deal with the Devil](https://www.youtube.com/watch?v=JTmvqcRHsD8)
 
 ## Videos
 [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
