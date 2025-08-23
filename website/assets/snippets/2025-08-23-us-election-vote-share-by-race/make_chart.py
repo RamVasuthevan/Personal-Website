@@ -9,7 +9,8 @@
 # ///
 #!/usr/bin/env python3
 """
-Create Dem and Rep charts by race (2016–2024) from Pew validated voter tables.
+Create Dem and Rep charts by race (2016–2024) from Pew validated voter tables. 
+(Actual charts downloaded from https://chatgpt.com/g/g-p-67cdd0022e0c8191814638055c022bae/c/68aa16b7-3744-8330-9e98-6a8ce2a4df1e)
 
 Usage:
   uv run make_charts.py
