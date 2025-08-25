@@ -39,6 +39,18 @@ title: SQL (PostgreSQL Variant)
     end loop;
 ```
 
+## Watch out for
+
+### Null Equality Always Returns Null
+
+```sql
+select null='Hello' , null!='Hello', null=null,null!=null;
+```
+
+gives (null, null, null, null)
+
+
+
 To do:
     - Add `Using`
     - Add `Distinct on`
