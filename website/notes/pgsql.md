@@ -24,7 +24,6 @@ title: SQL (PostgreSQL Variant)
     - `pg_sleep_for(interval)` - Sleep for a specified interval (e.g., '5 minutes', '1.5 seconds')
     - `pg_sleep(seconds)` - Sleep for a specified number of seconds (can be fractional)
     - `pg_sleep_until(timestamp)` - Sleep until a specific timestamp
-    - Useful for testing, debugging, or adding delays in scripts
     - See [PostgreSQL Date/Time Functions - Delaying Execution](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-DELAY)
 
 - Division of integers
@@ -42,12 +41,11 @@ title: SQL (PostgreSQL Variant)
 - `plpgsql.extra_errors`
     - Controls additional error checking in PL/pgSQL stored procedures and functions
     - Possible values: `'none'` (default), `'all'`, or comma-separated list of specific checks
-    - Available checks: `'shadowed_variables'`, `'strict_multi_assignment'`, `'too_many_rows'`
+    - Available checks:
     - `'strict_multi_assignment'` ensures variable count matches value count in assignments
     - `'shadowed_variables'` warns about variable name conflicts in nested scopes
     - `'too_many_rows'` raises errors when SELECT INTO returns multiple rows
-    - `'all'` enables all available checks
-    - Generally used during development to catch potential bugs early
+    - Generally used during development to catch potential bugs
     - See [PostgreSQL PL/pgSQL Extra Checks](https://www.postgresql.org/docs/current/plpgsql-development-tips.html#PLPGSQL-EXTRA-CHECKS)
 
 - `client_min_messages`
