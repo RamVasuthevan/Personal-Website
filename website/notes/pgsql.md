@@ -18,6 +18,13 @@ title: SQL (PostgreSQL Variant)
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
+- Sleep Functions
+    - `pg_sleep_for(interval)` - Sleep for a specified interval (e.g., '5 minutes', '1.5 seconds')
+    - `pg_sleep(seconds)` - Sleep for a specified number of seconds (can be fractional)
+    - `pg_sleep_until(timestamp)` - Sleep until a specific timestamp
+    - Useful for testing, debugging, or adding delays in scripts
+    - See [PostgreSQL Date/Time Functions - Delaying Execution](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-DELAY)
+
 - Division of integers
     - By default, the division of two integers is integer division
     - To do floating point division, you need to cast at least of the integers to numeric
