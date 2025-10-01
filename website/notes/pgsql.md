@@ -48,7 +48,7 @@ title: SQL (PostgreSQL Variant)
     - `'too_many_rows'` raises errors when SELECT INTO returns multiple rows
     - `'all'` enables all available checks
     - Generally used during development to catch potential bugs early
-    - See [PostgreSQL PL/pgSQL Configuration](https://www.postgresql.org/docs/current/plpgsql-development-tips.html)
+    - See [PostgreSQL PL/pgSQL Extra Checks](https://www.postgresql.org/docs/current/plpgsql-development-tips.html#PLPGSQL-EXTRA-CHECKS)
 
 - `client_min_messages`
     - Controls which message types are sent from the server to the client
@@ -62,6 +62,13 @@ title: SQL (PostgreSQL Variant)
     - Possible values: time intervals (e.g., `'10ms'`, `'1s'`, `'5min'`) or `0` (no timeout, default)
     - Any statement that runs longer than the specified time will be automatically cancelled
     - See [PostgreSQL Statement Timeout](https://www.postgresql.org/docs/current/runtime-config-client.html#GUC-STATEMENT-TIMEOUT)
+
+- `transaction_timeout`
+    - Sets a maximum execution time limit for entire transactions (added in PostgreSQL 17)
+    - Possible values: time intervals (e.g., `'1min'`, `'5min'`, `'1h'`) or `0` (no timeout, default)
+    - Terminates any session with a transaction that runs longer than the specified time
+    - Applies to both explicit transactions (BEGIN/COMMIT) and implicit single-statement transactions
+    - See [PostgreSQL Transaction Timeout](https://www.postgresql.org/docs/current/runtime-config-client.html#GUC-TRANSACTION-TIMEOUT)
 
 To do:
     - Add `Using`
