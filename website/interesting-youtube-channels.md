@@ -54,6 +54,9 @@ title: Interesting YouTube Channels
 - [Sheafification of G](https://www.youtube.com/@SheafificationOfG)
     - [One second to compute the largest Fibonacci number I can](https://www.youtube.com/watch?v=KzT9I1d-LlQ)
     - [Python laid waste to my C++!](https://www.youtube.com/watch?v=02rh1NjJLI4&list=PL3JI_Wj02ehVoNlvqVbCrxdwE2sWmDO8O&index=2)
+- [jan Misali](https://www.youtube.com/@HBMmaster)
+    - [a defense of the imperial measurement system](https://www.youtube.com/watch?v=iJymKowx8cY)
+-
 
 ## Videos
 - [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
