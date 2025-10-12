@@ -18,10 +18,38 @@ title: SQL (PostgreSQL Variant)
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
+- `coalesce(value1, value2, ...)`
+    - Returns the first non-null argument
+
 - Division of integers
     - By default, the division of two integers is integer division
     - To do floating point division, you need to cast at least of the integers to numeric
     - See [PostgreSQL Numeric Division](https://www.postgresql.org/docs/current/functions-math.html#:~:text=numeric_type%20/%20numeric_type%20%E2%86%92%20numeric_type)
+
+## Other useful functions
+- [row_to_json](https://www.postgresql.org/docs/current/functions-json.html#:~:text=%5B1%2C%202%5D-,row_to_json,-(%20record%20%5B)
+
+## Snippets
+
+### Print all the keys and values of a record (Useful for debugging)
+
+```sql
+    for _key, _value in select key, value from jsonb_each_text(to_jsonb(_record)) loop
+        raise warning '% : %', _key, _value; 
+    end loop;
+```
+
+## Watch out for
+
+### Null Equality Always Returns Null
+
+```sql
+select null='Hello' , null!='Hello', null=null,null!=null;
+```
+
+gives (null, null, null, null)
+
+
 
 To do:
     - Add `Using`

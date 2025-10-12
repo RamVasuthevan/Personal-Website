@@ -28,3 +28,10 @@ title: cli
 
 9. `system_profiler`
     - Provides a comprehensive overview of all system specifications, including hardware, software, and other components. See [system_profiler man page](https://keith.github.io/xcode-man-pages/system_profiler.8.html).
+
+10. `history`
+    - See history of fish shell commands
+    - History is stored at `~/.local/share/fish/fish_history`
+
+11. `cp -r (ls -1d -- */| tail -1) (today)-daily-journal`
+    - Copy the last directory in the current directory to the (today)-daily-journal directory
