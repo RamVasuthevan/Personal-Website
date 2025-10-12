@@ -20,6 +20,9 @@ title: SQL (PostgreSQL Variant)
     - [Crunchy Data: Using Postgres FILTER](https://www.crunchydata.com/blog/using-postgres-filter#using-filter)
     <!-- https://chatgpt.com/c/68134931-99a8-8013-9b83-0e70f13c3b6a -->
 
+- `coalesce(value1, value2, ...)`
+    - Returns the first non-null argument
+    
 - Sleep Functions
     - `pg_sleep_for(interval)` - Sleep for a specified interval (e.g., '5 minutes', '1.5 seconds')
     - `pg_sleep(seconds)` - Sleep for a specified number of seconds (can be fractional)
@@ -68,6 +71,28 @@ title: SQL (PostgreSQL Variant)
     - Applies to both explicit transactions (BEGIN/COMMIT) and implicit single-statement transactions
     - See [PostgreSQL Transaction Timeout](https://www.postgresql.org/docs/current/runtime-config-client.html#GUC-TRANSACTION-TIMEOUT)
 
+## Snippets
+
+### Print all the keys and values of a record (Useful for debugging)
+
+```sql
+    for _key, _value in select key, value from jsonb_each_text(to_jsonb(_record)) loop
+        raise warning '% : %', _key, _value; 
+    end loop;
+```
+
+## Watch out for
+
+### Null Equality Always Returns Null
+
+```sql
+select null='Hello' , null!='Hello', null=null,null!=null;
+```
+
+gives (null, null, null, null)
+
+
 To do:
     - Add `Using`
     - Add `Distinct on`
+    - [row_to_json](https://www.postgresql.org/docs/current/functions-json.html#:~:text=%5B1%2C%202%5D-,row_to_json,-(%20record%20%5B)
