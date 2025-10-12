@@ -53,6 +53,6 @@ title: Interesting YouTube Channels
     - [A deal with the Devil](https://www.youtube.com/watch?v=JTmvqcRHsD8)
 
 ## Videos
--[The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
+- [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
 - [The Miracle Sudoku](https://www.youtube.com/watch?v=yKf9aUIxdb4A) by [Cracking The Cryptic](https://www.youtube.com/@CrackingTheCryptic)
-- [The Search for the Longest Infinite Chess Game](https://www.youtube.com/watch?v=b-Bb_TyhC1A) by[Naviary](https://www.youtube.com/@Naviary)
+- [The Search for the Longest Infinite Chess Game](https://www.youtube.com/watch?v=b-Bb_TyhC1A) by [Naviary](https://www.youtube.com/@Naviary)
