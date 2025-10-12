@@ -93,6 +93,7 @@ gives (null, null, null, null)
 
 
 To do:
-    - Add `Using`
-    - Add `Distinct on`
-    - [row_to_json](https://www.postgresql.org/docs/current/functions-json.html#:~:text=%5B1%2C%202%5D-,row_to_json,-(%20record%20%5B)
+- Add `Using`
+- Add `Distinct on`
+- [row_to_json](https://www.postgresql.org/docs/current/functions-json.html#FUNCTIONS-JSON-CREATION-TABLE)
+
