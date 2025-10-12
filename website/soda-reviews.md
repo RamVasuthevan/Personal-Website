@@ -54,7 +54,7 @@ header_title: Soda Review
 - Rating: 6/10
 - Would I have it again: Maybe
 
-# 2024-04-13 Grace Island Soda Gingerbeer
+### 2024-04-13 Grace Island Soda Gingerbeer
 {% include image.html 
    src="/assets/soda-review/2024-04-13_Grace_Island_Soda_Gingerbeer.png"
    alt="Photo of Grace Island Soda Gingerbeer" 
@@ -69,7 +69,7 @@ header_title: Soda Review
 - Rating: 9/10
 - Would I have it again? Yes
 
-# 2024-05-31 Faygo Original Grape Soda
+### 2024-05-31 Faygo Original Grape Soda
 {% include image.html 
    src="/assets/soda-review/2024-05-31_Faygo_Original_Grape_Soda.png"
    alt="Photo of Faygo Original Grape Soda" 
@@ -84,7 +84,7 @@ header_title: Soda Review
 - Rating: 6/10
 - Would I have it again? Yes
 
-# 2024-06-08 Limca Lemon Soda
+### 2024-06-08 Limca Lemon Soda
 {% include image.html 
    src="/assets/soda-review/2024-06-08_Limca_Lemon_Soda.jpg"
    alt="Photo of Limca Lemon Soda" 
@@ -100,7 +100,7 @@ header_title: Soda Review
 - Rating: 5/10
 - Would I have it again? Probably not
 
-# 2024-06-09 7Up Lemon Lime
+### 2024-06-09 7Up Lemon Lime
 {% include image.html 
    src="/assets/soda-review/2024-06-09_7Up_Lemon_Lime.webp"
    alt="Photo of 7Up Lemon Lime Can" 
@@ -115,7 +115,7 @@ header_title: Soda Review
 - Rating: 7/10
 - Would I have it again? Maybe
 
-# 2024-07-17 Grace Famous Island Soda Pineapple
+### 2024-07-17 Grace Famous Island Soda Pineapple
 {% include image.html 
    src="/assets/soda-review/2024-07-17_Grace_Famous_Island_Soda_Pineapple.webp"
    alt="Photo of Grace Famous Island Soda Pineapple Drink" 
@@ -130,7 +130,7 @@ header_title: Soda Review
 - Rating: 6/10
 - Would I have it again? Probably not
 
-# 2024-07-18 Grace Island Kola Champagne Soda
+### 2024-07-18 Grace Island Kola Champagne Soda
 {% include image.html 
    src="/assets/soda-review/2024-07-18_Grace Island_Kola_Champagne_Soda.jpg"
    alt="Photo of Grace Island Soda Kola Champagne" 
@@ -145,7 +145,7 @@ header_title: Soda Review
 - Rating: ??/10 (#TODO Forget to rate, I need but it again lol)
 - Would I have it again? Yes
 
-# 2024-08-04 Crush Peach
+### 2024-08-04 Crush Peach
 {% include image.html 
    src="/assets/soda-review/2024-08-04_Crush_Peach.jpg"
    alt="Photo of Crush Peach Can" 
@@ -160,7 +160,7 @@ header_title: Soda Review
 - Rating: 4/10
 - Would I have it again? Probably not
 
-# 2024-08-11 SFC Bio Sparkling Melon
+### 2024-08-11 SFC Bio Sparkling Melon
 {% include image.html 
    src="/assets/soda-review/2024-08-11_SFC_Bio_Sparkling_Melon.jpg"
    alt="Photo of SFC Bio Sparkling Melon Can" 
@@ -174,3 +174,19 @@ header_title: Soda Review
 - Clear and distinctive good
 - Rating: 7/10
 - Would I have it again? Yes
+
+### 2025-01-01 Brio Aranciata Rossa Soda 
+
+- Bought from [Garden View](https://maps.app.goo.gl/WBacx1F1T5t98mSf9) <!-- 252 Queen St W, Toronto, ON M5V 1Z8 -->
+- Sweet but not fizzy enough
+- Better than the Vodka Brio
+- Flavour is good enough though
+- I left it in the fridge for several months, so maybe it's my fault
+- Rating: 4/10
+- Would I have it again? No
+
+### 2025-01-02 Rise Better Soda Classic Classic Cola
+- Not bad, but "low in sugar" is not what I am looking for in my sodas
+It doesn't really taste like a "classic soda," but it does taste like it's flavoured with fruit juices
+- Rating: 3/10
+- Would I have it again? No
