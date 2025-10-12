@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 pymupdf = "1.23.26" # Pinned in dependabot
-pyyaml = "6.0.2"
+pyyaml = "6.0.3"
 
 [dev-packages]
-black = "24.10.0"
+black = "25.9.0"
 
 [requires]
 python_version = "3.12"
