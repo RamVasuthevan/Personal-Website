@@ -365,21 +365,24 @@ if __name__ == "__main__":
         description="Extract data from TooGoodToGo invoice PDFs"
     )
     parser.add_argument(
-        "--invoice-dir", "-i",
+        "--invoice-dir",
+        "-i",
         default=DEFAULT_INVOICE_DIRECTORY,
-        help=f"Invoice directory path (default: {DEFAULT_INVOICE_DIRECTORY})"
+        help=f"Invoice directory path (default: {DEFAULT_INVOICE_DIRECTORY})",
     )
     parser.add_argument(
-        "--output", "-o",
+        "--output",
+        "-o",
         default=DEFAULT_OUTPUT_FILE,
-        help=f"Output YAML file path (default: {DEFAULT_OUTPUT_FILE})"
+        help=f"Output YAML file path (default: {DEFAULT_OUTPUT_FILE})",
     )
     parser.add_argument(
-        "files", nargs="*",
+        "files",
+        nargs="*",
         help=(
             "Specific PDF files to process (if not provided, processes all "
             "PDFs in invoice directory)"
-        )
+        ),
     )
 
     args = parser.parse_args()
