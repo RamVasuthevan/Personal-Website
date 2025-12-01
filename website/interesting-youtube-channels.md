@@ -67,3 +67,4 @@ title: Interesting YouTube Channels
 - [The Search for the Longest Infinite Chess Game](https://www.youtube.com/watch?v=b-Bb_TyhC1A) by [Naviary](https://www.youtube.com/@Naviary)
 - [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo) by [Nemean](https://www.youtube.com/@Nemean)
 - [The Collatz Multiverse](https://www.youtube.com/watch?v=n63FBYqj98E) by [carykh](https://www.youtube.com/@carykh/videos)
+- [Poker's Greatest Tournament Run](https://www.youtube.com/watch?v=xXJM9RtbNNs&t=1955s) by [EmpLemon](https://www.youtube.com/@EmperorLemon)
