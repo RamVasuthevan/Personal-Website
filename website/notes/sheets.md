@@ -11,7 +11,7 @@ title: Google Sheets
 - Insert date `⌘ + ;`
 - Insert time `⌘ + Shift + ;`
 - Insert date and time `⌘ + Option + Shift + ;`
-
+- Insert row below `Ctrl + Option + i` the `r` then `b`
 ## Notes
 
 1. You can only have one [table](https://support.google.com/docs/answer/14239833?hl=en) per sheet. [↗](https://www.reddit.com/r/googlesheets/comments/1dw868a/how_to_add_multiple_tables_in_one_sheet_prebuilt/)
