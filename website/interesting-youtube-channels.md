@@ -56,9 +56,15 @@ title: Interesting YouTube Channels
     - [Python laid waste to my C++!](https://www.youtube.com/watch?v=02rh1NjJLI4&list=PL3JI_Wj02ehVoNlvqVbCrxdwE2sWmDO8O&index=2)
 - [jan Misali](https://www.youtube.com/@HBMmaster)
     - [a defense of the imperial measurement system](https://www.youtube.com/watch?v=iJymKowx8cY)
+- [Technoblade](https://www.youtube.com/@Technoblade)
+    - [Skyblock: The Great Potato War](https://www.youtube.com/watch?v=5qjnDd1rsII)
+    - [Skyblock: Potato War 2](https://www.youtube.com/watch?v=0PAEqgfAts4)
+    - [Skyblock: Potato War 3 (FINALE)](https://www.youtube.com/watch?v=09CeBwGbCeg)
 
 ## Videos
 - [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
 - [The Miracle Sudoku](https://www.youtube.com/watch?v=yKf9aUIxdb4A) by [Cracking The Cryptic](https://www.youtube.com/@CrackingTheCryptic)
 - [The Search for the Longest Infinite Chess Game](https://www.youtube.com/watch?v=b-Bb_TyhC1A) by [Naviary](https://www.youtube.com/@Naviary)
 - [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo) by [Nemean](https://www.youtube.com/@Nemean)
+- [The Collatz Multiverse](https://www.youtube.com/watch?v=n63FBYqj98E) by [carykh](https://www.youtube.com/@carykh/videos)
+- [Poker's Greatest Tournament Run](https://www.youtube.com/watch?v=xXJM9RtbNNs&t=1955s) by [EmpLemon](https://www.youtube.com/@EmperorLemon)
