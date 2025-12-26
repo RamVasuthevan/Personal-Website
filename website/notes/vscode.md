@@ -5,10 +5,11 @@ title: VSCode
 
 ## Keyboard Shortcuts (for macOS)
 
-- Split Terminal: `⌘+\`
-- Close Current File: `⌘+W`
-- Find in open file: `⌘+F`
-- Show Search Toolbar: `⌘⇧F`
+- Split Terminal: `⌘+\` (workbench.action.splitEditor)
+- Close Current File: `⌘+W` (workbench.action.closeActiveEditor")
+- Find in open file: `⌘+F` (actions.find)
+- Show Search Toolbar: `⌘+⇧+F` (workbench.view.search)
+- Focus on Explorer View: `⇧+⌘+E` (workbench.view.explore)
 
 ## CLI Commands
 
