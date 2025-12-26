@@ -60,7 +60,11 @@ title: Interesting YouTube Channels
     - [Skyblock: The Great Potato War](https://www.youtube.com/watch?v=5qjnDd1rsII)
     - [Skyblock: Potato War 2](https://www.youtube.com/watch?v=0PAEqgfAts4)
     - [Skyblock: Potato War 3 (FINALE)](https://www.youtube.com/watch?v=09CeBwGbCeg)
-
+- [2swap](https://www.youtube.com/@twoswap)
+  - [Claimeven - Connect 4 Strategy](https://www.youtube.com/watch?v=mNj6Z5CbUB0)
+  - [Beating Connect 4 with Brute Force](https://www.youtube.com/watch?v=i9pBeuBeupY)
+  - [I Solved Klotski](https://www.youtube.com/watch?v=YGLNyHd2w10)
+  
 ## Videos
 - [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
 - [The Miracle Sudoku](https://www.youtube.com/watch?v=yKf9aUIxdb4A) by [Cracking The Cryptic](https://www.youtube.com/@CrackingTheCryptic)
