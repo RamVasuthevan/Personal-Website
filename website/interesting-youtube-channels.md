@@ -64,6 +64,10 @@ title: Interesting YouTube Channels
   - [Claimeven - Connect 4 Strategy](https://www.youtube.com/watch?v=mNj6Z5CbUB0)
   - [Beating Connect 4 with Brute Force](https://www.youtube.com/watch?v=i9pBeuBeupY)
   - [I Solved Klotski](https://www.youtube.com/watch?v=YGLNyHd2w10)
+- [Tom Delalande](https://www.youtube.com/watch?v=7VSVfQcaxFY)
+    - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
+    - [The Perfect Dependency - SQLite Case Study](https://www.youtube.com/watch?v=ZP7ef4eVnac)
+    - [The Perfect Startup is the Boring One You've Never Heard Of - Case Study](https://www.youtube.com/watch?v=XtIh7tOpZsw)
   
 ## Videos
 - [The Pentagon's All-Purpose Utility Pen](https://www.youtube.com/watch?v=Z6L__16ps_A) by [Knife Story](https://www.youtube.com/watch?v=Z6L__16ps_A)
