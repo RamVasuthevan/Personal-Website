@@ -36,5 +36,5 @@ title: cli
 11. `cp -r (ls -1d -- */| tail -1) (today)-daily-journal`
     - Copy the last directory in the current directory to the (today)-daily-journal directory
 
-12. `date "+%Y-w%V-%u"`
+12. `date "+%G-w%V-%u"`
     - Prints the [iso week date](https://en.wikipedia.org/wiki/ISO_week_date)
