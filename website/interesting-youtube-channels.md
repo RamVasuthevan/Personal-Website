@@ -76,3 +76,6 @@ title: Interesting YouTube Channels
 - [Fast Inverse Square Root — A Quake III Algorithm](https://www.youtube.com/watch?v=p8u_k2LIZyo) by [Nemean](https://www.youtube.com/@Nemean)
 - [The Collatz Multiverse](https://www.youtube.com/watch?v=n63FBYqj98E) by [carykh](https://www.youtube.com/@carykh/videos)
 - [Poker's Greatest Tournament Run](https://www.youtube.com/watch?v=xXJM9RtbNNs&t=1955s) by [EmpLemon](https://www.youtube.com/@EmperorLemon)
+- [Wait... Nginx can do WHAT?!](https://www.youtube.com/watch?v=OEFZUj_RQKc) by [DevOps Toolbox](https://www.youtube.com/@devopstoolbox)
+- [The Unbreakable World Record](https://www.youtube.com/watch?v=O3-qa1KnBIQ) by [STUCUBE](https://www.youtube.com/@STUCUBE)
+- [How a Pro Seedfinder Helped Me Find This Chest Tower](https://www.youtube.com/watch?v=ZUeUe0vlkZA) by [Kris](https://www.youtube.com/@KrisSeedfinding)
