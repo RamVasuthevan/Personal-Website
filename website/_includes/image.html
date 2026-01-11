@@ -1,7 +1,7 @@
 {% if include.src %}
     {% assign image_src = include.src %}
 {% else %}
-    {% assign directory = page.permalink %}
+    {% assign directory = page.permalink | default: page.url %}
     {% assign image_src = "/assets/" | append: directory | append: "/" | append: include.name %}
 {% endif %}
 
