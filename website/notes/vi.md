@@ -27,6 +27,8 @@ title: vi
 
 `dd` : Delete line
 
+`dG` : Delete from the current line to the end of file
+
 ### Keyboard Chains
 
 #### Select all, delete, paste, and save file: `ggVG d i CMD+V Esc :wq Enter`
