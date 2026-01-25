@@ -5,70 +5,20 @@ title: Interesting YouTube Channels
 
 ## Channels
 
-- [CGP Grey](https://www.youtube.com/@CGPGrey)
-- [Wendover Productions](https://www.youtube.com/@Wendoverproductions/videos)
-- [Sean Munger](https://www.youtube.com/@SeanMunger)
-  - [1924: The Fascinating Forgotten Election](https://www.youtube.com/watch?v=BPORWowONV8)
-  - [Iran-Contra Explained: The Wall of Crazy Scandal](https://www.youtube.com/watch?v=E6Ucn-Whh4g)
-- [Fredo Rockwell](https://www.youtube.com/@FredoRockwell)
-  - [San Marino's 1957 Coup - The Rovereta Affair!](https://www.youtube.com/watch?v=xlywur_QEx4)
-- [Harrison T. Brown](https://www.youtube.com/@harrisonbrown512)
-  - [Robert Moses: The Power Broker Who Built New York](https://www.youtube.com/watch?v=TClOw5uPzhY)
-- [Spectacles](https://www.youtube.com/@spectacles-dm/videos)
-- [Bloomberg law](https://www.youtube.com/@bloomberglaw)
-  - [Billion Dollar Lawsuits: When Litigation Finance Met Mass Torts](https://www.youtube.com/watch?v=D9nqJXMXzRI)
-  - [From Kirkland to Paul Weiss: The Rise of the Non-Equity Partner](https://www.youtube.com/watch?v=LhqhZp9Kckg)
-  - [How Best Buy, Apple, Nike, and Other Online Retailers Make Millions From California Tax Deals](https://www.youtube.com/watch?v=mMQaI5fSyoo)
-- [EmperorTigerstar](https://www.youtube.com/@EmperorTigerstar)
-  - [The Wrong Map of Syria No One Noticed](https://www.youtube.com/watch?v=OAM9zw1eMPs)
-- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)/[TheVimeagen](https://www.youtube.com/@TheVimeagen)
-- [Fireship](https://www.youtube.com/c/Fireship)
-  - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
-- [Supabase](https://www.youtube.com/c/supabase)
-  - [You don't need Supabase Auth - use this instead!](https://www.youtube.com/watch?v=BPD7kxb5N84)
-- [The Operations Room](https://www.youtube.com/@TheOperationsRoom)
-- [Sarcasmitron](https://www.youtube.com/@Sarcasmitron/)
-- [PolyMatter](https://www.youtube.com/@PolyMatter)
-- [Preston Jacob](https://www.youtube.com/@PrestonJacobstheSweetrobin)
-  - [House of the Dragon](https://www.youtube.com/watch?v=b70_yYhiC7A&list=PLCsx_OFEYH6sQ-lZ_LvhDZKZhc3GwINok&index=2)
-- [Mark Felton Productions](https://www.youtube.com/@MarkFeltonProductions)
-- [William Spaniel](https://www.youtube.com/@Gametheory101)
-- [ThatsGoodSports](https://www.youtube.com/@thatsgoodsports)
-- [Premodernist](https://www.youtube.com/@premodernist_history)
-  - [The Reluctant President: Reelecting George Washington](https://www.youtube.com/watch?v=1CSkUqMddgo)
-  - [The election of George Washington was weirder than you think](https://www.youtube.com/watch?v=DZO1O3CeW2w)
-- [theneedledrop](https://www.youtube.com/theneedledrop) / [fantano](https://www.youtube.com/@fantano)
-- [Noj Rants](https://www.youtube.com/@nojrants/videos)
-  - [Elections in Russian/Soviet History](https://www.youtube.com/watch?v=Cwt-UwzvbUI&list=PLiJsEffE2UigAHEQFIP0eSeqgJYJ6J8jt)
-  - [The Wikipedia Elections Edit War](https://youtu.be/OVIl_DJl5NU?si=YTc0GyWO7JzmCOMd)
-  - [When Wikipedia has the Flag Wrong](https://youtu.be/HgvB9aW98z8?si=zjiFktmAinsPaD08)
-- [Urbanist](https://www.youtube.com/@UrbanistAriel)
-- [Volksgeist](https://www.youtube.com/@Volksgeist)
-  - [Rap’s Misunderstood Genius: The Story of Future](https://www.youtube.com/watch?v=NZ105XlGPus)
-- [EmperorTigerstar](https://www.youtube.com/@EmperorTigerstar)
-  - [The Longest Papal Election in History](https://www.youtube.com/watch?v=oR0-JGWrqkY)
-- [Search Party](https://www.youtube.com/@SearchParty)
-  - [How this little pill took over the Middle East](https://www.youtube.com/watch?v=NKNTbbe_ifA)
-  - [The country no one expected to dominate sumo](https://www.youtube.com/watch?v=0KBcNYlRzNA)
-- [Chris and Jack](https://www.youtube.com/@ChrisandJack)
-  - [A deal with the Devil](https://www.youtube.com/watch?v=JTmvqcRHsD8)
-- [Sheafification of G](https://www.youtube.com/@SheafificationOfG)
-  - [One second to compute the largest Fibonacci number I can](https://www.youtube.com/watch?v=KzT9I1d-LlQ)
-  - [Python laid waste to my C++!](https://www.youtube.com/watch?v=02rh1NjJLI4&list=PL3JI_Wj02ehVoNlvqVbCrxdwE2sWmDO8O&index=2)
-- [jan Misali](https://www.youtube.com/@HBMmaster)
-  - [a defense of the imperial measurement system](https://www.youtube.com/watch?v=iJymKowx8cY)
-- [Technoblade](https://www.youtube.com/@Technoblade)
-  - [Skyblock: The Great Potato War](https://www.youtube.com/watch?v=5qjnDd1rsII)
-  - [Skyblock: Potato War 2](https://www.youtube.com/watch?v=0PAEqgfAts4)
-  - [Skyblock: Potato War 3 (FINALE)](https://www.youtube.com/watch?v=09CeBwGbCeg)
-- [2swap](https://www.youtube.com/@twoswap)
-  - [Claimeven - Connect 4 Strategy](https://www.youtube.com/watch?v=mNj6Z5CbUB0)
-  - [Beating Connect 4 with Brute Force](https://www.youtube.com/watch?v=i9pBeuBeupY)
-  - [I Solved Klotski](https://www.youtube.com/watch?v=YGLNyHd2w10)
-- [Tom Delalande](https://www.youtube.com/watch?v=7VSVfQcaxFY)
-  - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
-  - [The Perfect Dependency - SQLite Case Study](https://www.youtube.com/watch?v=ZP7ef4eVnac)
-  - [The Perfect Startup is the Boring One You've Never Heard Of - Case Study](https://www.youtube.com/watch?v=XtIh7tOpZsw)
+<ul style="margin-bottom: 0;">
+{%- for channel in site.data.interesting-youtube-channels -%}
+<li style="margin: 0;">
+  <a href="{{ channel.channel_url }}">{{ channel.channel_name }}</a>
+  {%- if channel.videos -%}
+  <ul style="margin-top: 0.25em; margin-bottom: 0;">
+    {%- for video in channel.videos -%}
+    <li style="margin: 0;"><a href="{{ video.url }}">{{ video.title }}</a></li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</li>
+{%- endfor -%}
+</ul>
 
 ## Videos
 
