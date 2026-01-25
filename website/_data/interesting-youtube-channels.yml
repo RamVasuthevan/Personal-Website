@@ -1,0 +1,244 @@
+- channel_name: "CGP Grey"
+  channel_url: https://www.youtube.com/@CGPGrey
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Wendover Productions"
+  channel_url: https://www.youtube.com/@Wendoverproductions/videos
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Sean Munger"
+  channel_url: https://www.youtube.com/@SeanMunger
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "1924: The Fascinating Forgotten Election"
+      url: https://www.youtube.com/watch?v=BPORWowONV8
+    - title: "Iran-Contra Explained: The Wall of Crazy Scandal"
+      url: https://www.youtube.com/watch?v=E6Ucn-Whh4g
+- channel_name: "Fredo Rockwell"
+  channel_url: https://www.youtube.com/@FredoRockwell
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "San Marino's 1957 Coup - The Rovereta Affair!"
+      url: https://www.youtube.com/watch?v=xlywur_QEx4
+- channel_name: "Harrison T. Brown"
+  channel_url: https://www.youtube.com/@harrisonbrown512
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Robert Moses: The Power Broker Who Built New York"
+      url: https://www.youtube.com/watch?v=TClOw5uPzhY
+- channel_name: "Spectacles"
+  channel_url: https://www.youtube.com/@spectacles-dm/videos
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Bloomberg law"
+  channel_url: https://www.youtube.com/@bloomberglaw
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Billion Dollar Lawsuits: When Litigation Finance Met Mass Torts"
+      url: https://www.youtube.com/watch?v=D9nqJXMXzRI
+    - title: "From Kirkland to Paul Weiss: The Rise of the Non-Equity Partner"
+      url: https://www.youtube.com/watch?v=LhqhZp9Kckg
+    - title: "How Best Buy, Apple, Nike, and Other Online Retailers Make Millions From California Tax Deals"
+      url: https://www.youtube.com/watch?v=mMQaI5fSyoo
+- channel_name: "EmperorTigerstar"
+  channel_url: https://www.youtube.com/@EmperorTigerstar
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "The Wrong Map of Syria No One Noticed"
+      url: https://www.youtube.com/watch?v=OAM9zw1eMPs
+    - title: "The Longest Papal Election in History"
+      url: https://www.youtube.com/watch?v=oR0-JGWrqkY
+- channel_name: "ThePrimeTime"
+  channel_url: https://www.youtube.com/@ThePrimeTimeagen
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "TheVimeagen"
+  channel_url: https://www.youtube.com/@TheVimeagen
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Fireship"
+  channel_url: https://www.youtube.com/c/Fireship
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "7 Database Paradigms"
+      url: https://www.youtube.com/watch?v=W2Z7fbCLSTw
+- channel_name: "Supabase"
+  channel_url: https://www.youtube.com/c/supabase
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "You don't need Supabase Auth - use this instead!"
+      url: https://www.youtube.com/watch?v=BPD7kxb5N84
+- channel_name: "The Operations Room"
+  channel_url: https://www.youtube.com/@TheOperationsRoom
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Sarcasmitron"
+  channel_url: https://www.youtube.com/@Sarcasmitron/
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "PolyMatter"
+  channel_url: https://www.youtube.com/@PolyMatter
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Preston Jacob"
+  channel_url: https://www.youtube.com/@PrestonJacobstheSweetrobin
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "House of the Dragon"
+      url: https://www.youtube.com/watch?v=b70_yYhiC7A&list=PLCsx_OFEYH6sQ-lZ_LvhDZKZhc3GwINok&index=2
+- channel_name: "Mark Felton Productions"
+  channel_url: https://www.youtube.com/@MarkFeltonProductions
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "William Spaniel"
+  channel_url: https://www.youtube.com/@Gametheory101
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "ThatsGoodSports"
+  channel_url: https://www.youtube.com/@thatsgoodsports
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Premodernist"
+  channel_url: https://www.youtube.com/@premodernist_history
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "The Reluctant President: Reelecting George Washington"
+      url: https://www.youtube.com/watch?v=1CSkUqMddgo
+    - title: "The election of George Washington was weirder than you think"
+      url: https://www.youtube.com/watch?v=DZO1O3CeW2w
+- channel_name: "theneedledrop"
+  channel_url: https://www.youtube.com/theneedledrop
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "fantano"
+  channel_url: https://www.youtube.com/@fantano
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Noj Rants"
+  channel_url: https://www.youtube.com/@nojrants/videos
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Elections in Russian/Soviet History"
+      url: https://www.youtube.com/watch?v=Cwt-UwzvbUI&list=PLiJsEffE2UigAHEQFIP0eSeqgJYJ6J8jt
+    - title: "The Wikipedia Elections Edit War"
+      url: https://youtu.be/OVIl_DJl5NU?si=YTc0GyWO7JzmCOMd
+    - title: "When Wikipedia has the Flag Wrong"
+      url: https://youtu.be/HgvB9aW98z8?si=zjiFktmAinsPaD08
+- channel_name: "Urbanist"
+  channel_url: https://www.youtube.com/@UrbanistAriel
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+- channel_name: "Volksgeist"
+  channel_url: https://www.youtube.com/@Volksgeist
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Rap's Misunderstood Genius: The Story of Future"
+      url: https://www.youtube.com/watch?v=NZ105XlGPus
+- channel_name: "Search Party"
+  channel_url: https://www.youtube.com/@SearchParty
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "How this little pill took over the Middle East"
+      url: https://www.youtube.com/watch?v=NKNTbbe_ifA
+    - title: "The country no one expected to dominate sumo"
+      url: https://www.youtube.com/watch?v=0KBcNYlRzNA
+- channel_name: "Chris and Jack"
+  channel_url: https://www.youtube.com/@ChrisandJack
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "A deal with the Devil"
+      url: https://www.youtube.com/watch?v=JTmvqcRHsD8
+- channel_name: "Sheafification of G"
+  channel_url: https://www.youtube.com/@SheafificationOfG
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "One second to compute the largest Fibonacci number I can"
+      url: https://www.youtube.com/watch?v=KzT9I1d-LlQ
+    - title: "Python laid waste to my C++!"
+      url: https://www.youtube.com/watch?v=02rh1NjJLI4&list=PL3JI_Wj02ehVoNlvqVbCrxdwE2sWmDO8O&index=2
+- channel_name: "jan Misali"
+  channel_url: https://www.youtube.com/@HBMmaster
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "a defense of the imperial measurement system"
+      url: https://www.youtube.com/watch?v=iJymKowx8cY
+- channel_name: "Technoblade"
+  channel_url: https://www.youtube.com/@Technoblade
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Skyblock: The Great Potato War"
+      url: https://www.youtube.com/watch?v=5qjnDd1rsII
+    - title: "Skyblock: Potato War 2"
+      url: https://www.youtube.com/watch?v=0PAEqgfAts4
+    - title: "Skyblock: Potato War 3 (FINALE)"
+      url: https://www.youtube.com/watch?v=09CeBwGbCeg
+- channel_name: "2swap"
+  channel_url: https://www.youtube.com/@twoswap
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Claimeven - Connect 4 Strategy"
+      url: https://www.youtube.com/watch?v=mNj6Z5CbUB0
+    - title: "Beating Connect 4 with Brute Force"
+      url: https://www.youtube.com/watch?v=i9pBeuBeupY
+    - title: "I Solved Klotski"
+      url: https://www.youtube.com/watch?v=YGLNyHd2w10
+- channel_name: "Tom Delalande"
+  channel_url: https://www.youtube.com/@TomDelalande
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "How 1 Software Engineer Outperforms 138 - Lichess Case Study"
+      url: https://www.youtube.com/watch?v=7VSVfQcaxFY
+    - title: "The Perfect Dependency - SQLite Case Study"
+      url: https://www.youtube.com/watch?v=ZP7ef4eVnac
+    - title: "The Perfect Startup is the Boring One You've Never Heard Of - Case Study"
+      url: https://www.youtube.com/watch?v=XtIh7tOpZsw
