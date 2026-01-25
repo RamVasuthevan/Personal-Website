@@ -242,3 +242,15 @@
       url: https://www.youtube.com/watch?v=ZP7ef4eVnac
     - title: "The Perfect Startup is the Boring One You've Never Heard Of - Case Study"
       url: https://www.youtube.com/watch?v=XtIh7tOpZsw
+- channel_name: "Lord Ravenscraft"
+  channel_url: https://www.youtube.com/@LordRavenscraft/videos
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: "Someone Had to Explain the Go Scene In Knives Out"
+      url: https://www.youtube.com/watch?v=ikZAj2_FFkA
+    - title: "Someone Had to Explain the Chess Scene In Sherlock Holmes: A Game of Shadows"
+      url: https://www.youtube.com/watch?v=Syef-sWQu9k
+    - title: "Well, Someone Had to Explain the Liar's Dice Scene In Pirates of the Caribbean: Dead Man's Chest"
+      url: https://www.youtube.com/watch?v=T44LuxdH0iw
