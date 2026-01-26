@@ -8,7 +8,7 @@ pymupdf = "1.23.26" # Pinned in dependabot
 pyyaml = "6.0.3"
 
 [dev-packages]
-black = "25.12.0"
+black = "26.1.0"
 
 [requires]
 python_version = "3.12"
