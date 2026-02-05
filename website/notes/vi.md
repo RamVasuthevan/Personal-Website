@@ -31,15 +31,15 @@ title: vi
 
 ### Keyboard Chains
 
-#### Select all, delete, paste, and save file: `ggVG d i CMD+V Esc :wq Enter`
+#### Select all, delete, paste, and save file: `ggVG d i ⌘V ⎋ :wq ↩`
 - **gg** to move the cursor to the beginning of the file
 - **V** to start linewise visual mode
 - **G** to move the cursor to the end of the file, selecting everything in between
 - **d** to delete the selected text
 - **i** to enter insert mode
-- **CMD+V** to paste copied text
-- **Esc** to exit insert mode
-- **:wq Enter** to save and exit
+- **⌘V** to paste copied text
+- **⎋** to exit insert mode
+- **:wq ↩** to save and exit
 
 ### Config
 
