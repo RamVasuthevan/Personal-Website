@@ -4,7 +4,7 @@
     {% if include.directory %}
         {% assign directory = include.directory %}
     {% else %}
-        {% assign directory = page.permalink %}
+        {% assign directory = page.permalink | default: page.url %}
     {% endif %}
     
     {% assign unsplash_image_src = "/assets/" | append: directory | append: "/" | append: include.name %}
