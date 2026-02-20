@@ -92,6 +92,11 @@ select null='Hello' , null!='Hello', null=null,null!=null;
 gives (null, null, null, null)
 
 
+## Changes I would want from Postgres
+
+1. There should be operator to extract a key from a JSONB which raise an expection if they key doesn't exist
+2. `GROUP BY ALL` like DuckDB
+
 To do:
 - Add `Using`
 - Add `Distinct on`
