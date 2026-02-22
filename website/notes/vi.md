@@ -5,6 +5,8 @@ title: vi
 
 ### Keyboard Shortcuts
 
+#### Normal mode
+
 `G` : Go to bottom of the page
 
 `$` : Go to the end of the line
@@ -12,14 +14,6 @@ title: vi
 `0` : Go to the start of the line
 
 `i` : Enter **insert mode**, where you can start typing text
-
-`:wq` : Save the file and quit Vi/Vim
-
-`w` : Save (but not close) file
-
-`:q` : Quit without saving any changes (will fail if there are unsaved changes)
-
-`:q!` : Quit without saving any changes (will force quit even if there are unsaved changes)
 
 `10j` : Move down 10 lines
 
@@ -29,7 +23,21 @@ title: vi
 
 `dG` : Delete from the current line to the end of file
 
-`%` : In command-line mode, expands to the current buffer's filename (e.g., `:!wc %`). Escape with `\%` for a literal `%` (e.g., `:!date "+\%G-w\%V-\%u"`)
+#### Command-line mode
+
+Type `:` from normal mode to enter command-line mode, then the command.
+
+`:w` : Save (but not close) file
+
+`:wq` : Save the file and quit Vi/Vim
+
+`:q` : Quit without saving any changes (will fail if there are unsaved changes)
+
+`:q!` : Quit without saving any changes (will force quit even if there are unsaved changes)
+
+`%` : In command-line mode, expands to the current buffer's filename (e.g., `:!wc %`). Escape with `\%` for a literal `%` (e.g., `:!date "+\%G-w\%V-\%u"`) 
+
+`:!code %` : Open the current file in VS Code/Cursor
 
 ### Keyboard Chains
 
