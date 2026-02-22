@@ -13,7 +13,7 @@ title: vi
 
 `i` : Enter **insert mode**, where you can start typing text
 
-`:wq` : Save the file and quit Vi/Vim
+`wq` : Save the file and quit Vi/Vim
 
 `w` : Save (but not close) file
 
@@ -30,6 +30,8 @@ title: vi
 `dG` : Delete from the current line to the end of file
 
 `%` : In command-line mode, expands to the current buffer's filename (e.g., `:!wc %`). Escape with `\%` for a literal `%` (e.g., `:!date "+\%G-w\%V-\%u"`)
+
+`:!code %` : Open the current file in VS Code/Cursor 
 
 ### Keyboard Chains
 
