@@ -38,3 +38,6 @@ title: cli
 
 12. `date "+%G-w%V-%u"`
     - Prints the [iso week date](https://en.wikipedia.org/wiki/ISO_week_date)
+
+13. ` cp ~/Downloads/"$(ls -tU ~/Downloads/ | head -1)" .`
+    - Copy the latest downloaded file from ~/Downloads to the current directory
