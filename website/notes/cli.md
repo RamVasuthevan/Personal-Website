@@ -41,3 +41,13 @@ title: cli
 
 13. ` cp ~/Downloads/"$(ls -tU ~/Downloads/ | head -1)" .`
     - Copy the latest downloaded file from ~/Downloads to the current directory
+
+14. `brew autoremove`
+    - Removes packages that were installed as dependencies but are no longer needed
+
+15. `brew leaves`
+    - Lists installed Homebrew packages that are not dependencies of other packages
+
+16. `brew cleanup`
+    - Removes old versions of installed packages and clears the download cache
+    - Use `brew cleanup --dry-run` to preview what would be removed first
