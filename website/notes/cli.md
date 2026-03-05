@@ -51,3 +51,10 @@ title: cli
 16. `brew cleanup`
     - Removes old versions of installed packages and clears the download cache
     - Use `brew cleanup --dry-run` to preview what would be removed first
+
+17. `ls -lt`
+    - Lists files sorted by modification time, newest first
+    - Add `-r` to reverse (oldest first): `ls -ltr`
+
+18. `ls -ltU`
+    - Lists files sorted by creation time, newest first (macOS only)
