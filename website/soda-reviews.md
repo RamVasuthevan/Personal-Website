@@ -190,3 +190,41 @@ header_title: Soda Review
 It doesn't really taste like a "classic soda," but it does taste like it's flavoured with fruit juices
 - Rating: 3/10
 - Would I have it again? No
+
+### 2025-03-16 Inca Kola
+{% include image.html
+   src="/assets/soda-review/2025-03-16_Inca_Kola.jpg"
+   alt="Photo of Inca Kola The Golden Kola"
+   width="400px"
+   license="Ram Parameswaran. All rights reserved."
+%}
+- Sweet taste, a fruit flavor — I can't tell which one
+- Not too much, not too little
+- Could be stronger
+- Rating: 6/10
+- Would I have it again? Maybe
+
+### 2025-10-12 Cove Soda Racinette
+{% include image.html
+   src="/assets/soda-review/2025-10-12_Cove_Soda_Racinette.jpg"
+   alt="Photo of Cove Soda Racinette"
+   width="400px"
+   license="Ram Parameswaran. All rights reserved."
+%}
+- Okay taste, bad aftertaste
+- Zero calories
+- Rating: 4/10
+- Would I have it again? No
+
+### 2026-03-25 Thirsty Buddha Cola à l'Ancienne
+{% include image.html
+   src="/assets/soda-review/2026-03-25_Thirsty_Buddha_Cola_a_lAncienne.jpg"
+   alt="Photo of Thirsty Buddha Cola à l'Ancienne"
+   width="400px"
+   license="Ram Parameswaran. All rights reserved."
+%}
+- Bought from [Vinifera](https://www.torontopearson.com/en/while-you-are-here/shop-dine-and-relax/dining/vinifera) <!-- Pearson Airport, Toronto, ON -->
+- Not good
+- Not sweet enough, not bubbly, poor flavor
+- Rating: 1/10
+- Would I have it again? No
