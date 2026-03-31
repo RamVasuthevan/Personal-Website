@@ -1,13 +1,15 @@
-{% for article in include.articles %}
-<p>
-    <a href="{{article.url}}">{{article.title}}</a> {% if article.author %}— {{article.author}} {% endif %}
-    <br>
-    {% if article.publication %}
-    {{article.publication}}
-    <br>
-    {% endif %}
-    {% if article.note %}
-    <span class="collections-note">{{article.note | markdownify | remove: '<p>' | remove: '</p>'  }}</span>
-    {% endif %}
-</p>
-{% endfor %}
+{% if include.articles %}
+  {% for article in include.articles %}
+  <p>
+      <a href="{{article.url}}">{{article.title}}</a> {% if article.author %}— {{article.author}} {% endif %}
+      <br>
+      {% if article.publication %}
+      {{article.publication}}
+      <br>
+      {% endif %}
+      {% if article.note %}
+      <span class="collections-note">{{article.note | markdownify | remove: '<p>' | remove: '</p>'  }}</span>
+      {% endif %}
+  </p>
+  {% endfor %}
+{% endif %}
