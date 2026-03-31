@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 locale: en-CA 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ramvasuthevan.ca" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: RamVasuthevan
 github_username:  RamVasuthevan
 linkedin_username: RamVasuthevan
@@ -52,11 +53,11 @@ social:
 theme: minima
 
 header_pages:
-  - bitsbipsbricks.markdown
-  - thinking-about.markdown
-  - quake-articles.markdown
-  - tools.markdown
-  - project-ideas.markdown
+  - bitsbipsbricks.md
+  - thinking-about.md
+  - quake-articles.md
+  - tools.md
+  - notes.html
   - all-pages.html
 
 feed:

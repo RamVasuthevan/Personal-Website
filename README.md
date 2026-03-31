@@ -27,3 +27,9 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 
 #### Preview
 - RUBY_VERSION=3.2.2
+
+(See [this](https://chatgpt.com/c/67871672-aec8-8013-b80d-78d0e6ca6a75))
+
+## Photo of the Day
+
+- 2024-07-04 and before are good for Photo of the Day

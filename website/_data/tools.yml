@@ -168,3 +168,36 @@
   url: https://iabot.wmcloud.org/index.php?page=runbotsingle
   author: cyberpower678
   note: Replaces broken external links with archive links on Wikipedia
+- title: SVG Viewer
+  url: https://www.svgviewer.dev/
+  author: Checker Software
+  note: "Edit, view and optimize SVG as text"
+- title: tldraw
+  url: https://tldraw.com/
+  author: Steve Ruiz
+  note: Online whiteboard which feels magical to use
+- title: "Textise"
+  url: https://textise.net/
+  author: Subjunctive Software
+  note: Generate text-only versions of web pages
+- title: "DenCode"
+  url: https://dencode.com/
+  author: mozq
+  note: Encoding and decoding strings between formats, including into camel, kebab and snake case
+- title: "JSON Formatter & Validator"
+  url: https://picsum.photos/
+  author: DMarby
+  note: Easy to use, stylish placeholders
+- title: "Read Scott Alexander"
+  url: https://readscottalexander.com/
+  author: Robin 
+  private_note: Source for author from [Robin's comment Open Thread 344](https://www.astralcodexten.com/p/open-thread-344/comment/66778536)
+  note: A database for exploring the writing of Scott Alexander of [SSC](https://slatestarcodex.com/) and [ACX](https://www.astralcodexten.com/) fame
+- title: "The Codex Community Corpus"
+  url: https://codexcc.neocities.org/
+  author: Jenn
+  note: Database of entries to the [ACX](https://www.astralcodexten.com/) review contests
+- title: "Cloudflare Speed Test"
+  url: https://speed.cloudflare.com/
+  author: Cloudflare
+  note: Test your internet speed

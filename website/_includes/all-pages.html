@@ -12,17 +12,20 @@
 
 {% for page in sorted_pages %}
   {% if page.title %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
+    {% unless page.path contains 'redirected/' %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endunless %}
   {% endif %}
 {% endfor %}
+
 {% for page in sorted_pages %}
-  {% unless page.title %}
+  {% unless page.title or page.path contains 'redirected/' %}
     <li>
       <a href="{{ page.url }}">{{ page.path }}</a>
     </li>
   {% endunless %}
 {% endfor %}
 
-</ul> 
+</ul>

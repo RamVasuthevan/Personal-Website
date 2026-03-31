@@ -144,3 +144,10 @@
       author: C.Y. Wong
       date_published: 2022-07-7
       note: Using regex to insert datetime in 12-hour (AM/MM) format with VS Code snippets
+- name: Automator
+  items:
+    - title: Is there a keyboard shortcut (hotkey) to open Terminal in macOS?
+      url: https://stackoverflow.com/questions/35954184/is-there-a-keyboard-shortcut-hotkey-to-open-terminal-in-macos
+      author: Rob Mayoff
+      date_published: 2024-09-17
+      note: Use Automator to setup a keyboard shortcut to open Terminal

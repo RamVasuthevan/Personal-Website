@@ -54,3 +54,18 @@
   padding: 10px 15px;
   cursor: pointer;
 }
+
+// Keycap styling for keyboard shortcuts
+.post-content kbd {
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px #fff inset;
+  color: #333;
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.85em;
+  line-height: 1.2;
+  padding: 0 0.4em;
+  white-space: nowrap;
+}
