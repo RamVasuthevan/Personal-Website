@@ -201,3 +201,10 @@
   url: https://speed.cloudflare.com/
   author: Cloudflare
   note: Test your internet speed
+- title: "Quartermaester"
+  url: https://quartermaester.info/
+  author: theMountainGoat
+  note: Interactive Game of Thrones map with spoiler control and character path tracking
+- title: "A Search of Ice and Fire"
+  url: https://asearchoficeandfire.com/
+  note: Search the full text of the A Song of Ice and Fire books
