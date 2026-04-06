@@ -12,7 +12,7 @@ title: Random Page
         var pages = [
             {% assign all_pages = site.pages | concat: site.posts %}
             {% for page in all_pages %}
-                {% unless page.url contains 'random.html' contains 'robots.txt' or page.url contains '.scss' or page.url contains '.css' or page.url contains '.xml' %}
+                {% unless page.url contains 'random.html' or page.url contains 'robots.txt' or page.url contains '.scss' or page.url contains '.css' or page.url contains '.xml' %}
                     "{{ page.url }}",
                 {% endunless %}
             {% endfor %}
