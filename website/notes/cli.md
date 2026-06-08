@@ -58,3 +58,18 @@ title: cli
 
 18. `ls -ltU`
     - Lists files sorted by creation time, newest first (macOS only)
+
+19. `dig +short TXT example.com`
+    - Looks up DNS records for a domain (`dig` ships with macOS)
+    - Swap `TXT` for the record type you want: `A`, `AAAA`, `MX`, `NS`, `SOA`, `CNAME`, `CAA`
+    - `+short` trims the output to just the answer; drop it to see TTLs and full sections
+    - SPF records live in `TXT`; DMARC lives in `TXT` at `_dmarc.example.com`
+    - There's no single command to dump every record — `dig example.com ANY` is mostly dead since most resolvers refuse `ANY` (RFC 8482), so query each type instead:
+        ```fish
+        for t in A AAAA MX TXT NS SOA CNAME CAA SRV
+            echo "=== $t ==="
+            dig +short $t example.com
+        end
+        ```
+    - Query a specific resolver to bypass your local cache: `dig @8.8.8.8 +short TXT example.com`
+    - Trace the full delegation chain: `dig +trace example.com`
