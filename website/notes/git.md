@@ -30,3 +30,7 @@ title: git
         - `git config --global difftool.code.cmd 'code --wait --diff --reuse-window "$LOCAL" "$REMOTE"'` (Set code as a diff tool)
         - `git config --global diff.tool code` (Set code as the default diff tool)
         - `git config --global difftool.prompt false` (Disable the per file diff permission) 
+
+9. `git add --intent-to-add .` (or `git add -N .`)
+    - Marks untracked files as known to git without staging
+    - By default, untracked files don't show up in `git diff`
