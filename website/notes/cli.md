@@ -59,7 +59,6 @@ title: cli
 18. `ls -ltU`
     - Lists files sorted by creation time, newest first (macOS only)
 
-19. `dig +short TXT example.com`
-    - Look up DNS records for a domain (`dig` ships with macOS)
-    - `+short` trims to just the answer
-    - Add `@8.8.8.8` to hit Google's resolver instead of your configured one — handy for checking DNS propagation
+19. `dig @8.8.8.8 +short TXT example.com`
+    - Look up DNS records for a domain
+    - `@8.8.8.8` sends the query to Google's resolver; without it `dig` uses your configured resolver (router/ISP) — pinning a public one is handy for checking DNS propagation
