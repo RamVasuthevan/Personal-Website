@@ -32,7 +32,8 @@ title: git
         - `git config --global difftool.prompt false` (Disable the per file diff permission) 
 
 9. `git log @{u}..HEAD --oneline`
-    - Lists commits on the current branch that are not on its upstream. Useful for seeing unpushed commits.
+    - Lists commits on the current branch that are not on the upstream branch. Useful for seeing unpushed commits.
 
 10. `git cherry -v`
-    - Lists commits on the current branch that are not in the upstream branch. Uses patch-id comparison (not SHA), so it detects commits that have been cherry-picked or rebased into upstream with different SHAs.
+    - Lists commits on the current branch that are not on the upstream branch. Useful for seeing unpushed commits.
+    - Compares commits by patch-id (a hash of the changes a commit introduces, ignoring message, author, and date) instead of by SHA, so it detects commits that have been cherry-picked or rebased into upstream with different SHAs.
