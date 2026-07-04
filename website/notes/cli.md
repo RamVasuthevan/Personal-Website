@@ -60,8 +60,6 @@ title: cli
     - Lists files sorted by creation time, newest first (macOS only)
 
 19. `dig +short TXT example.com`
-    - Looks up DNS records for a domain (`dig` ships with macOS)
-    - Swap `TXT` for the record type: `A`, `AAAA`, `MX`, `NS`, `SOA`, `CNAME`, `CAA`
-    - `+short` trims to just the answer; drop it for TTLs and full sections
-    - No command dumps every record — `ANY` is mostly dead (RFC 8482), so query each type
+    - Look up DNS records for a domain (`dig` ships with macOS)
+    - `+short` trims to just the answer
     - Add `@8.8.8.8` to query a specific resolver and bypass your local cache
