@@ -61,4 +61,4 @@ title: cli
 
 19. `dig @8.8.8.8 +short TXT example.com`
     - Look up DNS records for a domain
-    - `@8.8.8.8` sends the query to Google's resolver; without it `dig` uses your configured resolver (router/ISP) — pinning a public one is handy for checking DNS propagation
+    - `@8.8.8.8` sends the query to Google's resolver (useful for checking DNS propagation). Without explicitly setting a resolver (`@...`), your configured resolver (router/ISP) is used
