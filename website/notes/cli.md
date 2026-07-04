@@ -62,4 +62,4 @@ title: cli
 19. `dig +short TXT example.com`
     - Look up DNS records for a domain (`dig` ships with macOS)
     - `+short` trims to just the answer
-    - Add `@8.8.8.8` to query a specific resolver and bypass your local cache
+    - Add `@8.8.8.8` to hit Google's resolver instead of your configured one — handy for checking DNS propagation
