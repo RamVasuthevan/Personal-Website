@@ -36,3 +36,7 @@ title: git
 
 11. `git config --global difftool.prompt false`
     - Disables the per-file diff permission prompt
+
+12. `git add --intent-to-add .` (or `git add -N .`)
+    - Marks untracked files as known to git without staging
+    - By default, untracked files don't show up in `git diff`
