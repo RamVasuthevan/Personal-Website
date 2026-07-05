@@ -54,3 +54,7 @@
   url: http://fen2svg.com/
   description: Convert [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) string to an svg image of a chess board
   selected: true
+- name: Ontario Provincial Owned Heritage Properties
+  url: https://ontario-provincial-owned-heritage-properties.ramvasuthevan.ca
+  description: A [list](https://www.pastport.mtc.gov.on.ca/OHPWeb/ohp/ohpSearch.xhtml) of heritage properties owned by prescribed public bodies under [Ontario Regulation 157/10](https://www.ontario.ca/laws/regulation/r10157) in accordance with the [Ontario Heritage Act](https://www.ontario.ca/laws/statute/90o18#BK28)
+  selected: false
