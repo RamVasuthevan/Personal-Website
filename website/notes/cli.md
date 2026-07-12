@@ -58,3 +58,7 @@ title: cli
 
 18. `ls -ltU`
     - Lists files sorted by creation time, newest first (macOS only)
+
+19. `dig @8.8.8.8 +short TXT example.com`
+    - Look up DNS records for a domain
+    - `@8.8.8.8` sends the query to Google's resolver (useful for checking DNS propagation). Without explicitly setting a resolver (`@...`), your configured resolver (router/ISP) is used
