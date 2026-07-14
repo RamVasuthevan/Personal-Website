@@ -7,12 +7,12 @@ title: Google Photos
 - [Google Photos Search Documentation](https://support.google.com/photos/answer/15235862)
 
 1. `"PXL_20260709_233247707"`
-    - Exact filename search — paste into the search box, quotes included
-    - Quotes force exact-text matching on filenames, captions, and OCR'd text; without quotes results are fuzzy
+    - Searches for an exact filename. Include the quotes
+    - Quotes match exact text in filenames, captions, and text inside photos. Without quotes, results are fuzzy
 
 2. `photos.google.com/search/<base64 token>`
-    - What the URL becomes after a search runs: base64url-encoded protobuf of the query plus a timestamp — a frozen snapshot, safe to bookmark
-    - A working URL for any filename can be minted by building the token:
+    - Search URLs are a base64-encoded protobuf of the query and a timestamp
+    - Builds a search URL for any filename:
 
       ```python
       import base64, time
