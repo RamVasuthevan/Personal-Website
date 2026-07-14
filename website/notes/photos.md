@@ -22,19 +22,43 @@ title: Google Photos
     - Build a search URL for any filename:
 
       ```python
-      import base64, time
+      import base64
+      import time
 
-      def photos_search_url(q):
-          def v(n):
-              out = b""
-              while True:
-                  b = n & 0x7F; n >>= 7
-                  out += bytes([b | (0x80 if n else 0)])
-                  if not n: return out
-          def ld(f, p): return bytes([f << 3 | 2]) + v(len(p)) + p
-          qb = f'"{q}"'.encode()
-          m = ld(1, qb) + ld(4, ld(1, qb)) + b"(" + v(int(time.time() * 1000)) + b"8\x03"
-          return "https://photos.google.com/search/" + base64.urlsafe_b64encode(m).decode().rstrip("=")
+      WIRE_VARINT = 0
+      WIRE_LEN = 2  # length-delimited: strings, bytes, nested messages
+
+      def encode_varint(value: int) -> bytes:
+          # 7 bits per byte, least-significant group first; high bit = more follows
+          out = bytearray()
+          while True:
+              byte = value & 0x7F
+              value >>= 7
+              if value:
+                  out.append(byte | 0x80)
+              else:
+                  out.append(byte)
+                  return bytes(out)
+
+      def encode_tag(field_number: int, wire_type: int) -> bytes:
+          return encode_varint((field_number << 3) | wire_type)
+
+      def encode_len_field(field_number: int, payload: bytes) -> bytes:
+          return encode_tag(field_number, WIRE_LEN) + encode_varint(len(payload)) + payload
+
+      def encode_varint_field(field_number: int, value: int) -> bytes:
+          return encode_tag(field_number, WIRE_VARINT) + encode_varint(value)
+
+      def photos_search_url(q: str) -> str:
+          query = f'"{q}"'.encode()  # quotes are search syntax: exact match
+          message = (
+              encode_len_field(1, query)                         # executed query
+              + encode_len_field(4, encode_len_field(1, query))  # display query
+              + encode_varint_field(5, int(time.time() * 1000))  # timestamp (ms)
+              + encode_varint_field(7, 3)                        # search-type enum
+          )
+          token = base64.urlsafe_b64encode(message).decode().rstrip("=")
+          return "https://photos.google.com/search/" + token
 
       print(photos_search_url("PXL_20260709_233247707"))
       ```
