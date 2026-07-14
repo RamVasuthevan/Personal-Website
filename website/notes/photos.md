@@ -10,7 +10,7 @@ title: Google Photos
 
 1. Search for images by filename
     - Quotes match exact text in filenames, captions, and text inside photos
-    - eg `"PXL_20260709_233247707"`
+    - eg `"PXL_20260709_233247707.jpg"` or `"PXL_20260709"` or `"Fnu thanked you for your Tip"`
 
 2. Build a Google Photos search URL
     - Search URLs are a base64url-encoded protobuf holding:
