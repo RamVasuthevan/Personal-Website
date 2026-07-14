@@ -3,74 +3,42 @@ layout: page
 title: git
 ---
 
-## List Commits in a Compact Format
+1. `git log --oneline`
+    - Lists all commits in the repository in a compact, one-line format
 
-`git log --oneline`
+2. `git commit --allow-empty -m "Empty commit"`
+    - Creates an empty commit with the message "Empty commit"
 
-Lists all commits in the repository in a compact, one-line format.
+3. `git commit --allow-empty --allow-empty-message -m ""`
+    - Creates an empty commit with an empty message. Creates an empty commit with an empty message. Useful for triggering CI pipelines and allowing for the creation of GitHub pull request
 
-## Create an Empty Commit
+4. `git reset --soft HEAD~1`
+    - Resets the current branch to the previous commit, keeping the changes in the staging area
 
-`git commit --allow-empty -m "Empty commit"`
+5. `git fetch --prune`
+    - Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote — local branches are never touched
+    - Prune without fetching: `git remote prune origin`
+    - After pruning, `git branch -vv` marks local branches whose remote is gone with `[origin/...: gone]` — usually means the PR was merged (squash merges hide this from `git branch -d`, so `-D` is needed)
+    - Make every fetch/pull auto-prune: `git config --global fetch.prune true`
 
-Creates an empty commit with the message "Empty commit".
+6. `git diff main..HEAD`
+    - See diff for changes on your branch but not on main (one way)
 
-## Create an Empty Commit with an Empty Message
+7. `git diff main...HEAD`  
+    - See diff for change between your brnach and main (two way)
 
-`git commit --allow-empty --allow-empty-message -m ""`
+8. `git difftool --staged --tool=code`
+    - Opens the staged changes with the `code` diff tool 
+    - Needs to be setup with:
+        - `git config --global difftool.code.cmd 'code --wait --diff --reuse-window "$LOCAL" "$REMOTE"'` (Set code as a diff tool)
+        - `git config --global diff.tool code` (Set code as the default diff tool)
+        - `git config --global difftool.prompt false` (Disable the per file diff permission) 
 
-Useful for triggering CI pipelines and allowing for the creation of GitHub pull requests.
+9. `git add --intent-to-add .` (or `git add -N .`)
+    - Marks untracked files as known to git without staging
+    - By default, untracked files don't show up in `git diff`
 
-## Undo the Last Commit, Keeping Changes Staged
-
-`git reset --soft HEAD~1`
-
-Resets the current branch to the previous commit, keeping the changes in the staging area.
-
-## Remove Stale Remote-Tracking Refs
-
-`git fetch --prune`
-
-Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote. Local branches are never touched. To prune without fetching, use `git remote prune origin`.
-
-After pruning, `git branch -vv` marks local branches whose remote is gone with `[origin/...: gone]`. This usually means the PR was merged. Squash merges hide this from `git branch -d`, so `-D` is needed.
-
-To make every fetch and pull auto-prune:
-
-```bash
-git config --global fetch.prune true
-```
-
-## See Diff for Changes on Your Branch but Not on Main (One Way)
-
-`git diff main..HEAD`
-
-## See Diff for Changes Between Your Branch and Main (Two Way)
-
-`git diff main...HEAD`
-
-## Open Staged Changes in the VS Code Diff Tool
-
-`git difftool --staged --tool=code`
-
-Needs to be set up with:
-
-```bash
-git config --global difftool.code.cmd 'code --wait --diff --reuse-window "$LOCAL" "$REMOTE"' # Set code as a diff tool
-git config --global diff.tool code             # Set code as the default diff tool
-git config --global difftool.prompt false      # Disable the per file diff permission
-```
-
-## Mark Untracked Files as Known to Git Without Staging
-
-`git add --intent-to-add .` (or `git add -N .`)
-
-By default, untracked files don't show up in `git diff`.
-
-## List Unpushed Commits
-
-`git log @{u}..HEAD --oneline`
-
-Lists commits on the current branch that aren't on its upstream (`@{u}`). Branch-agnostic, so it works on any branch without hardcoding `main`.
-
-`git cherry -v` is an alternative that also detects patch-equivalent commits (`+` = unpushed, `-` = already upstream in some form).
+10. `git log @{u}..HEAD --oneline`
+    - Lists unpushed commits: commits on the current branch that aren't on its upstream (`@{u}`)
+    - Branch-agnostic — works on any branch without hardcoding `main`
+    - Alternative: `git cherry -v` also detects patch-equivalent commits (`+` = unpushed, `-` = already upstream in some form)
