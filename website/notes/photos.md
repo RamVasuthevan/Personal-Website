@@ -6,6 +6,8 @@ title: Google Photos
 ## Links
 - [Google Photos Search Documentation](https://support.google.com/photos/answer/15235862)
 
+## Notes
+
 1. `"PXL_20260709_233247707"`
     - Quotes match exact text in filenames, captions, and text inside photos
 
