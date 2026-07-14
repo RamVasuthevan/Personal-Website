@@ -12,7 +12,8 @@ title: Google Photos
     - Quotes match exact text in filenames, captions, and text inside photos
 
 2. `photos.google.com/search/<base64 token>`
-    - Search URLs are a base64url-encoded protobuf. It holds the query string twice (field 1: the executed query, field 4: the display query shown in the search box), the time the search ran as a millisecond timestamp (field 5), and a search-type enum (field 7)
+    - Search URLs are a base64url-encoded protobuf
+    - The protobuf holds the query string twice (field 1: the executed query, field 4: the display query shown in the search box), the time the search ran as a millisecond timestamp (field 5), and a search-type enum (field 7)
     - Builds a search URL for any filename:
 
       ```python
