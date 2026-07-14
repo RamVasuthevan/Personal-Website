@@ -4,17 +4,13 @@ title: Google Photos
 ---
 
 ## Links
-- [Search by people, things & places in your photos](https://support.google.com/photos/answer/15235862)
+- [Google Photos Search Documentation](https://support.google.com/photos/answer/15235862)
 
 1. `"PXL_20260709_233247707"`
     - Exact filename search — paste into the search box, quotes included
     - Quotes force exact-text matching on filenames, captions, and OCR'd text; without quotes results are fuzzy
-    - Typing it as a URL (`photos.google.com/search/%22...%22`) does not work — the redirect mangles underscored filenames (drops the date segment)
 
-2. `July 9, 2026`
-    - Date search — works in the search box and as a URL: `photos.google.com/search/July%209%2C%202026`
-
-3. `photos.google.com/search/<base64 token>`
+2. `photos.google.com/search/<base64 token>`
     - What the URL becomes after a search runs: base64url-encoded protobuf of the query plus a timestamp — a frozen snapshot, safe to bookmark
     - A working URL for any filename can be minted by building the token:
 
@@ -35,6 +31,3 @@ title: Google Photos
 
       print(photos_search_url("PXL_20260709_233247707"))
       ```
-
-4. `PXL_<YYYYMMDD>_<HHMMSS>` filenames are UTC
-    - An evening photo in Toronto is stamped with the next day's date
