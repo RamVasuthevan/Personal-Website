@@ -286,3 +286,8 @@
   note: ""
   display_on_page: true
   reviewed_for_display_on_page: false
+- channel_name: "Ryan Holiday"
+  channel_url: https://www.youtube.com/@RyanHolidayOfficial
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
