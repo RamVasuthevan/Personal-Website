@@ -18,8 +18,6 @@ title: git
 5. `git fetch --prune`
     - Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote — local branches are never touched
     - Prune without fetching: `git remote prune origin`
-    - After pruning, `git branch -vv` marks local branches whose remote is gone with `[origin/...: gone]` — usually means the PR was merged (squash merges hide this from `git branch -d`, so `-D` is needed)
-    - Make every fetch/pull auto-prune: `git config --global fetch.prune true`
 
 6. `git diff main..HEAD`
     - See diff for changes on your branch but not on main (one way)
