@@ -276,3 +276,8 @@
       url: https://www.youtube.com/watch?v=hJbwyN4ZoCg&t=30s
     - title: '"The Making of an Investment Banker," With Jim Donovan'
       url: https://www.youtube.com/watch?v=3Pk8EmyK7kw
+- channel_name: "Jordan has no life"
+  channel_url: https://www.youtube.com/@jordanhasnolife5163
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
