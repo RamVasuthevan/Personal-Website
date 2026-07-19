@@ -262,3 +262,17 @@
   videos:
     - title: 'The "Open Marriage" to Divorce Pipeline | A Review of Two Articles'
       url: https://www.youtube.com/watch?v=Em0ukXd_ZbE&t=2462s
+- channel_name: "University of Virginia School of Law"
+  channel_url: https://www.youtube.com/@uvalaw
+  note: ""
+  display_on_page: true
+  reviewed_for_display_on_page: false
+  videos:
+    - title: 'Managing Client Relationships as an Investment Banker, Lawyer or Consultant'
+      url: https://www.youtube.com/watch?v=z8kqCIxXTEw
+    - title: '"Are You Destined to Deal?" With Goldman Sachs Managing Director Jim Donovan'
+      url: https://www.youtube.com/watch?v=RpUJfW4WTKw
+    - title: '"Secrets to Optimal Client Service," With Jim Donovan'
+      url: https://www.youtube.com/watch?v=hJbwyN4ZoCg&t=30s
+    - title: '"The Making of an Investment Banker," With Jim Donovan'
+      url: https://www.youtube.com/watch?v=3Pk8EmyK7kw
