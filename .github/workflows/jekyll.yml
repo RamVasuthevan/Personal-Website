@@ -10,30 +10,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - name: Cache dependencies
-        id: cache
-        uses: actions/cache@v6
-        with:
-          path: website/vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('website/Gemfile.lock') }}
-      
-      - name: Get Ruby version from Gemfile
-        # The Gemfile may hold a constraint like ~> 3.2.0; setup-ruby only
-        # accepts a version, so reduce to major.minor (= latest patch of it).
-        run: echo "RUBY_VERSION=$(grep -oP '(?<=ruby ")[^"]*' website/Gemfile | grep -oP '\d+\.\d+' | head -1)" >> $GITHUB_ENV
 
-      - name: Set up Ruby
+      - name: Set up Ruby and install gems
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ env.RUBY_VERSION }}
+          # Ruby version comes from website/.ruby-version;
+          # bundler-cache installs the gems and caches them.
           bundler-cache: true
           working-directory: './website'
 
-      - name: Get dependencies if cache miss
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          cd website
-          bundle install --jobs 4 --retry 3 --path vendor/bundle
       - name: Build site and check for warnings or errors
         run: |
           cd website
