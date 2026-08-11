@@ -1,4 +1,4 @@
-name: Jekyll Build Errors and Warnings
+name: Jekyll Build (Strict Mode)
 
 on:
   workflow_dispatch:
@@ -31,9 +31,7 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           cd website
-          bundle install --jobs 4 --retry 3 --path vendor/bundle
-      - name: Build site and check for warnings or errors
-        run: |
-          cd website
-          bundle exec jekyll build 2>&1 | tee build.log
-          ! grep -E 'warning|error' build.log
+          bundle config set --local path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
+      - name: Build site with strict mode
+        run: make build

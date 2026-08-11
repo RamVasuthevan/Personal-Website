@@ -52,6 +52,12 @@ social:
 # Build settings
 theme: minima
 
+# Strict mode for error detection in CI/CD
+liquid:
+  error_mode: strict
+  strict_variables: true
+  strict_filters: true
+
 header_pages:
   - bitsbipsbricks.md
   - thinking-about.md
