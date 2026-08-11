@@ -14,8 +14,6 @@ jobs:
       - name: Set up Ruby and install gems
         uses: ruby/setup-ruby@v1
         with:
-          # Ruby version comes from website/.ruby-version;
-          # bundler-cache installs the gems and caches them.
           bundler-cache: true
           working-directory: './website'
 
