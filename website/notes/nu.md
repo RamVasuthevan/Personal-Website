@@ -13,6 +13,8 @@ Useful commands
 - where
 - first
 - get
+- [from json --objects](https://www.nushell.sh/commands/docs/from_json.html) parses JSONL, treating each line as a separate JSON object (e.g. `open data.jsonl | from json --objects`)
+- [table --expand](https://www.nushell.sh/commands/docs/table.html) renders nested records inline instead of collapsing them to `{record 1 field}`
 - [explore](https://www.nushell.sh/book/explore.html) is a pager like [less](https://en.wikipedia.org/wiki/Less_(Unix)) but for tables in nushell
 
 References:
