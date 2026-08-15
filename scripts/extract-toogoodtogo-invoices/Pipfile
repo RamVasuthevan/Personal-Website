@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pymupdf = "1.23.26" # Pinned in dependabot
+pymupdf = "1.28.2" # Pinned in dependabot; bumped from 1.23.26 for Python 3.14 wheels
 pyyaml = "6.0.3"
 
 [dev-packages]
 black = "26.5.1"
 
 [requires]
-python_version = "3.12"
+python_version = "3.14"
