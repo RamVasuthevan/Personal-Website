@@ -8,7 +8,7 @@ BUNDLER_VERSION := $(shell grep -A1 'BUNDLED WITH' $(SITE)/Gemfile.lock | tail -
 RBENV           := eval "$$(rbenv init - bash)"
 
 check-rbenv:
-	@command -v rbenv >/dev/null || { echo "rbenv not found; install it: https://github.com/rbenv/rbenv#installation"; exit 1; }
+	@command -v rbenv >/dev/null || { echo "rbenv not found"; exit 1; }
 
 ruby: check-rbenv
 	rbenv install -s $(RUBY_VERSION)
