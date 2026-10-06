@@ -1,12 +1,24 @@
-.PHONY: install serve clean
+.PHONY: check-rbenv bootstrap install serve clean
 
 SHELL := /bin/bash
 
-install:
-	cd website && eval "$$(rbenv init -)" && bundle install
+SITE            := website
+RUBY_VERSION    := $(shell cat $(SITE)/.ruby-version)
+BUNDLER_VERSION := $(shell grep -A1 'BUNDLED WITH' $(SITE)/Gemfile.lock | tail -1 | tr -d ' ')
+RBENV           := eval "$$(rbenv init - bash)"
+
+check-rbenv:
+	@command -v rbenv >/dev/null || { echo "rbenv not found"; exit 1; }
+
+bootstrap: check-rbenv
+	rbenv install -s $(RUBY_VERSION)
+	cd $(SITE) && $(RBENV) && gem install bundler -v $(BUNDLER_VERSION)
+
+install: bootstrap
+	cd $(SITE) && $(RBENV) && bundle install
 
 serve:
-	cd website && eval "$$(rbenv init -)" && bundle exec jekyll serve --livereload --port 4000
+	cd $(SITE) && $(RBENV) && bundle exec jekyll serve --livereload --port 4000
 
 clean:
-	cd website && rm -rf _site/
+	cd $(SITE) && rm -rf _site/
