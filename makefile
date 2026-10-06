@@ -1,4 +1,4 @@
-.PHONY: check-rbenv ruby install serve clean
+.PHONY: check-rbenv bootstrap install serve clean
 
 SHELL := /bin/bash
 
@@ -10,11 +10,11 @@ RBENV           := eval "$$(rbenv init - bash)"
 check-rbenv:
 	@command -v rbenv >/dev/null || { echo "rbenv not found"; exit 1; }
 
-ruby: check-rbenv
+bootstrap: check-rbenv
 	rbenv install -s $(RUBY_VERSION)
 	cd $(SITE) && $(RBENV) && gem install bundler -v $(BUNDLER_VERSION)
 
-install: ruby
+install: bootstrap
 	cd $(SITE) && $(RBENV) && bundle install
 
 serve:
