@@ -23,10 +23,10 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 ### CloudFlare Pages Env Variables 
 
 #### Production
-- RUBY_VERSION=3.2.2
+- RUBY_VERSION=4.0.7
 
 #### Preview
-- RUBY_VERSION=3.2.2
+- RUBY_VERSION=4.0.7
 
 (See [this](https://chatgpt.com/c/67871672-aec8-8013-b80d-78d0e6ca6a75))
 
