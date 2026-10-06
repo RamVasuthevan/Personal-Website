@@ -122,7 +122,7 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 RUBY VERSION
-  ruby 4.0.7
+  ruby 3.4.4
 
 BUNDLED WITH
   4.0.20
