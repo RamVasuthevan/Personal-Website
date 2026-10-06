@@ -4,7 +4,7 @@ SHELL := /bin/bash
 RBENV := eval "$$(rbenv init - bash)"
 
 ruby:
-	@command -v rbenv >/dev/null || { echo "rbenv missing: brew install rbenv"; exit 1; }
+	@command -v rbenv >/dev/null || { echo "rbenv not found; install it: https://github.com/rbenv/rbenv#installation"; exit 1; }
 	cd website && rbenv install -s
 	cd website && $(RBENV) && gem install bundler -v "$$(awk '/BUNDLED WITH/{getline; print $$1}' Gemfile.lock)"
 
