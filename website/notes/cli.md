@@ -62,3 +62,8 @@ title: cli
 19. `dig @8.8.8.8 +short TXT example.com`
     - Look up DNS records for a domain
     - `@8.8.8.8` sends the query to Google's resolver (useful for checking DNS propagation). Without explicitly setting a resolver (`@...`), your configured resolver (router/ISP) is used
+
+20. `softwareupdate --list`
+    - Lists available macOS updates (OS, Safari, etc.) with their label, version, size, and whether a restart is needed
+    - Add `--no-scan` to use the results of the last scan instead of checking Apple's servers again
+    - Install specific updates by label: `sudo softwareupdate --install "<label>" --restart`
