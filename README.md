@@ -20,15 +20,12 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 3. Start vendoring dependencies 
 
 
-### CloudFlare Pages Env Variables 
+### CloudFlare Pages Settings
 
-#### Production
-- RUBY_VERSION=3.4.4
-
-#### Preview
-- RUBY_VERSION=3.4.4
-
-(See [this](https://chatgpt.com/c/67871672-aec8-8013-b80d-78d0e6ca6a75))
+- Build system version: 3
+- Build command: `bundle exec jekyll build`
+- Root directory: `website`
+- No environment variables needed. The Ruby version comes from `website/.ruby-version`
 
 ## Photo of the Day
 
