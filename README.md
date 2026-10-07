@@ -25,7 +25,8 @@ No db. Manually editing files. Deploying the website using Cloudflare Pages.
 - Build system version: 3
 - Build command: `bundle exec jekyll build`
 - Root directory: `website`
-- No environment variables needed. The Ruby version comes from `website/.ruby-version`
+- Environment variable (Production and Preview): `LANG=C.UTF-8`. The build image has no UTF-8 locale, and without one Jekyll crashes on non-ASCII filenames
+- The Ruby version comes from `website/.ruby-version`
 
 ## Photo of the Day
 
