@@ -1,26 +1,24 @@
 ﻿# Personal-Website
 
-  
-
 Created a simple personal website.
-Inspired using by [Tweet](https://twitter.com/everestpipkin/status/1588636275942502400?s=20&t=ugmG3OLXRUIKGov6VA4zEQ).
+Inspired using by this [Tweet](https://twitter.com/everestpipkin/status/1588636275942502400?s=20&t=ugmG3OLXRUIKGov6VA4zEQ).
 
-- Developing using Github Codespaces
+- ~~Developing using GitHub Codespaces~~
 - Deploying the website using Cloudflare Pages
-- Using [The Baked Data pattern](https://simonwillison.net/2021/Jul/28/baked-data/)
+- Using [The Baked Data pattern](https://simonwillison.net/2021/Jul/28/baked-data/) *Maybe I should stop doing this*
 
-Everything required to build site should be in this repo
+Everything required to build the site should be in this repo
 
-No db. Manually editing files. Deploying the website using Cloudflare Pages.
+No DB. Manually editing files. Deploying the website using Cloudflare Pages.
 
 ### TODO:
 
 1. Think about how to archive articles. WIP - [PrivateLibrary](https://github.com/RamVasuthevan/PrivateLibrary)
-2. Make pretty
-3. Start vendoring dependencies 
+2. Make it pretty
+3. ~~Start vendoring dependencies~~
 
 
-### CloudFlare Pages Settings
+### Cloudflare Pages Settings
 
 - Build system version: 3
 - Build command: `bundle exec jekyll build`
