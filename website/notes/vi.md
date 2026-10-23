@@ -7,13 +7,13 @@ title: vi
 
 #### Normal mode
 
-`G` : Go to bottom of the page
+`G` : Go to the bottom of the page
 
 `$` : Go to the end of the line
 
 `0` : Go to the start of the line
 
-`^` : Go to first not blank character of the line
+`^` : Go to the first non-blank character of the line
 
 `i` : Enter **insert mode**, where you can start typing text
 
@@ -24,6 +24,10 @@ title: vi
 `dd` : Delete line
 
 `dG` : Delete from the current line to the end of file
+
+`o`: Open a new line below the cursor and enter insert mode
+
+`O`:  Open a new line above the cursor and enter insert mode
 
 #### Command-line mode
 
@@ -52,7 +56,3 @@ Type `:` from normal mode to enter command-line mode, then the command.
 - **⌘V** to paste copied text
 - **⎋** to exit insert mode
 - **:wq ↩** to save and exit
-
-### Config
-
-- vim config is stored at `~/.vimrc`
