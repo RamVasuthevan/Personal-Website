@@ -43,14 +43,14 @@ Type `:` from normal mode to enter command-line mode, then the command.
 
 ### Keyboard Chains
 
-#### Select all, delete, paste, and save file: `ggVG d i ⌘V ⎋ :wq ↩`
+#### Select all, delete, paste, and save file: `ggVG d i ⌘V Esc :wq ↩`
 - **gg** to move the cursor to the beginning of the file
 - **V** to start linewise visual mode
 - **G** to move the cursor to the end of the file, selecting everything in between
 - **d** to delete the selected text
 - **i** to enter insert mode
 - **⌘V** to paste copied text
-- **⎋** to exit insert mode
+- **Esc** to exit insert mode
 - **:wq ↩** to save and exit
 
 ### Config
