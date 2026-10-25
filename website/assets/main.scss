@@ -69,3 +69,80 @@
   padding: 0 0.4em;
   white-space: nowrap;
 }
+
+// Python console examples, built by assets/repl.js and styled as a terminal.
+// A block is a <div class="repl"> holding a copy button and a <pre> of
+// .repl-input and .repl-output lines.
+$repl-background: #1d1f21;
+$repl-input-color: #fff;
+$repl-output-color: #b5bdc5;
+$repl-prompt-color: #7ee787;
+
+.repl {
+  @extend %vertical-rhythm;
+  position: relative;
+  border-radius: 3px;
+  background-color: $repl-background;
+  color: $repl-output-color;
+
+  pre,
+  code {
+    margin: 0;
+    border: 0;
+    background: none;
+  }
+
+  // The field readers type in: plain terminal text filling the rest of the line
+  input {
+    all: unset;
+    display: inline-block;
+    width: calc(100% - 5ch);
+  }
+}
+
+.repl-input,
+.repl-output {
+  display: block;
+}
+
+.repl-input {
+  color: $repl-input-color;
+
+  &::before {
+    content: ">>> ";
+    color: $repl-prompt-color;
+    user-select: none;
+  }
+}
+
+// A later line of a statement that spans several lines
+.repl-continued::before {
+  content: "... ";
+}
+
+// The last line of a block that is not live: a cursor, or a note while Python loads
+.repl-waiting::after {
+  content: "\2588";
+}
+
+.repl-loading .repl-waiting::after {
+  content: "loading Python\2026";
+  color: $repl-output-color;
+}
+
+.repl-copy {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: flex;
+  padding: 4px;
+  border: 0;
+  border-radius: 3px;
+  background-color: $repl-background;
+  color: $repl-output-color;
+  cursor: pointer;
+
+  &:hover {
+    color: $repl-input-color;
+  }
+}
