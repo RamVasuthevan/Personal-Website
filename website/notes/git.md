@@ -16,7 +16,7 @@ title: git
     - Resets the current branch to the previous commit, keeping the changes in the staging area
 
 5. `git fetch --prune`
-    - Fetches from remote and removes any branches that have been deleted on the remote
+    - Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote
 
 6. `git diff main..HEAD`
     - See diff for changes on your branch but not on main (one way)
@@ -34,3 +34,6 @@ title: git
 9. `git add --intent-to-add .` (or `git add -N .`)
     - Marks untracked files as known to git without staging
     - By default, untracked files don't show up in `git diff`
+
+10. `git log @{u}..HEAD --oneline`
+    - Lists unpushed commits: commits on the current branch that aren't on its upstream (`@{u}`)
