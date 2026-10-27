@@ -16,8 +16,7 @@ title: git
     - Resets the current branch to the previous commit, keeping the changes in the staging area
 
 5. `git fetch --prune`
-    - Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote — local branches are never touched
-    - Prune without fetching: `git remote prune origin`
+    - Fetches from remote and removes stale remote-tracking refs (`origin/*` bookmarks) for branches deleted on the remote
 
 6. `git diff main..HEAD`
     - See diff for changes on your branch but not on main (one way)
@@ -38,5 +37,3 @@ title: git
 
 10. `git log @{u}..HEAD --oneline`
     - Lists unpushed commits: commits on the current branch that aren't on its upstream (`@{u}`)
-    - Branch-agnostic — works on any branch without hardcoding `main`
-    - Alternative: `git cherry -v` also detects patch-equivalent commits (`+` = unpushed, `-` = already upstream in some form)
