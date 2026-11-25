@@ -1,5 +1,5 @@
 import os
-import fitz  # PyMuPDF
+import pymupdf  # PyMuPDF
 import re
 import yaml
 from collections import OrderedDict
@@ -41,7 +41,7 @@ def extract(file_path):
     if file_path.endswith(".pdf"):
         try:
             # Open the PDF file
-            with fitz.open(file_path) as pdf_file:
+            with pymupdf.open(file_path) as pdf_file:
                 # Loop through each page and extract text
                 for page_num in range(len(pdf_file)):
                     page = pdf_file[page_num]
