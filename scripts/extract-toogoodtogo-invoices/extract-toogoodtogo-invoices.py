@@ -72,6 +72,22 @@ def seller_block_index(lines):
     return len(lines) - 1 - lines[::-1].index("Seller")
 
 
+def unwrap_lines(lines):
+    unwrapped = []
+    for line in lines:
+        item_row = re.match(r"^(\d+) (\$\S+ \([A-Z]{3}\)) (\$\S+ \([A-Z]{3}\))$", line)
+        if item_row:
+            unwrapped.extend(item_row.groups())
+        elif unwrapped and (
+            re.match(r"^\([A-Z]{3}\)$", line)
+            or unwrapped[-1] == "This invoice has been paid with:"
+        ):
+            unwrapped[-1] = f"{unwrapped[-1]} {line}"
+        else:
+            unwrapped.append(line)
+    return unwrapped
+
+
 def get_invoice_name(file_path, lines):
     invoice_name = os.path.splitext(os.path.basename(file_path))[0]
 
@@ -235,11 +251,16 @@ def get_items(file_path, lines):
     while lines[item_idx] in TABLE_HEADINGS:
         item_idx += 1
 
+    description = []
+    while not lines[item_idx].isdigit():
+        description.append(lines[item_idx])
+        item_idx += 1
+
     item = {}
-    item["description"] = lines[item_idx]
-    item["quantity"] = lines[item_idx + 1]
-    item["price"] = lines[item_idx + 2]
-    total_line = lines[item_idx + 3]
+    item["description"] = " ".join(description)
+    item["quantity"] = lines[item_idx]
+    item["price"] = lines[item_idx + 1]
+    total_line = lines[item_idx + 2]
 
     assert re.match(
         r"\$\d+\.\d{2} \([A-Z]{3}\)", total_line
@@ -255,7 +276,7 @@ def get_items(file_path, lines):
 
 
 def transform(file_path, text):
-    lines = text.split("\n")
+    lines = unwrap_lines(text.split("\n"))
 
     details = {}
     details["invoice_name"] = get_invoice_name(file_path, text)
