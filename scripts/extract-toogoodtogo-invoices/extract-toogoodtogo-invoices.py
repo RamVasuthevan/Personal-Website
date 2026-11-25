@@ -57,6 +57,21 @@ def extract(file_path):
     return extracted_text
 
 
+TABLE_HEADINGS = {"Description", "Quantity", "Price", "Total"}
+
+
+def line_starting_with(lines, prefix):
+    matches = [line for line in lines if line.startswith(prefix)]
+    assert (
+        len(matches) == 1
+    ), f"Expected one line starting with {prefix!r}, got {matches}"
+    return matches[0][len(prefix) :]
+
+
+def seller_block_index(lines):
+    return len(lines) - 1 - lines[::-1].index("Seller")
+
+
 def get_invoice_name(file_path, lines):
     invoice_name = os.path.splitext(os.path.basename(file_path))[0]
 
@@ -67,7 +82,7 @@ def get_invoice_name(file_path, lines):
 
 
 def get_date(file_path, lines):
-    date_str = lines[2][5:]
+    date_str = line_starting_with(lines, "Date ")
 
     if "/" in date_str:
         month, day, year = date_str.split("/")
@@ -76,23 +91,25 @@ def get_date(file_path, lines):
 
     assert re.match(
         r"^\d{4}-\d{2}-\d{2}$", date_str
-    ), f"Invalid date {date_str} extracted from {lines[2]}"
+    ), f"Invalid date {date_str} extracted from {file_path}"
     return date_str
 
 
 def get_invoice_number(file_path, lines):
-    invoice_number = lines[3][12:]
+    invoice_number = line_starting_with(lines, "Invoice No. ")
 
     assert re.match(
         r"^TGTG_\d+-\d+$", invoice_number
-    ), f"Invalid invoice name {invoice_number} extracted from {lines[4]}"
+    ), f"Invalid invoice name {invoice_number} extracted from {file_path}"
     return invoice_number
 
 
 def get_order_id(file_path, lines):
-    order_id = lines[4][9:]
+    order_id = line_starting_with(lines, "Order ID ")
 
-    assert len(order_id) == 11, f"Invalid order id {order_id} extracted from {lines[4]}"
+    assert re.match(
+        r"^[a-z0-9]{11,13}$", order_id
+    ), f"Invalid order id {order_id} extracted from {file_path}"
     return order_id
 
 
@@ -114,14 +131,14 @@ def get_payment_method(file_path, lines):
 
 
 def get_seller_name(file_path, lines):
-    seller_name_idx = lines.index("Seller")
-    seller_name = lines[seller_name_idx + 3]
+    seller_name_idx = seller_block_index(lines)
+    seller_name = lines[seller_name_idx + 2]
 
     return seller_name
 
 
 def get_hst_number(file_path, lines):
-    hst_number_idx = lines.index("Seller") + 5
+    hst_number_idx = seller_block_index(lines) + 4
 
     if len(lines[hst_number_idx]) == 5:
         # hst_number_idx is a Zip Code and invoice is from the US
@@ -143,23 +160,23 @@ def get_hst_number(file_path, lines):
 
 
 def get_store_name(file_path, lines):
-    store_name_idx = lines.index("Seller")
-    store_name = lines[store_name_idx + 2]
+    store_name_idx = seller_block_index(lines)
+    store_name = lines[store_name_idx + 1]
 
     return store_name
 
 
 def get_store_address(file_path, lines):
-    store_address_idx = lines.index("Seller")
+    store_address_idx = seller_block_index(lines)
 
     hst_number = bool(
         get_hst_number(file_path, lines) is not None
-        or lines[store_address_idx + 5].startswith("HST:")
+        or lines[store_address_idx + 4].startswith("HST:")
     )
 
-    store_address_line_1 = lines[store_address_idx + 4]
-    store_address_line_2 = lines[store_address_idx + 5 + int(hst_number)]
-    store_address_line_3 = lines[store_address_idx + 6 + int(hst_number)]
+    store_address_line_1 = lines[store_address_idx + 3]
+    store_address_line_2 = lines[store_address_idx + 4 + int(hst_number)]
+    store_address_line_3 = lines[store_address_idx + 5 + int(hst_number)]
 
     store_address = [store_address_line_1, store_address_line_2, store_address_line_3]
     return store_address
@@ -192,10 +209,10 @@ def get_hst_amount(file_path, lines):
 def get_total(file_path, lines):
     total = {}
 
-    total_idxs = [idx for idx, line in enumerate(lines) if line.startswith("Total")]
+    total_idxs = [idx for idx, line in enumerate(lines) if line == "Total"]
 
     assert (
-        len(total_idxs) == 3
+        len(total_idxs) >= 2
     ), f"Invalid number of total lines {len(total_idxs)} extracted from {lines}"
 
     total_line = lines[total_idxs[-1] + 1]
@@ -214,13 +231,15 @@ def get_items(file_path, lines):
     # Assuming one item on invoice
     items = []
 
-    item_idx = lines.index("Description") + 7
+    item_idx = lines.index("Description")
+    while lines[item_idx] in TABLE_HEADINGS:
+        item_idx += 1
 
     item = {}
-    item["description"] = lines[item_idx + 1]
-    item["quantity"] = lines[item_idx + 2]
-    item["price"] = lines[item_idx + 3]
-    total_line = lines[item_idx + 4]
+    item["description"] = lines[item_idx]
+    item["quantity"] = lines[item_idx + 1]
+    item["price"] = lines[item_idx + 2]
+    total_line = lines[item_idx + 3]
 
     assert re.match(
         r"\$\d+\.\d{2} \([A-Z]{3}\)", total_line
