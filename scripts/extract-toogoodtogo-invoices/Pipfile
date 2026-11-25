@@ -11,4 +11,4 @@ pyyaml = "6.0.3"
 black = "26.10.1"
 
 [requires]
-python_version = "3.12"
+python_version = "3.15"
